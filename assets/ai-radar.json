@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T19:37:33.216Z",
+  "updatedAt": "2026-07-02T21:13:28.408Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 887"
+      "meta": "Stars 889"
     },
     {
       "source": "Hacker News",
-      "title": "Microsoft commits $2.5B and 6k employees to new AI implementation unit",
+      "title": "The Ramanujan Challenge for AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-      "meta": "2 points"
+      "url": "https://www.ramanujanmachine.com/ramanujan-challenge/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
