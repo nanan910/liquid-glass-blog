@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T13:18:48.530Z",
+  "updatedAt": "2026-07-02T15:42:10.559Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 851"
+      "meta": "Stars 871"
     },
     {
       "source": "Hacker News",
-      "title": "In the age of algorithms and AI, is traditional media democracy's defence?",
+      "title": "AI Refactored a 3-Year Codebase in 20 Minutes–and Nearly Torched a Team",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/",
-      "meta": "2 points"
+      "url": "https://guibai.dev/a/7657392618506764326/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13425 likes"
+      "meta": "13426 likes"
     },
     {
       "source": "DEV",
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "summary": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "meta": "43 reactions"
+      "title": "AI Made Code Free. So Why Are the Giants Still Winning? (And where solo devs actually beat them)",
+      "summary": "Four big 2025 developer surveys, one honest read: AI is an amplifier, not an equalizer. Here's what that means for solo founders vs. giants — with the numbers.",
+      "url": "https://dev.to/krlz/ai-made-code-free-so-why-are-the-giants-still-winning-and-where-solo-devs-actually-beat-them-5h27",
+      "meta": "9 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.0万 粉 John @ johnAGI168 · 7小时前 发布 使用 Gemini 复刻，效果也还行哈！ https://t.co/rgoka4v4Ri",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.0万 粉 John @ johnAGI168 · 9小时前 发布 使用 Gemini 复刻，效果也还行哈！ https://t.co/rgoka4v4Ri",
       "url": "https://x.com/johnAGI168/status/2072564968159867079?sid=ai-tweet-reply",
       "meta": "热帖"
     }
