@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T11:09:30.093Z",
+  "updatedAt": "2026-07-02T13:18:48.530Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 828"
+      "meta": "Stars 851"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: What is the benefit of integrating AI into wearable Healthcare Apps?",
+      "title": "In the age of algorithms and AI, is traditional media democracy's defence?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://geekyants.com/blog/integrating-ai-with-wearable-healthcare-apps-architecture-compliance-roi",
-      "meta": "1 points"
+      "url": "https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
       "summary": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
       "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "meta": "39 reactions"
+      "meta": "43 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.0万 粉 John @ johnAGI168 · 4小时前 发布 使用 Gemini 复刻，效果也还行哈！ https://t.co/rgoka4v4Ri",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.0万 粉 John @ johnAGI168 · 7小时前 发布 使用 Gemini 复刻，效果也还行哈！ https://t.co/rgoka4v4Ri",
       "url": "https://x.com/johnAGI168/status/2072564968159867079?sid=ai-tweet-reply",
       "meta": "热帖"
     }
