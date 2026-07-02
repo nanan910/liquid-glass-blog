@@ -1,0 +1,7 @@
+screenshots/
+
+# 隐私书签明文（含审核用原始数据，切勿提交）
+bookmarks-private.plain.json
+隐私清单.md
+书签修复方案.md
+.privacy-pass

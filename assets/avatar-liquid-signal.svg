@@ -1,0 +1,135 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1080" y2="1120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07101E"/>
+      <stop offset="0.5" stop-color="#0B1630"/>
+      <stop offset="1" stop-color="#040711"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="260" y1="180" x2="930" y2="970" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#52F3FF"/>
+      <stop offset="0.32" stop-color="#8A70FF"/>
+      <stop offset="0.68" stop-color="#FF4ECD"/>
+      <stop offset="1" stop-color="#9CFF54"/>
+    </linearGradient>
+    <radialGradient id="coreGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(610 500) rotate(90) scale(500)">
+      <stop offset="0" stop-color="#DFFBFF" stop-opacity="0.95"/>
+      <stop offset="0.25" stop-color="#63F5FF" stop-opacity="0.9"/>
+      <stop offset="0.52" stop-color="#A05EFF" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#09101F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pinkGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(840 360) rotate(90) scale(300)">
+      <stop offset="0" stop-color="#FF84E2" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FF4ECD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(360 360) rotate(90) scale(320)">
+      <stop offset="0" stop-color="#8CFBFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#52F3FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="limeGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(620 900) rotate(90) scale(260)">
+      <stop offset="0" stop-color="#D7FFA5" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#9CFF54" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bust" x1="395" y1="340" x2="800" y2="970" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F7FDFF"/>
+      <stop offset="0.22" stop-color="#7DF7FF"/>
+      <stop offset="0.52" stop-color="#9677FF"/>
+      <stop offset="0.76" stop-color="#FF59D2"/>
+      <stop offset="1" stop-color="#1B243E"/>
+    </linearGradient>
+    <linearGradient id="visor" x1="430" y1="470" x2="775" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#DFFFFF"/>
+      <stop offset="0.4" stop-color="#76F6FF"/>
+      <stop offset="1" stop-color="#FF62DA"/>
+    </linearGradient>
+    <linearGradient id="gridStroke" x1="280" y1="230" x2="940" y2="980" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#52F3FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FF4ECD" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="blurStrong" x="-200" y="-200" width="1600" height="1600" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="54"/>
+    </filter>
+    <filter id="blurSoft" x="-100" y="-100" width="1400" height="1400" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <filter id="glass" x="250" y="160" width="700" height="860" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+      <feColorMatrix type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 20 -9"/>
+      <feComposite in2="SourceAlpha" operator="in"/>
+      <feSpecularLighting surfaceScale="5" specularConstant="0.8" specularExponent="28" lighting-color="#FFFFFF" result="specOut">
+        <fePointLight x="300" y="160" z="200"/>
+      </feSpecularLighting>
+      <feComposite in="specOut" in2="SourceAlpha" operator="in" result="specOut2"/>
+      <feBlend in="SourceGraphic" in2="specOut2" mode="screen"/>
+    </filter>
+    <clipPath id="clipFrame">
+      <circle cx="600" cy="600" r="470"/>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="1200" rx="300" fill="url(#bg)"/>
+  <g clip-path="url(#clipFrame)">
+    <rect x="0" y="0" width="1200" height="1200" fill="url(#coreGlow)" opacity="0.9"/>
+    <rect x="0" y="0" width="1200" height="1200" fill="url(#pinkGlow)" opacity="0.88">
+      <animate attributeName="opacity" values="0.72;0.98;0.72" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="0" width="1200" height="1200" fill="url(#cyanGlow)" opacity="0.95">
+      <animate attributeName="opacity" values="0.95;0.68;0.95" dur="6.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="0" width="1200" height="1200" fill="url(#limeGlow)" opacity="0.74">
+      <animate attributeName="opacity" values="0.5;0.82;0.5" dur="8.3s" repeatCount="indefinite"/>
+    </rect>
+    <g filter="url(#blurStrong)" opacity="0.85">
+      <circle cx="365" cy="355" r="132" fill="#52F3FF">
+        <animate attributeName="cx" values="365;390;365" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="355;330;355" dur="8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="840" cy="368" r="146" fill="#FF4ECD">
+        <animate attributeName="cx" values="840;810;840" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="368;392;368" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="618" cy="905" r="120" fill="#9CFF54">
+        <animate attributeName="cy" values="905;868;905" dur="7.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g opacity="0.62">
+      <circle cx="600" cy="600" r="430" stroke="url(#ring)" stroke-width="10"/>
+      <circle cx="600" cy="600" r="378" stroke="rgba(255,255,255,0.22)" stroke-width="1.5"/>
+      <circle cx="600" cy="600" r="292" stroke="rgba(255,255,255,0.18)" stroke-width="1.5"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 600 600" to="360 600 600" dur="26s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0.38">
+      <path d="M250 600H950" stroke="url(#gridStroke)" stroke-width="1"/>
+      <path d="M600 250V950" stroke="url(#gridStroke)" stroke-width="1"/>
+      <path d="M330 330L870 870" stroke="url(#gridStroke)" stroke-width="1"/>
+      <path d="M870 330L330 870" stroke="url(#gridStroke)" stroke-width="1"/>
+      <circle cx="600" cy="600" r="210" stroke="url(#gridStroke)" stroke-width="1.2"/>
+      <circle cx="600" cy="600" r="140" stroke="url(#gridStroke)" stroke-width="1.2"/>
+    </g>
+    <g filter="url(#glass)">
+      <path d="M598 318C507 318 435 391 435 481C435 546 470 596 530 629C463 660 408 737 408 829V874C408 890 421 902 436 902H764C780 902 792 890 792 874V829C792 737 737 660 670 629C730 596 765 546 765 481C765 391 689 318 598 318Z" fill="url(#bust)" fill-opacity="0.78"/>
+      <path d="M596 355C522 355 463 416 463 488C463 538 491 584 541 609C563 620 580 642 580 667V700H616V667C616 642 633 620 655 609C706 584 735 538 735 488C735 416 675 355 596 355Z" fill="#07111F" fill-opacity="0.2"/>
+      <path d="M444 792C472 742 522 714 600 714C678 714 729 742 756 792" stroke="rgba(255,255,255,0.26)" stroke-width="5" stroke-linecap="round"/>
+      <rect x="450" y="475" width="300" height="88" rx="44" fill="url(#visor)" fill-opacity="0.82"/>
+      <path d="M470 520H730" stroke="#E8FFFF" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+      <path d="M520 438C551 416 582 405 614 405C645 405 676 416 706 438" stroke="#E8FFFF" stroke-width="4" stroke-linecap="round" opacity="0.5"/>
+      <path d="M510 585C535 610 565 622 600 622C635 622 666 610 690 585" stroke="#E8FFFF" stroke-width="3.5" stroke-linecap="round" opacity="0.42"/>
+      <path d="M472 738C507 760 551 771 600 771C649 771 694 760 728 738" stroke="#76F6FF" stroke-width="3" stroke-linecap="round" opacity="0.45"/>
+    </g>
+    <g filter="url(#blurSoft)" opacity="0.7">
+      <path d="M476 500C522 478 678 476 724 500" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+      <path d="M474 788C523 814 677 813 726 788" stroke="#FF89E4" stroke-width="16" stroke-linecap="round"/>
+    </g>
+    <g opacity="0.85">
+      <path d="M300 944C472 846 726 842 899 942" stroke="url(#ring)" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+      <path d="M295 262C415 200 770 189 905 274" stroke="#52F3FF" stroke-width="4" stroke-linecap="round" opacity="0.22"/>
+    </g>
+    <g opacity="0.23">
+      <rect x="282" y="242" width="640" height="4" fill="#FFFFFF">
+        <animate attributeName="y" values="242;910;242" dur="5.4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="282" y="242" width="640" height="2" fill="#52F3FF">
+        <animate attributeName="y" values="880;310;880" dur="4.6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+  <circle cx="600" cy="600" r="468" stroke="rgba(255,255,255,0.2)" stroke-width="3"/>
+</svg>

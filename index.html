@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>南安 | Liquid Glass Blog</title>
+    <link rel="stylesheet" href="./styles.css?v=20260626x" />
+  </head>
+  <body>
+    <canvas id="aurora-canvas" aria-hidden="true"></canvas>
+    <div class="plasma-field" aria-hidden="true">
+      <span></span><span></span><span></span><span></span>
+    </div>
+    <div class="energy-grid" aria-hidden="true"></div>
+    <div class="cursor-light" aria-hidden="true"></div>
+
+    <header class="site-header glass-pill">
+      <a class="brand" href="#top" aria-label="&#x8fd4;&#x56de;&#x9876;&#x90e8;">
+        <span class="brand-mark"><img src="./assets/avatar-liquid-signal.svg" alt="" /></span>
+        <span>南安</span>
+      </a>
+      <nav class="nav-links nav-links-pills" aria-label="&#x4e3b;&#x5bfc;&#x822a;">
+        <a href="#profile">&#x4e3b;&#x9875;</a>
+        <a href="#ai-radar">AI 热点</a>
+        <a href="#writing">&#x6587;&#x7ae0;</a>
+        <a href="#projects">&#x9879;&#x76ee;</a>
+        <a href="#bookmarks">&#x4e66;&#x7b7e;</a>
+        <a href="#contact">&#x8054;&#x7cfb;</a>
+      </nav>
+      <nav class="mobile-quick-links" aria-label="快捷导航">
+        <a href="#bookmarks">书签</a>
+        <a href="#contact">留言</a>
+      </nav>
+      <button class="icon-button" id="theme-toggle" type="button" aria-label="&#x5207;&#x6362;&#x4e3b;&#x9898;" title="&#x5207;&#x6362;&#x4e3b;&#x9898;">O</button>
+    </header>
+
+    <main id="top">
+      <section class="hero" id="profile">
+        <aside class="identity-card liquid-card reveal" data-tilt>
+          <div class="avatar-stage">
+            <div class="avatar-orbit"></div>
+            <div class="avatar" aria-label="&#x4e2a;&#x4eba;&#x5934;&#x50cf;">
+              <img src="./assets/avatar-liquid-signal.svg" alt="nanan910 avatar" />
+            </div>
+          </div>
+          <h1>南安</h1>
+          <p class="hero-text">
+            这是南安的个人主页，也是一个持续整理 AI 工具、前端视觉、网页动效和实用资源的公开空间。
+          </p>
+          <div class="contact-grid" aria-label="&#x8054;&#x7cfb;&#x94fe;&#x63a5;">
+            <a href="https://github.com/nanan910" target="_blank" rel="noreferrer">GitHub / nanan910</a>
+            <a href="#bookmarks">&#x516c;&#x5f00;&#x4e66;&#x7b7e;</a>
+            <a href="#contact">&#x7ad9;&#x5185;&#x8054;&#x7cfb;</a>
+            <a href="#contact">&#x5408;&#x4f5c;&#x6c9f;&#x901a;</a>
+          </div>
+        </aside>
+
+        <div class="hero-side">
+          <div class="signature-panel liquid-card reveal">
+            <p class="eyebrow">Welcome</p>
+            <h2 class="welcome-title">欢迎来到南安的博客</h2>
+            <div class="daily-quote" aria-live="polite">
+              <p class="daily-quote-label">今日一句</p>
+              <p id="daily-quote-text" class="daily-quote-text" data-daily-quote>正在从网络摘取一句话...</p>
+              <p id="daily-quote-source" class="daily-quote-source"></p>
+            </div>
+          </div>
+          <div class="status-rail reveal">
+            <div><strong>AI</strong><span>工具流记录</span></div>
+            <div><strong>190</strong><span>公开书签</span></div>
+            <div><strong>Web</strong><span>视觉实验</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="fold-stack" aria-label="&#x6298;&#x53e0;&#x5185;&#x5bb9;&#x5bfc;&#x822a;">
+        <details class="fold-panel reveal" open>
+          <summary>
+            <span>01</span>
+            <strong>我在关注什么</strong>
+            <em>AI 工具流、前端动效、个人知识整理和资源收藏</em>
+          </summary>
+          <div class="fold-content focus-cloud">
+            <span>AI Native UX</span>
+            <span>Design System</span>
+            <span>Canvas Motion</span>
+            <span>Personal Knowledge</span>
+            <span>Spatial Interface</span>
+            <span>Liquid Glass</span>
+          </div>
+        </details>
+        <details class="fold-panel reveal">
+          <summary>
+            <span>02</span>
+            <strong>这个站能做什么</strong>
+            <em>个人介绍、项目入口、书签导航和隐私分类</em>
+          </summary>
+          <div class="fold-content service-grid">
+            <article><h3>了解我</h3><p>用最短路径展示个人方向、GitHub 入口、联系方式和正在维护的内容主题。</p></article>
+            <article><h3>找资源</h3><p>把 Raindrop 导出的公开书签按一级分类整理，适合快速查找 AI、开发、学习和实用工具。</p></article>
+            <article><h3>看过程</h3><p>记录这个博客如何从普通页面变成动态玻璃风格、抽屉书签和移动端体验优化项目。</p></article>
+          </div>
+        </details>
+        <details class="fold-panel reveal">
+          <summary>
+            <span>03</span>
+            <strong>接下来会补什么</strong>
+            <em>AI 笔记、项目日志、精选书签和个人知识库入口</em>
+          </summary>
+          <div class="fold-content timeline">
+            <p><b>Now</b> 继续优化首页结构、书签抽屉、隐私分类和移动端浏览体验。</p>
+            <p><b>Next</b> 增加 AI 工具使用笔记、网页改造日志、设计灵感清单和 GitHub 项目说明。</p>
+            <p><b>Open</b> 欢迎交流个人站、前端视觉、AI 工具流、公开资源整理和网页交互想法。</p>
+          </div>
+        </details>
+      </section>
+
+      <section class="section-head reveal ai-radar-head" id="ai-radar">
+        <p class="eyebrow">AI Radar</p>
+        <h2>实时 AI 热点抓取</h2>
+      </section>
+
+      <section class="ai-radar-panel liquid-card reveal" aria-label="AI 热点抓取面板">
+        <div class="ai-radar-toolbar">
+          <div>
+            <p class="ai-radar-kicker">GitHub / Hacker News / Hugging Face / DEV / 蓝点网 / NewsNow / TopHub / SoPilot</p>
+            <p id="ai-radar-status" class="ai-radar-status">正在抓取公开热点源...</p>
+          </div>
+          <button id="ai-radar-refresh" class="button" type="button">刷新</button>
+        </div>
+        <div id="ai-radar-grid" class="ai-radar-grid">
+          <article class="ai-hot-card is-loading">
+            <span>Live</span>
+            <h3>正在同步热点</h3>
+            <p>稍等片刻，雷达正在读取公开数据源。</p>
+          </article>
+        </div>
+        <div class="ai-source-strip" aria-label="观察源状态">
+          <span>GitHub 项目</span>
+          <span>Hacker News 资讯</span>
+          <span>Hugging Face 趋势</span>
+          <span>DEV AI 文章</span>
+          <span>蓝点网 AI 资讯</span>
+          <span>NewsNow AIHOT</span>
+          <span>TopHub 科技榜</span>
+          <span>SoPilot X 热帖</span>
+        </div>
+      </section>
+
+      <section class="section-head reveal" id="writing">
+        <p class="eyebrow">Writing</p>
+        <h2>先放轻量笔记，后续再扩展成长文。</h2>
+      </section>
+
+      <section class="writing-console liquid-card reveal">
+        <div class="console-tools">
+          <input id="post-search" type="search" placeholder="&#x641c;&#x7d22; AI&#12289;&#x8bbe;&#x8ba1;&#12289;&#x4ee3;&#x7801;&#12289;&#x751f;&#x6d3b;..." aria-label="&#x641c;&#x7d22;&#x6587;&#x7ae0;" />
+          <div class="tag-row" aria-label="&#x6587;&#x7ae0;&#x5206;&#x7c7b;">
+            <button class="tag is-active" data-filter="all">&#x5168;&#x90e8;</button>
+            <button class="tag" data-filter="design">&#x8bbe;&#x8ba1;</button>
+            <button class="tag" data-filter="code">&#x4ee3;&#x7801;</button>
+            <button class="tag" data-filter="life">&#x751f;&#x6d3b;</button>
+          </div>
+        </div>
+        <div class="post-accordion">
+          <details class="post-row" data-category="design" data-title="&#x6db2;&#x6001;&#x73bb;&#x7483;&#x754c;&#x9762;&#x5c42;&#x6b21;" open>
+            <summary><span>Design</span><strong>这个博客的视觉改造记录</strong><em>12 min</em></summary>
+            <p>记录背景动效、液态玻璃卡片、抽屉展开和移动端降级策略，方便以后继续复用这套页面风格。</p>
+          </details>
+          <details class="post-row" data-category="code" data-title="&#x4f1a;&#x547c;&#x5438;&#x7684;&#x80cc;&#x666f;">
+            <summary><span>Code</span><strong>AI 帮我搭页面的流程</strong><em>9 min</em></summary>
+            <p>把需求拆成视觉、内容、部署和移动端优化几步，逐步让 AI 参与实现、检查、修复和上线。</p>
+          </details>
+          <details class="post-row" data-category="life" data-title="&#x5468;&#x672b;&#x7075;&#x611f;&#x91c7;&#x96c6;">
+            <summary><span>Life</span><strong>我的资源整理方式</strong><em>5 min</em></summary>
+            <p>先全部收集，再按用途归类；公开适合分享的部分，敏感或不适合展示的链接放到隐私分类。</p>
+          </details>
+          <details class="post-row" data-category="design" data-title="&#x8bbe;&#x8ba1;&#x539f;&#x5219;">
+            <summary><span>Design</span><strong>精选书签怎么判断价值</strong><em>7 min</em></summary>
+            <p>一个链接要么能解决具体问题，要么能提供灵感，要么能长期复用；否则就先归档，后续再清理。</p>
+          </details>
+        </div>
+      </section>
+
+      <section class="section-head reveal" id="projects">
+        <p class="eyebrow">Projects</p>
+        <h2>目前最值得展示的三个方向。</h2>
+      </section>
+
+      <section class="project-dock reveal">
+        <details class="project-chip liquid-card" open>
+          <summary><span>01</span><strong>Liquid Glass Blog</strong><em>Live</em></summary>
+          <p>当前正在上线维护的个人主页，包含动态背景、头像、联系入口、公开书签抽屉和隐私分类验证。</p>
+        </details>
+        <details class="project-chip liquid-card">
+          <summary><span>02</span><strong>Raindrop 公开书签库</strong><em>Building</em></summary>
+          <p>把个人收藏的网页按 AI、开发、学习、影音、云盘、工具等方向分类，做成可以浏览和继续扩展的资源页。</p>
+        </details>
+        <details class="project-chip liquid-card">
+          <summary><span>03</span><strong>AI 工具流笔记</strong><em>Open</em></summary>
+          <p>记录如何用 AI 做网页、整理资料、生成内容和优化交互，把有效流程沉淀成可复用的个人方法。</p>
+        </details>
+      </section>
+
+      <section class="section-head reveal" id="bookmarks">
+        <p class="eyebrow">Bookmarks / 公开书签</p>
+      </section>
+
+      <section class="bookmarks-home liquid-card reveal">
+        <div class="bookmarks-home-head">
+          <div>
+            <p class="eyebrow">Raindrop Library</p>
+          </div>
+          <div class="bookmarks-home-stats" aria-label="&#x4e66;&#x7b7e;&#x7edf;&#x8ba1;">
+            <div class="glass-pill">
+              <strong id="bookmark-total">0</strong>
+              <span>&#x603b;&#x6570;</span>
+            </div>
+            <div class="glass-pill">
+              <strong id="bookmark-groups">0</strong>
+              <span>&#x5206;&#x7c7b;</span>
+            </div>
+          </div>
+        </div>
+        <div id="bookmark-drawers" class="bookmark-drawers"></div>
+      </section>
+
+      <section class="lab-wall reveal">
+        <div>
+          <p class="eyebrow">Lab</p>
+          <h2>后续内容路线</h2>
+        </div>
+        <div class="mini-lab">
+          <span style="--c:#52f3ff"></span>
+          <span style="--c:#ff4ecd"></span>
+          <span style="--c:#9cff54"></span>
+          <span style="--c:#ffe76a"></span>
+        </div>
+        <p>关于我 / AI 工具笔记 / 网页改造日志 / 精选书签 / GitHub 项目 / 设计灵感</p>
+      </section>
+
+      <section class="contact-panel message-board liquid-card reveal" id="contact">
+        <div class="message-board-head">
+          <p class="eyebrow">Direct Mail</p>
+          <h2>写给南安</h2>
+          <p class="contact-copy">把想交流的主题、资源线索或页面建议直接发到邮箱。这个区域参考作品集、SaaS 落地页和高级 CTA 区块的设计方式，保留一个明确行动。</p>
+          <div class="message-links contact-tags" aria-label="联系主题">
+            <span>AI 工具</span>
+            <span>网页设计</span>
+            <span>资源整理</span>
+            <span>前端视觉</span>
+          </div>
+        </div>
+        <div class="message-board-body">
+          <div class="mail-card">
+            <p class="eyebrow">To</p>
+            <button class="mail-reveal" id="mail-reveal" type="button" data-mail-user="3245276254" data-mail-domain="qq.com">点击打开邮件联系</button>
+          </div>
+          <form id="message-form" class="message-form" data-mail-user="3245276254" data-mail-domain="qq.com">
+            <div class="message-fields">
+              <input name="name" type="text" maxlength="18" placeholder="昵称" aria-label="昵称" />
+              <input name="email" type="email" placeholder="邮箱，可不填" aria-label="邮箱" />
+            </div>
+            <input name="subject" type="text" maxlength="40" placeholder="想聊的主题" aria-label="想聊的主题" />
+            <textarea name="message" maxlength="420" placeholder="写下想说的话，点击按钮会打开邮箱应用..." aria-label="邮件内容" required></textarea>
+            <button class="button primary" type="submit">打开邮箱发送</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>南安 / Liquid Notes 2026</span>
+      <a href="#top">Back to top</a>
+    </footer>
+
+    <script src="./assets/bookmarks-data.js?v=20260702a"></script>
+    <script src="./assets/private-bookmarks.js?v=20260702a"></script>
+    <script src="./app.js?v=20260702a"></script>
+  </body>
+</html>

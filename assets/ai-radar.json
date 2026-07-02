@@ -1,0 +1,52 @@
+{
+  "updatedAt": "2026-07-02T11:09:30.093Z",
+  "sourceCount": 6,
+  "items": [
+    {
+      "source": "GitHub",
+      "title": "Kulaxyz/self-learning-skills",
+      "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+      "url": "https://github.com/Kulaxyz/self-learning-skills",
+      "meta": "Stars 828"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: What is the benefit of integrating AI into wearable Healthcare Apps?",
+      "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
+      "url": "https://geekyants.com/blog/integrating-ai-with-wearable-healthcare-apps-architecture-compliance-roi",
+      "meta": "1 points"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "deepseek-ai/DeepSeek-R1",
+      "summary": "text-generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "meta": "13425 likes"
+    },
+    {
+      "source": "DEV",
+      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+      "summary": "I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...",
+      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
+      "meta": "39 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude订阅用户完成额度重置：可以在7月7日前在订阅内使用Fable 5(最高50%)",
+      "summary": "<p>为庆祝 Claude Fable 5 模型重新上线，A 社已经为 Claude Pro/Max 订阅用户重置当周额度，现在开发者可以直接切换到 Fable 5 模型进行体验，当然目前的情...",
+      "url": "https://www.landian.news/archives/113748.html",
+      "meta": "02 Jul 2026"
+    },
+    {
+      "source": "SoPilot",
+      "title": "热门 AI 讨论",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.0万 粉 John @ johnAGI168 · 4小时前 发布 使用 Gemini 复刻，效果也还行哈！ https://t.co/rgoka4v4Ri",
+      "url": "https://x.com/johnAGI168/status/2072564968159867079?sid=ai-tweet-reply",
+      "meta": "热帖"
+    }
+  ],
+  "errors": [
+    "NewsNow has no AI result",
+    "https://tophub.today/c/tech returned 403"
+  ]
+}

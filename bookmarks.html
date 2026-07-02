@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>南安 | Public Bookmarks</title>
+    <link rel="stylesheet" href="./styles.css?v=20260626s" />
+  </head>
+  <body class="bookmarks-page">
+    <canvas id="aurora-canvas" aria-hidden="true"></canvas>
+    <div class="plasma-field" aria-hidden="true">
+      <span></span><span></span><span></span><span></span>
+    </div>
+    <div class="energy-grid" aria-hidden="true"></div>
+    <div class="cursor-light" aria-hidden="true"></div>
+
+    <header class="site-header glass-pill">
+      <a class="brand" href="./index.html" aria-label="&#x8fd4;&#x56de;&#x9996;&#x9875;">
+        <span class="brand-mark"><img src="./assets/avatar-liquid-signal.svg" alt="" /></span>
+        <span>南安</span>
+      </a>
+      <nav class="nav-links" aria-label="&#x4e3b;&#x5bfc;&#x822a;">
+        <a href="./index.html">&#x9996;&#x9875;</a>
+        <a href="./bookmarks.html">&#x4e66;&#x7b7e;&#x9875;</a>
+        <a href="https://github.com/nanan910" target="_blank" rel="noreferrer">GitHub</a>
+      </nav>
+      <button class="icon-button" id="theme-toggle" type="button" aria-hidden="true" hidden>O</button>
+    </header>
+
+    <main class="bookmarks-shell">
+      <section class="bookmarks-hero liquid-card reveal">
+        <p class="eyebrow">Raindrop Export</p>
+        <h1>Bookmarks</h1>
+        <p class="bookmarks-intro">
+          &#x8fd9;&#x91cc;&#x4fdd;&#x7559;&#x4e3a;&#x4e66;&#x7b7e;&#x5907;&#x4efd;&#x9875;&#65292;&#x4e3b;&#x8981;&#x5c55;&#x793a;&#x5df2;&#x56de;&#x5230;&#x9996;&#x9875;&#x62bd;&#x5c49;&#x533a;&#30340;&#x516c;&#x5f00;&#x4e66;&#x7b7e;&#12290;
+        </p>
+        <div class="bookmarks-stats" aria-label="&#x4e66;&#x7b7e;&#x7edf;&#x8ba1;">
+          <div class="glass-pill">
+            <strong id="bookmark-total">0</strong>
+            <span>&#x603b;&#x94fe;&#x63a5;</span>
+          </div>
+          <div class="glass-pill">
+            <strong id="bookmark-sites">0</strong>
+            <span>&#x6765;&#x6e90;&#x7ad9;&#x70b9;</span>
+          </div>
+          <div class="glass-pill">
+            <strong id="bookmark-favorites">0</strong>
+            <span>&#x5df2;&#x6807;&#x661f;</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="bookmarks-tools liquid-card reveal" aria-label="&#x4e66;&#x7b7e;&#x7b5b;&#x9009;&#x63a7;&#x4ef6;">
+        <div class="bookmarks-search">
+          <label class="eyebrow" for="bookmark-search">&#x641c;&#x7d22;</label>
+          <input
+            id="bookmark-search"
+            type="search"
+            placeholder="&#x641c;&#x7d22;&#x6807;&#x9898;&#12289;&#64598;&#x8981;&#12289;&#x94fe;&#x63a5;&#25110;&#x7ad9;&#x70b9;"
+            aria-label="&#x641c;&#x7d22;&#x4e66;&#x7b7e;"
+          />
+        </div>
+        <div class="bookmarks-filter-head">
+          <p class="eyebrow">&#x6765;&#x6e90;&#x7b5b;&#x9009;</p>
+          <p id="bookmark-count" class="bookmarks-count">&#x5171; 0 &#x6761;</p>
+        </div>
+        <div id="bookmark-tags" class="tag-row bookmarks-tags" aria-label="&#x4e66;&#x7b7e;&#x6765;&#x6e90;&#x7b5b;&#x9009;"></div>
+      </section>
+
+      <section id="privacy-gate" class="privacy-gate liquid-card reveal" aria-label="&#x9690;&#x79c1;&#x4e66;&#x7b7e;&#x89e3;&#x9501;">
+        <div>
+          <p class="eyebrow">&#x9690;&#x79c1;&#x5206;&#x7c7b;</p>
+          <h2>&#x9700;&#x8981;&#x5bc6;&#x7801;&#x624d;&#x80fd;&#x67e5;&#x770b;</h2>
+          <p id="privacy-status">&#x5df2;&#x9690;&#x85cf;&#x53ef;&#x80fd;&#x4e0d;&#x9002;&#x5408;&#x516c;&#x5f00;&#x5c55;&#x793a;&#x7684;&#x94fe;&#x63a5;</p>
+        </div>
+        <div class="privacy-form">
+          <input id="privacy-password" type="password" autocomplete="current-password" placeholder="&#x8f93;&#x5165;&#x8bbf;&#x95ee;&#x5bc6;&#x7801;" />
+          <button id="privacy-submit" class="button" type="button">&#x89e3;&#x9501;</button>
+          <button id="privacy-lock-toggle" class="button" type="button" hidden>&#x91cd;&#x65b0;&#x4e0a;&#x9501;</button>
+        </div>
+      </section>
+
+      <section class="bookmarks-results reveal" aria-label="&#x4e66;&#x7b7e;&#x5217;&#x8868;">
+        <div id="bookmark-grid" class="bookmark-grid"></div>
+        <div id="bookmark-empty" class="bookmark-empty liquid-card" hidden>
+          <p class="eyebrow">No Match</p>
+          <h2>&#x6ca1;&#x6709;&#x627e;&#x5230;&#x5339;&#x914d;&#x7684;&#x4e66;&#x7b7e;</h2>
+          <p>&#x53ef;&#x4ee5;&#x6362;&#x4e00;&#x4e2a;&#x5173;&#x952e;&#x8bcd;&#65292;&#x6216;&#x8005;&#x5207;&#x56de;&#x5168;&#x90e8;&#x6765;&#x6e90;&#x518d;&#x770b;&#x4e00;&#x904d;&#12290;</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>南安 / Public Bookmarks</span>
+      <a href="./index.html">&#x8fd4;&#x56de;&#x9996;&#x9875;</a>
+    </footer>
+
+    <script src="./assets/bookmarks-data.js?v=20260702a"></script>
+    <script src="./assets/private-bookmarks.js?v=20260702a"></script>
+    <script src="./bookmarks.js?v=20260702a"></script>
+  </body>
+</html>
