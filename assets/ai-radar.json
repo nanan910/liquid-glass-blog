@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T15:42:10.559Z",
+  "updatedAt": "2026-07-02T17:53:45.775Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 871"
+      "meta": "Stars 877"
     },
     {
       "source": "Hacker News",
-      "title": "AI Refactored a 3-Year Codebase in 20 Minutes–and Nearly Torched a Team",
+      "title": "Scientists propose launching giant 'airbag' into space to protect Earth",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://guibai.dev/a/7657392618506764326/",
+      "url": "https://www.dailymail.com/sciencetech/article-15947451/giant-airbag-space-Earth-solar-superstorms.html",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.0万 粉 John @ johnAGI168 · 9小时前 发布 使用 Gemini 复刻，效果也还行哈！ https://t.co/rgoka4v4Ri",
-      "url": "https://x.com/johnAGI168/status/2072564968159867079?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
