@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T21:13:28.408Z",
+  "updatedAt": "2026-07-02T22:37:53.777Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 889"
+      "meta": "Stars 893"
     },
     {
       "source": "Hacker News",
-      "title": "The Ramanujan Challenge for AI",
+      "title": "Show HN: Mirrors – test AI agent changes by replaying real production traces",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.ramanujanmachine.com/ramanujan-challenge/",
-      "meta": "1 points"
+      "url": "https://www.runmirrors.com/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
