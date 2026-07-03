@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T18:15:45.354Z",
+  "updatedAt": "2026-07-03T19:58:17.656Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 776"
+      "meta": "Stars 784"
     },
     {
       "source": "Hacker News",
-      "title": "Aerosmena hybrid thermal airships (2022) [pdf]",
+      "title": "Show HN: An AI-friendly CLI for public space data",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://lynceans.org/wp-content/uploads/2021/04/Aerosmena_hybrid-thermal-airships-converted.pdf",
+      "url": "https://www.npmjs.com/package/spacedata",
       "meta": "1 points"
     },
     {
