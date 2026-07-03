@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T00:10:51.870Z",
+  "updatedAt": "2026-07-03T04:26:37.093Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,41 +7,41 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 895"
+      "meta": "Stars 902"
     },
     {
       "source": "Hacker News",
-      "title": "Startup sues Palo Alto Networks' Koi Security due to AI-hallucinated report",
+      "title": "How to avoid AI in as many places as possible",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
-      "meta": "2 points"
+      "url": "https://www.fastcompany.com/91566861/how-to-avoid-ai-in-as-many-places-as-possible",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13427 likes"
+      "meta": "13428 likes"
     },
     {
       "source": "DEV",
-      "title": "AI Made Code Free. So Why Are the Giants Still Winning? (And where solo devs actually beat them)",
-      "summary": "Four big 2025 developer surveys, one honest read: AI is an amplifier, not an equalizer. Here's what that means for solo founders vs. giants — with the numbers.",
-      "url": "https://dev.to/krlz/ai-made-code-free-so-why-are-the-giants-still-winning-and-where-solo-devs-actually-beat-them-5h27",
-      "meta": "9 reactions"
+      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
+      "summary": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
+      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
+      "meta": "44 reactions"
     },
     {
       "source": "蓝点网",
-      "title": "Claude订阅用户完成额度重置：可以在7月7日前在订阅内使用Fable 5(最高50%)",
-      "summary": "<p>为庆祝 Claude Fable 5 模型重新上线，A 社已经为 Claude Pro/Max 订阅用户重置当周额度，现在开发者可以直接切换到 Fable 5 模型进行体验，当然目前的情...",
-      "url": "https://www.landian.news/archives/113748.html",
-      "meta": "02 Jul 2026"
+      "title": "Claude Code产品经理称在容量允许的情况下 会尽快将Fable 5恢复到订阅配额中无需单独付费",
+      "summary": "<p>在 Claude Fable 5 恢复上线后，A 社为所有付费订阅用户重置当周配额以便开发者能够重新体验该模型，只不过体验期仅限 7 月 7 日前，之后 Fable 5 将需要单独购买积...",
+      "url": "https://www.landian.news/archives/113760.html",
+      "meta": "03 Jul 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.7万 粉 ⧫ Alan Chen ⧫(alanchentsla.eth） @ alanchen · 3小时前 发布 特斯拉给工程师的 AI 账单,装了电表。 Th",
-      "url": "https://x.com/alanchen/status/2072782779008651571?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 16.0万 粉 Baye @ waylybaye · 1小时前 发布 在我的日常使用中，Fable 5 的 PR 一次性通过率大概是 80%，Opus 60%，GPT",
+      "url": "https://x.com/waylybaye/status/2072871384091676909?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
