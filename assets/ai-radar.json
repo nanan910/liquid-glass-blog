@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T07:47:13.865Z",
+  "updatedAt": "2026-07-03T10:41:31.245Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 929"
+      "meta": "Stars 962"
     },
     {
       "source": "Hacker News",
-      "title": "Camox: The framework for agent-driven websites",
+      "title": "\"We can't ask AI, it lies\" vs. \"Here is my superpower prompt\"",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/camox-ai/camox",
+      "url": "https://alanbuxton.wordpress.com/2026/07/03/we-cant-ask-ai-it-lies-vs-here-is-my-superpower-prompt/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13429 likes"
+      "meta": "13432 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.9万 粉 qinbafrank @ qinbafrank · 3小时前 发布 Meta计划出售算力会因此退出前沿大模型的开发么？后续能够扭转市场预期和情绪的关键",
-      "url": "https://x.com/qinbafrank/status/2072902811675922742?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 40.0万 粉 外汇交易员 @ fxtrader · 4小时前 发布 记者从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估",
+      "url": "https://x.com/fxtrader/status/2072931385296494814?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
