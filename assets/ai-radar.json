@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T19:58:17.656Z",
+  "updatedAt": "2026-07-03T21:17:56.417Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 784"
+      "meta": "Stars 785"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: An AI-friendly CLI for public space data",
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.npmjs.com/package/spacedata",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
       "meta": "1 points"
     },
     {
