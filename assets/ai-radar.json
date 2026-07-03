@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T21:17:56.417Z",
+  "updatedAt": "2026-07-03T22:34:54.109Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 785"
+      "meta": "Stars 788"
     },
     {
       "source": "Hacker News",
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "title": "Coding without AI: a revolutionary new way to work",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "meta": "1 points"
+      "url": "https://isaaclyman.com/blog/posts/coding-without-ai/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
