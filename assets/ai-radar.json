@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T19:45:53.486Z",
+  "updatedAt": "2026-07-04T21:02:49.871Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 824"
+      "meta": "Stars 825"
     },
     {
       "source": "Hacker News",
-      "title": "Calculator built to teach/experiment with costing LLM chat apps",
+      "title": "Show HN: Using Wake-on-LAN for an AI Project",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://calc.ajinkya.ai/",
+      "url": "https://guilhermefrj.medium.com/i-built-a-local-chatgpt-killer-on-a-single-rtx-5080-heres-everything-that-went-wrong-and-right-38343c516451",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
-      "summary": "I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...",
-      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
-      "meta": "53 reactions"
+      "title": "From 0 Likes to Meme Engineer",
+      "summary": "We have all been there. You are sitting at your desk late at night, your code is throwing errors that...",
+      "url": "https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l",
+      "meta": "7 reactions"
     },
     {
       "source": "蓝点网",
