@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T00:09:09.319Z",
+  "updatedAt": "2026-07-04T04:20:41.641Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 793"
+      "meta": "Stars 806"
     },
     {
       "source": "Hacker News",
-      "title": "Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit",
+      "title": "Show HN: I replaced my $500/mo legal SaaS with an AI-generated toolkit",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://slopscan.ava.pet/",
+      "url": "https://maxiporonga.gumroad.com/l/ytruk",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.4万 粉 AYi @ AYi_AInotes · 8小时前 发布 卧槽，Fable 5真的逆天啊，真的太牛逼了， 它写的提示词竟然能让Grok生成堪比seedan",
-      "url": "https://x.com/AYi_AInotes/status/2073076344582234357?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 224.3万 粉 李老师不是你老师 @ whyyoutouzhele · 3小时前 发布 Anthropic 封堵中国获取模型使用的漏洞 7月3日，据英国《金融时报》",
+      "url": "https://x.com/whyyoutouzhele/status/2073202631716274569?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
