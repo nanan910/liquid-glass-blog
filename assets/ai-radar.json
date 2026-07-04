@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T18:05:23.841Z",
+  "updatedAt": "2026-07-04T19:45:53.486Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "AI researchers ran a secret experiment on Reddit users (2025)",
+      "title": "Calculator built to teach/experiment with costing LLM chat apps",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-researchers-ran-a-secret-experiment-on-reddit-users-to-see-if-they-could-change-their-minds-and-the-results-are-creepy",
+      "url": "https://calc.ajinkya.ai/",
       "meta": "1 points"
     },
     {
