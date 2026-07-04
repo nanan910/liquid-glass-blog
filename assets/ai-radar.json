@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T15:09:35.733Z",
+  "updatedAt": "2026-07-04T16:32:49.589Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 821"
+      "meta": "Stars 823"
     },
     {
       "source": "Hacker News",
-      "title": "Where's the holistic AI productivity data?",
+      "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://rachelandrew.co.uk/archives/2026/06/11/wheres-the-holistic-ai-productivity-data/",
+      "url": "https://www.youtube.com/watch?v=aE3gPh2CC9I",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.0万 粉 图拉鼎 @ tualatrix · 7小时前 发布 刚刚去试了一下，很好用。期待 Codex 在前端设计方面可以翻盘。",
-      "url": "https://x.com/tualatrix/status/2073312973960175738?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
