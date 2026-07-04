@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T13:42:39.616Z",
+  "updatedAt": "2026-07-04T15:09:35.733Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Kulaxyz/self-learning-skills",
       "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "meta": "Stars 820"
+      "meta": "Stars 821"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Mycelium – AI agent plugin guiding you from purpose to market",
+      "title": "Where's the holistic AI productivity data?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/haabe/mycelium",
+      "url": "https://rachelandrew.co.uk/archives/2026/06/11/wheres-the-holistic-ai-productivity-data/",
       "meta": "1 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.0万 粉 图拉鼎 @ tualatrix · 5小时前 发布 刚刚去试了一下，很好用。期待 Codex 在前端设计方面可以翻盘。",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.0万 粉 图拉鼎 @ tualatrix · 7小时前 发布 刚刚去试了一下，很好用。期待 Codex 在前端设计方面可以翻盘。",
       "url": "https://x.com/tualatrix/status/2073312973960175738?sid=ai-tweet-reply",
       "meta": "热帖"
     }
