@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T07:31:29.599Z",
+  "updatedAt": "2026-07-05T10:19:34.457Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "HUANGCHIHHUNGLeo/claude-real-video",
       "summary": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "meta": "Stars 806"
+      "meta": "Stars 838"
     },
     {
       "source": "Hacker News",
-      "title": "Hunch – a Git-native decision graph your AI assistant obeys",
+      "title": "If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://hunch-pi.vercel.app",
+      "url": "https://age-of-product.com/ai-routing-policy/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13434 likes"
+      "meta": "13435 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 9.5万 粉 卫斯理 @ imwsl90 · 4小时前 发布 海外手机号这事，我折腾了两年，结论就一句： 别折腾了。 国内号？海外服务根本不认。 接码平台？收完码就是",
-      "url": "https://x.com/imwsl90/status/2073607131912110089?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.7万 粉 yihong0618 @ yihong0618 · 4小时前 发布 竟然有一天英文世界推荐微信公众号的文章。。。 DeepSeek 牛逼",
+      "url": "https://x.com/yihong0618/status/2073638623417934065?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
