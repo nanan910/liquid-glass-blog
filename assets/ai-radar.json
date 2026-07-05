@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T21:07:15.020Z",
+  "updatedAt": "2026-07-05T22:31:55.320Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 1468"
+      "meta": "Stars 1543"
     },
     {
       "source": "Hacker News",
-      "title": "OpenAI is fast-tracking its own \"AI Agent Phone\" for 2027 to challenge iPhone",
+      "title": "Context graphs: how AI agents can store and use past decisions",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://old.reddit.com/r/OpenAI/comments/1unbqyd/openai_is_fasttracking_its_own_ai_agent_phone_for/",
-      "meta": "2 points"
+      "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+      "meta": "5 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13435 likes"
+      "meta": "13436 likes"
     },
     {
       "source": "DEV",
       "title": "Jetson Nano: Ollama & Optimal Quantization",
       "summary": "I am delighted to announce that a user reported dysfunction so that I could go down the rabbit hole...",
       "url": "https://dev.to/annavi11arrea1/jetson-nano-ollama-optimal-quantization-2de8",
-      "meta": "2 reactions"
+      "meta": "4 reactions"
     },
     {
       "source": "蓝点网",
