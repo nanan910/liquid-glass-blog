@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T18:07:32.518Z",
+  "updatedAt": "2026-07-05T19:52:24.619Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 1310"
+      "meta": "Stars 1405"
     },
     {
       "source": "Hacker News",
-      "title": "When AI agents get you kicked out from a YC Startup",
+      "title": "The Mental Models I Use to Work with AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/vaishcodescape/shipd-agent",
-      "meta": "1 points"
+      "url": "https://metedata.substack.com/p/015-the-mental-models-i-use-to-work",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "From 0 Likes to Meme Engineer",
-      "summary": "We have all been there. You are sitting at your desk late at night, your code is throwing errors that...",
-      "url": "https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l",
-      "meta": "16 reactions"
+      "title": "Jetson Nano: Ollama & Optimal Quantization",
+      "summary": "I am delighted to announce that a user reported dysfunction so that I could go down the rabbit hole...",
+      "url": "https://dev.to/annavi11arrea1/jetson-nano-ollama-optimal-quantization-2de8",
+      "meta": "2 reactions"
     },
     {
       "source": "蓝点网",
