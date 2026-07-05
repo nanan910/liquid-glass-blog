@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T16:35:43.534Z",
+  "updatedAt": "2026-07-05T18:07:32.518Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 1219"
+      "meta": "Stars 1310"
     },
     {
       "source": "Hacker News",
-      "title": "People Who Will Thrive in the AI Age",
+      "title": "When AI agents get you kicked out from a YC Startup",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+      "url": "https://github.com/vaishcodescape/shipd-agent",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "From 0 Likes to Meme Engineer",
       "summary": "We have all been there. You are sitting at your desk late at night, your code is throwing errors that...",
       "url": "https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l",
-      "meta": "14 reactions"
+      "meta": "16 reactions"
     },
     {
       "source": "蓝点网",
