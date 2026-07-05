@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T10:19:34.457Z",
+  "updatedAt": "2026-07-05T11:55:44.993Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "HUANGCHIHHUNGLeo/claude-real-video",
       "summary": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "meta": "Stars 838"
+      "meta": "Stars 855"
     },
     {
       "source": "Hacker News",
-      "title": "If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy",
+      "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://age-of-product.com/ai-routing-policy/",
+      "url": "https://www.science.org/doi/full/10.1126/science.aec8352",
       "meta": "1 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.7万 粉 yihong0618 @ yihong0618 · 4小时前 发布 竟然有一天英文世界推荐微信公众号的文章。。。 DeepSeek 牛逼",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.7万 粉 yihong0618 @ yihong0618 · 6小时前 发布 竟然有一天英文世界推荐微信公众号的文章。。。 DeepSeek 牛逼",
       "url": "https://x.com/yihong0618/status/2073638623417934065?sid=ai-tweet-reply",
       "meta": "热帖"
     }
