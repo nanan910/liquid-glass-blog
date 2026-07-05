@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-05T11:55:44.993Z",
+  "updatedAt": "2026-07-05T13:52:14.192Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "HUANGCHIHHUNGLeo/claude-real-video",
-      "summary": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "meta": "Stars 855"
+      "title": "elder-plinius/T3MP3ST",
+      "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "meta": "Stars 987"
     },
     {
       "source": "Hacker News",
-      "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
+      "title": "No-AI Label",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.science.org/doi/full/10.1126/science.aec8352",
-      "meta": "1 points"
+      "url": "https://en.wikipedia.org/wiki/No-AI_label",
+      "meta": "4 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Data structures your CS degree kind of glossed over",
-      "summary": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "url": "https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh",
-      "meta": "16 reactions"
+      "title": "From 0 Likes to Meme Engineer",
+      "summary": "We have all been there. You are sitting at your desk late at night, your code is throwing errors that...",
+      "url": "https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l",
+      "meta": "14 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.7万 粉 yihong0618 @ yihong0618 · 6小时前 发布 竟然有一天英文世界推荐微信公众号的文章。。。 DeepSeek 牛逼",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.7万 粉 yihong0618 @ yihong0618 · 8小时前 发布 竟然有一天英文世界推荐微信公众号的文章。。。 DeepSeek 牛逼",
       "url": "https://x.com/yihong0618/status/2073638623417934065?sid=ai-tweet-reply",
       "meta": "热帖"
     }
