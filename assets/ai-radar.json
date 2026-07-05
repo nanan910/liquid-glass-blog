@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-05T03:51:35.844Z",
+  "updatedAt": "2026-07-05T07:31:29.599Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "jamesob/local-llm",
-      "summary": "Everything I know about running LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "meta": "Stars 773"
+      "title": "HUANGCHIHHUNGLeo/claude-real-video",
+      "summary": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "meta": "Stars 806"
     },
     {
       "source": "Hacker News",
-      "title": "President pardons 9 for Clean Air violations for 'fixing their car'",
+      "title": "Hunch – a Git-native decision graph your AI assistant obeys",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT",
-      "meta": "2 points"
+      "url": "https://hunch-pi.vercel.app",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "From 0 Likes to Meme Engineer",
-      "summary": "We have all been there. You are sitting at your desk late at night, your code is throwing errors that...",
-      "url": "https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l",
-      "meta": "7 reactions"
+      "title": "Data structures your CS degree kind of glossed over",
+      "summary": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "url": "https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh",
+      "meta": "16 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3,925 粉 yibie @ yibie · 4小时前 发布 推荐这篇文章，Flask 作者 Armin Ronacher 追踪 Pi 的 bug 发现了一个让人不",
-      "url": "https://x.com/yibie/status/2073543144659108158?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 9.5万 粉 卫斯理 @ imwsl90 · 4小时前 发布 海外手机号这事，我折腾了两年，结论就一句： 别折腾了。 国内号？海外服务根本不认。 接码平台？收完码就是",
+      "url": "https://x.com/imwsl90/status/2073607131912110089?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
