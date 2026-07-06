@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T13:04:52.892Z",
+  "updatedAt": "2026-07-06T16:38:57.231Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 2223"
+      "meta": "Stars 2393"
     },
     {
       "source": "Hacker News",
-      "title": "How to Stop AI from Killing Your Critical Thinking – Ted",
+      "title": "Wisk, Boeing Sued over eVTOL Software Safety Claims",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://app.magellan.ai/listen_links/T2KbyG",
+      "url": "https://www.ainonline.com/aviation-news/futureflight/2026-07-02/wisk-boeing-sued-over-evtol-software-safety-claims",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13438 likes"
+      "meta": "13439 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.7万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 5小时前 发布 曲",
-      "url": "https://x.com/lidangzzz/status/2074032175637209117?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
