@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T04:53:12.827Z",
+  "updatedAt": "2026-07-06T09:02:45.923Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 1823"
+      "meta": "Stars 2027"
     },
     {
       "source": "Hacker News",
-      "title": "What Is AI Native Development?",
+      "title": "Ask HN: What is your go-to prompt to prove AI can be wrong?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://brunelly.com/articles/what-is-ai-native-development",
-      "meta": "2 points"
+      "url": "https://news.ycombinator.com/item?id=48802246",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.7万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 《",
-      "url": "https://x.com/lidangzzz/status/2073955231860207938?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.7万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 曲",
+      "url": "https://x.com/lidangzzz/status/2074032175637209117?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
