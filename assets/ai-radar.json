@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T22:31:55.320Z",
+  "updatedAt": "2026-07-06T00:11:01.673Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 1543"
+      "meta": "Stars 1621"
     },
     {
       "source": "Hacker News",
-      "title": "Context graphs: how AI agents can store and use past decisions",
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://nanonets.com/blog/what-is-a-context-graph/",
-      "meta": "5 points"
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.0万 粉 奶昔🥤 @ realNyarime · 6小时前 发布 网友已经开发了OpenAI账号申诉文案生成器，祝你申诉成功，早日恢复ChatGPT的访问权限\ud83e",
+      "url": "https://x.com/realNyarime/status/2073819573871423495?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
