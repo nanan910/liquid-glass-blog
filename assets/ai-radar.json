@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T22:20:11.129Z",
+  "updatedAt": "2026-07-06T23:39:19.366Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 2580"
+      "meta": "Stars 2613"
     },
     {
       "source": "Hacker News",
-      "title": "What Is Project Aion? Inside Microsoft's Agentic Copilot OS",
+      "title": "Why AI Orchestration Belongs in the Browser",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/project-aion-copilot-os-faq",
-      "meta": "1 points"
+      "url": "https://www.esri.com/en-us/software-engineering/blog/articles/ai-orchestration-in-the-browser",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13439 likes"
+      "meta": "13440 likes"
     },
     {
       "source": "DEV",
