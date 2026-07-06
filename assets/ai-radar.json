@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T18:58:44.110Z",
+  "updatedAt": "2026-07-06T20:56:51.559Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 2482"
+      "meta": "Stars 2551"
     },
     {
       "source": "Hacker News",
-      "title": "Cirrus Introduces the TRAC10: A Purpose-Built Aircraft for Flight Training",
+      "title": "AMD's Ryzen AI Halo makes local AI look easy, but it doesn't come cheap",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://cirrusaircraft.com/story/cirrus-trac10/",
-      "meta": "2 points"
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
