@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T19:05:16.513Z",
+  "updatedAt": "2026-07-07T21:07:25.132Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 3175"
+      "meta": "Stars 3219"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Strays – See the ports and AI coding sessions your Mac is running",
+      "title": "Mixed-Precision SVD on GPUs via Ogita–Aishima Iterative Refinement",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/mayur-25-cd/strays",
+      "url": "https://research.nvidia.com/publication/2026-06_mixed-precision-svd-gpus-ogita-aishima-iterative-refinement",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13446 likes"
+      "meta": "13448 likes"
     },
     {
       "source": "DEV",
