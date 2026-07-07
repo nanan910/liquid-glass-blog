@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T03:49:40.535Z",
+  "updatedAt": "2026-07-07T07:43:59.487Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 2708"
+      "meta": "Stars 2812"
     },
     {
       "source": "Hacker News",
-      "title": "AI's Volatile Power Use Tests Grid Limits",
+      "title": "The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://spectrum.ieee.org/data-centers-grid-instability",
+      "url": "https://dl.acm.org/doi/10.1145/3632620.3671116",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
-      "summary": "I built a 36-pattern checklist to catch AI writing tells in my own drafts, calibrated against...",
-      "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
-      "meta": "36 reactions"
+      "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
+      "summary": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
+      "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
+      "meta": "6 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.9万 粉 qinbafrank @ qinbafrank · 2小时前 发布 高盛美股半导体2Q前瞻及相关半导体股票二季度财报看点。高盛核心逻辑：基本面仍有上修",
-      "url": "https://x.com/qinbafrank/status/2074296171246616985?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.3万 粉 Phoenix Yin @ Phoenixyin13 · 3小时前 发布 DeepSeek在人才争夺战中有点飘了。 2026年AI人才极度稀缺，尤其李博",
+      "url": "https://x.com/Phoenixyin13/status/2074345126533468485?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
