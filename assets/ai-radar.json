@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T07:43:59.487Z",
+  "updatedAt": "2026-07-07T11:12:40.735Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 2812"
+      "meta": "Stars 2924"
     },
     {
       "source": "Hacker News",
-      "title": "The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers",
+      "title": "Brick by Brick: How My Home AI Is Growing a Body",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://dl.acm.org/doi/10.1145/3632620.3671116",
+      "url": "https://medium.com/towards-artificial-intelligence/brick-by-brick-how-my-home-ai-is-growing-a-body-fc698269a525",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13441 likes"
+      "meta": "13442 likes"
     },
     {
       "source": "DEV",
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
       "summary": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
       "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
-      "meta": "6 reactions"
+      "meta": "7 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.3万 粉 Phoenix Yin @ Phoenixyin13 · 3小时前 发布 DeepSeek在人才争夺战中有点飘了。 2026年AI人才极度稀缺，尤其李博",
-      "url": "https://x.com/Phoenixyin13/status/2074345126533468485?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.9万 粉 AI Will @ FinanceYF5 · 4小时前 发布 前伯克利博士、现 xAI SGLang 负责人，用 23 分钟讲清楚他们如何在 10 万",
+      "url": "https://x.com/FinanceYF5/status/2074389038585503950?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
