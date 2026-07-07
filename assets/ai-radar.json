@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T13:36:04.201Z",
+  "updatedAt": "2026-07-07T16:34:56.538Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 2996"
+      "meta": "Stars 3108"
     },
     {
       "source": "Hacker News",
-      "title": "AI Still Can't Get Mario's Mustache Right",
+      "title": "How AI could enable autonomous robot workers in workplaces–and maybe homes",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://mustache-perfect.vercel.app/",
+      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13443 likes"
+      "meta": "13444 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.9万 粉 AI Will @ FinanceYF5 · 6小时前 发布 前伯克利博士、现 xAI SGLang 负责人，用 23 分钟讲清楚他们如何在 10 万",
-      "url": "https://x.com/FinanceYF5/status/2074389038585503950?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
