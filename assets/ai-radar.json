@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T16:34:56.538Z",
+  "updatedAt": "2026-07-07T19:05:16.513Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 3108"
+      "meta": "Stars 3175"
     },
     {
       "source": "Hacker News",
-      "title": "How AI could enable autonomous robot workers in workplaces–and maybe homes",
+      "title": "Show HN: Strays – See the ports and AI coding sessions your Mac is running",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "url": "https://github.com/mayur-25-cd/strays",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13444 likes"
+      "meta": "13446 likes"
     },
     {
       "source": "DEV",
       "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
       "summary": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
       "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
-      "meta": "7 reactions"
+      "meta": "20 reactions"
     },
     {
       "source": "蓝点网",
