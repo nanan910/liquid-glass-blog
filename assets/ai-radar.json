@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T15:42:59.474Z",
+  "updatedAt": "2026-07-08T17:41:34.263Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 3723"
+      "meta": "Stars 3770"
     },
     {
       "source": "Hacker News",
-      "title": "People Who Want to Stop AI by Any Means Necessary",
+      "title": "An AI coal mine security camera network powered by plaintext passwords",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://thewalrus.ca/the-people-who-want-to-stop-ai-by-any-means-necessary/",
-      "meta": "1 points"
+      "url": "https://eaton-works.com/2026/07/08/coal-india-camera-hack/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Being an engineer in the AI era",
-      "summary": "I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...",
-      "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p",
-      "meta": "39 reactions"
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "summary": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "meta": "26 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.9万 粉 qinbafrank @ qinbafrank · 8小时前 发布 之前看AI商业化只盯着Authropic/OpenAIdeARR，未来超大CSP的",
-      "url": "https://x.com/qinbafrank/status/2074754779755295164?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
