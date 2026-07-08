@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T17:41:34.263Z",
+  "updatedAt": "2026-07-08T19:39:35.099Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 3770"
+      "meta": "Stars 3804"
     },
     {
       "source": "Hacker News",
-      "title": "An AI coal mine security camera network powered by plaintext passwords",
+      "title": "Startup Spotlight: Sourcerer wants to turn AI procurement into a supplier",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://eaton-works.com/2026/07/08/coal-india-camera-hack/",
-      "meta": "2 points"
+      "url": "https://runtimewire.com/article/startup-spotlight-sourcerer-wants-to-turn-ai-procurement-into-a-supplier-not-saa",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13449 likes"
+      "meta": "13450 likes"
     },
     {
       "source": "DEV",
