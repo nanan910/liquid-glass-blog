@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T00:01:21.405Z",
+  "updatedAt": "2026-07-08T03:55:05.324Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 3295"
+      "meta": "Stars 3361"
     },
     {
       "source": "Hacker News",
-      "title": "Anthropic Expands In Manhattan, Part of an AI Boom in New York",
+      "title": "Show HN: I built an AI hairstyle preview tool before your next haircut",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html",
+      "url": "https://hairstylespro.com",
       "meta": "1 points"
     },
     {
@@ -25,23 +25,23 @@
     },
     {
       "source": "DEV",
-      "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
-      "summary": "Take control of your AI models with our newest skill, designed to make local fine-tuning efficient.",
-      "url": "https://dev.to/googleai/master-local-fine-tuning-with-gemma-trainer-3ipp",
-      "meta": "23 reactions"
+      "title": "you stopped reading the docs. now you don't understand the systems.",
+      "summary": "I didn't go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...",
+      "url": "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
+      "meta": "33 reactions"
     },
     {
       "source": "蓝点网",
-      "title": "Claude Code产品经理称在容量允许的情况下 会尽快将Fable 5恢复到订阅配额中无需单独付费",
-      "summary": "<p>在 Claude Fable 5 恢复上线后，A 社为所有付费订阅用户重置当周配额以便开发者能够重新体验该模型，只不过体验期仅限 7 月 7 日前，之后 Fable 5 将需要单独购买积...",
-      "url": "https://www.landian.news/archives/113760.html",
-      "meta": "03 Jul 2026"
+      "title": "Claude Fable 5订阅内免费使用延长到7月12日 之后再改成额外充值积分使用",
+      "summary": "<p>近期 A 社重新开放 Claude Fable 5 模型，不过这次仅为付费订阅提供较短的免费使用窗口，即用户可以在 Claude Pro/Max 订阅额度内使用该模型，然而这项临时安排即...",
+      "url": "https://www.landian.news/archives/113838.html",
+      "meta": "08 Jul 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.3万 粉 郭宇 guoyu.eth @ turingou · 6小时前 发布 因为「让你刷更多」而不是让你「更快匹配」是这些产品的盈利模式。真正有效的产品，在 ",
-      "url": "https://x.com/turingou/status/2074545218087743997?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.0万 粉 图拉鼎 @ tualatrix · 2小时前 发布 Codex 0.143.0 新增了 Amazon Bedrock 上 GPT-5.6 Sol, T",
+      "url": "https://x.com/tualatrix/status/2074671536821432633?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
