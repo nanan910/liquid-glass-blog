@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T06:32:08.730Z",
+  "updatedAt": "2026-07-08T09:28:06.101Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "elder-plinius/T3MP3ST",
       "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "url": "https://github.com/elder-plinius/T3MP3ST",
-      "meta": "Stars 3446"
+      "meta": "Stars 3550"
     },
     {
       "source": "Hacker News",
-      "title": "Generative AI might end up being worthless",
+      "title": "Show HN: Diagraw – hand-drawn diagrams, real-time collab, AI assistant",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://theconversation.com/generative-ai-might-end-up-being-worthless-and-that-could-be-a-good-thing-266046",
-      "meta": "3 points"
+      "url": "https://diagraw.com/es/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 40.0万 粉 外汇交易员 @ fxtrader · 2小时前 发布 GPT-5.6 Sol 将于周四发布！",
-      "url": "https://x.com/fxtrader/status/2074711278455755149?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.9万 粉 qinbafrank @ qinbafrank · 2小时前 发布 之前看AI商业化只盯着Authropic/OpenAIdeARR，未来超大CSP的",
+      "url": "https://x.com/qinbafrank/status/2074754779755295164?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
