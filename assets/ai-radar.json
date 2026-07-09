@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T17:59:56.729Z",
+  "updatedAt": "2026-07-09T20:00:54.897Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "synthetic-sciences/openscience",
       "summary": "The open-source AI workbench for scientific research",
       "url": "https://github.com/synthetic-sciences/openscience",
-      "meta": "Stars 1922"
+      "meta": "Stars 1928"
     },
     {
       "source": "Hacker News",
-      "title": "AI Data Centers",
+      "title": "Starbucks Taps AI to Cut Reliance on Microsoft, IBM Software",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://epoch.ai/data/ai-data-centers",
-      "meta": "2 points"
+      "url": "https://www.seattletimes.com/business/starbucks-taps-ai-to-cut-reliance-on-microsoft-ibm-software/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "Your Hand-Typed Slop Isn't Honest. It's Just Slower.",
       "summary": "A post on X last week:   \"The fact that people can't even reply to posts without AI anymore says a...",
       "url": "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
-      "meta": "37 reactions"
+      "meta": "38 reactions"
     },
     {
       "source": "蓝点网",
