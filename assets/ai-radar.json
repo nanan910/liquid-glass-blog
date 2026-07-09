@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T04:32:10.755Z",
+  "updatedAt": "2026-07-09T08:36:26.404Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "synthetic-sciences/openscience",
       "summary": "The open-source AI workbench for scientific research",
       "url": "https://github.com/synthetic-sciences/openscience",
-      "meta": "Stars 1804"
+      "meta": "Stars 1835"
     },
     {
       "source": "Hacker News",
-      "title": "How to Kill the Bloat in Claude Code's System Prompt",
+      "title": "AI as a weapon of mass cognitive destruction",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.aihero.dev/how-to-kill-the-bloat-in-claude-codes-system-prompt",
+      "url": "https://taoofmac.com/space/blog/2026/07/08/2130",
       "meta": "2 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13452 likes"
+      "meta": "13453 likes"
     },
     {
       "source": "DEV",
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
       "summary": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "meta": "33 reactions"
+      "meta": "36 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.8万 粉 KK.aWSB @ KKaWSB · 2小时前 发布 送人送到西！兄弟们，量化交易的九个策略流派，各分享一个开源项目，学哪个用哪个，直接抄作业（合集送上",
-      "url": "https://x.com/KKaWSB/status/2075032774906650746?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.6万 粉 摆烂程序媛 @ wanerfu · 3小时前 发布 卧槽，GPT-Live 终于全量推送了。 体验感上升了很多，全双工，边听边回，可以随时插嘴，对话终",
+      "url": "https://x.com/wanerfu/status/2075079276865659128?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
