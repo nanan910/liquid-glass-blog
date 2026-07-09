@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T12:09:28.303Z",
+  "updatedAt": "2026-07-09T15:42:21.892Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "synthetic-sciences/openscience",
       "summary": "The open-source AI workbench for scientific research",
       "url": "https://github.com/synthetic-sciences/openscience",
-      "meta": "Stars 1866"
+      "meta": "Stars 1908"
     },
     {
       "source": "Hacker News",
-      "title": "AI-Generated Jupyter Notebooks Showcase",
+      "title": "Teaching AI to Run with the Turbines",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.clusy.io/hub",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13453 likes"
+      "meta": "13454 likes"
     },
     {
       "source": "DEV",
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "summary": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "meta": "38 reactions"
+      "title": "Your Hand-Typed Slop Isn't Honest. It's Just Slower.",
+      "summary": "A post on X last week:   \"The fact that people can't even reply to posts without AI anymore says a...",
+      "url": "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
+      "meta": "34 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.3万 粉 郭宇 guoyu.eth @ turingou · 6小时前 发布 今天把 Grok build 作为第三个 runtime adapter 接入 w",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.3万 粉 郭宇 guoyu.eth @ turingou · 9小时前 发布 今天把 Grok build 作为第三个 runtime adapter 接入 w",
       "url": "https://x.com/turingou/status/2075098965863964769?sid=ai-tweet-reply",
       "meta": "热帖"
     }
