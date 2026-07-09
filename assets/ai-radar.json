@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T00:15:42.533Z",
+  "updatedAt": "2026-07-09T04:32:10.755Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "synthetic-sciences/openscience",
       "summary": "The open-source AI workbench for scientific research",
       "url": "https://github.com/synthetic-sciences/openscience",
-      "meta": "Stars 1742"
+      "meta": "Stars 1804"
     },
     {
       "source": "Hacker News",
-      "title": "QuakeWorld Air Physics",
+      "title": "How to Kill the Bloat in Claude Code's System Prompt",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://mattias.niklewski.com/2013/01/qw_air_physics.html",
-      "meta": "1 points"
+      "url": "https://www.aihero.dev/how-to-kill-the-bloat-in-claude-codes-system-prompt",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 17.4万 粉 Orange AI @ oran_ge · 3小时前 发布 我靠这个虽然是传闻但信息量有点大，看着玩吧 - GPT5.6 是 5 系最后一代，再见了，",
-      "url": "https://x.com/oran_ge/status/2074965201133375940?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.8万 粉 KK.aWSB @ KKaWSB · 2小时前 发布 送人送到西！兄弟们，量化交易的九个策略流派，各分享一个开源项目，学哪个用哪个，直接抄作业（合集送上",
+      "url": "https://x.com/KKaWSB/status/2075032774906650746?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
