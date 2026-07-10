@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T22:09:08.606Z",
+  "updatedAt": "2026-07-10T23:31:14.167Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "simonlin1212/Vibe-Research",
       "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "url": "https://github.com/simonlin1212/Vibe-Research",
-      "meta": "Stars 660"
+      "meta": "Stars 664"
     },
     {
       "source": "Hacker News",
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "title": "Hermes – AI that turns customer behavior into actions instead of dashboards",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "url": "https://tryhermes.dev",
       "meta": "1 points"
     },
     {
