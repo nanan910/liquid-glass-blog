@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T05:39:28.944Z",
+  "updatedAt": "2026-07-10T09:42:59.504Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "simonlin1212/Vibe-Research",
       "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "url": "https://github.com/simonlin1212/Vibe-Research",
-      "meta": "Stars 598"
+      "meta": "Stars 610"
     },
     {
       "source": "Hacker News",
-      "title": "The great AI data centre cover-up",
+      "title": "CorvinOS – self-hosted OS for AI agents, compliance built into the runtime",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4",
+      "url": "https://corvin-labs.com/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13455 likes"
+      "meta": "13456 likes"
     },
     {
       "source": "DEV",
-      "title": "Your Hand-Typed Slop Isn't Honest. It's Just Slower.",
-      "summary": "A post on X last week:   \"The fact that people can't even reply to posts without AI anymore says a...",
-      "url": "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
-      "meta": "40 reactions"
+      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
+      "summary": "What nobody tells you about exporting your multi-agent prototype to a local workspace.  Every...",
+      "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
+      "meta": "1 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.8万 粉 𝙋𝙖𝙨𝙨𝙡𝙪𝙤 @ passluo · 2小时前 发布 没啥好比较的，这价格还有啥好比的 😅 只能说 OpenAI 这波加量不加价整得挺",
-      "url": "https://x.com/passluo/status/2075411143884161250?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 40.0万 粉 外汇交易员 @ fxtrader · 2小时前 发布 #观察 还得是 @OpenAI ，GPT-5.6新模型上线后 @thsottiaux 直接送3次",
+      "url": "https://x.com/fxtrader/status/2075472553515389112?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
