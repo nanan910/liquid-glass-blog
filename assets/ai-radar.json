@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T01:11:12.608Z",
+  "updatedAt": "2026-07-10T05:39:28.944Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "simonlin1212/Vibe-Research",
       "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "url": "https://github.com/simonlin1212/Vibe-Research",
-      "meta": "Stars 590"
+      "meta": "Stars 598"
     },
     {
       "source": "Hacker News",
-      "title": "AI #176 Part 1: Doing It Live",
+      "title": "The great AI data centre cover-up",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://thezvi.substack.com/p/ai-176-part-1-doing-it-live",
+      "url": "https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4",
       "meta": "1 points"
     },
     {
@@ -32,16 +32,16 @@
     },
     {
       "source": "蓝点网",
-      "title": "Claude Fable 5订阅内免费使用延长到7月12日 之后再改成额外充值积分使用",
-      "summary": "<p>近期 A 社重新开放 Claude Fable 5 模型，不过这次仅为付费订阅提供较短的免费使用窗口，即用户可以在 Claude Pro/Max 订阅额度内使用该模型，然而这项临时安排即...",
-      "url": "https://www.landian.news/archives/113838.html",
-      "meta": "08 Jul 2026"
+      "title": "单纯恶心OpenAI？Claude Code重置所有订阅用户额度 让用户可以继续使用Fable 5",
+      "summary": "<p>前文我们提到 Codex 团队重置所有付费订阅用户额度让用户可以体验最新发布的 GPT-5.6 系列模型，没想到这个时候 Claude Code 也重置额度让开发者们可以继续使用 Cla...",
+      "url": "https://www.landian.news/archives/113893.html",
+      "meta": "10 Jul 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.3万 粉 郭宇 guoyu.eth @ turingou · 6小时前 发布 不可思议，恭喜！ChatGPT 的 GPT 5.6 的宣传视频是北海道的使用 Co",
-      "url": "https://x.com/turingou/status/2075289862295675190?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.8万 粉 𝙋𝙖𝙨𝙨𝙡𝙪𝙤 @ passluo · 2小时前 发布 没啥好比较的，这价格还有啥好比的 😅 只能说 OpenAI 这波加量不加价整得挺",
+      "url": "https://x.com/passluo/status/2075411143884161250?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
