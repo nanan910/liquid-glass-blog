@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T19:04:18.940Z",
+  "updatedAt": "2026-07-10T20:50:37.853Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "simonlin1212/Vibe-Research",
       "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "url": "https://github.com/simonlin1212/Vibe-Research",
-      "meta": "Stars 658"
+      "meta": "Stars 659"
     },
     {
       "source": "Hacker News",
-      "title": "Trace: Stripe Radar for autonomous AI agents (Sybil fraud reduced by 86%)",
+      "title": "How to Install a Mini Split Air Conditioner Complete Step-by-Step Guide [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://trace-api-ixv6o.ondigitalocean.app/api/portal/webhook",
+      "url": "https://www.youtube.com/watch?v=AQ4EYHNCDzg",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
-      "summary": "What nobody tells you about exporting your multi-agent prototype to a local workspace.  Every...",
-      "url": "https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e",
-      "meta": "6 reactions"
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "summary": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "meta": "18 reactions"
     },
     {
       "source": "蓝点网",
