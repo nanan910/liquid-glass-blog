@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-09T23:15:37.881Z",
+  "updatedAt": "2026-07-10T01:11:12.608Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "synthetic-sciences/openscience",
-      "summary": "The open-source AI workbench for scientific research",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "meta": "Stars 1936"
+      "title": "simonlin1212/Vibe-Research",
+      "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "meta": "Stars 590"
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: Did Google give up in the AI Race?",
+      "title": "AI #176 Part 1: Doing It Live",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=48853669",
+      "url": "https://thezvi.substack.com/p/ai-176-part-1-doing-it-live",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13454 likes"
+      "meta": "13455 likes"
     },
     {
       "source": "DEV",
       "title": "Your Hand-Typed Slop Isn't Honest. It's Just Slower.",
       "summary": "A post on X last week:   \"The fact that people can't even reply to posts without AI anymore says a...",
       "url": "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
-      "meta": "38 reactions"
+      "meta": "40 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.3万 粉 郭宇 guoyu.eth @ turingou · 6小时前 发布 不可思议，恭喜！ChatGPT 的 GPT 5.6 的宣传视频是北海道的使用 Co",
+      "url": "https://x.com/turingou/status/2075289862295675190?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
