@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T05:46:37.645Z",
+  "updatedAt": "2026-07-11T08:02:51.194Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "simonlin1212/Vibe-Research",
       "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "url": "https://github.com/simonlin1212/Vibe-Research",
-      "meta": "Stars 694"
+      "meta": "Stars 701"
     },
     {
       "source": "Hacker News",
-      "title": "The Conversation We're Not Having About AI in Peer Review",
+      "title": "Competitive Programming in the Era of AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://cabird.com/ide/posts/ai-in-peer-review",
+      "url": "https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "summary": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "meta": "18 reactions"
+      "title": "An Agent That Hunts Bugs in My App While I Sleep",
+      "summary": "I have a teammate who never sleeps, never gets bored, and spends every hour poking at our app trying...",
+      "url": "https://dev.to/debs_obrien/an-agent-that-hunts-bugs-in-my-app-while-i-sleep-2fe0",
+      "meta": "6 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 22.2万 粉 勃勃OC @ bboczeng · 2小时前 发布 苹果诉窃取商业机密案的主角刘畅（Chang Liu）： - 苹果高级系统电气工程师 - 在苹果工作",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 22.2万 粉 勃勃OC @ bboczeng · 4小时前 发布 苹果诉窃取商业机密案的主角刘畅（Chang Liu）： - 苹果高级系统电气工程师 - 在苹果工作",
       "url": "https://x.com/bboczeng/status/2075781898853314606?sid=ai-tweet-reply",
       "meta": "热帖"
     }
