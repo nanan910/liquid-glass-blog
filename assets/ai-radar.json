@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T02:56:52.511Z",
+  "updatedAt": "2026-07-11T05:46:37.645Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "simonlin1212/Vibe-Research",
       "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "url": "https://github.com/simonlin1212/Vibe-Research",
-      "meta": "Stars 685"
+      "meta": "Stars 694"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Noiseremover.ai – Remove background noise from audio",
+      "title": "The Conversation We're Not Having About AI in Peer Review",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://noiseremover.ai/",
+      "url": "https://cabird.com/ide/posts/ai-in-peer-review",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 224.6万 粉 李老师不是你老师 @ whyyoutouzhele · 1小时前 发布 中国警告Claude存在监测机制，Anthropic回应：服务本就未向中国大",
-      "url": "https://x.com/whyyoutouzhele/status/2075746901777850722?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 22.2万 粉 勃勃OC @ bboczeng · 2小时前 发布 苹果诉窃取商业机密案的主角刘畅（Chang Liu）： - 苹果高级系统电气工程师 - 在苹果工作",
+      "url": "https://x.com/bboczeng/status/2075781898853314606?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
