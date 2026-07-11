@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T18:27:49.007Z",
+  "updatedAt": "2026-07-11T19:45:14.609Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "AI rebrands fail to deliver a lasting share price boost",
+      "title": "Show HN: Wizard – Self-extending Rust terminal AI agent (one-line install)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
+      "url": "https://wizard.teddytennant.com",
       "meta": "1 points"
     },
     {
