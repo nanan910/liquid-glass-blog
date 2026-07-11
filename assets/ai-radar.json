@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T21:54:55.153Z",
+  "updatedAt": "2026-07-11T22:54:30.223Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "simonlin1212/Vibe-Research",
       "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "url": "https://github.com/simonlin1212/Vibe-Research",
-      "meta": "Stars 721"
+      "meta": "Stars 724"
     },
     {
       "source": "Hacker News",
-      "title": "AI found a secret computer bug hidden for 15 years.",
+      "title": "Show HN: AgentTransfer – open-source file transfer for AI agents (one Go binary)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.untempled.com/guilhermen/art/ai-found-a-secret-computer-bug-hidden-for-15-years-plus-why-cops-chased-a-reporter-over-a-typo-cmrgwcw7o0001ky04qu4ubln8",
+      "url": "https://github.com/shehryarsaroya/agenttransfer",
       "meta": "1 points"
     },
     {
