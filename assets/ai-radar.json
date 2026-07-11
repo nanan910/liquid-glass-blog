@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T10:00:22.058Z",
+  "updatedAt": "2026-07-11T11:15:34.544Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "simonlin1212/Vibe-Research",
       "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "url": "https://github.com/simonlin1212/Vibe-Research",
-      "meta": "Stars 704"
+      "meta": "Stars 707"
     },
     {
       "source": "Hacker News",
-      "title": "Air conditioners were originally invented for printing presses",
+      "title": "As better chatbots get harder to build, AI turns to simulated worlds",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://historyfacts.com/science-industry/fact/air-conditioners-invented-for-printing-presses/",
-      "meta": "1 points"
+      "url": "https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.5万 粉 fox hsiao @ pirrer · 2小时前 发布 OpenAI 員工竊取 Apple 資料，試圖用 Line 躲避對話紀錄追蹤 (Linkedi",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.5万 粉 fox hsiao @ pirrer · 4小时前 发布 OpenAI 員工竊取 Apple 資料，試圖用 Line 躲避對話紀錄追蹤 (Linkedi",
       "url": "https://x.com/pirrer/status/2075838319062298993?sid=ai-tweet-reply",
       "meta": "热帖"
     }
