@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T14:23:43.911Z",
+  "updatedAt": "2026-07-11T15:32:00.620Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "simonlin1212/Vibe-Research",
       "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "url": "https://github.com/simonlin1212/Vibe-Research",
-      "meta": "Stars 712"
+      "meta": "Stars 717"
     },
     {
       "source": "Hacker News",
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+      "title": "I made AI agents play diplomacy",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+      "url": "https://github.com/brendenehlers/diplomacy-ai",
       "meta": "1 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.5万 粉 fox hsiao @ pirrer · 7小时前 发布 OpenAI 員工竊取 Apple 資料，試圖用 Line 躲避對話紀錄追蹤 (Linkedi",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.5万 粉 fox hsiao @ pirrer · 8小时前 发布 OpenAI 員工竊取 Apple 資料，試圖用 Line 躲避對話紀錄追蹤 (Linkedi",
       "url": "https://x.com/pirrer/status/2075838319062298993?sid=ai-tweet-reply",
       "meta": "热帖"
     }
