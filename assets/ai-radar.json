@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T19:45:14.609Z",
+  "updatedAt": "2026-07-11T20:54:59.571Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Wizard – Self-extending Rust terminal AI agent (one-line install)",
+      "title": "Bitemporal provenance in agent memory: What did we believe, when, and why",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://wizard.teddytennant.com",
+      "url": "https://news.ycombinator.com/item?id=48875749",
       "meta": "1 points"
     },
     {
