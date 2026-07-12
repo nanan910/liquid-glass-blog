@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T18:28:08.864Z",
+  "updatedAt": "2026-07-12T19:42:55.612Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,10 +11,10 @@
     },
     {
       "source": "Hacker News",
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "meta": "2 points"
+      "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Simple Benchmark Review: Ollama on Jetson Nano",
-      "summary": "Previous Related Post: Part 1      This particular rabbit hole was created due to a previous...",
-      "url": "https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee",
-      "meta": "7 reactions"
+      "title": "Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.",
+      "summary": "Snowflake fetches a repo's commit history, finds the one story in it with plain SQL, and narrates that single thread with Cortex. Six storylines. One card.",
+      "url": "https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j",
+      "meta": "1 reactions"
     },
     {
       "source": "蓝点网",
