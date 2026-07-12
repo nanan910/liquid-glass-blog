@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T17:03:40.068Z",
+  "updatedAt": "2026-07-12T18:28:08.864Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 635"
+      "meta": "Stars 636"
     },
     {
       "source": "Hacker News",
-      "title": "OpenAI's AI Beating Every Human at AtCoder",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://mlq.ai/news/openais-ai-sweeps-all-five-problems-at-atcoder-world-tour-finals-beating-every-human/",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "meta": "2 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Simple Benchmark Review: Ollama on Jetson Nano",
       "summary": "Previous Related Post: Part 1      This particular rabbit hole was created due to a previous...",
       "url": "https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee",
-      "meta": "6 reactions"
+      "meta": "7 reactions"
     },
     {
       "source": "蓝点网",
