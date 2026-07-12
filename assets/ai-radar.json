@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T19:42:55.612Z",
+  "updatedAt": "2026-07-12T20:58:40.979Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 636"
+      "meta": "Stars 638"
     },
     {
       "source": "Hacker News",
-      "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
+      "title": "Would AI have ruined my 100 days of algorithms?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design/",
+      "url": "https://danielsada.tech/blog/100-days-of-algorithms/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13459 likes"
+      "meta": "13460 likes"
     },
     {
       "source": "DEV",
       "title": "Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.",
       "summary": "Snowflake fetches a repo's commit history, finds the one story in it with plain SQL, and narrates that single thread with Cortex. Six storylines. One card.",
       "url": "https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j",
-      "meta": "1 reactions"
+      "meta": "6 reactions"
     },
     {
       "source": "蓝点网",
