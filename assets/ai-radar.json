@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T15:34:48.465Z",
+  "updatedAt": "2026-07-12T17:03:40.068Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,10 +11,10 @@
     },
     {
       "source": "Hacker News",
-      "title": "Majority of U.S..Majority of U.S. workers support an AI wealth fund",
+      "title": "OpenAI's AI Beating Every Human at AtCoder",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
-      "meta": "1 points"
+      "url": "https://mlq.ai/news/openais-ai-sweeps-all-five-problems-at-atcoder-world-tour-finals-beating-every-human/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.2万 粉 小互 @ xiaohu · 10小时前 发布 正确的codex 级别切换效果… https://t.co/IKNSULj2id",
-      "url": "https://x.com/xiaohu/status/2076171955401793832?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
