@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T12:02:52.945Z",
+  "updatedAt": "2026-07-12T14:05:32.647Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "op7418/guizang-material-illustration",
       "summary": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "url": "https://github.com/op7418/guizang-material-illustration",
-      "meta": "Stars 575"
+      "meta": "Stars 579"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Avoid codebase sloppification and AI-generated spaghetti code",
+      "title": "AI Adoption Was the Easy Part. Now Comes the Dollar-Sign Shock",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/lambda-alpha-labs/Graphenium",
+      "url": "https://www.inc.com/bruce-crumley/ai-adoption-was-the-easy-part-now-comes-the-dollar-sign-shock/91372404",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13458 likes"
+      "meta": "13459 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.2万 粉 小互 @ xiaohu · 6小时前 发布 正确的codex 级别切换效果… https://t.co/IKNSULj2id",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.2万 粉 小互 @ xiaohu · 8小时前 发布 正确的codex 级别切换效果… https://t.co/IKNSULj2id",
       "url": "https://x.com/xiaohu/status/2076171955401793832?sid=ai-tweet-reply",
       "meta": "热帖"
     }
