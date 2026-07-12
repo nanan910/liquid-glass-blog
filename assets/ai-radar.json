@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T20:58:40.979Z",
+  "updatedAt": "2026-07-12T21:56:47.114Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Would AI have ruined my 100 days of algorithms?",
+      "title": "AI is the new Printing Press (another trite take)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://danielsada.tech/blog/100-days-of-algorithms/",
+      "url": "https://idan.substack.com/p/ai-is-the-new-printing-press",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13460 likes"
+      "meta": "13461 likes"
     },
     {
       "source": "DEV",
