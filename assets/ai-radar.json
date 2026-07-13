@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T13:40:15.675Z",
+  "updatedAt": "2026-07-13T16:37:28.054Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 694"
+      "meta": "Stars 696"
     },
     {
       "source": "Hacker News",
-      "title": "AI and Job Postings: From Destruction to Creation",
+      "title": "HFI Bios Aims to Provide a Post-Like Power on Screen and Bios Setup for RISC-V",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/",
+      "url": "https://www.phoronix.com/news/Harmonic-Firmware-Initiative",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.2万 粉 区块链行情研究 @ qkl2058 · 8小时前 发布 日本有个22岁的小伙子，用AI造了个虚拟网红，一个月下来变现了3548美元。 这个网红叫Lin，",
-      "url": "https://x.com/qkl2058/status/2076541952708030693?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
