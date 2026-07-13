@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-13T21:30:19.801Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-07-13T22:32:45.133Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Brain-inspired hardware brings faster, low-power anomaly detection to AI systems",
+      "title": "Ask HN: AI Agent and harness containerization/security recommendations",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://techxplore.com/news/2026-07-brain-hardware-faster-power-anomaly.html",
+      "url": "https://news.ycombinator.com/item?id=48899674",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13463 likes"
+      "meta": "13464 likes"
     },
     {
       "source": "DEV",
@@ -29,13 +29,6 @@
       "summary": "Snowflake fetches a repo's commit history, finds the one story in it with plain SQL, and narrates that single thread with Cortex. Six storylines. One card.",
       "url": "https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j",
       "meta": "6 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "A社将Fable 5订阅内免费使用权限延长到7月19日 周限额提高50%活动也跟随延期",
-      "summary": "<p>A 社正在继续延长 Claude Fable 5 的套餐内免费访问时间，最初该模型访问权限到 7 月 7 日结束，后来 A 社将其延期到 7 月 13 日。现在 A 社再次宣布延期，这次...",
-      "url": "https://www.landian.news/archives/113900.html",
-      "meta": "13 Jul 2026"
     },
     {
       "source": "SoPilot",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
