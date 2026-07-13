@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T11:17:03.631Z",
+  "updatedAt": "2026-07-13T13:40:15.675Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 693"
+      "meta": "Stars 694"
     },
     {
       "source": "Hacker News",
-      "title": "Bruno: An AI Product Manager for Scientists",
+      "title": "AI and Job Postings: From Destruction to Creation",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DApsytO0P2P",
+      "url": "https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13461 likes"
+      "meta": "13462 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.2万 粉 区块链行情研究 @ qkl2058 · 5小时前 发布 日本有个22岁的小伙子，用AI造了个虚拟网红，一个月下来变现了3548美元。 这个网红叫Lin，",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.2万 粉 区块链行情研究 @ qkl2058 · 8小时前 发布 日本有个22岁的小伙子，用AI造了个虚拟网红，一个月下来变现了3548美元。 这个网红叫Lin，",
       "url": "https://x.com/qkl2058/status/2076541952708030693?sid=ai-tweet-reply",
       "meta": "热帖"
     }
