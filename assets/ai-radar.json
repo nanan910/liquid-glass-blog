@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T18:45:42.055Z",
+  "updatedAt": "2026-07-13T20:18:31.868Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,17 +11,17 @@
     },
     {
       "source": "Hacker News",
-      "title": "Economists say 'we must act now' on AI's economic impact and job displacement",
+      "title": "SREs to AI agents: Prove yourself before you touch production",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee",
-      "meta": "2 points"
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13462 likes"
+      "meta": "13463 likes"
     },
     {
       "source": "DEV",
