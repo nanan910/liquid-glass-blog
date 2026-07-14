@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-14T11:57:15.498Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-07-14T14:01:29.434Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 700"
+      "meta": "Stars 799"
     },
     {
       "source": "Hacker News",
-      "title": "At CERN, AI will drive future discoveries",
+      "title": "Show HN: UFO – Open-source orchestration for running AI agents unattended",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.swissinfo.ch/eng/research-frontiers/at-cern-ai-will-drive-future-discoveries/91723774",
+      "url": "https://github.com/fengsi/ufo",
       "meta": "1 points"
     },
     {
@@ -31,15 +31,21 @@
       "meta": "64 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "A社开始在印度使用卢比定价Claude Pro/Max 但很遗憾并没有什么优惠",
+      "summary": "<p>A 社近期开始在印度采用当地货币卢比定价，此前 A 社在印度提供的 Claude Pro/Max 订阅主要通过美元定价，但现在改成卢比定价后价格也并没有便宜，所以希望迁移到印度区薅羊毛的...",
+      "url": "https://www.landian.news/archives/113927.html",
+      "meta": "14 Jul 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.9万 粉 AI Will @ FinanceYF5 · 5小时前 发布 大家都在吹百万token上下文，但Prime Intellect一位工程师说了句大实话：",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.9万 粉 AI Will @ FinanceYF5 · 7小时前 发布 大家都在吹百万token上下文，但Prime Intellect一位工程师说了句大实话：",
       "url": "https://x.com/FinanceYF5/status/2076916584938189192?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
