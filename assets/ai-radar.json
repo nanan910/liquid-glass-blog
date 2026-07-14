@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T18:40:20.105Z",
+  "updatedAt": "2026-07-14T20:15:48.297Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 800"
+      "meta": "Stars 801"
     },
     {
       "source": "Hacker News",
-      "title": "Linux Foundation's Latest Foray Is to Standardize Payments for AI Agents",
+      "title": "IBM sends 'shockwave' through tech industry with AI warning",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.phoronix.com/news/Linux-Foundation-x402",
+      "url": "https://www.msn.com/en-us/money/other/ibm-sends-shockwave-through-tech-industry-with-ai-warning/ar-AA27TcGM",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13468 likes"
+      "meta": "13469 likes"
     },
     {
       "source": "DEV",
