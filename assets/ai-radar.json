@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T05:54:03.972Z",
+  "updatedAt": "2026-07-14T08:16:03.020Z",
   "sourceCount": 5,
   "items": [
     {
@@ -11,30 +11,30 @@
     },
     {
       "source": "Hacker News",
-      "title": "Everybody Should Welcome Nationalizing AI",
+      "title": "Show HN: Neverswipe – your AI agent dates so you don't swipe",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://jacobin.com/2026/07/ai-nationalization-sanders-libertarians-property",
-      "meta": "2 points"
+      "url": "https://neverswipe.ai",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13464 likes"
+      "meta": "13465 likes"
     },
     {
       "source": "DEV",
       "title": "The Myth of the Post-Documentation Era",
       "summary": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
       "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
-      "meta": "63 reactions"
+      "meta": "64 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 16.0万 粉 歸藏(guizang.ai) @ op7418 · 2小时前 发布 Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的",
-      "url": "https://x.com/op7418/status/2076874065839878337?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.3万 粉 Andy Stewart @ manateelazycat · 3小时前 发布 旱的旱死，涝的涝死 有 V2EX 网友跑完 GPT-5.6 与 Clau",
+      "url": "https://x.com/manateelazycat/status/2076883203420512307?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
