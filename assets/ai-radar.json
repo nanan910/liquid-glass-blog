@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-14T15:59:51.098Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-07-14T17:24:05.469Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 799"
+      "meta": "Stars 800"
     },
     {
       "source": "Hacker News",
-      "title": "Why Shadow AI Detection Can Not Wait",
+      "title": "AI agent for Skylight Calendar Chore chart [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://konghq.com/blog/enterprise/shadow-ai-detection-enterprise-governance",
+      "url": "https://www.youtube.com/watch?v=EHghXf1IIo4",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "The Myth of the Post-Documentation Era",
-      "summary": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
-      "meta": "65 reactions"
+      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
+      "summary": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
+      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
+      "meta": "15 reactions"
     },
     {
       "source": "蓝点网",
@@ -36,11 +36,17 @@
       "summary": "<p>A 社近期开始在印度采用当地货币卢比定价，此前 A 社在印度提供的 Claude Pro/Max 订阅主要通过美元定价，但现在改成卢比定价后价格也并没有便宜，所以希望迁移到印度区薅羊毛的...",
       "url": "https://www.landian.news/archives/113927.html",
       "meta": "14 Jul 2026"
+    },
+    {
+      "source": "SoPilot",
+      "title": "热门 AI 讨论",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
+      "meta": "热帖"
     }
   ],
   "errors": [
     "https://newsnow.busiyi.world/ returned 403",
-    "https://tophub.today/c/tech returned 403",
-    "https://sopilot.net/zh/hot-tweets returned 502"
+    "https://tophub.today/c/tech returned 403"
   ]
 }
