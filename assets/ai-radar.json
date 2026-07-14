@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T21:31:14.247Z",
+  "updatedAt": "2026-07-14T22:59:48.509Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,10 +11,10 @@
     },
     {
       "source": "Hacker News",
-      "title": "How AI Is Changing How We Think, Talk and Relate to Each Other",
+      "title": "Why devs turn to Buildkite in the AI era",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.northeastern.edu/2026/07/01/ai-mental-health-impact-research/",
-      "meta": "1 points"
+      "url": "https://www.thestack.technology/buildkite-ai-developer-cicd/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "A Vibe Is Not a Verdict: I Built a Tool That's Allowed to Say 'I Don't Know'",
-      "summary": "My gut screamed scam. My tool said 'I don't know' — and that refusal is what actually cracked the case. An experiment in why honest CLIs beat confident ones.",
-      "url": "https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe",
-      "meta": "15 reactions"
+      "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
+      "summary": "I just got back from my vacation which, like 99% of Polish people, I spent in Croatia. Dobar dan!...",
+      "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
+      "meta": "12 reactions"
     },
     {
       "source": "蓝点网",
