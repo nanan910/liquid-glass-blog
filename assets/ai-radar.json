@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-13T23:57:26.616Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-07-14T03:21:25.905Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 696"
+      "meta": "Stars 698"
     },
     {
       "source": "Hacker News",
-      "title": "Tachyon: An AI Screen-Aware Tutor",
+      "title": "AI Isn't Human. Stop Talking About It Like It Is",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://heybraza.com",
+      "url": "https://www.thefp.com/p/artificial-intelligence-not-human",
       "meta": "1 points"
     },
     {
@@ -28,24 +28,18 @@
       "title": "The Myth of the Post-Documentation Era",
       "summary": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
       "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
-      "meta": "61 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "A社将Fable 5订阅内免费使用权限延长到7月19日 周限额提高50%活动也跟随延期",
-      "summary": "<p>A 社正在继续延长 Claude Fable 5 的套餐内免费访问时间，最初该模型访问权限到 7 月 7 日结束，后来 A 社将其延期到 7 月 13 日。现在 A 社再次宣布延期，这次...",
-      "url": "https://www.landian.news/archives/113900.html",
-      "meta": "13 Jul 2026"
+      "meta": "62 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.2万 粉 GitHubDaily @ GitHub_Daily · 3小时前 发布 让 AI 一口气做一个复杂大项目，做着做着就会迷路，上下文一长前面的需求全忘光",
+      "url": "https://x.com/GitHub_Daily/status/2076818985019158885?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
