@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T08:16:03.020Z",
+  "updatedAt": "2026-07-14T10:19:05.827Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 699"
+      "meta": "Stars 700"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Neverswipe – your AI agent dates so you don't swipe",
+      "title": "Show HN: QPilot – paste a manual test case, AI runs it in Chrome",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://neverswipe.ai",
+      "url": "https://github.com/broxhq/qpilot",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13465 likes"
+      "meta": "13466 likes"
     },
     {
       "source": "DEV",
@@ -33,8 +33,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.3万 粉 Andy Stewart @ manateelazycat · 3小时前 发布 旱的旱死，涝的涝死 有 V2EX 网友跑完 GPT-5.6 与 Clau",
-      "url": "https://x.com/manateelazycat/status/2076883203420512307?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.9万 粉 AI Will @ FinanceYF5 · 3小时前 发布 大家都在吹百万token上下文，但Prime Intellect一位工程师说了句大实话：",
+      "url": "https://x.com/FinanceYF5/status/2076916584938189192?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
