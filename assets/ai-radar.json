@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T10:54:57.309Z",
+  "updatedAt": "2026-07-15T12:18:42.327Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Anthropic's state-by-state plan to ratchet up AI rules",
+      "title": "Chamath Palihapitiya says soaring AI token spend will hit companies' earnings",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415",
+      "url": "https://www.cnbc.com/2026/07/14/chamath-palihapitiya-ai-tokenmaxxing.html",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13469 likes"
+      "meta": "13470 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.6万 粉 美研芒格君 @ Kay2289123 · 4小时前 发布 如果你投资了 $MU $SNDK ，亦或者是押注了 $MRVL $ALAB 至少1美元，我都强",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.6万 粉 美研芒格君 @ Kay2289123 · 5小时前 发布 如果你投资了 $MU $SNDK ，亦或者是押注了 $MRVL $ALAB 至少1美元，我都强",
       "url": "https://x.com/Kay2289123/status/2077281935349653596?sid=ai-tweet-reply",
       "meta": "热帖"
     }
