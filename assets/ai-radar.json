@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T17:48:56.912Z",
+  "updatedAt": "2026-07-15T19:18:05.514Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Codex Micro – a compact hardware controller for AI agents",
+      "title": "Show HN: Limits, an on-device iOS app for tracking AI usage limits",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://worklouder.cc/codex-micro",
+      "url": "https://getlimits.app",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13470 likes"
+      "meta": "13471 likes"
     },
     {
       "source": "DEV",
-      "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
-      "summary": "I just got back from my vacation which, like 99% of Polish people, I spent in Croatia. Dobar dan!...",
-      "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "meta": "62 reactions"
+      "title": "The AI Jackpot: Why Prompting Feels Like Gambling",
+      "summary": "This is more of a thought experiment than a firm stance.  I’m not really here to be pro-AI or...",
+      "url": "https://dev.to/brendon_oneill__/the-ai-jackpot-why-prompting-feels-like-gambling-1fj2",
+      "meta": "6 reactions"
     },
     {
       "source": "蓝点网",
