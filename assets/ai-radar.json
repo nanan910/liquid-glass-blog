@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T14:20:41.720Z",
+  "updatedAt": "2026-07-15T16:03:37.540Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 806"
+      "meta": "Stars 809"
     },
     {
       "source": "Hacker News",
-      "title": "Star Wars creator George Lucas makes bold statement AI's impact on Hollywood",
+      "title": "After Geneva, AI Governance Must Confront the Trust Deficit",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.dailymail.com/tvshowbiz/article-15977997/george-lucas-ai-impact-movie-industry.html",
+      "url": "https://www.techpolicy.press/after-geneva-ai-governance-must-confront-the-trust-deficit/",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
       "summary": "I just got back from my vacation which, like 99% of Polish people, I spent in Croatia. Dobar dan!...",
       "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "meta": "53 reactions"
+      "meta": "59 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.6万 粉 美研芒格君 @ Kay2289123 · 7小时前 发布 如果你投资了 $MU $SNDK ，亦或者是押注了 $MRVL $ALAB 至少1美元，我都强",
-      "url": "https://x.com/Kay2289123/status/2077281935349653596?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
