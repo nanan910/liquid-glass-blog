@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-15T06:19:43.047Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-07-15T08:55:25.727Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 802"
+      "meta": "Stars 804"
     },
     {
       "source": "Hacker News",
-      "title": "Sailboxes: Cloud environs for long horizon AI",
+      "title": "Which Doc Format Is Best for AI Specifications?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.sailresearch.com/blog/sailboxes-general-access",
+      "url": "http://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai.html",
       "meta": "1 points"
     },
     {
@@ -28,18 +28,24 @@
       "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
       "summary": "I just got back from my vacation which, like 99% of Polish people, I spent in Croatia. Dobar dan!...",
       "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "meta": "34 reactions"
+      "meta": "45 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "A社开始在印度使用卢比定价Claude Pro/Max 但很遗憾并没有什么优惠",
+      "summary": "<p>A 社近期开始在印度采用当地货币卢比定价，此前 A 社在印度提供的 Claude Pro/Max 订阅主要通过美元定价，但现在改成卢比定价后价格也并没有便宜，所以希望迁移到印度区薅羊毛的...",
+      "url": "https://www.landian.news/archives/113927.html",
+      "meta": "14 Jul 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.4万 粉 dontbesilent @ dontbesilent · 3小时前 发布 翻了一下自己的抖音，已经 39 天没有写过稿子了 上次写稿子发视频还是 6 ",
-      "url": "https://x.com/dontbesilent/status/2077229380254970241?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.2万 粉 AB Kuai.Dong @ _FORAB · 1小时前 发布 这次长鑫科技 IPO 打新，战略配售认购者名单里，出现了 DeepSeek 老板梁文锋",
+      "url": "https://x.com/_FORAB/status/2077290706394296815?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
