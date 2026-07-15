@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T08:55:25.727Z",
+  "updatedAt": "2026-07-15T10:54:57.309Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mereyabdenbekuly-ctrl/clodex-ide",
       "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "meta": "Stars 804"
+      "meta": "Stars 805"
     },
     {
       "source": "Hacker News",
-      "title": "Which Doc Format Is Best for AI Specifications?",
+      "title": "Anthropic's state-by-state plan to ratchet up AI rules",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "http://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai.html",
+      "url": "https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13468 likes"
+      "meta": "13469 likes"
     },
     {
       "source": "DEV",
       "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
       "summary": "I just got back from my vacation which, like 99% of Polish people, I spent in Croatia. Dobar dan!...",
       "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "meta": "45 reactions"
+      "meta": "48 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.2万 粉 AB Kuai.Dong @ _FORAB · 1小时前 发布 这次长鑫科技 IPO 打新，战略配售认购者名单里，出现了 DeepSeek 老板梁文锋",
-      "url": "https://x.com/_FORAB/status/2077290706394296815?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.6万 粉 美研芒格君 @ Kay2289123 · 4小时前 发布 如果你投资了 $MU $SNDK ，亦或者是押注了 $MRVL $ALAB 至少1美元，我都强",
+      "url": "https://x.com/Kay2289123/status/2077281935349653596?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
