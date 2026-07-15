@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T22:05:09.465Z",
+  "updatedAt": "2026-07-15T23:30:33.208Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 1159"
+      "meta": "Stars 1918"
     },
     {
       "source": "Hacker News",
-      "title": "AI Is Bayesian Evidence That We Live in a Simulation",
+      "title": "Tachyon: An on-screen AI that points, so you learn by doing",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://jamesfbaker.substack.com/p/ai-is-bayesian-evidence-that-we-live",
-      "meta": "2 points"
+      "url": "https://heybraza.com",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "The AI Jackpot: Why Prompting Feels Like Gambling",
-      "summary": "This is more of a thought experiment than a firm stance.  I’m not really here to be pro-AI or...",
-      "url": "https://dev.to/brendon_oneill__/the-ai-jackpot-why-prompting-feels-like-gambling-1fj2",
-      "meta": "6 reactions"
+      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "summary": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
+      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
+      "meta": "5 reactions"
     },
     {
       "source": "蓝点网",
