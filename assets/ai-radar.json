@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T23:30:33.208Z",
+  "updatedAt": "2026-07-16T02:53:46.079Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 1918"
+      "meta": "Stars 4446"
     },
     {
       "source": "Hacker News",
-      "title": "Tachyon: An on-screen AI that points, so you learn by doing",
+      "title": "Local-first agent governance: keeping an AI agent contained",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://heybraza.com",
+      "url": "https://vektorgeist.com/blog/local-first-agent-governance",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "summary": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
-      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
-      "meta": "5 reactions"
+      "title": "Métricas de qualidade de software na era da IA",
+      "summary": "Não é novidade para ninguém que estamos passando por uma transformação na área de desenvolvimento de...",
+      "url": "https://dev.to/he4rt/metricas-de-qualidade-de-software-na-era-da-ia-334o",
+      "meta": "112 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.8万 粉 Max For AI @ MaxForAI · 8小时前 发布 OpenAI的第一款硬件产品来了！ 真好看啊，就是有点贵（230刀） 这款产品叫Code",
+      "url": "https://x.com/MaxForAI/status/2077461109053997524?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
