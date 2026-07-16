@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T19:18:33.536Z",
+  "updatedAt": "2026-07-16T20:27:26.417Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 11426"
+      "meta": "Stars 11576"
     },
     {
       "source": "Hacker News",
-      "title": "Using AI for Good Episode 1: SpiralOS Concept",
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=48938896",
+      "url": "https://timelinescan.com/",
       "meta": "1 points"
     },
     {
