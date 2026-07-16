@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T16:19:53.338Z",
+  "updatedAt": "2026-07-16T17:46:55.936Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 10823"
+      "meta": "Stars 11186"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Ratel, give agents unlimited tools and skills without context bloat",
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/ratel-ai/ratel",
-      "meta": "4 points"
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
