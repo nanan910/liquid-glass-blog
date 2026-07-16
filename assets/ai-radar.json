@@ -1,27 +1,20 @@
 {
-  "updatedAt": "2026-07-16T05:44:13.935Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-07-16T08:21:08.770Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 6204"
+      "meta": "Stars 7675"
     },
     {
       "source": "Hacker News",
-      "title": "Lightweight Ukrainian drones flew for a record 12h to hit refinery 1,500M away",
+      "title": "Northstar – AI PR review for Azure DevOps teams (flat price, not per-seat)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.telegraph.co.uk/world-news/2026/07/13/ukrainian-long-range-drones-stretching-russia-air-defences/",
+      "url": "https://northstardevops.com/",
       "meta": "1 points"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "deepseek-ai/DeepSeek-R1",
-      "summary": "text-generation",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13471 likes"
     },
     {
       "source": "DEV",
@@ -40,12 +33,13 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 224.8万 粉 李老师不是你老师 @ whyyoutouzhele · 1小时前 发布 网传一份山东国企内部通知显示，相关单位正在全面排查Claude Code等境",
-      "url": "https://x.com/whyyoutouzhele/status/2077609167074767084?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.3万 粉 郭宇 guoyu.eth @ turingou · 2小时前 发布 最近在让 codex 管理家里的定期杂货采买，我发现它在尝试调用浏览器的时候，先使",
+      "url": "https://x.com/turingou/status/2077629455955116533?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://huggingface.co/api/models?sort=likes&direction=-1&limit=1&search=AI returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
