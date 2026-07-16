@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T10:28:06.555Z",
+  "updatedAt": "2026-07-16T12:04:54.026Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 8613"
+      "meta": "Stars 9205"
     },
     {
       "source": "Hacker News",
-      "title": "AI Knows What You Did Online. Now Your Employer Does, Too",
+      "title": "Show HN: Rackp – a protocol for deriving fault when AI agents cause incidents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wsj.com/lifestyle/careers/ai-knows-what-you-did-online-now-your-employer-does-too-49796adc",
-      "meta": "2 points"
+      "url": "https://github.com/rackp-io/rackp",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.2万 粉 小互 @ xiaohu · 5小时前 发布 Codex 皮肤🤣 这个项目可以给你Codex 更换各种皮肤和风格 哈哈哈 https://t.co/X",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.2万 粉 小互 @ xiaohu · 6小时前 发布 Codex 皮肤🤣 这个项目可以给你Codex 更换各种皮肤和风格 哈哈哈 https://t.co/X",
       "url": "https://x.com/xiaohu/status/2077623272079036748?sid=ai-tweet-reply",
       "meta": "热帖"
     }
