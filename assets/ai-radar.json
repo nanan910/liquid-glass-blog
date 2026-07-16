@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-07-16T08:21:08.770Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-07-16T10:28:06.555Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 7675"
+      "meta": "Stars 8613"
     },
     {
       "source": "Hacker News",
-      "title": "Northstar – AI PR review for Azure DevOps teams (flat price, not per-seat)",
+      "title": "AI Knows What You Did Online. Now Your Employer Does, Too",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://northstardevops.com/",
-      "meta": "1 points"
+      "url": "https://www.wsj.com/lifestyle/careers/ai-knows-what-you-did-online-now-your-employer-does-too-49796adc",
+      "meta": "2 points"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "deepseek-ai/DeepSeek-R1",
+      "summary": "text-generation",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "meta": "13474 likes"
     },
     {
       "source": "DEV",
@@ -33,13 +40,12 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.3万 粉 郭宇 guoyu.eth @ turingou · 2小时前 发布 最近在让 codex 管理家里的定期杂货采买，我发现它在尝试调用浏览器的时候，先使",
-      "url": "https://x.com/turingou/status/2077629455955116533?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.2万 粉 小互 @ xiaohu · 5小时前 发布 Codex 皮肤🤣 这个项目可以给你Codex 更换各种皮肤和风格 哈哈哈 https://t.co/X",
+      "url": "https://x.com/xiaohu/status/2077623272079036748?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://huggingface.co/api/models?sort=likes&direction=-1&limit=1&search=AI returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
