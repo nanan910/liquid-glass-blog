@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T21:36:13.375Z",
+  "updatedAt": "2026-07-16T23:00:56.692Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 11715"
+      "meta": "Stars 11858"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Darby, a Hugo docs theme with in-browser AI Q&A (no back end, no keys)",
+      "title": "Show HN: Moltshit.com – An Imageboard for AI Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://iamit.in/darby/",
+      "url": "https://moltshit.com",
       "meta": "1 points"
     },
     {
