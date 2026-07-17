@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T23:00:56.692Z",
+  "updatedAt": "2026-07-17T01:03:54.055Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 11858"
+      "meta": "Stars 12183"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Moltshit.com – An Imageboard for AI Agents",
+      "title": "Show HN: Git-temp (repo scratchpad for AI agents that won't clutter Git status)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://moltshit.com",
+      "url": "https://github.com/sebmellen/git-temp",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "summary": "Submission for DEV's Summer Bug Smash — Smash Stories track.  There was a file in my repo called...",
-      "url": "https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l",
-      "meta": "6 reactions"
+      "title": "What is an \"agentic harness,\" actually?",
+      "summary": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
+      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
+      "meta": "14 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.8万 粉 Max For AI @ MaxForAI · 1小时前 发布 这两张照片是2024年 @Kimi_Moonshot 邀请我去北京他们办公室时我随手拍的",
+      "url": "https://x.com/MaxForAI/status/2077894488031392125?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
