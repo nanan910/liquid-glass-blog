@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T12:43:19.068Z",
+  "updatedAt": "2026-07-17T14:46:33.496Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 14781"
+      "meta": "Stars 15251"
     },
     {
       "source": "Hacker News",
-      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "title": "AI's Wider Availability Is Good for China, Not Great for OpenAI and Anthropic",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-      "meta": "1 points"
+      "url": "https://www.wsj.com/tech/ai/cheaper-ai-commodity-openai-anthropic-0111da73",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "What is an \"agentic harness,\" actually?",
       "summary": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "meta": "15 reactions"
+      "meta": "16 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 9,943 粉 Leonard @ Leoskie_L · 6小时前 发布 ７／１７ 亞洲半導體大逃殺：基本面還沒死，槓桿先被抬出去 今天市場要講的東西很多，但全部濃",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 9,943 粉 Leonard @ Leoskie_L · 9小时前 发布 ７／１７ 亞洲半導體大逃殺：基本面還沒死，槓桿先被抬出去 今天市場要講的東西很多，但全部濃",
       "url": "https://x.com/Leoskie_L/status/2077992862369697964?sid=ai-tweet-reply",
       "meta": "热帖"
     }
