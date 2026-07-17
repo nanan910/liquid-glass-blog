@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T20:28:07.558Z",
+  "updatedAt": "2026-07-17T21:24:46.522Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 16108"
+      "meta": "Stars 16192"
     },
     {
       "source": "Hacker News",
-      "title": "China's Xi Jinping launches new AI alliance, WAICO",
+      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+      "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13475 likes"
+      "meta": "13476 likes"
     },
     {
       "source": "DEV",
