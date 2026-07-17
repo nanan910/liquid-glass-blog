@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:18:21.794Z",
+  "updatedAt": "2026-07-17T17:39:37.189Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 15565"
+      "meta": "Stars 15806"
     },
     {
       "source": "Hacker News",
-      "title": "Run AI Agents from Jira, Linear, GitHub Issues, or Markdown",
+      "title": "AI scans your expenses and shows you where to save",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/alexrolls/startup-factory",
+      "url": "https://scanticket.io/en",
       "meta": "1 points"
     },
     {
