@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T07:20:40.846Z",
+  "updatedAt": "2026-07-17T09:27:45.809Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 13698"
+      "meta": "Stars 14117"
     },
     {
       "source": "Hacker News",
-      "title": "A few thoughts on building a terminal ePub reader with AI",
+      "title": "Xi Jinping sets out China's goal to be global AI leader",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/newptcai/repy",
+      "url": "https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 6.3万 粉 Annie 所长 @ web3annie · 3小时前 发布 今日AI美股信息差： 1. 血洗半导体！美股平均跌幅-4.2%，A股-8.5%，2倍3倍 ",
-      "url": "https://x.com/web3annie/status/2077964813930799525?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 9,943 粉 Leonard @ Leoskie_L · 3小时前 发布 ７／１７ 亞洲半導體大逃殺：基本面還沒死，槓桿先被抬出去 今天市場要講的東西很多，但全部濃",
+      "url": "https://x.com/Leoskie_L/status/2077992862369697964?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
