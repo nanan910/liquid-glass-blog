@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T17:39:37.189Z",
+  "updatedAt": "2026-07-17T19:16:23.680Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 15806"
+      "meta": "Stars 15989"
     },
     {
       "source": "Hacker News",
-      "title": "AI scans your expenses and shows you where to save",
+      "title": "Meta accused of using AI to pick employees with medical conditions for layoffs",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://scanticket.io/en",
-      "meta": "1 points"
+      "url": "https://www.latimes.com/business/story/2026-07-16/meta-accused-of-using-ai-to-pick-employees-with-medical-conditions-for-layoffs",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "What is an \"agentic harness,\" actually?",
       "summary": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "meta": "16 reactions"
+      "meta": "17 reactions"
     },
     {
       "source": "蓝点网",
