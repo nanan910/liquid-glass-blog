@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T01:03:54.055Z",
+  "updatedAt": "2026-07-17T04:42:59.335Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 12183"
+      "meta": "Stars 13127"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Git-temp (repo scratchpad for AI agents that won't clutter Git status)",
+      "title": "China Just Dropped Another Bomb on America's Frontier AI Companies",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/sebmellen/git-temp",
+      "url": "https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.8万 粉 Max For AI @ MaxForAI · 1小时前 发布 这两张照片是2024年 @Kimi_Moonshot 邀请我去北京他们办公室时我随手拍的",
-      "url": "https://x.com/MaxForAI/status/2077894488031392125?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.5万 粉 拖拉机 @ tuolaji2024 · 4小时前 发布 kimi 3 被外国网友称为 DeepSeek 2.0 时刻了，确实有点意思，AI 自己动手设计",
+      "url": "https://x.com/tuolaji2024/status/2077915574370492604?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
