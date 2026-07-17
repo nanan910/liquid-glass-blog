@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T04:42:59.335Z",
+  "updatedAt": "2026-07-17T07:20:40.846Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 13127"
+      "meta": "Stars 13698"
     },
     {
       "source": "Hacker News",
-      "title": "China Just Dropped Another Bomb on America's Frontier AI Companies",
+      "title": "A few thoughts on building a terminal ePub reader with AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670",
+      "url": "https://github.com/newptcai/repy",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "What is an \"agentic harness,\" actually?",
       "summary": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
       "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "meta": "14 reactions"
+      "meta": "15 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.5万 粉 拖拉机 @ tuolaji2024 · 4小时前 发布 kimi 3 被外国网友称为 DeepSeek 2.0 时刻了，确实有点意思，AI 自己动手设计",
-      "url": "https://x.com/tuolaji2024/status/2077915574370492604?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 6.3万 粉 Annie 所长 @ web3annie · 3小时前 发布 今日AI美股信息差： 1. 血洗半导体！美股平均跌幅-4.2%，A股-8.5%，2倍3倍 ",
+      "url": "https://x.com/web3annie/status/2077964813930799525?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
