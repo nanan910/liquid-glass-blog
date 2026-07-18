@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T00:57:14.358Z",
+  "updatedAt": "2026-07-18T04:07:04.800Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 16475"
+      "meta": "Stars 16839"
     },
     {
       "source": "Hacker News",
-      "title": "Open Source Parametric DIY Air Purifier Builder",
+      "title": "Ask HN: Claude Code for Ordinary User",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.filterboxbuilder.com/",
+      "url": "https://news.ycombinator.com/item?id=48955119",
       "meta": "1 points"
     },
     {
@@ -32,16 +32,16 @@
     },
     {
       "source": "蓝点网",
-      "title": "Claude Code提前为所有订阅用户重置额度 Claude Fable 5又可以跑起来了",
-      "summary": "<p>如果你使用 Claude Code 那现在就可以去查看最新额度变化，A 社已经为所有付费订阅用户重置 5 小时和当周额度，重置意味着开发者可以重新使用 Claude Fable 5 模型...",
-      "url": "https://www.landian.news/archives/113955.html",
-      "meta": "16 Jul 2026"
+      "title": "A社宣布Claude Fable 5不再支持Claude Pro/团队标准版订阅用户免费使用",
+      "summary": "<p>A 社刚刚宣布从 2026 年 7 月 20 日开始 Claude Fable 5 不再支持 Claude Pro 和 Claude Team Standard 订阅内免费使用，后续开发...",
+      "url": "https://www.landian.news/archives/113966.html",
+      "meta": "18 Jul 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 3小时前 发布 kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得",
-      "url": "https://x.com/xiaomustock/status/2078226111373467737?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 12.4万 粉 Cos(余弦)😶‍🌫️ @ evilcos · 2小时前 发布 我们 @SlowMist_Team 已验证，玩 Claude Code 的注意这类",
+      "url": "https://x.com/evilcos/status/2078292370987335730?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
