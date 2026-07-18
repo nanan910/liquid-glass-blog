@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T16:31:25.978Z",
+  "updatedAt": "2026-07-18T17:57:51.571Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 18267"
+      "meta": "Stars 18397"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Talon – a self-hosted harness for long-lived AI agents",
+      "title": "Overtraining as the path to human-like AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/dylanneve1/talon",
-      "meta": "1 points"
+      "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
