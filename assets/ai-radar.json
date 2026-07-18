@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T09:58:55.113Z",
+  "updatedAt": "2026-07-18T11:13:57.451Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 17523"
+      "meta": "Stars 17636"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Go Micro – An agent harness and service framework in Go",
+      "title": "What AI did to stackoverflow in a graph",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/micro/go-micro",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
       "meta": "1 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.6万 粉 0x鸣人 @ LuBtc888 · 4小时前 发布 中国四大头部大模型创始人信息： 1、DeepSeek 创始人：梁文锋，1985 年，41 岁，广东湛",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.6万 粉 0x鸣人 @ LuBtc888 · 5小时前 发布 中国四大头部大模型创始人信息： 1、DeepSeek 创始人：梁文锋，1985 年，41 岁，广东湛",
       "url": "https://x.com/LuBtc888/status/2078353098729554218?sid=ai-tweet-reply",
       "meta": "热帖"
     }
