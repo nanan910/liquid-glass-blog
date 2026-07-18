@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T23:25:31.276Z",
+  "updatedAt": "2026-07-18T00:57:14.358Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 16352"
+      "meta": "Stars 16475"
     },
     {
       "source": "Hacker News",
-      "title": "Patreon Blocks AI Crawlers from Copying Content: 'Creators Deserve Compenstion'",
+      "title": "Open Source Parametric DIY Air Purifier Builder",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://petapixel.com/2026/07/13/patreon-blocks-ai-crawlers-from-copying-content-creators-deserve-compenstion/",
+      "url": "https://www.filterboxbuilder.com/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "What is an \"agentic harness,\" actually?",
-      "summary": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "meta": "17 reactions"
+      "title": "Porting a 128-expert MoE (Gemma-4 26B-A4B) to AWS Inferentia2 — where every rank weighted the wrong experts",
+      "summary": "The MoE was the hard one: a dual-path FFN, a sparse expert loop that won't trace, and a bug where the device output was empty while the CPU reference was perfect and every unit test passed.",
+      "url": "https://dev.to/xbill/porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-2ege",
+      "meta": "2 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 3小时前 发布 kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得",
+      "url": "https://x.com/xiaomustock/status/2078226111373467737?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
