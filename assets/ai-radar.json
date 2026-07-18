@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T21:25:42.333Z",
+  "updatedAt": "2026-07-18T22:25:37.532Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 18618"
+      "meta": "Stars 18670"
     },
     {
       "source": "Hacker News",
-      "title": "AI for Bug Bounty with VulneraMCP",
+      "title": "SafeAI – Open-Source Static AI Risk Analyzer for AI Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.zaproxy.org/blog/2025-11-28-enhancing-zap-with-ai-for-bug-bounty-hunting/",
+      "url": "https://github.com/ikaruscareer/SafeAI",
       "meta": "1 points"
     },
     {
