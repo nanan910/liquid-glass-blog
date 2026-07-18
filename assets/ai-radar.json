@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T15:29:46.628Z",
+  "updatedAt": "2026-07-18T16:31:25.978Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 18135"
+      "meta": "Stars 18267"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: PrimeTask, an offline-first work OS with BYO AI through MCP",
+      "title": "Show HN: Talon – a self-hosted harness for long-lived AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.primetask.app/",
+      "url": "https://github.com/dylanneve1/talon",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13476 likes"
+      "meta": "13478 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.6万 粉 0x鸣人 @ LuBtc888 · 9小时前 发布 中国四大头部大模型创始人信息： 1、DeepSeek 创始人：梁文锋，1985 年，41 岁，广东湛",
-      "url": "https://x.com/LuBtc888/status/2078353098729554218?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
