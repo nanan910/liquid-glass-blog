@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T22:25:37.532Z",
+  "updatedAt": "2026-07-18T23:28:07.705Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 18670"
+      "meta": "Stars 18713"
     },
     {
       "source": "Hacker News",
-      "title": "SafeAI – Open-Source Static AI Risk Analyzer for AI Agents",
+      "title": "Show HN: Ilya Sutskever's AI reading list into a learning RPG – using kimi k3",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/ikaruscareer/SafeAI",
-      "meta": "1 points"
+      "url": "https://ilya-papers-quest.naigap.com/#/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
