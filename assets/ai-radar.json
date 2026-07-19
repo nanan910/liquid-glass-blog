@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T18:28:57.665Z",
+  "updatedAt": "2026-07-19T19:45:52.191Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 19899"
+      "meta": "Stars 19927"
     },
     {
       "source": "Hacker News",
-      "title": "Huginn: An AI Agent Activity Console",
+      "title": "Welcome to the wild world of AI Argentina",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/tohuw/huginn",
-      "meta": "1 points"
+      "url": "https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
