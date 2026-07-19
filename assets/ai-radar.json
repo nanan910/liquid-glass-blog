@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T21:58:04.993Z",
+  "updatedAt": "2026-07-19T23:02:26.532Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 19963"
+      "meta": "Stars 19982"
     },
     {
       "source": "Hacker News",
-      "title": "Is AI Progress Real? Four Independent Metrics Show It",
+      "title": "Deploy AI agent in 5 lines of code",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://skepticcto.substack.com/p/is-ai-progress-real-a-skepticcto",
+      "url": "https://www.custodianlabs.io",
       "meta": "1 points"
     },
     {
