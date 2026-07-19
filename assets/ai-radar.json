@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T23:28:07.705Z",
+  "updatedAt": "2026-07-19T01:04:34.760Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 18713"
+      "meta": "Stars 18822"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Ilya Sutskever's AI reading list into a learning RPG – using kimi k3",
+      "title": "AI Assisted Vulnerability Research on Embedded Targets",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://ilya-papers-quest.naigap.com/#/",
-      "meta": "2 points"
+      "url": "https://quentinkaiser.be/security/2026/07/18/ia-assisted-vuln-research/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13479 likes"
+      "meta": "13480 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.2万 粉 宝玉 @ dotey · 6小时前 发布 Claude 前一段时间把每周限额临时提升了 50%，客观说效果还是挺好的，要是用 Opus 4.8 的话比",
+      "url": "https://x.com/dotey/status/2078542101340442638?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
