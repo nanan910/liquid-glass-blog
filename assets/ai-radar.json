@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-19T15:31:28.787Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-07-19T17:02:59.722Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 19809"
+      "meta": "Stars 19865"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Skimlane – A local-first, customizable, AI reading assistant for Chrome",
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://skimlane.com/",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "meta": "1 points"
     },
     {
@@ -31,21 +31,15 @@
       "meta": "2 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "A社宣布Claude Fable 5不再支持Claude Pro/团队标准版订阅用户免费使用",
-      "summary": "<p>A 社刚刚宣布从 2026 年 7 月 20 日开始 Claude Fable 5 不再支持 Claude Pro 和 Claude Team Standard 订阅内免费使用，后续开发...",
-      "url": "https://www.landian.news/archives/113966.html",
-      "meta": "18 Jul 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.3万 粉 AB Kuai.Dong @ _FORAB · 8小时前 发布 有趣了，一夜之间都在传 DeepSeek V4 正式版将上线，而且性能大概率会与 Ki",
-      "url": "https://x.com/_FORAB/status/2078740696388030522?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
