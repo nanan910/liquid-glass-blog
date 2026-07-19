@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T19:45:52.191Z",
+  "updatedAt": "2026-07-19T20:55:29.250Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 19927"
+      "meta": "Stars 19945"
     },
     {
       "source": "Hacker News",
-      "title": "Welcome to the wild world of AI Argentina",
+      "title": "I built an AI operating system after getting tired of repetitive work",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations",
-      "meta": "3 points"
+      "url": "https://lynx.apex7ai.com",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
