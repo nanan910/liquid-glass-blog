@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-19T17:02:59.722Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-07-19T18:28:57.665Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 19865"
+      "meta": "Stars 19899"
     },
     {
       "source": "Hacker News",
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "title": "Huginn: An AI Agent Activity Console",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "url": "https://github.com/tohuw/huginn",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13482 likes"
+      "meta": "13483 likes"
     },
     {
       "source": "DEV",
@@ -29,6 +29,13 @@
       "summary": "The MoE was the hard one: a dual-path FFN, a sparse expert loop that won't trace, and a bug where the device output was empty while the CPU reference was perfect and every unit test passed.",
       "url": "https://dev.to/xbill/porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-2ege",
       "meta": "2 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "A社宣布Claude Fable 5不再支持Claude Pro/团队标准版订阅用户免费使用",
+      "summary": "<p>A 社刚刚宣布从 2026 年 7 月 20 日开始 Claude Fable 5 不再支持 Claude Pro 和 Claude Team Standard 订阅内免费使用，后续开发...",
+      "url": "https://www.landian.news/archives/113966.html",
+      "meta": "18 Jul 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
