@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T01:04:34.760Z",
+  "updatedAt": "2026-07-19T04:50:31.528Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 18822"
+      "meta": "Stars 19132"
     },
     {
       "source": "Hacker News",
-      "title": "AI Assisted Vulnerability Research on Embedded Targets",
+      "title": "Netflix Pays $587M for Ben Affleck's AI Startup InterPositive",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://quentinkaiser.be/security/2026/07/18/ia-assisted-vuln-research/",
-      "meta": "1 points"
+      "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.2万 粉 宝玉 @ dotey · 6小时前 发布 Claude 前一段时间把每周限额临时提升了 50%，客观说效果还是挺好的，要是用 Opus 4.8 的话比",
-      "url": "https://x.com/dotey/status/2078542101340442638?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 224.2万 粉 李老师不是你老师 @ whyyoutouzhele · 1小时前 发布 月之暗面发布Kimi K3，中美AI差距或已大幅缩小 彭博社7月18日报道，",
+      "url": "https://x.com/whyyoutouzhele/status/2078683751043751971?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
