@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T07:28:49.919Z",
+  "updatedAt": "2026-07-19T09:29:40.668Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 19363"
+      "meta": "Stars 19533"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: PilotCite – Monitor how AI platforms cite and describe your brand",
+      "title": "Show HN: Zlvox – A no-signup suite of developer tools (JSON, Temp Mail, PDF)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.pilotcite.com",
+      "url": "https://zlvox.com/blog/why-i-stopped-using-random-online-ai-tools-2026",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 224.2万 粉 李老师不是你老师 @ whyyoutouzhele · 3小时前 发布 月之暗面发布Kimi K3，中美AI差距或已大幅缩小 彭博社7月18日报道，",
-      "url": "https://x.com/whyyoutouzhele/status/2078683751043751971?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.3万 粉 AB Kuai.Dong @ _FORAB · 2小时前 发布 有趣了，一夜之间都在传 DeepSeek V4 正式版将上线，而且性能大概率会与 Ki",
+      "url": "https://x.com/_FORAB/status/2078740696388030522?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
