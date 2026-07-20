@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T18:08:06.973Z",
+  "updatedAt": "2026-07-20T20:07:33.774Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 20706"
+      "meta": "Stars 20734"
     },
     {
       "source": "Hacker News",
-      "title": "AI Agents in Production: Why 88% of Enterprise Pilots Fail",
+      "title": "Cursor: SQLite rebuilt from manual with different model agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://stacknotice.com/blog/enterprise-ai-agents-production-2026",
-      "meta": "2 points"
+      "url": "https://twitter.com/cursor_ai/status/2079256614238814551",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
