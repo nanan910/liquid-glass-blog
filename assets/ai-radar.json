@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T21:44:09.865Z",
+  "updatedAt": "2026-07-20T23:03:51.886Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 20750"
+      "meta": "Stars 20764"
     },
     {
       "source": "Hacker News",
-      "title": "Ramp AI Router",
+      "title": "Colibrì proof-of-concept gains frontier-level 1.5-TB AI model",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://router-website-ramp.vercel.app/router",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups",
       "meta": "1 points"
     },
     {
