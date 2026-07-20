@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T15:30:39.295Z",
+  "updatedAt": "2026-07-20T18:08:06.973Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 20643"
+      "meta": "Stars 20706"
     },
     {
       "source": "Hacker News",
-      "title": "Current Opinions on AI Generation",
+      "title": "AI Agents in Production: Why 88% of Enterprise Pilots Fail",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://risingthumb.xyz/Writing/Blog/Current_Opinions_on_AI_Generation",
-      "meta": "1 points"
+      "url": "https://stacknotice.com/blog/enterprise-ai-agents-production-2026",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13486 likes"
+      "meta": "13489 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 17.5万 粉 Orange AI @ oran_ge · 9小时前 发布 如果 Qwen 3.8 真的超越了 GPT 5.6 那中国模型和美国模型的差距就缩短到了 ",
-      "url": "https://x.com/oran_ge/status/2079079643177787448?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
