@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T20:07:33.774Z",
+  "updatedAt": "2026-07-20T21:44:09.865Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 20734"
+      "meta": "Stars 20750"
     },
     {
       "source": "Hacker News",
-      "title": "Cursor: SQLite rebuilt from manual with different model agents",
+      "title": "Ramp AI Router",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://twitter.com/cursor_ai/status/2079256614238814551",
+      "url": "https://router-website-ramp.vercel.app/router",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13489 likes"
+      "meta": "13490 likes"
     },
     {
       "source": "DEV",
