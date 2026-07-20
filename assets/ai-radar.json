@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T01:05:29.099Z",
+  "updatedAt": "2026-07-20T05:07:23.606Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 20052"
+      "meta": "Stars 20275"
     },
     {
       "source": "Hacker News",
-      "title": "Website Screen Capture: Recordings Your AI Can Read",
+      "title": "Show HN: A fast, free AI text humanizer powered by Groq Llama 3.3",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://cbrowser.ai/blog/screen-capture-recordings-your-ai-can-read/",
+      "url": "https://zlvox.com/tools/ai-humanizer",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Stratagems #18: Leo Tracked an AI Signal to Derek. Both Were Looking for the Same Enemy.",
-      "summary": "Capture the ringleader first. The rest will scatter on their own. — The 36 Stratagems, Capture the...",
-      "url": "https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4",
-      "meta": "37 reactions"
+      "title": "I Rewrote a OneNote MCP Server in TypeScript — Here's What I Learned About Microsoft Graph Auth",
+      "summary": "If you use Claude, Cursor, or any MCP-compatible AI assistant, you've probably noticed how useful it...",
+      "url": "https://dev.to/singhamandeep007/i-rewrote-a-onenote-mcp-server-in-typescript-heres-what-i-learned-about-microsoft-graph-auth-5933",
+      "meta": "9 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.7万 粉 ⧫ Alan Chen ⧫(alanchentsla.eth） @ alanchen · 4小时前 发布 48 小时, K3 把自己的 GPU 用完了。",
-      "url": "https://x.com/alanchen/status/2078941441351647714?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.3万 粉 AB Kuai.Dong @ _FORAB · 2小时前 发布 上周 Kimi，本周 Qwen 3.8、DeepSeek V4 GA 今天 GLM 的",
+      "url": "https://x.com/_FORAB/status/2079036886665048425?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
