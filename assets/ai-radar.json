@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T13:27:03.828Z",
+  "updatedAt": "2026-07-20T15:30:39.295Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "xai-org/grok-build",
       "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 20580"
+      "meta": "Stars 20643"
     },
     {
       "source": "Hacker News",
-      "title": "Self-Service Ransomware as Security Against Local AI Tools",
+      "title": "Current Opinions on AI Generation",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools",
+      "url": "https://risingthumb.xyz/Writing/Blog/Current_Opinions_on_AI_Generation",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "I Rewrote a OneNote MCP Server in TypeScript — Here's What I Learned About Microsoft Graph Auth",
-      "summary": "If you use Claude, Cursor, or any MCP-compatible AI assistant, you've probably noticed how useful it...",
-      "url": "https://dev.to/singhamandeep007/i-rewrote-a-onenote-mcp-server-in-typescript-heres-what-i-learned-about-microsoft-graph-auth-5933",
-      "meta": "9 reactions"
+      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
+      "summary": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
+      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
+      "meta": "6 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 17.5万 粉 Orange AI @ oran_ge · 7小时前 发布 如果 Qwen 3.8 真的超越了 GPT 5.6 那中国模型和美国模型的差距就缩短到了 ",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 17.5万 粉 Orange AI @ oran_ge · 9小时前 发布 如果 Qwen 3.8 真的超越了 GPT 5.6 那中国模型和美国模型的差距就缩短到了 ",
       "url": "https://x.com/oran_ge/status/2079079643177787448?sid=ai-tweet-reply",
       "meta": "热帖"
     }
