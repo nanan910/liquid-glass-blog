@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T14:35:45.042Z",
+  "updatedAt": "2026-07-21T16:25:31.021Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 1147"
+      "meta": "Stars 1207"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Ctoken – CLI util to count LLM tokens in files, dirs or input",
+      "title": "Moto – a new AI video editor with editable prompt-to-motion graphics",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/RimantasZ/ctoken",
+      "url": "https://usemoto.app/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13491 likes"
+      "meta": "13492 likes"
     },
     {
       "source": "DEV",
       "title": "4 Silent Failures, 2 Undocumented APIs, and a Container That Crashed Because of a Missing User Directive",
       "summary": "What happened when I tried to deploy a CrewAI agent to AWS Bedrock AgentCore. Every error was a 200 OK. Every fix took hours to find. Here's the full debugging trail.",
       "url": "https://dev.to/sarvar_04/4-silent-failures-2-undocumented-apis-and-a-container-that-crashed-because-of-a-missing-user-1b9n",
-      "meta": "20 reactions"
+      "meta": "21 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.7万 粉 向阳乔木 @ vista8 · 10小时前 发布 Kimi 研究员震惊了，一个普通 OpenAI 研究员拥有的算力资源有多恐怖。 当下模型排行也很认可",
-      "url": "https://x.com/vista8/status/2079413359854694584?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
