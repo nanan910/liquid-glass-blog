@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T07:34:38.599Z",
+  "updatedAt": "2026-07-21T10:27:57.561Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 934"
+      "meta": "Stars 988"
     },
     {
       "source": "Hacker News",
-      "title": "Paraphraser AI – a rewriter with controls for meaning, tone, and keywords",
+      "title": "Is AI Curing the Loneliness Epidemic, or Profiting from It?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://tryparaphraser.com/",
-      "meta": "1 points"
+      "url": "https://mrkt30.com/is-ai-curing-the-loneliness-epidemic-or-profiting-from-it/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.7万 粉 向阳乔木 @ vista8 · 3小时前 发布 Kimi 研究员震惊了，一个普通 OpenAI 研究员拥有的算力资源有多恐怖。 当下模型排行也很认可：",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.7万 粉 向阳乔木 @ vista8 · 6小时前 发布 Kimi 研究员震惊了，一个普通 OpenAI 研究员拥有的算力资源有多恐怖。 当下模型排行也很认可：",
       "url": "https://x.com/vista8/status/2079413359854694584?sid=ai-tweet-reply",
       "meta": "热帖"
     }
