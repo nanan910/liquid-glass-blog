@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T16:25:31.021Z",
+  "updatedAt": "2026-07-21T17:54:23.579Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 1207"
+      "meta": "Stars 1255"
     },
     {
       "source": "Hacker News",
-      "title": "Moto – a new AI video editor with editable prompt-to-motion graphics",
+      "title": "The secret Trump administration battle to fight Chinese AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://usemoto.app/",
+      "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "4 Silent Failures, 2 Undocumented APIs, and a Container That Crashed Because of a Missing User Directive",
-      "summary": "What happened when I tried to deploy a CrewAI agent to AWS Bedrock AgentCore. Every error was a 200 OK. Every fix took hours to find. Here's the full debugging trail.",
-      "url": "https://dev.to/sarvar_04/4-silent-failures-2-undocumented-apis-and-a-container-that-crashed-because-of-a-missing-user-1b9n",
-      "meta": "21 reactions"
+      "title": "You can build it. Should you?",
+      "summary": "I've spent my career helping people build software. This is a series of letters about what happens...",
+      "url": "https://dev.to/jennapederson/you-can-build-it-should-you-9e0",
+      "meta": "7 reactions"
     },
     {
       "source": "蓝点网",
