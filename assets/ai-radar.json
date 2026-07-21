@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T21:14:33.211Z",
+  "updatedAt": "2026-07-21T22:27:45.581Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 1404"
+      "meta": "Stars 1460"
     },
     {
       "source": "Hacker News",
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "title": "15% of long-form Reddit posts are AI-written (41% in R/CryptoCurrency)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "meta": "1 points"
+      "url": "https://www.subsignal.ai/blog/how-much-of-reddit-is-ai",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
