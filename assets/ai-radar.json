@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T01:00:14.633Z",
+  "updatedAt": "2026-07-21T04:48:48.485Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "nethical6/conversation-steganography",
       "summary": "Use LLMs to hide messages inside normal looking conversations",
       "url": "https://github.com/nethical6/conversation-steganography",
-      "meta": "Stars 880"
+      "meta": "Stars 884"
     },
     {
       "source": "Hacker News",
-      "title": "Turning robot video into training-ready data",
+      "title": "AI's solution to 87-year-old riddle takes mathematicians by surprise",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.eventual.ai/blog/announcing-daft-physical-ai",
-      "meta": "1 points"
+      "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -32,16 +32,16 @@
     },
     {
       "source": "蓝点网",
-      "title": "A社宣布Claude Fable 5不再支持Claude Pro/团队标准版订阅用户免费使用",
-      "summary": "<p>A 社刚刚宣布从 2026 年 7 月 20 日开始 Claude Fable 5 不再支持 Claude Pro 和 Claude Team Standard 订阅内免费使用，后续开发...",
-      "url": "https://www.landian.news/archives/113966.html",
-      "meta": "18 Jul 2026"
+      "title": "A社调整Claude Team订阅成员限制 起步从5人下调到2人以便更多小团队开通订阅",
+      "summary": "<p>A 社本周发布消息宣布调整 Claude Team 团队版订阅，此次调整主要涉及成员人数变化而不是价格变化，原本团队订阅最起码要开通 5 个订阅席位，此次更新后缩减到 2 个席位，这样更...",
+      "url": "https://www.landian.news/archives/114004.html",
+      "meta": "21 Jul 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1,358 粉 CatsJuice @ cats_juice · 7小时前 发布 想起当年手 k 过这个效果，现在用 GPT 5.6 Sol 很轻松就实现了，还支持了",
-      "url": "https://x.com/cats_juice/status/2079263950538248276?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 6.0万 粉 数字生命卡兹克 @ Khazix0918 · 3小时前 发布 啊？开着GPT-5.6 Sol Ultra干个AIHOT的聚类工程任务，因为发现现在市面上",
+      "url": "https://x.com/Khazix0918/status/2079381435732160899?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
