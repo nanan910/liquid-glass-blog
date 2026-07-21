@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T17:54:23.579Z",
+  "updatedAt": "2026-07-21T19:36:52.444Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 1255"
+      "meta": "Stars 1334"
     },
     {
       "source": "Hacker News",
-      "title": "The secret Trump administration battle to fight Chinese AI",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "You can build it. Should you?",
       "summary": "I've spent my career helping people build software. This is a series of letters about what happens...",
       "url": "https://dev.to/jennapederson/you-can-build-it-should-you-9e0",
-      "meta": "7 reactions"
+      "meta": "9 reactions"
     },
     {
       "source": "蓝点网",
