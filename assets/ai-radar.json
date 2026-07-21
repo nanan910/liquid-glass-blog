@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T22:27:45.581Z",
+  "updatedAt": "2026-07-21T23:32:10.462Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 1460"
+      "meta": "Stars 1522"
     },
     {
       "source": "Hacker News",
-      "title": "15% of long-form Reddit posts are AI-written (41% in R/CryptoCurrency)",
+      "title": "EC: 'Guidance to Google for AI Interoperability on Android'",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.subsignal.ai/blog/how-much-of-reddit-is-ai",
-      "meta": "3 points"
+      "url": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
