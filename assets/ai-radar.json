@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-20T23:03:51.886Z",
+  "updatedAt": "2026-07-21T01:00:14.633Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "xai-org/grok-build",
-      "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "url": "https://github.com/xai-org/grok-build",
-      "meta": "Stars 20764"
+      "title": "nethical6/conversation-steganography",
+      "summary": "Use LLMs to hide messages inside normal looking conversations",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "meta": "Stars 880"
     },
     {
       "source": "Hacker News",
-      "title": "Colibrì proof-of-concept gains frontier-level 1.5-TB AI model",
+      "title": "Turning robot video into training-ready data",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups",
+      "url": "https://www.eventual.ai/blog/announcing-daft-physical-ai",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1,358 粉 CatsJuice @ cats_juice · 7小时前 发布 想起当年手 k 过这个效果，现在用 GPT 5.6 Sol 很轻松就实现了，还支持了",
+      "url": "https://x.com/cats_juice/status/2079263950538248276?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
