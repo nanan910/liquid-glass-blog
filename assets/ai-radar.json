@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-07-21T04:48:48.485Z",
+  "updatedAt": "2026-07-21T07:34:38.599Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "nethical6/conversation-steganography",
-      "summary": "Use LLMs to hide messages inside normal looking conversations",
-      "url": "https://github.com/nethical6/conversation-steganography",
-      "meta": "Stars 884"
+      "title": "lopopolo/harness-engineering",
+      "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "meta": "Stars 934"
     },
     {
       "source": "Hacker News",
-      "title": "AI's solution to 87-year-old riddle takes mathematicians by surprise",
+      "title": "Paraphraser AI – a rewriter with controls for meaning, tone, and keywords",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
-      "meta": "2 points"
+      "url": "https://tryparaphraser.com/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13490 likes"
+      "meta": "13491 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 6.0万 粉 数字生命卡兹克 @ Khazix0918 · 3小时前 发布 啊？开着GPT-5.6 Sol Ultra干个AIHOT的聚类工程任务，因为发现现在市面上",
-      "url": "https://x.com/Khazix0918/status/2079381435732160899?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.7万 粉 向阳乔木 @ vista8 · 3小时前 发布 Kimi 研究员震惊了，一个普通 OpenAI 研究员拥有的算力资源有多恐怖。 当下模型排行也很认可：",
+      "url": "https://x.com/vista8/status/2079413359854694584?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
