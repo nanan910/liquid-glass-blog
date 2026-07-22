@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T18:15:14.854Z",
+  "updatedAt": "2026-07-22T19:52:58.239Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2149"
+      "meta": "Stars 2163"
     },
     {
       "source": "Hacker News",
-      "title": "Oido Studio – Build AI employees that run your business",
+      "title": "Show HN: The Harbinger: NHI and Security Policies for Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://oidostudio.com",
+      "url": "https://github.com/n0tduck1e/theharbinger",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "What is a context window, actually?",
-      "summary": "AI is moving fast, and it feels like there's a new concept to learn every week. In an effort to...",
-      "url": "https://dev.to/ale3oula/what-is-a-context-window-actually-13l6",
-      "meta": "9 reactions"
+      "title": "Substack's New AI Detector Has the Same Blind Spot DEV.to's Did",
+      "summary": "Substack shipped an AI detector this week. Every post, note, and comment over 100 words can now be...",
+      "url": "https://dev.to/dannwaneri/substacks-new-ai-detector-has-the-same-blind-spot-devtos-did-103j",
+      "meta": "28 reactions"
     },
     {
       "source": "蓝点网",
