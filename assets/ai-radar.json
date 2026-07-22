@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T05:56:12.448Z",
+  "updatedAt": "2026-07-22T08:38:25.266Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 1797"
+      "meta": "Stars 1917"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: A new kind of FPS aim trainer",
+      "title": "OpenAI says AI models went rogue during testing",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://openaim.pramit.gg/",
+      "url": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
       "meta": "2 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13492 likes"
+      "meta": "13493 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 2小时前 发布 昨天openai的模型在沙盒环境下逃逸了， 出去攻击了huggung face",
-      "url": "https://x.com/xiaomustock/status/2079763854675095779?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 19.0万 粉 AI Will @ FinanceYF5 · 4小时前 发布 1/ Kimi CEO杨植麟说了句挺扎心的话：所有实验室都搞错了重点。 他说，包括Cla",
+      "url": "https://x.com/FinanceYF5/status/2079779621101556052?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
