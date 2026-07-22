@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T23:32:10.462Z",
+  "updatedAt": "2026-07-22T02:57:00.134Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 1522"
+      "meta": "Stars 1672"
     },
     {
       "source": "Hacker News",
-      "title": "EC: 'Guidance to Google for AI Interoperability on Android'",
+      "title": "The AI Bubble Is No Ordinary Bubble",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing",
-      "meta": "1 points"
+      "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -28,20 +28,20 @@
       "title": "You can build it. Should you?",
       "summary": "I've spent my career helping people build software. This is a series of letters about what happens...",
       "url": "https://dev.to/jennapederson/you-can-build-it-should-you-9e0",
-      "meta": "10 reactions"
+      "meta": "11 reactions"
     },
     {
       "source": "蓝点网",
-      "title": "A社调整Claude Team订阅成员限制 起步从5人下调到2人以便更多小团队开通订阅",
-      "summary": "<p>A 社本周发布消息宣布调整 Claude Team 团队版订阅，此次调整主要涉及成员人数变化而不是价格变化，原本团队订阅最起码要开通 5 个订阅席位，此次更新后缩减到 2 个席位，这样更...",
-      "url": "https://www.landian.news/archives/114004.html",
-      "meta": "21 Jul 2026"
+      "title": "法院批准A社与作者和出版社的15亿美元和解协议 初步解决A社使用盗版图书训练模型问题",
+      "summary": "<p>2024 年美国多名作家和出版社联合对人工智能公司 Anthropic 发起诉讼，指控该公司在没有取得授权的情况下，擅自使用各种版权图书训练人工智能模型。具体来说 A 社从盗版网络图书馆...",
+      "url": "https://www.landian.news/archives/114026.html",
+      "meta": "22 Jul 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.2万 粉 宝玉 @ dotey · 4小时前 发布 OpenAI 今天承认，上周 Hugging Face 遭遇的那次“史上首例 AI 自主入侵事件”，攻击者就",
+      "url": "https://x.com/dotey/status/2079698092060709342?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
