@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-22T11:13:14.867Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-07-22T13:01:02.136Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 1984"
+      "meta": "Stars 2027"
     },
     {
       "source": "Hacker News",
-      "title": "AI investment boom puts Big Tech's free cash flow under pressure",
+      "title": "Ask HN: Alternative Careers in the Age of AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22/",
+      "url": "https://news.ycombinator.com/item?id=49006088",
       "meta": "2 points"
     },
     {
@@ -31,15 +31,21 @@
       "meta": "19 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "法院批准A社与作者和出版社的15亿美元和解协议 初步解决A社使用盗版图书训练模型问题",
+      "summary": "<p>2024 年美国多名作家和出版社联合对人工智能公司 Anthropic 发起诉讼，指控该公司在没有取得授权的情况下，擅自使用各种版权图书训练人工智能模型。具体来说 A 社从盗版网络图书馆...",
+      "url": "https://www.landian.news/archives/114026.html",
+      "meta": "22 Jul 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.4万 粉 AB Kuai.Dong @ _FORAB · 6小时前 发布 太离谱了。OpenAI 想测自己的 ChatGPT 新模型到底有多强，能不能自己写黑客",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.4万 粉 AB Kuai.Dong @ _FORAB · 8小时前 发布 太离谱了。OpenAI 想测自己的 ChatGPT 新模型到底有多强，能不能自己写黑客",
       "url": "https://x.com/_FORAB/status/2079787210539459056?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
