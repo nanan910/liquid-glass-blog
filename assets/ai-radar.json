@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T15:20:40.356Z",
+  "updatedAt": "2026-07-22T16:56:44.211Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2095"
+      "meta": "Stars 2133"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Anakin – API for your AI agents to access the most difficult websites",
+      "title": "Building an AI-orchestrated publishing workflow for a long-form writing project",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://anakin.io",
-      "meta": "2 points"
+      "url": "https://news.ycombinator.com/item?id=49009663",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "You can build it. Should you?",
-      "summary": "I've spent my career helping people build software. This is a series of letters about what happens...",
-      "url": "https://dev.to/jennapederson/you-can-build-it-should-you-9e0",
-      "meta": "23 reactions"
+      "title": "What is a context window, actually?",
+      "summary": "AI is moving fast, and it feels like there's a new concept to learn every week. In an effort to...",
+      "url": "https://dev.to/ale3oula/what-is-a-context-window-actually-13l6",
+      "meta": "9 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.4万 粉 AB Kuai.Dong @ _FORAB · 10小时前 发布 太离谱了。OpenAI 想测自己的 ChatGPT 新模型到底有多强，能不能自己写黑",
-      "url": "https://x.com/_FORAB/status/2079787210539459056?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
