@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T21:13:25.438Z",
+  "updatedAt": "2026-07-22T22:34:04.220Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2177"
+      "meta": "Stars 2182"
     },
     {
       "source": "Hacker News",
-      "title": "Google beats quarterly revenue expectations off of enterprise AI surge",
+      "title": "Sanctions and Entity List designations are on the table for Chinese AI models",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/business/google-quarterly-cloud-revenue-growth-beats-expectations-2026-07-22/",
+      "url": "https://twitter.com/SecScottBessent/status/2080008411790368895",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Substack's New AI Detector Has the Same Blind Spot DEV.to's Did",
-      "summary": "Substack shipped an AI detector this week. Every post, note, and comment over 100 words can now be...",
-      "url": "https://dev.to/dannwaneri/substacks-new-ai-detector-has-the-same-blind-spot-devtos-did-103j",
-      "meta": "28 reactions"
+      "title": "The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI",
+      "summary": "Those who have been following me for a while will know that teaching and mentoring are a Big Deal™️...",
+      "url": "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
+      "meta": "15 reactions"
     },
     {
       "source": "蓝点网",
