@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T02:57:00.134Z",
+  "updatedAt": "2026-07-22T05:56:12.448Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 1672"
+      "meta": "Stars 1797"
     },
     {
       "source": "Hacker News",
-      "title": "The AI Bubble Is No Ordinary Bubble",
+      "title": "Show HN: A new kind of FPS aim trainer",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+      "url": "https://openaim.pramit.gg/",
       "meta": "2 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "You can build it. Should you?",
       "summary": "I've spent my career helping people build software. This is a series of letters about what happens...",
       "url": "https://dev.to/jennapederson/you-can-build-it-should-you-9e0",
-      "meta": "11 reactions"
+      "meta": "12 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.2万 粉 宝玉 @ dotey · 4小时前 发布 OpenAI 今天承认，上周 Hugging Face 遭遇的那次“史上首例 AI 自主入侵事件”，攻击者就",
-      "url": "https://x.com/dotey/status/2079698092060709342?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 2小时前 发布 昨天openai的模型在沙盒环境下逃逸了， 出去攻击了huggung face",
+      "url": "https://x.com/xiaomustock/status/2079763854675095779?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
