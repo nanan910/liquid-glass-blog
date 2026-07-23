@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T18:47:16.155Z",
+  "updatedAt": "2026-07-23T20:16:26.263Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2257"
+      "meta": "Stars 2262"
     },
     {
       "source": "Hacker News",
-      "title": "Air conditioning torn from UK homes under net zero clampdown",
+      "title": "Show HN: Biscuit – Native, extensible, AI code editor. <20 mb in size",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.yahoo.com/news/politics/articles/air-conditioning-torn-homes-under-171119380.html",
-      "meta": "2 points"
+      "url": "https://github.com/tomlin7/biscuit",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
