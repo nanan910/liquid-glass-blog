@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T20:16:26.263Z",
+  "updatedAt": "2026-07-23T21:36:32.764Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2262"
+      "meta": "Stars 2266"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Biscuit – Native, extensible, AI code editor. <20 mb in size",
+      "title": "The AI Productivity Paradox",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/tomlin7/biscuit",
+      "url": "https://www.svpg.com/the-ai-productivity-paradox/",
       "meta": "1 points"
     },
     {
