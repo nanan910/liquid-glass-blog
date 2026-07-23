@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:26:52.806Z",
+  "updatedAt": "2026-07-23T18:47:16.155Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2256"
+      "meta": "Stars 2257"
     },
     {
       "source": "Hacker News",
-      "title": "Utilities Join Trump Pledge to Limit AI-Driven Increases in Electricity Bills",
+      "title": "Air conditioning torn from UK homes under net zero clampdown",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981",
-      "meta": "3 points"
+      "url": "https://www.yahoo.com/news/politics/articles/air-conditioning-torn-homes-under-171119380.html",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13497 likes"
+      "meta": "13498 likes"
     },
     {
       "source": "DEV",
       "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
       "summary": "For quite a while now, I've had the feeling that AI agents are surrounded by this mystical aura....",
       "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-      "meta": "53 reactions"
+      "meta": "54 reactions"
     },
     {
       "source": "蓝点网",
