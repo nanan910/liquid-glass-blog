@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T21:36:32.764Z",
+  "updatedAt": "2026-07-23T23:00:52.432Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2266"
+      "meta": "Stars 2270"
     },
     {
       "source": "Hacker News",
-      "title": "The AI Productivity Paradox",
+      "title": "Nvidia Puts a 4B World Model on the Robot [Weekly Physical AI Roundup]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.svpg.com/the-ai-productivity-paradox/",
+      "url": "https://topicqueue.substack.com/p/nvidia-puts-a-4b-world-model-on-the",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13498 likes"
+      "meta": "13499 likes"
     },
     {
       "source": "DEV",
       "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
       "summary": "For quite a while now, I've had the feeling that AI agents are surrounded by this mystical aura....",
       "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-      "meta": "54 reactions"
+      "meta": "55 reactions"
     },
     {
       "source": "蓝点网",
