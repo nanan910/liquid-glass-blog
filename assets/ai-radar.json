@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T15:32:33.760Z",
+  "updatedAt": "2026-07-23T17:26:52.806Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2249"
+      "meta": "Stars 2256"
     },
     {
       "source": "Hacker News",
-      "title": "Harvard's Dean Deming: AI Will Beat You at Everything. You'll Still Have a Job [video]",
+      "title": "Utilities Join Trump Pledge to Limit AI-Driven Increases in Electricity Bills",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/watch?v=OWaq1rI4D6w",
-      "meta": "1 points"
+      "url": "https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
       "summary": "For quite a while now, I've had the feeling that AI agents are surrounded by this mystical aura....",
       "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-      "meta": "48 reactions"
+      "meta": "53 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.8万 粉 杰克船长宏观策略 @ macrotradecn · 9小时前 发布 梁文峰四小时交流会内容： 1，英伟达那套生态一年内就废了，华为的卡一年后完全能平替",
-      "url": "https://x.com/macrotradecn/status/2080174723963781304?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
