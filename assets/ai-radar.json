@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T09:26:56.708Z",
+  "updatedAt": "2026-07-23T11:26:12.088Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2219"
+      "meta": "Stars 2224"
     },
     {
       "source": "Hacker News",
-      "title": "Code review: slapping an AI reviewer on top of an AI author doesn't cut it",
+      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code",
-      "meta": "2 points"
+      "url": "https://frame.work/desktop?tab=192gb-coming-soon",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.8万 粉 杰克船长宏观策略 @ macrotradecn · 3小时前 发布 梁文峰四小时交流会内容： 1，英伟达那套生态一年内就废了，华为的卡一年后完全能平替",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.8万 粉 杰克船长宏观策略 @ macrotradecn · 5小时前 发布 梁文峰四小时交流会内容： 1，英伟达那套生态一年内就废了，华为的卡一年后完全能平替",
       "url": "https://x.com/macrotradecn/status/2080174723963781304?sid=ai-tweet-reply",
       "meta": "热帖"
     }
