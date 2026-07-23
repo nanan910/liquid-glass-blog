@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T13:05:12.747Z",
+  "updatedAt": "2026-07-23T15:32:33.760Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2232"
+      "meta": "Stars 2249"
     },
     {
       "source": "Hacker News",
-      "title": "AMD to launch next generation of AI infrastructure to challenge Nvidia",
+      "title": "Harvard's Dean Deming: AI Will Beat You at Everything. You'll Still Have a Job [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/business/amd-expected-launch-next-generation-ai-infrastructure-challenge-nvidia-2026-07-23/",
+      "url": "https://www.youtube.com/watch?v=OWaq1rI4D6w",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13496 likes"
+      "meta": "13497 likes"
     },
     {
       "source": "DEV",
-      "title": "The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI",
-      "summary": "Those who have been following me for a while will know that teaching and mentoring are a Big Deal™️...",
-      "url": "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
-      "meta": "29 reactions"
+      "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
+      "summary": "For quite a while now, I've had the feeling that AI agents are surrounded by this mystical aura....",
+      "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
+      "meta": "48 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.8万 粉 杰克船长宏观策略 @ macrotradecn · 6小时前 发布 梁文峰四小时交流会内容： 1，英伟达那套生态一年内就废了，华为的卡一年后完全能平替",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.8万 粉 杰克船长宏观策略 @ macrotradecn · 9小时前 发布 梁文峰四小时交流会内容： 1，英伟达那套生态一年内就废了，华为的卡一年后完全能平替",
       "url": "https://x.com/macrotradecn/status/2080174723963781304?sid=ai-tweet-reply",
       "meta": "热帖"
     }
