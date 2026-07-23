@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T03:55:11.299Z",
+  "updatedAt": "2026-07-23T06:33:25.093Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2202"
+      "meta": "Stars 2210"
     },
     {
       "source": "Hacker News",
-      "title": "DamNesia – A 16D state-space AI character framework (.NET 10, 0-GC)",
+      "title": "MemoHood and MemoBase – local memory and knowledge base for AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/shrineofus/damnesia-community",
+      "url": "https://github.com/mxskorohood-cmd/memobase",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 其",
-      "url": "https://x.com/lidangzzz/status/2080070721347461230?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.2万 粉 [email&#160;protected] @ Jiaxi_Cui · 2小时前 发布 这就是出来融资让人不爽的地方，DeepSeek 之前一直拒绝的",
+      "url": "https://x.com/Jiaxi_Cui/status/2080149025341473046?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
