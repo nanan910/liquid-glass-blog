@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T09:05:46.140Z",
+  "updatedAt": "2026-07-24T11:18:17.155Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2296"
+      "meta": "Stars 2299"
     },
     {
       "source": "Hacker News",
-      "title": "RTK and Claude Code Token Savings: A Closer Look",
+      "title": "AI generated PRs can hide malicious intent across several PRs",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/",
-      "meta": "2 points"
+      "url": "https://blog.codacy.com/detecting-malicious-intent-across-ai-generated-pull-requests-a-governance-framework-for-engineering-leaders",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 41.2万 粉 亚洲金融 Asia Finance @ AsiaFinance · 6小时前 发布 温铁军，一位经济学白痴。按温铁军、艾跃进、卢麒元三位脑残的理解，深",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 41.2万 粉 亚洲金融 Asia Finance @ AsiaFinance · 8小时前 发布 温铁军，一位经济学白痴。按温铁军、艾跃进、卢麒元三位脑残的理解，深",
       "url": "https://x.com/AsiaFinance/status/2080486803753390557?sid=ai-tweet-reply",
       "meta": "热帖"
     }
