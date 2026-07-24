@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T18:59:37.421Z",
+  "updatedAt": "2026-07-24T20:37:06.672Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2314"
+      "meta": "Stars 2316"
     },
     {
       "source": "Hacker News",
-      "title": "Shackle: A pre-execution ALLOW/DENY/HITL gate for AI agents (open source)",
+      "title": "Voice-first AI recipe manager",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/Fame510/SHACKLE",
+      "url": "https://saychef.online",
       "meta": "1 points"
     },
     {
