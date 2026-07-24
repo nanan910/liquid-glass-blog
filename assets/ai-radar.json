@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T17:06:36.744Z",
+  "updatedAt": "2026-07-24T18:59:37.421Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2311"
+      "meta": "Stars 2314"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: 18y/O buidling an AI proposal OS and generator",
+      "title": "Shackle: A pre-execution ALLOW/DENY/HITL gate for AI agents (open source)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.propi.pro",
+      "url": "https://github.com/Fame510/SHACKLE",
       "meta": "1 points"
     },
     {
