@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T20:37:06.672Z",
+  "updatedAt": "2026-07-24T22:08:40.537Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2316"
+      "meta": "Stars 2320"
     },
     {
       "source": "Hacker News",
-      "title": "Voice-first AI recipe manager",
+      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://saychef.online",
+      "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "My AI pentest agent reported 23 root shells. It had actually popped zero.",
-      "summary": "I've been building an autonomous penetration-testing agent — an LLM driving real tools (nmap,...",
-      "url": "https://dev.to/xenocoregiger31/my-ai-pentest-agent-reported-23-root-shells-it-had-actually-popped-zero-510",
-      "meta": "11 reactions"
+      "title": "6 Open Source Tools That Give You the Web Back",
+      "summary": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "url": "https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak",
+      "meta": "24 reactions"
     },
     {
       "source": "蓝点网",
