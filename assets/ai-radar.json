@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T23:00:52.432Z",
+  "updatedAt": "2026-07-24T00:07:42.716Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2270"
+      "meta": "Stars 2273"
     },
     {
       "source": "Hacker News",
-      "title": "Nvidia Puts a 4B World Model on the Robot [Weekly Physical AI Roundup]",
+      "title": "If AI companies avoid AI slop, shouldn't we?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://topicqueue.substack.com/p/nvidia-puts-a-4b-world-model-on-the",
-      "meta": "1 points"
+      "url": "https://www.machinesociety.ai/p/if-ai-companies-avoid-ai-slop-shouldnt",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.2万 粉 Max For AI @ MaxForAI · 6小时前 发布 卧槽？GLM-5.2被接上眼睛了？？ Baseten刚刚开源了GLM-5.2-Visio",
+      "url": "https://x.com/MaxForAI/status/2080353310020952118?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
