@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T00:07:42.716Z",
+  "updatedAt": "2026-07-24T03:54:44.159Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2273"
+      "meta": "Stars 2281"
     },
     {
       "source": "Hacker News",
-      "title": "If AI companies avoid AI slop, shouldn't we?",
+      "title": "Tinfoil – Private AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.machinesociety.ai/p/if-ai-companies-avoid-ai-slop-shouldnt",
-      "meta": "2 points"
+      "url": "https://tinfoil.sh",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
       "summary": "For quite a while now, I've had the feeling that AI agents are surrounded by this mystical aura....",
       "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-      "meta": "55 reactions"
+      "meta": "61 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.2万 粉 Max For AI @ MaxForAI · 6小时前 发布 卧槽？GLM-5.2被接上眼睛了？？ Baseten刚刚开源了GLM-5.2-Visio",
-      "url": "https://x.com/MaxForAI/status/2080353310020952118?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 81 粉 Sam Xu @ sam_commonly · 2小时前 发布 上次那条「给 AI 拉个群」发完，最常被问的是：队友怎么进来？ 现在很简单：建个 Pod，把",
+      "url": "https://x.com/sam_commonly/status/2080468051997388838?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
