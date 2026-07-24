@@ -1,45 +1,51 @@
 {
-  "updatedAt": "2026-07-24T06:30:22.671Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-07-24T09:05:46.140Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2291"
+      "meta": "Stars 2296"
     },
     {
       "source": "Hacker News",
-      "title": "SharedRoot; Escaping the Claude Cowork Sandbox",
+      "title": "RTK and Claude Code Token Savings: A Closer Look",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://accomplish.ai/blog/sharedroot-escaping-claude-cowork-sandbox/",
-      "meta": "1 points"
+      "url": "https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13501 likes"
+      "meta": "13502 likes"
     },
     {
       "source": "DEV",
-      "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
-      "summary": "For quite a while now, I've had the feeling that AI agents are surrounded by this mystical aura....",
-      "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-      "meta": "66 reactions"
+      "title": "My AI pentest agent reported 23 root shells. It had actually popped zero.",
+      "summary": "I've been building an autonomous penetration-testing agent — an LLM driving real tools (nmap,...",
+      "url": "https://dev.to/xenocoregiger31/my-ai-pentest-agent-reported-23-root-shells-it-had-actually-popped-zero-510",
+      "meta": "11 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "法院批准A社与作者和出版社的15亿美元和解协议 初步解决A社使用盗版图书训练模型问题",
+      "summary": "<p>2024 年美国多名作家和出版社联合对人工智能公司 Anthropic 发起诉讼，指控该公司在没有取得授权的情况下，擅自使用各种版权图书训练人工智能模型。具体来说 A 社从盗版网络图书馆...",
+      "url": "https://www.landian.news/archives/114026.html",
+      "meta": "22 Jul 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 178.4万 粉 联合早报 Lianhe Zaobao @ zaobaosg · 3小时前 发布 网传文件显示，中国人工智能（AI）公司深度求索（DeepSeek）创",
-      "url": "https://x.com/zaobaosg/status/2080484915351589145?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 41.2万 粉 亚洲金融 Asia Finance @ AsiaFinance · 6小时前 发布 温铁军，一位经济学白痴。按温铁军、艾跃进、卢麒元三位脑残的理解，深",
+      "url": "https://x.com/AsiaFinance/status/2080486803753390557?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
