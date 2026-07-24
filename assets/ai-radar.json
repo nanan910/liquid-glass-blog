@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-24T03:54:44.159Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-07-24T06:30:22.671Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "lopopolo/harness-engineering",
       "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2281"
+      "meta": "Stars 2291"
     },
     {
       "source": "Hacker News",
-      "title": "Tinfoil – Private AI",
+      "title": "SharedRoot; Escaping the Claude Cowork Sandbox",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://tinfoil.sh",
+      "url": "https://accomplish.ai/blog/sharedroot-escaping-claude-cowork-sandbox/",
       "meta": "1 points"
     },
     {
@@ -21,31 +21,25 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13499 likes"
+      "meta": "13501 likes"
     },
     {
       "source": "DEV",
       "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
       "summary": "For quite a while now, I've had the feeling that AI agents are surrounded by this mystical aura....",
       "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-      "meta": "61 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "法院批准A社与作者和出版社的15亿美元和解协议 初步解决A社使用盗版图书训练模型问题",
-      "summary": "<p>2024 年美国多名作家和出版社联合对人工智能公司 Anthropic 发起诉讼，指控该公司在没有取得授权的情况下，擅自使用各种版权图书训练人工智能模型。具体来说 A 社从盗版网络图书馆...",
-      "url": "https://www.landian.news/archives/114026.html",
-      "meta": "22 Jul 2026"
+      "meta": "66 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 81 粉 Sam Xu @ sam_commonly · 2小时前 发布 上次那条「给 AI 拉个群」发完，最常被问的是：队友怎么进来？ 现在很简单：建个 Pod，把",
-      "url": "https://x.com/sam_commonly/status/2080468051997388838?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 178.4万 粉 联合早报 Lianhe Zaobao @ zaobaosg · 3小时前 发布 网传文件显示，中国人工智能（AI）公司深度求索（DeepSeek）创",
+      "url": "https://x.com/zaobaosg/status/2080484915351589145?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
