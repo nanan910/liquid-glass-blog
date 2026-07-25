@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T17:33:19.371Z",
+  "updatedAt": "2026-07-25T19:14:00.169Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Vincentwei1021/video-shotcraft",
       "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "meta": "Stars 1688"
+      "meta": "Stars 1706"
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: How to get your open-source project gain popularity?",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49049662",
+      "url": "https://github.com/slvDev/esp32-ai",
       "meta": "1 points"
     },
     {
