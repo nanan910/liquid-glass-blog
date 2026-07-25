@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T20:27:28.815Z",
+  "updatedAt": "2026-07-25T21:28:20.593Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Vincentwei1021/video-shotcraft",
       "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "meta": "Stars 1718"
+      "meta": "Stars 1726"
     },
     {
       "source": "Hacker News",
-      "title": "Have your say on advancing AI transparency in Canada",
+      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada",
-      "meta": "1 points"
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13504 likes"
+      "meta": "13505 likes"
     },
     {
       "source": "DEV",
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "summary": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
-      "meta": "8 reactions"
+      "title": "🐈‍⬛Check Out Catbot's New Leg!",
+      "summary": "This is fun. I absolutely must share.  So I recently created a desktop pet, called Catbot. Catbot is...",
+      "url": "https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg",
+      "meta": "9 reactions"
     },
     {
       "source": "蓝点网",
