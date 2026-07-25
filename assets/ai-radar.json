@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-24T23:34:01.289Z",
+  "updatedAt": "2026-07-25T02:57:07.716Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "lopopolo/harness-engineering",
-      "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "url": "https://github.com/lopopolo/harness-engineering",
-      "meta": "Stars 2321"
+      "title": "Vincentwei1021/video-shotcraft",
+      "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "meta": "Stars 1471"
     },
     {
       "source": "Hacker News",
-      "title": "Open Weights and American AI Leadership",
+      "title": "Agentic AI Workflows and the Future of Streaming Ad Tech",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
-      "meta": "2 points"
+      "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175405",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 6小时前 发布 张",
+      "url": "https://x.com/lidangzzz/status/2080758462544281642?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
