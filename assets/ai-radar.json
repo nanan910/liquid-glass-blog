@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T05:48:31.992Z",
+  "updatedAt": "2026-07-25T08:11:48.311Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Vincentwei1021/video-shotcraft",
       "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "meta": "Stars 1518"
+      "meta": "Stars 1560"
     },
     {
       "source": "Hacker News",
-      "title": "The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction",
+      "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://varnam.substack.com/p/the-architecture-of-deep-thought",
-      "meta": "1 points"
+      "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 你",
-      "url": "https://x.com/lidangzzz/status/2080839907275088167?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 这",
+      "url": "https://x.com/lidangzzz/status/2080900341499928658?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
