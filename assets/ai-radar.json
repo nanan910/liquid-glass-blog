@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-26T09:34:32.354Z",
+  "updatedAt": "2026-07-26T11:21:59.289Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "Jakubantalik/thinking-orbs",
-      "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "meta": "Stars 1050"
+      "title": "slvDev/esp32-ai",
+      "summary": "近期新增的 AI 相关开源项目。",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "meta": "Stars 1079"
     },
     {
       "source": "Hacker News",
-      "title": "Apertus 1.5, Swiss open-weight, open-source, open training data model",
+      "title": "AI Chatbots Know How to Make Deadly Biological Weapons. Some Will Teach You",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://apertus-ai.org/articles/2026-07-apertus-1-5/",
-      "meta": "1 points"
+      "url": "https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 顶",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 顶",
       "url": "https://x.com/lidangzzz/status/2081288878426632637?sid=ai-tweet-reply",
       "meta": "热帖"
     }
