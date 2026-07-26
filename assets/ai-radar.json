@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T20:29:49.900Z",
+  "updatedAt": "2026-07-26T21:31:28.225Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1282"
+      "meta": "Stars 1293"
     },
     {
       "source": "Hacker News",
-      "title": "AI is set to drive surging electricity demand from data centres (2025)",
+      "title": "In the Age of AI, the Analog Restaurant Feels Radical",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works",
+      "url": "https://www.eater.com/trends/975087/restaurants-lean-into-bespoke-handmade-elements-during-ai-flyer-backlash",
       "meta": "1 points"
     },
     {
