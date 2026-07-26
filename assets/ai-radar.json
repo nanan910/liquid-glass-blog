@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T16:04:37.070Z",
+  "updatedAt": "2026-07-26T17:34:07.781Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1225"
+      "meta": "Stars 1247"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Cookbook AI – turn scattered recipe files into a print-ready cookbook",
+      "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://cookbookai.io/index.html",
-      "meta": "2 points"
+      "url": "https://github.com/MicSm/boffin",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems",
       "summary": "I took a week off from Dev.to. Not a planned one — I just sat down last Sunday and realized I had...",
       "url": "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
-      "meta": "28 reactions"
+      "meta": "32 reactions"
     },
     {
       "source": "蓝点网",
