@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-07-25T22:31:45.490Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-07-26T00:02:39.883Z",
+  "sourceCount": 5,
   "items": [
     {
-      "source": "GitHub",
-      "title": "Vincentwei1021/video-shotcraft",
-      "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "meta": "Stars 1733"
-    },
-    {
       "source": "Hacker News",
-      "title": "The state of AI agents, in numbers",
+      "title": "Should you use AI for a task? Here's a simple way to decide",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.getreadyforagents.com/statistics/",
-      "meta": "2 points"
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,12 +33,13 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 10.3万 粉 包叔 @ baoshu88 · 41分钟前 发布 梁文峰因为内部交流被泄露，叫停了Deepseek二轮融资。实在是出离愤怒了，本来是叫了几家深受信任的",
+      "url": "https://x.com/baoshu88/status/2081157947447550370?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-07-19&sort=stars&order=desc&per_page=1 returned 403",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
