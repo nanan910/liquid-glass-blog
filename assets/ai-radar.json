@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T17:34:07.781Z",
+  "updatedAt": "2026-07-26T19:17:12.011Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1247"
+      "meta": "Stars 1265"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+      "title": "Please ship APIs, not AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/MicSm/boffin",
+      "url": "https://iamwillwang.com/notes/please-ship-apis-not-ai/",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems",
       "summary": "I took a week off from Dev.to. Not a planned one — I just sat down last Sunday and realized I had...",
       "url": "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
-      "meta": "32 reactions"
+      "meta": "34 reactions"
     },
     {
       "source": "蓝点网",
