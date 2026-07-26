@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T19:17:12.011Z",
+  "updatedAt": "2026-07-26T20:29:49.900Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1265"
+      "meta": "Stars 1282"
     },
     {
       "source": "Hacker News",
-      "title": "Please ship APIs, not AI",
+      "title": "AI is set to drive surging electricity demand from data centres (2025)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://iamwillwang.com/notes/please-ship-apis-not-ai/",
+      "url": "https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13507 likes"
+      "meta": "13508 likes"
     },
     {
       "source": "DEV",
