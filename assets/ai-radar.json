@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T08:55:41.362Z",
+  "updatedAt": "2026-07-27T12:29:32.110Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1538"
+      "meta": "Stars 1603"
     },
     {
       "source": "Hacker News",
-      "title": "China State Media Says Support for Open AI Models Has Limits",
+      "title": "Show HN: Case study: A coding agent refactors a 750k LOC app, no code review",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-state-media-says-support-for-open-ai-models-has-limits",
+      "url": "https://news.ycombinator.com/item?id=49068698",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems",
-      "summary": "I took a week off from Dev.to. Not a planned one — I just sat down last Sunday and realized I had...",
-      "url": "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
-      "meta": "34 reactions"
+      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
+      "summary": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
+      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo",
+      "meta": "19 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 224.4万 粉 李老师不是你老师 @ whyyoutouzhele · 2小时前 发布 黄仁勋首发X帖力挺开源AI，英伟达等科技巨头联署公开信 7月24日，英伟达C",
-      "url": "https://x.com/whyyoutouzhele/status/2081620602918453626?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.2万 粉 Rocky @ Rocky_Bitcoin · 4小时前 发布 我打新赚2万，DeepSeek创始人打新赚8.27亿！ 动用194只量化基金参与打新，",
+      "url": "https://x.com/Rocky_Bitcoin/status/2081649805294719483?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
