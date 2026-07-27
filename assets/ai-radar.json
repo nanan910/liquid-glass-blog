@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T15:26:18.508Z",
+  "updatedAt": "2026-07-27T17:18:49.797Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1638"
+      "meta": "Stars 1672"
     },
     {
       "source": "Hacker News",
-      "title": "Open Minis Is the iOS Agent I Wish Siri AI Could Be",
+      "title": "Closing the data loop in AI-driven drug discovery",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.macstories.net/reviews/open-minis-is-the-ios-agent-i-wish-siri-ai-could-be/",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13509 likes"
+      "meta": "13510 likes"
     },
     {
       "source": "DEV",
       "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
       "summary": "Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...",
       "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "meta": "40 reactions"
+      "meta": "47 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.2万 粉 Rocky @ Rocky_Bitcoin · 7小时前 发布 我打新赚2万，DeepSeek创始人打新赚8.27亿！ 动用194只量化基金参与打新，",
-      "url": "https://x.com/Rocky_Bitcoin/status/2081649805294719483?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
