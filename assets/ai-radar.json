@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T18:56:02.676Z",
+  "updatedAt": "2026-07-27T20:26:15.953Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1688"
+      "meta": "Stars 1700"
     },
     {
       "source": "Hacker News",
-      "title": "Why China is giving away its best AI models",
+      "title": "Show HN: Nexmy – 100% offline Android finance tracker with local AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "url": "https://nexmy.app/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13510 likes"
+      "meta": "13511 likes"
     },
     {
       "source": "DEV",
       "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
       "summary": "Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...",
       "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "meta": "66 reactions"
+      "meta": "82 reactions"
     },
     {
       "source": "蓝点网",
