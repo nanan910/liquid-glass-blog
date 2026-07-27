@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T17:18:49.797Z",
+  "updatedAt": "2026-07-27T18:56:02.676Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1672"
+      "meta": "Stars 1688"
     },
     {
       "source": "Hacker News",
-      "title": "Closing the data loop in AI-driven drug discovery",
+      "title": "Why China is giving away its best AI models",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
       "summary": "Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...",
       "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "meta": "47 reactions"
+      "meta": "66 reactions"
     },
     {
       "source": "蓝点网",
