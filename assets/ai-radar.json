@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T04:16:57.201Z",
+  "updatedAt": "2026-07-28T07:16:11.411Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1792"
+      "meta": "Stars 1837"
     },
     {
       "source": "Hacker News",
-      "title": "Can AMD Break the CUDA Moat? AMD Advancing AI 2026",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
-      "meta": "2 points"
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
       "summary": "Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...",
       "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "meta": "86 reactions"
+      "meta": "91 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 今",
-      "url": "https://x.com/lidangzzz/status/2081889816422048141?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 40.1万 粉 外汇交易员 @ fxtrader · 3小时前 发布 #观察 赛博圣人，刚看到Codex周限值变成了100%马上来看Twitter，果然又重置了。😂",
+      "url": "https://x.com/fxtrader/status/2081942431600349573?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
