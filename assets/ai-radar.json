@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T12:22:52.818Z",
+  "updatedAt": "2026-07-28T15:00:52.347Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 1941"
+      "meta": "Stars 1985"
     },
     {
       "source": "Hacker News",
-      "title": "AI revenues are growing fast, but not fast enough",
+      "title": "I built a falsifiable test for consciousness–6 AIs evaluated it",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-      "meta": "2 points"
+      "url": "https://zenodo.org/records/21644554",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13513 likes"
+      "meta": "13514 likes"
     },
     {
       "source": "DEV",
-      "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
-      "summary": "Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...",
-      "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "meta": "106 reactions"
+      "title": "Understanding Over Origin",
+      "summary": "Many of developers communities are asking the wrong question.  Not because they're wrong to worry...",
+      "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
+      "meta": "27 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.7万 粉 AYi @ AYi_AInotes · 7小时前 发布 这是@Kimi_Moonshot K3开源后我见过最狠的帖子。 一个Baseten的工程师，@w",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.7万 粉 AYi @ AYi_AInotes · 9小时前 发布 这是@Kimi_Moonshot K3开源后我见过最狠的帖子。 一个Baseten的工程师，@w",
       "url": "https://x.com/AYi_AInotes/status/2081972836390900195?sid=ai-tweet-reply",
       "meta": "热帖"
     }
