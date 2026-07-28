@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T18:23:12.224Z",
+  "updatedAt": "2026-07-28T20:02:31.870Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2014"
+      "meta": "Stars 2019"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: AeroSheet – 3D wings and airfoils go weee (in a spreadsheet)",
+      "title": "The Worst Way to Regulate AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://workspace.google.com/marketplace/app/aerosheet/277780710399",
+      "url": "https://www.theatlantic.com/ideas/2026/07/white-house-ai-regulation/688088/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13515 likes"
+      "meta": "13516 likes"
     },
     {
       "source": "DEV",
