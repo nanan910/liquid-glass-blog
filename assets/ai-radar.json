@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T16:59:52.384Z",
+  "updatedAt": "2026-07-28T18:23:12.224Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2007"
+      "meta": "Stars 2014"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: NoClick – Build always-on agents with your existing AI subscriptions",
+      "title": "Show HN: AeroSheet – 3D wings and airfoils go weee (in a spreadsheet)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.noclick.com/",
+      "url": "https://workspace.google.com/marketplace/app/aerosheet/277780710399",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Understanding Over Origin",
       "summary": "Many of developers communities are asking the wrong question.  Not because they're wrong to worry...",
       "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
-      "meta": "37 reactions"
+      "meta": "42 reactions"
     },
     {
       "source": "蓝点网",
