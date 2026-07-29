@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T07:21:23.663Z",
+  "updatedAt": "2026-07-29T10:10:12.492Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2129"
+      "meta": "Stars 2159"
     },
     {
       "source": "Hacker News",
-      "title": "Is AI hype cooling down? I built a data-driven dashboard",
+      "title": "TubeRank AI – Free YouTube SEO Tool Built with AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://laurentiugabriel.github.io/is-ai-hype-cooling-down/",
-      "meta": "2 points"
+      "url": "https://tuberank-ai.com/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Understanding Over Origin",
-      "summary": "Many of developers communities are asking the wrong question.  Not because they're wrong to worry...",
-      "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
-      "meta": "46 reactions"
+      "title": "Vibe Coding: Endgame",
+      "summary": "A few months ago, my AI coding workflow looked something like...",
+      "url": "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
+      "meta": "17 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 我",
-      "url": "https://x.com/lidangzzz/status/2082302549076463818?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.7万 粉 蓝点网 @ landiantech · 5小时前 发布 #人工智能 🚨🚨🚨重大噩耗！#Codex 再次重置付费订阅用户额度，但从明天开始将恢复 5",
+      "url": "https://x.com/landiantech/status/2082323465936515549?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
