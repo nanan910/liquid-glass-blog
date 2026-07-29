@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T18:10:30.850Z",
+  "updatedAt": "2026-07-29T19:53:57.207Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2262"
+      "meta": "Stars 2280"
     },
     {
       "source": "Hacker News",
-      "title": "Mark Zuckerberg says US should not ban Chinese AI",
+      "title": "What Is an AI Employee?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4",
+      "url": "https://construct.computer/blog/what-is-an-ai-employee/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Vibe Coding: Endgame",
-      "summary": "A few months ago, my AI coding workflow looked something like...",
-      "url": "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
-      "meta": "23 reactions"
+      "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
+      "summary": "I've been having the same conversation with my colleagues for months. What does it mean to create...",
+      "url": "https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i",
+      "meta": "11 reactions"
     },
     {
       "source": "SoPilot",
