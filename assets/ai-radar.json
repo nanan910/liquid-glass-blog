@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T22:30:22.178Z",
+  "updatedAt": "2026-07-29T23:36:49.937Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2304"
+      "meta": "Stars 2314"
     },
     {
       "source": "Hacker News",
-      "title": "Vector AI Agent",
+      "title": "How to get more coding productivity with LLMs",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://routinehub.co/shortcut/24957/",
+      "url": "https://news.ycombinator.com/item?id=49104392",
       "meta": "1 points"
     },
     {
