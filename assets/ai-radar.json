@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T00:58:52.035Z",
+  "updatedAt": "2026-07-29T04:20:59.624Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2054"
+      "meta": "Stars 2105"
     },
     {
       "source": "Hacker News",
-      "title": "AI systems out-persuade expert humans",
+      "title": "MonkeysCode and Capuchin AI: The Agentic IDE That Gives You Total Control",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arxiv.org/abs/2606.16475",
+      "url": "https://monkeyscode.com/blog/introducing-monkeyscode-capuchin-the-agentic-ide-that-gives-you-total-control",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Understanding Over Origin",
       "summary": "Many of developers communities are asking the wrong question.  Not because they're wrong to worry...",
       "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
-      "meta": "45 reactions"
+      "meta": "46 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.3万 粉 Max For AI @ MaxForAI · 6小时前 发布 卧槽？这好像真的有点吓人了..... OpenAI和Anthropic的在职员工居然联合",
-      "url": "https://x.com/MaxForAI/status/2082171439256658297?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 王",
+      "url": "https://x.com/lidangzzz/status/2082274244533026925?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
