@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:51:40.675Z",
+  "updatedAt": "2026-07-29T18:10:30.850Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2247"
+      "meta": "Stars 2262"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
+      "title": "Mark Zuckerberg says US should not ban Chinese AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/DevMando/MandoCode.Desktop",
+      "url": "https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Vibe Coding: Endgame",
       "summary": "A few months ago, my AI coding workflow looked something like...",
       "url": "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
-      "meta": "22 reactions"
+      "meta": "23 reactions"
     },
     {
       "source": "SoPilot",
@@ -39,7 +39,7 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 503",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
