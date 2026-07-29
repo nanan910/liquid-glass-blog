@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T10:10:12.492Z",
+  "updatedAt": "2026-07-29T12:30:39.673Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2159"
+      "meta": "Stars 2190"
     },
     {
       "source": "Hacker News",
-      "title": "TubeRank AI – Free YouTube SEO Tool Built with AI",
+      "title": "When physicians and AI work together, who is accountable?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://tuberank-ai.com/",
+      "url": "https://www.nature.com/articles/d41586-026-02315-9",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13517 likes"
+      "meta": "13518 likes"
     },
     {
       "source": "DEV",
       "title": "Vibe Coding: Endgame",
       "summary": "A few months ago, my AI coding workflow looked something like...",
       "url": "https://dev.to/konark_13/vibe-coding-endgame-3bbn",
-      "meta": "17 reactions"
+      "meta": "20 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.7万 粉 蓝点网 @ landiantech · 5小时前 发布 #人工智能 🚨🚨🚨重大噩耗！#Codex 再次重置付费订阅用户额度，但从明天开始将恢复 5",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.7万 粉 蓝点网 @ landiantech · 7小时前 发布 #人工智能 🚨🚨🚨重大噩耗！#Codex 再次重置付费订阅用户额度，但从明天开始将恢复 5",
       "url": "https://x.com/landiantech/status/2082323465936515549?sid=ai-tweet-reply",
       "meta": "热帖"
     }
