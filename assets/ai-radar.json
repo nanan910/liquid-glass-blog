@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T19:53:57.207Z",
+  "updatedAt": "2026-07-29T21:00:59.351Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2280"
+      "meta": "Stars 2288"
     },
     {
       "source": "Hacker News",
-      "title": "What Is an AI Employee?",
+      "title": "Show HN: MindFlock – Parallel AI coding agents, each in its own Git worktree",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://construct.computer/blog/what-is-an-ai-employee/",
-      "meta": "1 points"
+      "url": "https://github.com/MindFlock/MindFlock",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
