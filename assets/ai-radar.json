@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T04:20:59.624Z",
+  "updatedAt": "2026-07-29T07:21:23.663Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2105"
+      "meta": "Stars 2129"
     },
     {
       "source": "Hacker News",
-      "title": "MonkeysCode and Capuchin AI: The Agentic IDE That Gives You Total Control",
+      "title": "Is AI hype cooling down? I built a data-driven dashboard",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://monkeyscode.com/blog/introducing-monkeyscode-capuchin-the-agentic-ide-that-gives-you-total-control",
-      "meta": "1 points"
+      "url": "https://laurentiugabriel.github.io/is-ai-hype-cooling-down/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13516 likes"
+      "meta": "13517 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 王",
-      "url": "https://x.com/lidangzzz/status/2082274244533026925?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 我",
+      "url": "https://x.com/lidangzzz/status/2082302549076463818?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
