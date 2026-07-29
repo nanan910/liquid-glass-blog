@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-07-29T15:10:07.409Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-07-29T16:51:40.675Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "slvDev/esp32-ai",
       "summary": "近期新增的 AI 相关开源项目。",
       "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2224"
+      "meta": "Stars 2247"
     },
     {
       "source": "Hacker News",
-      "title": "Belkin killed my smart switch. I got it working again without their app",
+      "title": "Show HN: MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49098513",
-      "meta": "2 points"
+      "url": "https://github.com/DevMando/MandoCode.Desktop",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13519 likes"
+      "meta": "13518 likes"
     },
     {
       "source": "DEV",
@@ -31,21 +31,15 @@
       "meta": "22 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "Claude AI会话分享链接存在配置错误 大量包含私密内容的用户会话被谷歌抓取",
-      "summary": "<p>上周末有用户发现 Claude AI 会话分享竟然出现在谷歌搜索中，即 A 社并未设置分享链接禁止搜索引擎抓取，因此只需要使用 SITE 指令就可以查询大量已经被谷歌或其他搜索引擎抓取收...",
-      "url": "https://www.landian.news/archives/114081.html",
-      "meta": "27 Jul 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.7万 粉 蓝点网 @ landiantech · 10小时前 发布 #人工智能 🚨🚨🚨重大噩耗！#Codex 再次重置付费订阅用户额度，但从明天开始将恢复 ",
-      "url": "https://x.com/landiantech/status/2082323465936515549?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
