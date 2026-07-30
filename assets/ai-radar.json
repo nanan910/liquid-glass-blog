@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-29T23:36:49.937Z",
+  "updatedAt": "2026-07-30T02:42:02.399Z",
   "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
-      "title": "slvDev/esp32-ai",
-      "summary": "近期新增的 AI 相关开源项目。",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "meta": "Stars 2314"
+      "title": "mikiarlo3/ai-copywriter",
+      "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "meta": "Stars 1047"
     },
     {
       "source": "Hacker News",
-      "title": "How to get more coding productivity with LLMs",
+      "title": "Show HN: How we use AI agents for our million-user SaaS (seafile)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49104392",
+      "url": "https://news.ycombinator.com/item?id=49105561",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13518 likes"
+      "meta": "13519 likes"
     },
     {
       "source": "DEV",
@@ -33,8 +33,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.3万 粉 泯灭_Web3 @ jiahao9527 · 1小时前 发布 🔥这周 https://t.co/IFFpaU0nSs 带来了不少新进展，从模型生态到产",
+      "url": "https://x.com/jiahao9527/status/2082630835430453467?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
