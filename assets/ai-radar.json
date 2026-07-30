@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T05:46:04.136Z",
+  "updatedAt": "2026-07-30T08:34:17.264Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "mikiarlo3/ai-copywriter",
       "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
       "url": "https://github.com/mikiarlo3/ai-copywriter",
-      "meta": "Stars 1049"
+      "meta": "Stars 1052"
     },
     {
       "source": "Hacker News",
-      "title": "EU AI Act compliance, scan your repo and get automatic results",
+      "title": "Is Cloudflare classifying opencode.ai as malware?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://scanara.io",
-      "meta": "3 points"
+      "url": "https://news.ycombinator.com/item?id=49107324",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -33,8 +33,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.0万 粉 qinbafrank @ qinbafrank · 2小时前 发布 OpenAI的ARR正在大幅度缩小与Authropic的差距，这应该是今天最值得关",
-      "url": "https://x.com/qinbafrank/status/2082669379762950405?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 你",
+      "url": "https://x.com/lidangzzz/status/2082678751171592441?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
