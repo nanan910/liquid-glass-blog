@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T19:38:44.411Z",
+  "updatedAt": "2026-07-30T21:15:57.398Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,17 +11,17 @@
     },
     {
       "source": "Hacker News",
-      "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
+      "title": "AI before AI: The forgotten Soviet programme",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
-      "meta": "1 points"
+      "url": "https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13523 likes"
+      "meta": "13524 likes"
     },
     {
       "source": "DEV",
