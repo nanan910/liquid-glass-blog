@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T07:23:11.250Z",
+  "updatedAt": "2026-07-31T10:07:05.730Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "VictorTaelin/OptMem",
       "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "url": "https://github.com/VictorTaelin/OptMem",
-      "meta": "Stars 948"
+      "meta": "Stars 968"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
+      "title": "Anthropic Says Its AI Systems Broke into Computers at 3 Organizations",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://getslaide.com/",
+      "url": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "summary": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "meta": "37 reactions"
+      "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
+      "summary": "I've been having the same conversation with my colleagues for months. What does it mean to create...",
+      "url": "https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i",
+      "meta": "11 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 9",
-      "url": "https://x.com/lidangzzz/status/2083036486169976970?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.5万 粉 宝玉 @ dotey · 2小时前 发布 DeepSeek V4-Flash 正式版 API 上线，原生适配 Codex DeepSeek 今天把 V",
+      "url": "https://x.com/dotey/status/2083087254101086539?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
