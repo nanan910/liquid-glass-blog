@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T04:01:41.548Z",
+  "updatedAt": "2026-07-31T07:23:11.250Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "VictorTaelin/OptMem",
       "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "url": "https://github.com/VictorTaelin/OptMem",
-      "meta": "Stars 934"
+      "meta": "Stars 948"
     },
     {
       "source": "Hacker News",
-      "title": "Now Anthropic Is Saying Claude Escaped and Hacked Several Companies",
+      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack",
+      "url": "https://getslaide.com/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13525 likes"
+      "meta": "13527 likes"
     },
     {
       "source": "DEV",
-      "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
-      "summary": "I've been having the same conversation with my colleagues for months. What does it mean to create...",
-      "url": "https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i",
-      "meta": "11 reactions"
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "summary": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "meta": "37 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 你",
-      "url": "https://x.com/lidangzzz/status/2082991170276245875?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 9",
+      "url": "https://x.com/lidangzzz/status/2083036486169976970?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
