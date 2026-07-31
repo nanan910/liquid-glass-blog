@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T21:39:43.503Z",
+  "updatedAt": "2026-07-31T23:05:18.770Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 1283"
+      "meta": "Stars 1557"
     },
     {
       "source": "Hacker News",
-      "title": "Can AMD Break the CUDA Moat? AMD Advancing AI 2026",
+      "title": "Show HN: GAI – A Go runtime for typed, tool-using LLM agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
+      "url": "https://github.com/lace-ai/gai",
       "meta": "1 points"
     },
     {
