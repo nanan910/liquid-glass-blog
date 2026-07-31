@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-07-30T22:37:10.026Z",
+  "updatedAt": "2026-07-31T00:05:29.609Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "mikiarlo3/ai-copywriter",
-      "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "url": "https://github.com/mikiarlo3/ai-copywriter",
-      "meta": "Stars 987"
+      "title": "VictorTaelin/OptMem",
+      "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "meta": "Stars 929"
     },
     {
       "source": "Hacker News",
-      "title": "Power 2026 – Electricity Pricing in the Age of AI",
+      "title": "Anthropic AI Models Hacked Three Organizations During Tests",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://power2026.ai/",
-      "meta": "1 points"
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13524 likes"
+      "meta": "13525 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 也",
+      "url": "https://x.com/lidangzzz/status/2082954546897093063?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
