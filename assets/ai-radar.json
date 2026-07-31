@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T12:28:25.818Z",
+  "updatedAt": "2026-07-31T15:02:58.821Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "VictorTaelin/OptMem",
       "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "url": "https://github.com/VictorTaelin/OptMem",
-      "meta": "Stars 977"
+      "meta": "Stars 989"
     },
     {
       "source": "Hacker News",
-      "title": "Guardrails Hub – Guardrails AI",
+      "title": "Show HN: AI Security Breaches, the problems and it's causes",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://guardrailsai.com/hub",
+      "url": "https://raylinement.substack.com/p/ai-security-breaches-the-problems",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13527 likes"
+      "meta": "13529 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.5万 粉 宝玉 @ dotey · 5小时前 发布 DeepSeek V4-Flash 正式版 API 上线，原生适配 Codex DeepSeek 今天把 V",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.5万 粉 宝玉 @ dotey · 7小时前 发布 DeepSeek V4-Flash 正式版 API 上线，原生适配 Codex DeepSeek 今天把 V",
       "url": "https://x.com/dotey/status/2083087254101086539?sid=ai-tweet-reply",
       "meta": "热帖"
     }
