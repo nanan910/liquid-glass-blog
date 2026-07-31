@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-31T20:22:10.887Z",
+  "updatedAt": "2026-07-31T21:39:43.503Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "VictorTaelin/OptMem",
-      "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "meta": "Stars 1013"
+      "title": "yc-software/qm",
+      "summary": "Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "meta": "Stars 1283"
     },
     {
       "source": "Hacker News",
-      "title": "Kioxia CM10 Is Its First PCIe 6.0 Enterprise SSD, Aimed at Nvidia CMX KV Cache",
+      "title": "Can AMD Break the CUDA Moat? AMD Advancing AI 2026",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.storagereview.com/news/kioxia-cm10-is-its-first-pcie-6-0-enterprise-ssd-aimed-at-nvidia-cmx-kv-cache",
+      "url": "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "summary": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "meta": "42 reactions"
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "summary": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
+      "meta": "6 reactions"
     },
     {
       "source": "蓝点网",
