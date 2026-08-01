@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T20:27:01.345Z",
+  "updatedAt": "2026-08-01T21:27:03.616Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 4666"
+      "meta": "Stars 4745"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
+      "title": "Book sellers raise alarm over 'horrific' destruction of rare titles to feed AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://voris.ai/",
-      "meta": "1 points"
+      "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
