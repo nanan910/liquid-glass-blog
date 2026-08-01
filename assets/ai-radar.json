@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T07:29:45.995Z",
+  "updatedAt": "2026-08-01T09:33:40.858Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 2942"
+      "meta": "Stars 3258"
     },
     {
       "source": "Hacker News",
-      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "title": "Show HN: Horus-runtime – Train your own tiny LLM from scratch",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-      "meta": "4 points"
+      "url": "https://github.com/temple-compute/pantheon/tree/main/workflows/ai/w02-tiny-llm",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 35.6万 粉 Michael Anti @ mranti · 2小时前 发布 自从我订阅了Codex的Plus，然后用了Luna Max，然后就感觉，这Codex根",
-      "url": "https://x.com/mranti/status/2083414840207647155?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 傻",
+      "url": "https://x.com/lidangzzz/status/2083460998891991313?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
