@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T01:04:18.609Z",
+  "updatedAt": "2026-08-01T04:54:14.214Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 1873"
+      "meta": "Stars 2532"
     },
     {
       "source": "Hacker News",
-      "title": "AI Visibility Evidence Model: Five Factors, Graded by Evidence",
+      "title": "Ace Sidecar – Efficiency Optimization for Local AI Coding",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.richresults.ai/evidence.html",
+      "url": "https://acefleet.dev/blog/announcing-the-ace-sidecar",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.9万 粉 Ring Hyacinth @ ring_hyacinth · 7小时前 发布 在 Codex 里做了一个 Blender… （不 最近在用 Codex",
-      "url": "https://x.com/ring_hyacinth/status/2083238711949734224?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 224.5万 粉 李老师不是你老师 @ whyyoutouzhele · 1小时前 发布 “真香” 路透社7月31日独家报道，中国军方及相关院校正利用GPT、Clau",
+      "url": "https://x.com/whyyoutouzhele/status/2083387250356990050?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
