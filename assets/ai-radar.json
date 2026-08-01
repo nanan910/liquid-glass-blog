@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T16:03:49.804Z",
+  "updatedAt": "2026-08-01T17:32:25.884Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 4241"
+      "meta": "Stars 4407"
     },
     {
       "source": "Hacker News",
-      "title": "AI Adoption Is Dividing Friends, Families and Co-Workers",
+      "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/how-chatgpt-and-ai-are-dividing-friends-and-families",
-      "meta": "2 points"
+      "url": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
