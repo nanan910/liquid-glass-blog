@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T22:29:45.743Z",
+  "updatedAt": "2026-08-01T23:32:33.260Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 4827"
+      "meta": "Stars 4911"
     },
     {
       "source": "Hacker News",
-      "title": "From MIT: AI financial advice is surprisingly good",
+      "title": "Show HN: I made 70K+ hand-drawn icons using AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "meta": "3 points"
+      "url": "https://koboyo.com/icons",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
