@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T17:32:25.884Z",
+  "updatedAt": "2026-08-01T19:14:28.338Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 4407"
+      "meta": "Stars 4555"
     },
     {
       "source": "Hacker News",
-      "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+      "title": "GenAI Added to Google Earth",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
+      "url": "https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13531 likes"
+      "meta": "13532 likes"
     },
     {
       "source": "DEV",
