@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T19:14:28.338Z",
+  "updatedAt": "2026-08-01T20:27:01.345Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 4555"
+      "meta": "Stars 4666"
     },
     {
       "source": "Hacker News",
-      "title": "GenAI Added to Google Earth",
+      "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/",
+      "url": "https://voris.ai/",
       "meta": "1 points"
     },
     {
