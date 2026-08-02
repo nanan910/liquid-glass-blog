@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T23:32:33.260Z",
+  "updatedAt": "2026-08-02T03:21:57.169Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 4911"
+      "meta": "Stars 5144"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: I made 70K+ hand-drawn icons using AI",
+      "title": "AI Marketing",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://koboyo.com/icons",
+      "url": "https://www.lerobit.com",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "summary": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
-      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
-      "meta": "6 reactions"
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "meta": "23 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 17.8万 粉 Orange AI @ oran_ge · 4小时前 发布 好图收藏，DeepSeek 斩杀线 https://t.co/eEXSVy1DG4",
+      "url": "https://x.com/oran_ge/status/2083690952997429519?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
