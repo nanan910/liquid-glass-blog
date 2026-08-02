@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T22:29:34.939Z",
+  "updatedAt": "2026-08-02T23:32:41.321Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 7047"
+      "meta": "Stars 7127"
     },
     {
       "source": "Hacker News",
-      "title": "Tlbic: Expanded appendix on AI dialogue, plus a note on shared human wisdom",
+      "title": "Show HN: I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link",
-      "meta": "1 points"
+      "url": "https://github.com/spikonado/sprocket",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
