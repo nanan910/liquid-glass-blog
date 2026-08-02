@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T06:18:12.464Z",
+  "updatedAt": "2026-08-02T08:55:49.672Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 5352"
+      "meta": "Stars 5588"
     },
     {
       "source": "Hacker News",
-      "title": "Agent-Browser – Browser Automation for AI",
+      "title": "A daily estimation game where the crowd's answer fights an AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://agent-browser.dev/",
+      "url": "https://news.ycombinator.com/item?id=49142461",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 734 粉 Yu Fang（捏捏番茄） @ iamcora13 · 3小时前 发布 Seedance 2.5太强了！ 搓了一个 40 秒的偶像演唱会，音乐也是 AI ",
-      "url": "https://x.com/iamcora13/status/2083748440593547439?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 中",
+      "url": "https://x.com/lidangzzz/status/2083788513049264222?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
