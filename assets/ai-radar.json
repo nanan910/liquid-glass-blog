@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T14:09:21.358Z",
+  "updatedAt": "2026-08-02T15:39:08.961Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 6172"
+      "meta": "Stars 6379"
     },
     {
       "source": "Hacker News",
-      "title": "Arrakis raises $8M for AI agent runtime security",
+      "title": "Mozilla's Inaugural 'State of Open Source AI' Report Is Here",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://runtimewire.com/article/arrakis-security-raises-8-million-ai-agent-runtime-controls",
+      "url": "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13533 likes"
+      "meta": "13535 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 8小时前 发布 中",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 10小时前 发布 ",
       "url": "https://x.com/lidangzzz/status/2083788513049264222?sid=ai-tweet-reply",
       "meta": "热帖"
     }
