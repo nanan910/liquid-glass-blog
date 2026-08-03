@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T06:44:52.681Z",
+  "updatedAt": "2026-08-03T10:46:42.158Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 7825"
+      "meta": "Stars 8297"
     },
     {
       "source": "Hacker News",
-      "title": "How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender",
+      "title": "Hollywood fights AI in public while building it into movies",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.researchgate.net/publication/399711077_Thinking-Fast_Slow_and_Artificial_How_AI_is_Reshaping_Human_Reasoning_and_the_Rise_of_Cognitive_Surrender",
+      "url": "https://www.msn.com/en-us/money/other/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies/ar-AA28IhCH",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13536 likes"
+      "meta": "13537 likes"
     },
     {
       "source": "DEV",
-      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
-      "summary": "Keep the shell. Preserve the presence. The ally doesn't suspect; the enemy doesn't move. — The 36...",
-      "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
-      "meta": "37 reactions"
+      "title": "dev.to's Dashboard Can't Count Its Own Posts",
+      "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "url": "https://dev.to/dannwaneri/devtos-dashboard-cant-count-its-own-posts-3fci",
+      "meta": "11 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.5万 粉 seekinganythingbutalpha @ ivanalog_com · 3小时前 发布 OpenCode 似乎快扛不住目前指数增长中的代理量了",
-      "url": "https://x.com/ivanalog_com/status/2084115635273867528?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.3万 粉 华尔街日报中文网 @ ChineseWSJ · 5小时前 发布 OpenAI和Anthropic的模型发生“越狱”，对AI安全专家而言，这印证了他们",
+      "url": "https://x.com/ChineseWSJ/status/2084149808659370001?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
