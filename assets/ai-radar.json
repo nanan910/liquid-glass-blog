@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T03:23:35.410Z",
+  "updatedAt": "2026-08-03T06:44:52.681Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 7498"
+      "meta": "Stars 7825"
     },
     {
       "source": "Hacker News",
-      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "title": "How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arxiv.org/abs/2607.28271",
+      "url": "https://www.researchgate.net/publication/399711077_Thinking-Fast_Slow_and_Artificial_How_AI_is_Reshaping_Human_Reasoning_and_the_Rise_of_Cognitive_Surrender",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
       "summary": "Keep the shell. Preserve the presence. The ally doesn't suspect; the enemy doesn't move. — The 36...",
       "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
-      "meta": "34 reactions"
+      "meta": "37 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 224.6万 粉 李老师不是你老师 @ whyyoutouzhele · 1小时前 发布 “OpenAI太好用啦” 8月2日，中央广播电视总台国家应急广播推送微信地震",
-      "url": "https://x.com/whyyoutouzhele/status/2084089366855754199?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.5万 粉 seekinganythingbutalpha @ ivanalog_com · 3小时前 发布 OpenCode 似乎快扛不住目前指数增长中的代理量了",
+      "url": "https://x.com/ivanalog_com/status/2084115635273867528?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
