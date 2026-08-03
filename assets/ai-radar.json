@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-03T13:43:12.400Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-03T16:29:32.214Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 8583"
+      "meta": "Stars 8956"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Headroom – warns you before your AI chat starts forgetting",
+      "title": "Show HN: FutureSearch, AI forecasting you can verify",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/ZM-BAD/headroom",
+      "url": "https://futuresearch.ai/",
       "meta": "1 points"
     },
     {
@@ -25,21 +25,27 @@
     },
     {
       "source": "DEV",
-      "title": "dev.to's Dashboard Can't Count Its Own Posts",
-      "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "url": "https://dev.to/dannwaneri/devtos-dashboard-cant-count-its-own-posts-3fci",
-      "meta": "22 reactions"
+      "title": "How would you decide, whether the content is good or bad?",
+      "summary": "I want to talk about what I have notice on the platform and want to address what we all have been...",
+      "url": "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
+      "meta": "21 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude AI会话分享链接存在配置错误 大量包含私密内容的用户会话被谷歌抓取",
+      "summary": "<p>上周末有用户发现 Claude AI 会话分享竟然出现在谷歌搜索中，即 A 社并未设置分享链接禁止搜索引擎抓取，因此只需要使用 SITE 指令就可以查询大量已经被谷歌或其他搜索引擎抓取收...",
+      "url": "https://www.landian.news/archives/114081.html",
+      "meta": "27 Jul 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.3万 粉 华尔街日报中文网 @ ChineseWSJ · 8小时前 发布 OpenAI和Anthropic的模型发生“越狱”，对AI安全专家而言，这印证了他们",
-      "url": "https://x.com/ChineseWSJ/status/2084149808659370001?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 503",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
