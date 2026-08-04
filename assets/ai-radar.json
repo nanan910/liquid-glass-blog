@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T10:43:15.665Z",
+  "updatedAt": "2026-08-04T13:05:31.686Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 10629"
+      "meta": "Stars 10753"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: PolyTrip – crowd-funded group trip planning with AI",
+      "title": "We built an AI model router that cut LLM costs by 94%",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://polytrip.co/",
+      "url": "https://swordhealth.com/research/reduce-enterprise-ai-costs",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13539 likes"
+      "meta": "13541 likes"
     },
     {
       "source": "DEV",
       "title": "How would you decide, whether the content is good or bad?",
       "summary": "I want to talk about what I have notice on the platform and want to address what we all have been...",
       "url": "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
-      "meta": "60 reactions"
+      "meta": "72 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 3小时前 发布 市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 5小时前 发布 市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中",
       "url": "https://x.com/xiaomustock/status/2084543015864119375?sid=ai-tweet-reply",
       "meta": "热帖"
     }
