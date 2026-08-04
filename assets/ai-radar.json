@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T04:44:42.073Z",
+  "updatedAt": "2026-08-04T07:42:12.264Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 10070"
+      "meta": "Stars 10361"
     },
     {
       "source": "Hacker News",
-      "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+      "title": "AI Futures Model: Timelines and Takeoff",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c",
-      "meta": "2 points"
+      "url": "https://www.aifuturesmodel.com/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.4万 粉 nihui @ nihui · 3小时前 发布 身边坐着在openai工作的同事们，看脸面有许多华人，但他们不会主动说中文。 熙熙攘攘，我在纸上写了个问",
-      "url": "https://x.com/nihui/status/2084442162595524619?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 王",
+      "url": "https://x.com/lidangzzz/status/2084496910870614264?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
