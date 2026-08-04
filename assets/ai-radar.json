@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T15:56:25.059Z",
+  "updatedAt": "2026-08-04T17:55:52.126Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yc-software/qm",
       "summary": "Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "meta": "Stars 10916"
+      "meta": "Stars 10995"
     },
     {
       "source": "Hacker News",
-      "title": "The AI Demand Bubble",
+      "title": "Silico: a platform for AI research",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
-      "meta": "2 points"
+      "url": "https://www.goodfire.com/get-silico",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "Understanding Over Origin: The Missing Friction",
       "summary": "A few days ago, I wrote \"Understanding Over Origin\" and it got alot of engagement and I'm really...",
       "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
-      "meta": "21 reactions"
+      "meta": "27 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 8小时前 发布 市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中",
-      "url": "https://x.com/xiaomustock/status/2084543015864119375?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
