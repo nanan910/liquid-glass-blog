@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T21:47:51.647Z",
+  "updatedAt": "2026-08-05T23:03:53.189Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 6135"
+      "meta": "Stars 6168"
     },
     {
       "source": "Hacker News",
-      "title": "Water to Go – Rewrite Any Project to Go with Any AI Coder",
+      "title": "The silent failure taxonomy: an autonomous pipeline's 32 ways of faking success",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/JohnVictorCrown/WaterToGo",
+      "url": "https://claude.ai/code/artifact/f66e6308-e81b-40fb-9474-b2b840cb4399",
       "meta": "1 points"
     },
     {
