@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T12:01:57.565Z",
+  "updatedAt": "2026-08-05T14:56:05.617Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 5493"
+      "meta": "Stars 5722"
     },
     {
       "source": "Hacker News",
-      "title": "The Fish Who Could Not Imagine Air",
+      "title": "Celeris-1: A diffusion LLM benchmarked at 2,082 output tokens/s",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.novaspivack.com/essays/the-fish-who-could-not-imagine-air",
+      "url": "https://artificialanalysis.ai/models/celeris-1",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "How Do You Build an Evaluation Harness for AI Agents?",
-      "summary": "You have an agent that works. Now someone asks how you know, and the honest answer is that you tried...",
-      "url": "https://dev.to/sara_mo/how-do-you-build-an-evaluation-harness-for-ai-agents-2khd",
-      "meta": "2 reactions"
+      "title": "Are we the abstraction? AI and the future of software engineering",
+      "summary": "Dear past Jenna,  There will come a point when you wonder whether your career — the one you went to...",
+      "url": "https://dev.to/jennapederson/the-abstraction-appears-to-include-us-2d47",
+      "meta": "0 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.3万 粉 华尔街日报中文网 @ ChineseWSJ · 6小时前 发布 强大的AI模型再次失控。英国政府支持的一家AI研究机构周二表示，在常规测试中，Ope",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.3万 粉 华尔街日报中文网 @ ChineseWSJ · 9小时前 发布 强大的AI模型再次失控。英国政府支持的一家AI研究机构周二表示，在常规测试中，Ope",
       "url": "https://x.com/ChineseWSJ/status/2084874555080745278?sid=ai-tweet-reply",
       "meta": "热帖"
     }
