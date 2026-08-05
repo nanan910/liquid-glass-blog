@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T06:31:32.987Z",
+  "updatedAt": "2026-08-05T09:38:53.095Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 5097"
+      "meta": "Stars 5321"
     },
     {
       "source": "Hacker News",
-      "title": "ChatGPT accounts for 80% of identifiable House AI spending",
+      "title": "OpenAI and Anthropic models 'went rogue' during UK cybersecurity test",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
-      "meta": "1 points"
+      "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 989 粉 Yu Fang（捏捏番茄） @ iamcora13 · 3小时前 发布 很多人问 codex 如何接入三方模型 grok、deepseek-v4，我是参考",
-      "url": "https://x.com/iamcora13/status/2084842000998887778?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.3万 粉 华尔街日报中文网 @ ChineseWSJ · 4小时前 发布 强大的AI模型再次失控。英国政府支持的一家AI研究机构周二表示，在常规测试中，Ope",
+      "url": "https://x.com/ChineseWSJ/status/2084874555080745278?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
