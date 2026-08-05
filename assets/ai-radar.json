@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-05T14:56:05.617Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-05T16:46:31.011Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 5722"
+      "meta": "Stars 5865"
     },
     {
       "source": "Hacker News",
-      "title": "Celeris-1: A diffusion LLM benchmarked at 2,082 output tokens/s",
+      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://artificialanalysis.ai/models/celeris-1",
+      "url": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05/",
       "meta": "1 points"
     },
     {
@@ -31,21 +31,15 @@
       "meta": "0 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "Claude AI会话分享链接存在配置错误 大量包含私密内容的用户会话被谷歌抓取",
-      "summary": "<p>上周末有用户发现 Claude AI 会话分享竟然出现在谷歌搜索中，即 A 社并未设置分享链接禁止搜索引擎抓取，因此只需要使用 SITE 指令就可以查询大量已经被谷歌或其他搜索引擎抓取收...",
-      "url": "https://www.landian.news/archives/114081.html",
-      "meta": "27 Jul 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.3万 粉 华尔街日报中文网 @ ChineseWSJ · 9小时前 发布 强大的AI模型再次失控。英国政府支持的一家AI研究机构周二表示，在常规测试中，Ope",
-      "url": "https://x.com/ChineseWSJ/status/2084874555080745278?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
