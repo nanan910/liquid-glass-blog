@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T20:09:49.821Z",
+  "updatedAt": "2026-08-05T21:47:51.647Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 6062"
+      "meta": "Stars 6135"
     },
     {
       "source": "Hacker News",
-      "title": "AI moderators won't run discovery interviews for another ten years",
+      "title": "Water to Go – Rewrite Any Project to Go with Any AI Coder",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.zernote.com/ai-moderators-ten-years/",
+      "url": "https://github.com/JohnVictorCrown/WaterToGo",
       "meta": "1 points"
     },
     {
