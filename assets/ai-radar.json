@@ -1,34 +1,27 @@
 {
-  "updatedAt": "2026-08-05T00:07:44.265Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-05T03:44:58.224Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 4645"
+      "meta": "Stars 4889"
     },
     {
       "source": "Hacker News",
-      "title": "White House excludes open models from framework to test advanced AI capabilities",
+      "title": "Show HN: Aidress – open-source discovery and trust registry for agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+      "url": "https://github.com/Aidress-ai/Aidress",
       "meta": "1 points"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "deepseek-ai/DeepSeek-R1",
-      "summary": "text-generation",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13542 likes"
     },
     {
       "source": "DEV",
       "title": "Understanding Over Origin: The Missing Friction",
       "summary": "A few days ago, I wrote \"Understanding Over Origin\" and it got alot of engagement and I'm really...",
       "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
-      "meta": "30 reactions"
+      "meta": "32 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,12 +33,13 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.8万 粉 AYi @ AYi_AInotes · 7小时前 发布 我翻完梁文锋26岁写的微博才明白DeepSeek的成功，跟技术路线半毛钱关系都没有。 梁文锋26",
-      "url": "https://x.com/AYi_AInotes/status/2084680233400009074?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 40.2万 粉 外汇交易员 @ fxtrader · 2小时前 发布 多名交易人士透露，DeepSeek重启了第二轮融资，本轮计划募资500亿元，投前估值约5000亿",
+      "url": "https://x.com/fxtrader/status/2084814129873973437?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://huggingface.co/api/models?sort=likes&direction=-1&limit=1&search=AI returned 429",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
