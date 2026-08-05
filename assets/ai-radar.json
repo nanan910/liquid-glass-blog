@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T09:38:53.095Z",
+  "updatedAt": "2026-08-05T12:01:57.565Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 5321"
+      "meta": "Stars 5493"
     },
     {
       "source": "Hacker News",
-      "title": "OpenAI and Anthropic models 'went rogue' during UK cybersecurity test",
+      "title": "The Fish Who Could Not Imagine Air",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
-      "meta": "2 points"
+      "url": "https://www.novaspivack.com/essays/the-fish-who-could-not-imagine-air",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13542 likes"
+      "meta": "13543 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.3万 粉 华尔街日报中文网 @ ChineseWSJ · 4小时前 发布 强大的AI模型再次失控。英国政府支持的一家AI研究机构周二表示，在常规测试中，Ope",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.3万 粉 华尔街日报中文网 @ ChineseWSJ · 6小时前 发布 强大的AI模型再次失控。英国政府支持的一家AI研究机构周二表示，在常规测试中，Ope",
       "url": "https://x.com/ChineseWSJ/status/2084874555080745278?sid=ai-tweet-reply",
       "meta": "热帖"
     }
