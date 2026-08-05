@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-05T16:46:31.011Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-05T18:23:50.347Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 5865"
+      "meta": "Stars 5974"
     },
     {
       "source": "Hacker News",
-      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
+      "title": "(Updated) Project Phoenix- Autonomous AI Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05/",
+      "url": "https://phoenix-production-96cd.up.railway.app/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,17 @@
     },
     {
       "source": "DEV",
-      "title": "Are we the abstraction? AI and the future of software engineering",
-      "summary": "Dear past Jenna,  There will come a point when you wonder whether your career — the one you went to...",
-      "url": "https://dev.to/jennapederson/the-abstraction-appears-to-include-us-2d47",
-      "meta": "0 reactions"
+      "title": "Introducing Kiro Crew: AWS's Open-Source AI Agent Orchestrator",
+      "summary": "AWS open-sourced a persistent workspace that coordinates AI coding agents across sessions, schedules, and repos. Here's what it actually does and why it matters.",
+      "url": "https://dev.to/sarvar_04/introducing-kiro-crew-awss-open-source-ai-agent-orchestrator-1e63",
+      "meta": "11 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude AI会话分享链接存在配置错误 大量包含私密内容的用户会话被谷歌抓取",
+      "summary": "<p>上周末有用户发现 Claude AI 会话分享竟然出现在谷歌搜索中，即 A 社并未设置分享链接禁止搜索引擎抓取，因此只需要使用 SITE 指令就可以查询大量已经被谷歌或其他搜索引擎抓取收...",
+      "url": "https://www.landian.news/archives/114081.html",
+      "meta": "27 Jul 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
