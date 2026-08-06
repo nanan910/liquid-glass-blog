@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T00:52:14.076Z",
+  "updatedAt": "2026-08-06T04:15:54.918Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 6259"
+      "meta": "Stars 6461"
     },
     {
       "source": "Hacker News",
-      "title": "An AI model from Meta also hacked another company during testing",
+      "title": "Governments are making a dangerous bet on the AI boom",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking",
-      "meta": "1 points"
+      "url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
+      "meta": "23 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "Are we the abstraction? AI and the future of software engineering",
       "summary": "Dear past Jenna,  There will come a point when you wonder whether your career — the one you went to...",
       "url": "https://dev.to/jennapederson/the-abstraction-appears-to-include-us-2d47",
-      "meta": "4 reactions"
+      "meta": "5 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.5万 粉 fox hsiao @ pirrer · 6小时前 发布 Jeff Dean 遞出辭呈那天，Google 沒發財報、沒吃罰單，股價卻在盤中一度跌掉 5.",
-      "url": "https://x.com/pirrer/status/2085069230974894443?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 17.8万 粉 Orange AI @ oran_ge · 2小时前 发布 卧槽，DeepSeek 终于撑不住了… 官方宣布即将大幅涨价… 美好的时光总是如此短暂 h",
+      "url": "https://x.com/oran_ge/status/2085177197111992742?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
