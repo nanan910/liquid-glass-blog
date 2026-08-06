@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T07:17:06.195Z",
+  "updatedAt": "2026-08-06T10:10:00.799Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 6658"
+      "meta": "Stars 6812"
     },
     {
       "source": "Hacker News",
-      "title": "How can a junior dev get better when they have to use AI in their job?",
+      "title": "AI Agents Governance: Who guards the guardrails?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49193519",
-      "meta": "1 points"
+      "url": "https://www.nofire.ai/blog/who-audits-the-ai-agent",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.1万 粉 0xEgg @ 0xEggg · 2小时前 发布 上个月用codex写的脚本 派上用场了 https://t.co/xNbUA6gY65",
-      "url": "https://x.com/0xEggg/status/2085220378671255799?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.6万 粉 宝玉 @ dotey · 3小时前 发布 卧槽，这哥们去霍霍 Codex 了吗？",
+      "url": "https://x.com/dotey/status/2085251894201458914?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
