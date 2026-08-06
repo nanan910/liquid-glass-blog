@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T12:26:34.508Z",
+  "updatedAt": "2026-08-06T14:56:05.519Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "trycompai/crm",
       "summary": "An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 6900"
+      "meta": "Stars 6979"
     },
     {
       "source": "Hacker News",
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "title": "In AI-native firms, tech automates 75% of the work. What about the other 25%?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "meta": "2 points"
+      "url": "https://readonpaper.substack.com/p/the-25-nobodys-underwriting",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.6万 粉 宝玉 @ dotey · 5小时前 发布 卧槽，这哥们去霍霍 Codex 了吗？",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.6万 粉 宝玉 @ dotey · 8小时前 发布 卧槽，这哥们去霍霍 Codex 了吗？",
       "url": "https://x.com/dotey/status/2085251894201458914?sid=ai-tweet-reply",
       "meta": "热帖"
     }
