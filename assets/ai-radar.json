@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T20:46:17.736Z",
+  "updatedAt": "2026-08-07T21:42:19.025Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "meta": "Stars 3220"
+      "meta": "Stars 3240"
     },
     {
       "source": "Hacker News",
-      "title": "AI Tool Directory",
+      "title": "Show HN: Podiom – Persistent project context, goals and scheduling for AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49215942",
+      "url": "https://github.com/Podiom/Podiom",
       "meta": "1 points"
     },
     {
