@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T05:43:10.402Z",
+  "updatedAt": "2026-08-07T07:21:53.892Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "meta": "Stars 2922"
+      "meta": "Stars 2939"
     },
     {
       "source": "Hacker News",
-      "title": "Meta enters the coding-agent race with Muse Code",
+      "title": "Show HN: Skill to stop AI agents from retry-looping during GitHub outages",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://developer.meta.com/ai/products/muse-code/",
+      "url": "https://github.com/tbille/check-github-status",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13547 likes"
+      "meta": "13548 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 17.8万 粉 Orange AI @ oran_ge · 4小时前 发布 传言 OpenAI 下周就要发布新一代模型 Astra 了 这是他们家最大的模型，应该是不",
-      "url": "https://x.com/oran_ge/status/2085533847383605571?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.2万 粉 Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) @ teortaxesTex · 3小时前 发布 Yang Zhilin,",
+      "url": "https://x.com/teortaxesTex/status/2085571487524594084?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
