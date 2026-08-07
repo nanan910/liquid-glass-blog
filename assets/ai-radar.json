@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T13:50:44.519Z",
+  "updatedAt": "2026-08-07T14:56:15.957Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "meta": "Stars 3041"
+      "meta": "Stars 3068"
     },
     {
       "source": "Hacker News",
-      "title": "Are We Sacrificing Cemeteries for AI?",
+      "title": "Local AI Stack Planner",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://connectingdirectors.com/73877-are-we-sacrificing-cemeteries-for-ai",
+      "url": "https://local-ai-models.ai/",
       "meta": "1 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8,448 粉 Go学长 @ arkuy99 · 8小时前 发布 DeepSeek Harness 内测 还要提交身份证复印件 来签字 有点离谱 而且签字了还只是通过",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8,448 粉 Go学长 @ arkuy99 · 9小时前 发布 DeepSeek Harness 内测 还要提交身份证复印件 来签字 有点离谱 而且签字了还只是通过",
       "url": "https://x.com/arkuy99/status/2085595604357718358?sid=ai-tweet-reply",
       "meta": "热帖"
     }
