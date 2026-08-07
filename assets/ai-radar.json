@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:21:53.892Z",
+  "updatedAt": "2026-08-07T08:34:32.608Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "meta": "Stars 2939"
+      "meta": "Stars 2954"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Skill to stop AI agents from retry-looping during GitHub outages",
+      "title": "Show HN: Aident Loadout – connect Codex to real apps with 25000 actions",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/tbille/check-github-status",
-      "meta": "1 points"
+      "url": "https://github.com/Aident-AI/aident-skill",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.2万 粉 Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) @ teortaxesTex · 3小时前 发布 Yang Zhilin,",
-      "url": "https://x.com/teortaxesTex/status/2085571487524594084?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.2万 粉 lencx @ lencx_ · 4小时前 发布 初筛通过了，但我没想到 DeepSeek Harness 测试规格这么高，签名+身份证复印件也只是获得",
+      "url": "https://x.com/lencx_/status/2085583064890298786?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
