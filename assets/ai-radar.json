@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T00:25:54.369Z",
+  "updatedAt": "2026-08-07T03:30:39.234Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "meta": "Stars 2826"
+      "meta": "Stars 2885"
     },
     {
       "source": "Hacker News",
-      "title": "I launched a fake deodorant brand to see if AI would notice",
+      "title": "Built an exclusion engine and it might be what comes after AI slop",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://xcancel.com/antibot/captcha",
-      "meta": "2 points"
+      "url": "https://uncoverroads.com/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.1万 粉 美研芒格君 @ Kay2289123 · 7小时前 发布 借着anydoc这个工具，跟大家分享一下平时我是怎么借助把任何一家公司的投资价值研究透？ 第一",
-      "url": "https://x.com/Kay2289123/status/2085407588146196809?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.4万 粉 唐华斑竹🦅 @ uniswap12 · 46分钟前 发布 2026年整个AI智能体赛道的核心变化，早就不是大家盯着参数堆更大的模型了，真正的核心拐点落",
+      "url": "https://x.com/uniswap12/status/2085557472975311357?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
