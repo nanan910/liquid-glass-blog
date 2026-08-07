@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:40:22.573Z",
+  "updatedAt": "2026-08-07T23:37:02.885Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "meta": "Stars 3255"
+      "meta": "Stars 3273"
     },
     {
       "source": "Hacker News",
-      "title": "MacSurf and the State of AI Assisted Projects",
+      "title": "Energy-Based Models Explained: The AI Beyond Next-Token [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679",
+      "url": "https://www.youtube.com/watch?v=NYmXYF8A3Q4",
       "meta": "1 points"
     },
     {
