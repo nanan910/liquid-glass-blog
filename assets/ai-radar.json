@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:30:39.234Z",
+  "updatedAt": "2026-08-07T05:43:10.402Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "meta": "Stars 2885"
+      "meta": "Stars 2922"
     },
     {
       "source": "Hacker News",
-      "title": "Built an exclusion engine and it might be what comes after AI slop",
+      "title": "Meta enters the coding-agent race with Muse Code",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://uncoverroads.com/",
+      "url": "https://developer.meta.com/ai/products/muse-code/",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7.4万 粉 唐华斑竹🦅 @ uniswap12 · 46分钟前 发布 2026年整个AI智能体赛道的核心变化，早就不是大家盯着参数堆更大的模型了，真正的核心拐点落",
-      "url": "https://x.com/uniswap12/status/2085557472975311357?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 17.8万 粉 Orange AI @ oran_ge · 4小时前 发布 传言 OpenAI 下周就要发布新一代模型 Astra 了 这是他们家最大的模型，应该是不",
+      "url": "https://x.com/oran_ge/status/2085533847383605571?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
