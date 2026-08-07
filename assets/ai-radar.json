@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-08-06T14:56:05.519Z",
+  "updatedAt": "2026-08-07T00:25:54.369Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "trycompai/crm",
-      "summary": "An open-source, agentic-first CRM.",
-      "url": "https://github.com/trycompai/crm",
-      "meta": "Stars 6979"
+      "title": "FareedKhan-dev/kimi-k3-in-c",
+      "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "meta": "Stars 2826"
     },
     {
       "source": "Hacker News",
-      "title": "In AI-native firms, tech automates 75% of the work. What about the other 25%?",
+      "title": "I launched a fake deodorant brand to see if AI would notice",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://readonpaper.substack.com/p/the-25-nobodys-underwriting",
-      "meta": "1 points"
+      "url": "https://xcancel.com/antibot/captcha",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13545 likes"
+      "meta": "13547 likes"
     },
     {
       "source": "DEV",
-      "title": "Are we the abstraction? AI and the future of software engineering",
-      "summary": "Dear past Jenna,  There will come a point when you wonder whether your career — the one you went to...",
-      "url": "https://dev.to/jennapederson/the-abstraction-appears-to-include-us-2d47",
-      "meta": "7 reactions"
+      "title": "I Recreated Management With AI: 9 Things I Do Differently",
+      "summary": "I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.",
+      "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
+      "meta": "22 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.6万 粉 宝玉 @ dotey · 8小时前 发布 卧槽，这哥们去霍霍 Codex 了吗？",
-      "url": "https://x.com/dotey/status/2085251894201458914?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.1万 粉 美研芒格君 @ Kay2289123 · 7小时前 发布 借着anydoc这个工具，跟大家分享一下平时我是怎么借助把任何一家公司的投资价值研究透？ 第一",
+      "url": "https://x.com/Kay2289123/status/2085407588146196809?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
