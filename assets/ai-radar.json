@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T17:24:19.743Z",
+  "updatedAt": "2026-08-07T18:22:47.917Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "meta": "Stars 3137"
+      "meta": "Stars 3165"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
+      "title": "An AI agent with $15, 46 hours, and no way to send email",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://mergeoa.com",
-      "meta": "3 points"
+      "url": "https://write.as/ih3l0kd78lpb1",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
