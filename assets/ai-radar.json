@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:31:15.029Z",
+  "updatedAt": "2026-08-07T20:46:17.736Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "FareedKhan-dev/kimi-k3-in-c",
       "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "meta": "Stars 3194"
+      "meta": "Stars 3220"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Zaivern Code – a Rust cockpit for parallel AI coding agents",
+      "title": "AI Tool Directory",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/tacyan/zaivern-code",
+      "url": "https://news.ycombinator.com/item?id=49215942",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "I Recreated Management With AI: 9 Things I Do Differently",
-      "summary": "I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.",
-      "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
-      "meta": "30 reactions"
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "summary": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "meta": "8 reactions"
     },
     {
       "source": "蓝点网",
