@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T10:37:29.253Z",
+  "updatedAt": "2026-08-08T11:32:21.520Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 1937"
+      "meta": "Stars 1944"
     },
     {
       "source": "Hacker News",
-      "title": "Do you think AI governance should be technically rather than paper policy?",
+      "title": "'I hate what AI is doing to the minds and happiness of the young'",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49220465",
-      "meta": "1 points"
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 5小时前 发布 现在局面比较诡异， 谷歌微软他们公司债推高了美债的利息， 即使不加息，债券市场",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 6小时前 发布 现在局面比较诡异， 谷歌微软他们公司债推高了美债的利息， 即使不加息，债券市场",
       "url": "https://x.com/xiaomustock/status/2085959345200591001?sid=ai-tweet-reply",
       "meta": "热帖"
     }
