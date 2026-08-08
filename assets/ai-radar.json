@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T18:42:47.454Z",
+  "updatedAt": "2026-08-08T19:33:18.807Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 1981"
+      "meta": "Stars 1982"
     },
     {
       "source": "Hacker News",
-      "title": "AI Adoption Is a Myth",
+      "title": "Show HN: HolyCode Cloud – persistent Linux workstations for AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://twitter.com/vasuman/status/2085806422072418632",
-      "meta": "2 points"
+      "url": "https://holycode.cloud",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
