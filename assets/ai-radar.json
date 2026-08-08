@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T19:33:18.807Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-08T20:34:24.091Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: HolyCode Cloud – persistent Linux workstations for AI",
+      "title": "AI-written pieces that have won literary awards",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://holycode.cloud",
+      "url": "https://twitter.com/jamesjyu/status/2085335285726900646",
       "meta": "1 points"
     },
     {
@@ -31,13 +31,6 @@
       "meta": "12 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "AI比人类更可靠？Claude Code将切换为自动模式 不需要用户手动确认命令或调用",
-      "summary": "<p>A 社日前发布博客宣布从 2026 年 8 月 14 日开始将逐步把 Claude Code 设置为自动模式，该模式将覆盖 Claude Pro、Claude Max 和 Claude ...",
-      "url": "https://www.landian.news/archives/114245.html",
-      "meta": "08 Aug 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 503",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
