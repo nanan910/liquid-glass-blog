@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T06:07:34.772Z",
+  "updatedAt": "2026-08-08T07:30:34.621Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 1913"
+      "meta": "Stars 1919"
     },
     {
       "source": "Hacker News",
-      "title": "The biggest threat to air-passenger safety may be our own government",
+      "title": "AIUsageBar – Track Claude, Codex, Cursor and Gemini Usage from the Mac Menu Bar",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://nymag.com/intelligencer/article/marine-ones-near-miss-incident-was-scarier-than-it-looks.html",
-      "meta": "1 points"
+      "url": "https://www.aiusagebar.com",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -25,22 +25,22 @@
     },
     {
       "source": "DEV",
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "summary": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "meta": "8 reactions"
+      "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
+      "summary": "I read back six months of my own work journal and found three different note-taking systems, only one of which I remember deciding to build. This is what the volume of information actually did to my notes, what got better, what I lost, and how I capture things now.",
+      "url": "https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0",
+      "meta": "12 reactions"
     },
     {
       "source": "蓝点网",
-      "title": "Claude AI会话分享链接存在配置错误 大量包含私密内容的用户会话被谷歌抓取",
-      "summary": "<p>上周末有用户发现 Claude AI 会话分享竟然出现在谷歌搜索中，即 A 社并未设置分享链接禁止搜索引擎抓取，因此只需要使用 SITE 指令就可以查询大量已经被谷歌或其他搜索引擎抓取收...",
-      "url": "https://www.landian.news/archives/114081.html",
-      "meta": "27 Jul 2026"
+      "title": "AI比人类更可靠？Claude Code将切换为自动模式 不需要用户手动确认命令或调用",
+      "summary": "<p>A 社日前发布博客宣布从 2026 年 8 月 14 日开始将逐步把 Claude Code 设置为自动模式，该模式将覆盖 Claude Pro、Claude Max 和 Claude ...",
+      "url": "https://www.landian.news/archives/114245.html",
+      "meta": "08 Aug 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 我",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 我",
       "url": "https://x.com/lidangzzz/status/2085933876858212565?sid=ai-tweet-reply",
       "meta": "热帖"
     }
