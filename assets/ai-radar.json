@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T05:13:59.097Z",
+  "updatedAt": "2026-08-09T06:09:33.719Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 1998"
+      "meta": "Stars 2003"
     },
     {
       "source": "Hacker News",
-      "title": "Open Source, third-party auditing for AI Agents",
+      "title": "Leopold Aschenbrenner Turned $100M into $45B Betting on AI – It Almost Blew Up [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/ifixai-ai/iFixAi",
+      "url": "https://www.youtube.com/watch?v=mJhGRim2MWY",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13553 likes"
+      "meta": "13554 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 绝",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 绝",
       "url": "https://x.com/lidangzzz/status/2086290279393378391?sid=ai-tweet-reply",
       "meta": "热帖"
     }
