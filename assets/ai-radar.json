@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T23:32:49.286Z",
+  "updatedAt": "2026-08-09T02:01:17.169Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 1986"
+      "meta": "Stars 1989"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Faaah – Filesystem as an AI Handler",
+      "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/sebastiancarlos/faaah",
+      "url": "https://huggingface.co/blog/mayafree/model-dna",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
-      "summary": "I read back six months of my own work journal and found three different note-taking systems, only one of which I remember deciding to build. This is what the volume of information actually did to my notes, what got better, what I lost, and how I capture things now.",
-      "url": "https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0",
-      "meta": "12 reactions"
+      "title": "Who Named This ReAct? I'd Like to Speak to the Manager.",
+      "summary": "This week I started the Agentic Engineer Nanodegree through AWS AI &amp; ML Scholars, the next step...",
+      "url": "https://dev.to/earlgreyhot1701d/who-named-this-react-id-like-to-speak-to-the-manager-4akg",
+      "meta": "10 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.9万 粉 AYi @ AYi_AInotes · 2小时前 发布 今天AI圈最大的瓜应该是这个了吧， 神仙打架，Codex的周使用限额都给重置了！！！ 刚刚@Op",
+      "url": "https://x.com/AYi_AInotes/status/2086236960310407590?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
