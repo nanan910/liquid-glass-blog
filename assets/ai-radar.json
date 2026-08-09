@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T11:33:26.491Z",
+  "updatedAt": "2026-08-09T12:58:52.762Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2045"
+      "meta": "Stars 2051"
     },
     {
       "source": "Hacker News",
-      "title": "Switching to electric stoves can dramatically cut indoor air pollution",
+      "title": "Amazon circumvents Gilroy community vote for AI data center",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
       "meta": "3 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 179.1万 粉 联合早报 Lianhe Zaobao @ zaobaosg · 6小时前 发布 中国量化对冲基金在7月份遭遇重挫，与人工智能相关的股票大幅下跌，导致",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 179.1万 粉 联合早报 Lianhe Zaobao @ zaobaosg · 7小时前 发布 中国量化对冲基金在7月份遭遇重挫，与人工智能相关的股票大幅下跌，导致",
       "url": "https://x.com/zaobaosg/status/2086318246186168556?sid=ai-tweet-reply",
       "meta": "热帖"
     }
