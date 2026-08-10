@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T18:25:27.787Z",
+  "updatedAt": "2026-08-10T19:32:43.371Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2256"
+      "meta": "Stars 2260"
     },
     {
       "source": "Hacker News",
-      "title": "A.I. Agents Are Taking Online Courses for Cheating Students",
+      "title": "Nvidia is pulling Wall Street into the AI buildout",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html",
-      "meta": "1 points"
+      "url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
