@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T07:51:52.944Z",
+  "updatedAt": "2026-08-10T09:26:54.129Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2163"
+      "meta": "Stars 2190"
     },
     {
       "source": "Hacker News",
-      "title": "Are AI agents our industry's industrial robots?",
+      "title": "Show HN: OptiQra – Open-source AI website optimization and intelligence platform",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.marcusoft.net/2026/08/ai-robots.html",
+      "url": "https://github.com/armin5872/OptiQra",
       "meta": "2 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13557 likes"
+      "meta": "13558 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.5万 粉 Geek @ geekbb · 2小时前 发布 GLM 5.3 一直不发 Grok 4.6 一直不发 DeepSeek V4 Pro 正式版 一直不发",
-      "url": "https://x.com/geekbb/status/2086677707107282990?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.7万 粉 AB Kuai.Dong @ _FORAB · 3小时前 发布 太离谱了。澳大利亚一名老哥，想让接入 Claude 的 AI 助手帮自己预约健身课，但",
+      "url": "https://x.com/_FORAB/status/2086692663966015727?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
