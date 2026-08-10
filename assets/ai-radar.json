@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T16:02:17.134Z",
+  "updatedAt": "2026-08-10T17:26:24.947Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2248"
+      "meta": "Stars 2252"
     },
     {
       "source": "Hacker News",
-      "title": "Why Open Source Matters for AI: Models should be infrastructure, not appliances",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+      "url": "https://cactuscompute.com/needle",
       "meta": "1 points"
     },
     {
