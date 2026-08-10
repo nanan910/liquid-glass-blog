@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T22:41:22.733Z",
+  "updatedAt": "2026-08-10T23:38:31.541Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2268"
+      "meta": "Stars 2271"
     },
     {
       "source": "Hacker News",
-      "title": "Bernie Sanders calls for AI development pause",
+      "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
+      "url": "https://github.com/MaximiH-86/GridPulse_Production_Server",
       "meta": "1 points"
     },
     {
