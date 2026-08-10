@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T04:13:22.109Z",
+  "updatedAt": "2026-08-10T05:55:53.827Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2135"
+      "meta": "Stars 2148"
     },
     {
       "source": "Hacker News",
-      "title": "New AI models still reproduce racial and gender stereotypes in medicine",
+      "title": "Escaping the LLM Coding Rat Race",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.flinders.edu.au/blog/2026/08/09/new-ai-models-still-reproduce-racial-and-gender-stereotypes-in-medicine/",
+      "url": "https://aaronstannard.com/escaping-ai-coding-ratrace/",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4,849 粉 ZHW @ weiwei882288 · 6小时前 发布 说到Sakana AI的\"Fugu\"模型，虽然它在营销宣传上包装成是一个“媲美 Fable ",
-      "url": "https://x.com/weiwei882288/status/2086575410209591340?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 山",
+      "url": "https://x.com/lidangzzz/status/2086635797462028492?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
