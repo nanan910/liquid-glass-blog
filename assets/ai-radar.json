@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T02:05:46.001Z",
+  "updatedAt": "2026-08-10T04:13:22.109Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2107"
+      "meta": "Stars 2135"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Ask your coding agent to subtitle, translate, and clip video (FFmpeg)",
+      "title": "New AI models still reproduce racial and gender stereotypes in medicine",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/perso-ai/perso-dubbing-plugin",
+      "url": "https://news.flinders.edu.au/blog/2026/08/09/new-ai-models-still-reproduce-racial-and-gender-stereotypes-in-medicine/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13555 likes"
+      "meta": "13556 likes"
     },
     {
       "source": "DEV",
@@ -32,15 +32,15 @@
     },
     {
       "source": "蓝点网",
-      "title": "AI比人类更可靠？Claude Code将切换为自动模式 不需要用户手动确认命令或调用",
-      "summary": "<p>A 社日前发布博客宣布从 2026 年 8 月 14 日开始将逐步把 Claude Code 设置为自动模式，该模式将覆盖 Claude Pro、Claude Max 和 Claude ...",
-      "url": "https://www.landian.news/archives/114245.html",
-      "meta": "08 Aug 2026"
+      "title": "澳大利亚也出现AI智能体自主攻击行为：代表用户入侵健身房预约系统只为提前订课",
+      "summary": "<p>据澳大利亚广播公司发布的消息，澳大利亚日前也出现 AI 智能体自主攻击行为，不过此次攻击并非 AI 智能体发起的攻击与此前发生的情况不同，这个由 Claude AI 模型驱动的智能体为达...",
+      "url": "https://www.landian.news/archives/114249.html",
+      "meta": "10 Aug 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4,802 粉 ZHW @ weiwei882288 · 3小时前 发布 说到Sakana AI的\"Fugu\"模型，虽然它在营销宣传上包装成是一个“媲美 Fable ",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4,849 粉 ZHW @ weiwei882288 · 6小时前 发布 说到Sakana AI的\"Fugu\"模型，虽然它在营销宣传上包装成是一个“媲美 Fable ",
       "url": "https://x.com/weiwei882288/status/2086575410209591340?sid=ai-tweet-reply",
       "meta": "热帖"
     }
