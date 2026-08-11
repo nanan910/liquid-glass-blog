@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T17:29:31.506Z",
+  "updatedAt": "2026-08-11T18:28:36.523Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,10 +11,10 @@
     },
     {
       "source": "Hacker News",
-      "title": "AI Loop Engineering in 2026: How to Build a Gauntlet Loop",
+      "title": "Understanding an AI agent's memory through Harry Potter",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.thepromptindex.com/ai-loop-engineering-gauntlet-loop-guide.html",
-      "meta": "2 points"
+      "url": "https://squidler.io/blog/agent-memory-harry-potter",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "I measured his app with his own code. He measured my claim with his own corpus.",
-      "summary": "This is part five of a series about pointing an append-only audit log at things that count tokens....",
-      "url": "https://dev.to/lizhuojunx86/i-measured-his-app-with-his-own-code-he-measured-my-claim-with-his-own-corpus-1l5m",
-      "meta": "1 reactions"
+      "title": "Write down every guarantee before you write any code",
+      "summary": "Here is every promise a to-do list makes.    VARIABLE tasks  Init == tasks = [i \\in Ids |-&gt;...",
+      "url": "https://dev.to/copyleftdev/write-down-every-guarantee-before-you-write-any-code-21oi",
+      "meta": "6 reactions"
     },
     {
       "source": "蓝点网",
