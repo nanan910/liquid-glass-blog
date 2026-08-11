@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T23:38:31.541Z",
+  "updatedAt": "2026-08-11T02:00:47.163Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2271"
+      "meta": "Stars 2285"
     },
     {
       "source": "Hacker News",
-      "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
+      "title": "Show HN: SendPage – turn AI-generated HTML into a shareable link",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/MaximiH-86/GridPulse_Production_Server",
+      "url": "https://sendpageapp.com",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 23.8万 粉 宝玉 @ dotey · 6小时前 发布 Anthropic 今天宣布，一个未公开的研究版 Claude 在尝试证明黎曼猜想的过程中，虽然没能证明猜想",
+      "url": "https://x.com/dotey/status/2086902418139128225?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
