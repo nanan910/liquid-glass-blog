@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T18:28:36.523Z",
+  "updatedAt": "2026-08-11T19:39:36.119Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2401"
+      "meta": "Stars 2404"
     },
     {
       "source": "Hacker News",
-      "title": "Understanding an AI agent's memory through Harry Potter",
+      "title": "You Don't Need to Use Cloud AI Switchyard and Nemotron (Level1/Wendell) [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://squidler.io/blog/agent-memory-harry-potter",
-      "meta": "1 points"
+      "url": "https://www.youtube.com/watch?v=-IGB6Avxwgo",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
