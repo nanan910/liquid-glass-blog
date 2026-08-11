@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T16:24:34.427Z",
+  "updatedAt": "2026-08-11T17:29:31.506Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2399"
+      "meta": "Stars 2401"
     },
     {
       "source": "Hacker News",
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is AI",
+      "title": "AI Loop Engineering in 2026: How to Build a Gauntlet Loop",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "meta": "1 points"
+      "url": "https://www.thepromptindex.com/ai-loop-engineering-gauntlet-loop-guide.html",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
