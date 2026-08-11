@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:01:44.429Z",
+  "updatedAt": "2026-08-11T05:35:51.932Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2311"
+      "meta": "Stars 2321"
     },
     {
       "source": "Hacker News",
-      "title": "'We Did Our Best': Metaphors of Parenting and AI",
+      "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.nybooks.com/articles/2026/06/25/we-did-our-best-ai-meghan-ogieblyn/",
-      "meta": "1 points"
+      "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -32,16 +32,16 @@
     },
     {
       "source": "蓝点网",
-      "title": "澳大利亚也出现AI智能体自主攻击行为：代表用户入侵健身房预约系统只为提前订课",
-      "summary": "<p>据澳大利亚广播公司发布的消息，澳大利亚日前也出现 AI 智能体自主攻击行为，不过此次攻击并非 AI 智能体发起的攻击与此前发生的情况不同，这个由 Claude AI 模型驱动的智能体为达...",
-      "url": "https://www.landian.news/archives/114249.html",
-      "meta": "10 Aug 2026"
+      "title": "A社开始在Claude中使用盲水印 无论是文本还是文件都会添加盲水印用于识别AI生成",
+      "summary": "<p>据 A 社发布的帮助文档，该公司目前已经签署欧盟人工智能法案第 50 条第 2 款透明度实践准则，A 社通过文本盲水印和文件来源 C2PA 元数据帮助用户识别内容是否经过 Claude ...",
+      "url": "https://www.landian.news/archives/114273.html",
+      "meta": "11 Aug 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.5万 粉 Eric Xu (e/Mettā) @ xleaps · 1小时前 发布 2026 年上半年的 Sonnet 还能主打一个 Coding Subagen",
-      "url": "https://x.com/xleaps/status/2087001188910653904?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.6万 粉 Max For AI @ MaxForAI · 4小时前 发布 有意思，网友发现DeepSeek居然会在思考过程中偷偷给你取外号？！？ 最近有中国用户发",
+      "url": "https://x.com/MaxForAI/status/2086987214207242591?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
