@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T05:35:51.932Z",
+  "updatedAt": "2026-08-11T07:13:57.021Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/human-writing",
       "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2321"
+      "meta": "Stars 2335"
     },
     {
       "source": "Hacker News",
-      "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+      "title": "helppeer.ai",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
-      "meta": "2 points"
+      "url": "https://helppeer.ai/llms.txt",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.6万 粉 Max For AI @ MaxForAI · 4小时前 发布 有意思，网友发现DeepSeek居然会在思考过程中偷偷给你取外号？！？ 最近有中国用户发",
-      "url": "https://x.com/MaxForAI/status/2086987214207242591?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 十",
+      "url": "https://x.com/lidangzzz/status/2087058928890769592?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
