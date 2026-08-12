@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T14:37:00.606Z",
+  "updatedAt": "2026-08-12T16:01:20.674Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "ShawnPana/phone-harness",
       "summary": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
-      "meta": "Stars 1593"
+      "meta": "Stars 1608"
     },
     {
       "source": "Hacker News",
-      "title": "I wrote an AI textbook – how long until AI can do it better?",
+      "title": "Archer OS: draft spec for AI agents operating apps under OS authority",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+      "url": "https://github.com/coachpato/archer-os",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13567 likes"
+      "meta": "13568 likes"
     },
     {
       "source": "DEV",
-      "title": "The Mechanical vs. The Semantic: What Happens When AI Memory is Wrong?",
-      "summary": "An empirical look at memory contamination in AI agents. I ran an experiment to see how agents handle false facts, tested a retraction mechanism, and closed the final gap with verify-on-read.",
-      "url": "https://dev.to/mansio/the-mechanical-vs-the-semantic-what-happens-when-ai-memory-is-wrong-38ko",
-      "meta": "7 reactions"
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "meta": "14 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.2万 粉 晚点 LatePost @ latepostnews · 8小时前 发布 《Manus 第二季，浪子回头》 8 月 11 日晚间，Manus 网站上挂了",
-      "url": "https://x.com/latepostnews/status/2087424969869603182?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
