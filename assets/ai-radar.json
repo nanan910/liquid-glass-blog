@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T20:09:07.606Z",
+  "updatedAt": "2026-08-12T21:21:02.358Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 1772"
+      "meta": "Stars 1933"
     },
     {
       "source": "Hacker News",
-      "title": "The Google executive moves that led to its big AI reshuffle",
+      "title": "Rubber Chicken AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/",
-      "meta": "2 points"
+      "url": "https://teambuildingschool.com",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13568 likes"
+      "meta": "13569 likes"
     },
     {
       "source": "DEV",
