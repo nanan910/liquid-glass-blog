@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T16:01:20.674Z",
+  "updatedAt": "2026-08-12T17:30:42.016Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "ShawnPana/phone-harness",
       "summary": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
-      "meta": "Stars 1608"
+      "meta": "Stars 1620"
     },
     {
       "source": "Hacker News",
-      "title": "Archer OS: draft spec for AI agents operating apps under OS authority",
+      "title": "Crypto executives desert the sinking ship for the AI lifeboats",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/coachpato/archer-os",
+      "url": "https://www.independent.ie/business/technology/adrian-weckler-crypto-executives-desert-the-sinking-ship-for-the-ai-lifeboats.-women-and-children-first/a/159706932.html",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-      "meta": "14 reactions"
+      "meta": "16 reactions"
     },
     {
       "source": "蓝点网",
