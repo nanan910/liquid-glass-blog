@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-11T23:45:45.017Z",
+  "updatedAt": "2026-08-12T02:14:55.290Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "KKKKhazix/human-writing",
-      "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "url": "https://github.com/KKKKhazix/human-writing",
-      "meta": "Stars 2406"
+      "title": "ShawnPana/phone-harness",
+      "summary": "let your agent control your phone",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "meta": "Stars 1508"
     },
     {
       "source": "Hacker News",
-      "title": "Watching Roku's AI channel is like eating from a trough",
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
       "meta": "2 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Write down every guarantee before you write any code",
-      "summary": "Here is every promise a to-do list makes.    VARIABLE tasks  Init == tasks = [i \\in Ids |-&gt;...",
-      "url": "https://dev.to/copyleftdev/write-down-every-guarantee-before-you-write-any-code-21oi",
-      "meta": "6 reactions"
+      "title": "Pi Agent vs Claude Code After 100 Hours of Real Use 🔥",
+      "summary": "While researching for this post, I found out something funny. Pi, the most interesting coding agent...",
+      "url": "https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp",
+      "meta": "14 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.4万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 这",
+      "url": "https://x.com/lidangzzz/status/2087325446744469952?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
