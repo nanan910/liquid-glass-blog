@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T09:15:19.553Z",
+  "updatedAt": "2026-08-12T10:35:47.897Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "ShawnPana/phone-harness",
       "summary": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
-      "meta": "Stars 1564"
+      "meta": "Stars 1571"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: SoundGate – Real-time note detection and AI tutor for guitar",
+      "title": "DeepSeek: What They Invented",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://soundgate.ai/product/",
+      "url": "https://claude.ai/public/artifacts/807b5183-4704-4e63-b132-98379d1a9c80",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13564 likes"
+      "meta": "13565 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.2万 粉 晚点 LatePost @ latepostnews · 2小时前 发布 《Manus 第二季，浪子回头》 8 月 11 日晚间，Manus 网站上挂了",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.2万 粉 晚点 LatePost @ latepostnews · 4小时前 发布 《Manus 第二季，浪子回头》 8 月 11 日晚间，Manus 网站上挂了",
       "url": "https://x.com/latepostnews/status/2087424969869603182?sid=ai-tweet-reply",
       "meta": "热帖"
     }
