@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T17:30:16.688Z",
+  "updatedAt": "2026-08-13T18:31:34.280Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 4677"
+      "meta": "Stars 4816"
     },
     {
       "source": "Hacker News",
-      "title": "Fundable – the AI platform for fund and asset managers",
+      "title": "AI Is Threatening Natural Resources for Billions",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://fundableai.com/",
+      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "24 Cups, 36 Seats — The Bartender's Ledger",
-      "summary": "24 stories. 24 visits. One counter, same six faces.              The Third Cup   The AI wave hit, and...",
-      "url": "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj",
-      "meta": "44 reactions"
+      "title": "Not All AI Builders Are Doing the Same Work",
+      "summary": "In 2026, nearly everyone I interact with in tech wants to talk about AI. It comes up on LinkedIn, at...",
+      "url": "https://dev.to/deeheber/not-all-ai-builders-are-doing-the-same-work-31m4",
+      "meta": "8 reactions"
     },
     {
       "source": "蓝点网",
