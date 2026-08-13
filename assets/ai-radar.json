@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:58:22.127Z",
+  "updatedAt": "2026-08-13T15:06:38.844Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 4201"
+      "meta": "Stars 4374"
     },
     {
       "source": "Hacker News",
-      "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
+      "title": "The Cloudflare AI Psychosis",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "The Next Evolution of Software Developers",
-      "summary": "The next evolution of software developers: from implementation to intent, orchestration, and...",
-      "url": "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
-      "meta": "37 reactions"
+      "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
+      "summary": "Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...",
+      "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
+      "meta": "27 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 6小时前 发布 为",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 7小时前 发布 为",
       "url": "https://x.com/lidangzzz/status/2087803744171823334?sid=ai-tweet-reply",
       "meta": "热帖"
     }
