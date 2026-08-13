@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T16:25:20.727Z",
+  "updatedAt": "2026-08-13T17:30:16.688Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 4520"
+      "meta": "Stars 4677"
     },
     {
       "source": "Hacker News",
-      "title": "We Have AI at Home Chapter 1: A Box of Scraps",
+      "title": "Fundable – the AI platform for fund and asset managers",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "url": "https://fundableai.com/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
-      "summary": "Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...",
-      "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
-      "meta": "27 reactions"
+      "title": "24 Cups, 36 Seats — The Bartender's Ledger",
+      "summary": "24 stories. 24 visits. One counter, same six faces.              The Third Cup   The AI wave hit, and...",
+      "url": "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj",
+      "meta": "44 reactions"
     },
     {
       "source": "蓝点网",
