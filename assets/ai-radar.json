@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T06:57:28.962Z",
+  "updatedAt": "2026-08-13T08:37:34.129Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 3132"
+      "meta": "Stars 3377"
     },
     {
       "source": "Hacker News",
-      "title": "Why Japanese firms are being so slow to use AI",
+      "title": "I built an AI video upscaler that runs the heavy GPU work in the cloud",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
+      "url": "https://videoupscaler.com",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "The Next Evolution of Software Developers",
       "summary": "The next evolution of software developers: from implementation to intent, orchestration, and...",
       "url": "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
-      "meta": "18 reactions"
+      "meta": "24 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 13.9万 粉 AB Kuai.Dong @ _FORAB · 3小时前 发布 著名 AI 测评 Artificial Analysis 上午更新了数据，给 Grok",
-      "url": "https://x.com/_FORAB/status/2087738737149276211?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 6,808 粉 Bojie Li @ bojie_li · 4小时前 发布 https://t.co/k1Vfe18Z6I 晚点这篇是公众媒体挺好的技术文章。Jeff",
+      "url": "https://x.com/bojie_li/status/2087753611736740060?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
