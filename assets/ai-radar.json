@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T20:53:48.645Z",
+  "updatedAt": "2026-08-13T21:51:42.275Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 5061"
+      "meta": "Stars 5155"
     },
     {
       "source": "Hacker News",
-      "title": "Oneiric – an open-source AI short film [video]",
+      "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+      "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
       "meta": "1 points"
     },
     {
