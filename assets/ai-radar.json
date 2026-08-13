@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T10:11:31.149Z",
+  "updatedAt": "2026-08-13T11:21:51.431Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 3607"
+      "meta": "Stars 3780"
     },
     {
       "source": "Hacker News",
-      "title": "AI 2027 Tracker: Tracking predictions from the AI 2027 scenario against reality",
+      "title": "Show HN: Markleft – how I review Claude's Markdown plans",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://ai2027-tracker.com/",
-      "meta": "2 points"
+      "url": "https://blog.lysk.tech/markleft-ai-markdown-review/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13568 likes"
+      "meta": "13569 likes"
     },
     {
       "source": "DEV",
       "title": "The Next Evolution of Software Developers",
       "summary": "The next evolution of software developers: from implementation to intent, orchestration, and...",
       "url": "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
-      "meta": "32 reactions"
+      "meta": "35 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 为",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 为",
       "url": "https://x.com/lidangzzz/status/2087803744171823334?sid=ai-tweet-reply",
       "meta": "热帖"
     }
