@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T03:08:16.742Z",
+  "updatedAt": "2026-08-13T05:17:46.952Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 2624"
+      "meta": "Stars 2888"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: I'm tired replying my social media visitors, I let AI agent handle it",
+      "title": "How do I self-host a good-looking AI generated website",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.agle.app/",
+      "url": "https://news.ycombinator.com/item?id=49281976",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13569 likes"
+      "meta": "13568 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 为",
-      "url": "https://x.com/lidangzzz/status/2087702224155607367?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2,226 粉 神烦老狗 @ shenfanlaogou · 3小时前 发布 不管你是谁 你快他妈从Deepseek V4Pro正式版身上下来",
+      "url": "https://x.com/shenfanlaogou/status/2087719792950313447?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
