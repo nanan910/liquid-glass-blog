@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:51:42.275Z",
+  "updatedAt": "2026-08-13T22:47:43.679Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 5155"
+      "meta": "Stars 5232"
     },
     {
       "source": "Hacker News",
-      "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
+      "title": "Think of AI as a lens, not a person",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
+      "url": "https://aethermug.com/posts/gen-ai-is-a-lens-into-humanity",
       "meta": "1 points"
     },
     {
