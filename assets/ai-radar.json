@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:56:50.626Z",
+  "updatedAt": "2026-08-13T20:53:48.645Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 4981"
+      "meta": "Stars 5061"
     },
     {
       "source": "Hacker News",
-      "title": "Forklane AI – Public Beta Launch",
+      "title": "Oneiric – an open-source AI short film [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://forklane.ai",
-      "meta": "2 points"
+      "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
