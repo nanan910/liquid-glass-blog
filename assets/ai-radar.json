@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:52:35.513Z",
+  "updatedAt": "2026-08-14T23:25:09.442Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 8036"
+      "meta": "Stars 8073"
     },
     {
       "source": "Hacker News",
-      "title": "Musk assembled a full-stack AI coding play while everyone watched benchmarks",
+      "title": "Talos AI Agent Super Secure",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://pub.towardsai.net/grok-4-6-x-cursor-elon-musk-just-bought-his-way-into-the-ai-coding-war-15a1292d4121",
+      "url": "https://github.com/talos-kernel/talos",
       "meta": "1 points"
     },
     {
