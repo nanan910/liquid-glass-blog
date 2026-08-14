@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T10:33:59.600Z",
+  "updatedAt": "2026-08-14T11:47:43.821Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 6330"
+      "meta": "Stars 6485"
     },
     {
       "source": "Hacker News",
-      "title": "NATO Scrambles Eurofighters, F-16s After Drone Enters Latvian Airspace",
+      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.newsweek.com/nato-scrambles-eurofighters-f-16s-after-drone-enters-latvian-airspace-12322078",
-      "meta": "3 points"
+      "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.4万 粉 木马人 @ cnyzgkc · 4小时前 发布 年轻人的执行力就是强👍，这么好的项目居然开源了！ 拿这个dsh到隔壁某书，直接月入6位数~ 仓库地址：",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.4万 粉 木马人 @ cnyzgkc · 5小时前 发布 年轻人的执行力就是强👍，这么好的项目居然开源了！ 拿这个dsh到隔壁某书，直接月入6位数~ 仓库地址：",
       "url": "https://x.com/cnyzgkc/status/2088140505972666491?sid=ai-tweet-reply",
       "meta": "热帖"
     }
