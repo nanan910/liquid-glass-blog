@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T17:57:29.987Z",
+  "updatedAt": "2026-08-14T19:05:09.908Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 7510"
+      "meta": "Stars 7652"
     },
     {
       "source": "Hacker News",
-      "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
+      "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
+      "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Durable Memory: Why Vector Databases Aren't Enough",
-      "summary": "Part 3 of the Building the AI Memory Stack series  After finishing Part 2, I noticed something.  The...",
-      "url": "https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f",
-      "meta": "8 reactions"
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "summary": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "meta": "12 reactions"
     },
     {
       "source": "蓝点网",
