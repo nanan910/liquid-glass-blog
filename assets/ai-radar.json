@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T02:15:10.096Z",
+  "updatedAt": "2026-08-14T04:23:10.574Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 5519"
+      "meta": "Stars 5707"
     },
     {
       "source": "Hacker News",
-      "title": "Muxxy: Like Slime, for AI and Tmux",
+      "title": "Elon Musk is suing California over an AI law. Here's why transparency matters",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.djhaskin.com/blog/muxxy-like-slime-for-ai-tmux/",
+      "url": "https://www.sfchronicle.com/opinion/openforum/article/ai-data-law-california-22382698.php",
       "meta": "1 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 2小时前 发布 睡醒看了很多人测评的deepseek的agent “DSH”，很多人聊的最多的",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 27.8万 粉 川沐｜Trumoo🐮 @ xiaomustock · 4小时前 发布 睡醒看了很多人测评的deepseek的agent “DSH”，很多人聊的最多的",
       "url": "https://x.com/xiaomustock/status/2088052959741714846?sid=ai-tweet-reply",
       "meta": "热帖"
     }
