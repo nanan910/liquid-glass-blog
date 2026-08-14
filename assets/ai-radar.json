@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T13:14:39.493Z",
+  "updatedAt": "2026-08-14T14:31:29.248Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 6745"
+      "meta": "Stars 6971"
     },
     {
       "source": "Hacker News",
-      "title": "Trump orders redesign of US aircraft carrier to use steam catapults for jets",
+      "title": "Fast, on Device Agentic AI with Muse Glimmer on ExecuTorch",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
+      "url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Not All AI Builders Are Doing the Same Work",
-      "summary": "In 2026, nearly everyone I interact with in tech wants to talk about AI. It comes up on LinkedIn, at...",
-      "url": "https://dev.to/deeheber/not-all-ai-builders-are-doing-the-same-work-31m4",
-      "meta": "13 reactions"
+      "title": "Durable Memory: Why Vector Databases Aren't Enough",
+      "summary": "Part 3 of the Building the AI Memory Stack series  After finishing Part 2, I noticed something.  The...",
+      "url": "https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f",
+      "meta": "7 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.4万 粉 木马人 @ cnyzgkc · 7小时前 发布 年轻人的执行力就是强👍，这么好的项目居然开源了！ 拿这个dsh到隔壁某书，直接月入6位数~ 仓库地址：",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.4万 粉 木马人 @ cnyzgkc · 8小时前 发布 年轻人的执行力就是强👍，这么好的项目居然开源了！ 拿这个dsh到隔壁某书，直接月入6位数~ 仓库地址：",
       "url": "https://x.com/cnyzgkc/status/2088140505972666491?sid=ai-tweet-reply",
       "meta": "热帖"
     }
