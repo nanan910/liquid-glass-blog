@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:56:40.205Z",
+  "updatedAt": "2026-08-14T21:32:22.623Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 7861"
+      "meta": "Stars 7917"
     },
     {
       "source": "Hacker News",
-      "title": "AI-Lab: Classical AI and search algorithms implemented in Python",
+      "title": "YeshiAI – AI for spiritual practice across five religious paths",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/ob22a/ai-lab",
+      "url": "https://yeshi.ai/",
       "meta": "1 points"
     },
     {
