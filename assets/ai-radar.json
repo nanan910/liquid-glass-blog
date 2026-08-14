@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:27:34.687Z",
+  "updatedAt": "2026-08-14T22:52:35.513Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 7998"
+      "meta": "Stars 8036"
     },
     {
       "source": "Hacker News",
-      "title": "US to tell partners they must pick sides in AI race with China",
+      "title": "Musk assembled a full-stack AI coding play while everyone watched benchmarks",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+      "url": "https://pub.towardsai.net/grok-4-6-x-cursor-elon-musk-just-bought-his-way-into-the-ai-coding-war-15a1292d4121",
       "meta": "1 points"
     },
     {
