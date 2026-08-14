@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T16:58:00.189Z",
+  "updatedAt": "2026-08-14T17:57:29.987Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 7374"
+      "meta": "Stars 7510"
     },
     {
       "source": "Hacker News",
-      "title": "Evaluating Coding Agents",
+      "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.aiuc-1.com/research/technical-docs-evaluating-coding-agents",
+      "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
       "meta": "1 points"
     },
     {
