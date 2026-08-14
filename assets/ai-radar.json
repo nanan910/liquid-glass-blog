@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:05:09.908Z",
+  "updatedAt": "2026-08-14T20:03:50.966Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 7652"
+      "meta": "Stars 7783"
     },
     {
       "source": "Hacker News",
-      "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
+      "title": "Satellite Will Breathe Air to Stay in Orbit",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
-      "meta": "1 points"
+      "url": "https://gizmodo.com/this-satellite-will-literally-breathe-air-to-stay-in-orbit-2000796713",
+      "meta": "4 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13571 likes"
+      "meta": "13572 likes"
     },
     {
       "source": "DEV",
