@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:03:50.966Z",
+  "updatedAt": "2026-08-14T20:56:40.205Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 7783"
+      "meta": "Stars 7861"
     },
     {
       "source": "Hacker News",
-      "title": "Satellite Will Breathe Air to Stay in Orbit",
+      "title": "AI-Lab: Classical AI and search algorithms implemented in Python",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://gizmodo.com/this-satellite-will-literally-breathe-air-to-stay-in-orbit-2000796713",
-      "meta": "4 points"
+      "url": "https://github.com/ob22a/ai-lab",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13572 likes"
+      "meta": "13573 likes"
     },
     {
       "source": "DEV",
