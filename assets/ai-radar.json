@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T18:34:43.219Z",
+  "updatedAt": "2026-08-15T19:24:09.825Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9509"
+      "meta": "Stars 9540"
     },
     {
       "source": "Hacker News",
-      "title": "The Three AI Pills",
+      "title": "So How Is AI Drug Discovery Doing, Really?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://thezvi.substack.com/p/the-three-ai-pills",
-      "meta": "3 points"
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "meta": "4 points"
     },
     {
       "source": "Hugging Face",
