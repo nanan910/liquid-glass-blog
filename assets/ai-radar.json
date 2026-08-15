@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:24:50.094Z",
+  "updatedAt": "2026-08-15T21:47:10.707Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9627"
+      "meta": "Stars 9643"
     },
     {
       "source": "Hacker News",
-      "title": "AI makes foundational knowledge more important",
+      "title": "Why AI agents need verified identity",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever",
+      "url": "https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/",
       "meta": "1 points"
     },
     {
