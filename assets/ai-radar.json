@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:29:32.760Z",
+  "updatedAt": "2026-08-15T09:52:50.905Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 8936"
+      "meta": "Stars 8974"
     },
     {
       "source": "Hacker News",
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-      "meta": "1 points"
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4,098 粉 Yuu💖 @ QuantumTransf · 3小时前 发布 deepseek harness 文章已更新（https://t.co/Xzlf496",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4,098 粉 Yuu💖 @ QuantumTransf · 4小时前 发布 deepseek harness 文章已更新（https://t.co/Xzlf496",
       "url": "https://x.com/QuantumTransf/status/2088499422619750433?sid=ai-tweet-reply",
       "meta": "热帖"
     }
