@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-15T04:36:04.852Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-15T05:28:39.518Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 8457"
+      "meta": "Stars 8545"
     },
     {
       "source": "Hacker News",
-      "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+      "title": "Did the AI Bubble Just Pop?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.phoronix.com/news/Comma.ai-PCIe-Gen4-USB4-Dock",
-      "meta": "2 points"
+      "url": "https://www.youtube.com/watch?v=wrFH8PvDPFE",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -31,15 +31,21 @@
       "meta": "12 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "A社开始在Claude中使用盲水印 无论是文本还是文件都会添加盲水印用于识别AI生成",
+      "summary": "<p>据 A 社发布的帮助文档，该公司目前已经签署欧盟人工智能法案第 50 条第 2 款透明度实践准则，A 社通过文本盲水印和文件来源 C2PA 元数据帮助用户识别内容是否经过 Claude ...",
+      "url": "https://www.landian.news/archives/114273.html",
+      "meta": "11 Aug 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 胖",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 胖",
       "url": "https://x.com/lidangzzz/status/2088434123375260057?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
