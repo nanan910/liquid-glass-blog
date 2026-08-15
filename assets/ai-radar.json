@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:50:58.433Z",
+  "updatedAt": "2026-08-15T15:24:49.233Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9320"
+      "meta": "Stars 9349"
     },
     {
       "source": "Hacker News",
-      "title": "I gave an AI £150 and three months to earn its own subscription",
+      "title": "We built a realtime system for responsive voice AI in six months",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://agentwrought.com/",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
       "meta": "1 points"
     },
     {
