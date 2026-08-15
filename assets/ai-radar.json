@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:29:02.390Z",
+  "updatedAt": "2026-08-15T16:54:19.922Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9394"
+      "meta": "Stars 9416"
     },
     {
       "source": "Hacker News",
-      "title": "US to tell partners they must pick sides in AI race with China",
+      "title": "Briefing on Extinction-Level AI Threats",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
-      "meta": "3 points"
+      "url": "https://intelligence.org/briefing/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
