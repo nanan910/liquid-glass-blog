@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T19:46:23.742Z",
+  "updatedAt": "2026-08-15T20:26:43.015Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9556"
+      "meta": "Stars 9590"
     },
     {
       "source": "Hacker News",
-      "title": "Why tech bosses keep sharing their manifestos about AI",
+      "title": "Meta will train its AI on Newsmax, a far-right media outlet",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+      "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
       "meta": "3 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13573 likes"
+      "meta": "13574 likes"
     },
     {
       "source": "DEV",
