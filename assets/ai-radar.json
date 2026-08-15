@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:26:41.869Z",
+  "updatedAt": "2026-08-15T14:50:58.433Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9294"
+      "meta": "Stars 9320"
     },
     {
       "source": "Hacker News",
-      "title": "Open-source wallet SDK for AI agents",
+      "title": "I gave an AI £150 and three months to earn its own subscription",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/Squid-Pay/Squid-Agent-Wallet-SDK",
-      "meta": "2 points"
+      "url": "https://agentwrought.com/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13574 likes"
+      "meta": "13573 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4,098 粉 Yuu💖 @ QuantumTransf · 8小时前 发布 deepseek harness 文章已更新（https://t.co/Xzlf496",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4,098 粉 Yuu💖 @ QuantumTransf · 9小时前 发布 deepseek harness 文章已更新（https://t.co/Xzlf496",
       "url": "https://x.com/QuantumTransf/status/2088499422619750433?sid=ai-tweet-reply",
       "meta": "热帖"
     }
