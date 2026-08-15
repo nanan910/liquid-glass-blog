@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T07:34:10.713Z",
+  "updatedAt": "2026-08-15T08:33:04.742Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 8727"
+      "meta": "Stars 8828"
     },
     {
       "source": "Hacker News",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "title": "Show HN: HN Without AI Stories",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "meta": "1 points"
+      "url": "https://hnnoai.readpipe.org/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.0万 粉 AB Kuai.Dong @ _FORAB · 3小时前 发布 如果按照 Claude 的说法，接下来所有 AI 大模型，为了遵循欧盟要求，都会给用户",
-      "url": "https://x.com/_FORAB/status/2088470622787817536?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.2万 粉 LinearUncle @ LinearUncle · 4小时前 发布 卧槽，大神手把手教你怎么一键去除Qwen3.8-27B 的安全护栏层，原来只需要",
+      "url": "https://x.com/LinearUncle/status/2088472501840167290?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
