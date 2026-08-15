@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T17:47:39.902Z",
+  "updatedAt": "2026-08-15T18:34:43.219Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9465"
+      "meta": "Stars 9509"
     },
     {
       "source": "Hacker News",
-      "title": "Futuristic mosquito-zapping laser now available to buy",
+      "title": "The Three AI Pills",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000",
-      "meta": "1 points"
+      "url": "https://thezvi.substack.com/p/the-three-ai-pills",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -25,9 +25,9 @@
     },
     {
       "source": "DEV",
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "summary": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "title": "59% of Dogs Are Obese and Their Owners Don't Know. So I Built an AI That Tells Them.",
+      "summary": "PawWise uses Google AI to analyze your dog's health from a photo, decode confusing behavior, triage emergencies, and (when things are fine) put your dog on trial for their crimes.",
+      "url": "https://dev.to/sarvar_04/59-of-dogs-are-obese-and-their-owners-dont-know-so-i-built-an-ai-that-tells-them-2a89",
       "meta": "15 reactions"
     },
     {
