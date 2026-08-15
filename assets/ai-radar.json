@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:33:04.742Z",
+  "updatedAt": "2026-08-15T09:29:32.760Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 8828"
+      "meta": "Stars 8936"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: HN Without AI Stories",
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://hnnoai.readpipe.org/",
-      "meta": "2 points"
+      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.2万 粉 LinearUncle @ LinearUncle · 4小时前 发布 卧槽，大神手把手教你怎么一键去除Qwen3.8-27B 的安全护栏层，原来只需要",
-      "url": "https://x.com/LinearUncle/status/2088472501840167290?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4,098 粉 Yuu💖 @ QuantumTransf · 3小时前 发布 deepseek harness 文章已更新（https://t.co/Xzlf496",
+      "url": "https://x.com/QuantumTransf/status/2088499422619750433?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
