@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:28:39.518Z",
+  "updatedAt": "2026-08-15T05:54:12.313Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 8545"
+      "meta": "Stars 8577"
     },
     {
       "source": "Hacker News",
-      "title": "Did the AI Bubble Just Pop?",
+      "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/watch?v=wrFH8PvDPFE",
+      "url": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13573 likes"
+      "meta": "13574 likes"
     },
     {
       "source": "DEV",
