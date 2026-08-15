@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:52:50.905Z",
+  "updatedAt": "2026-08-15T10:26:29.708Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 8974"
+      "meta": "Stars 9037"
     },
     {
       "source": "Hacker News",
-      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+      "title": "Training AI Scientists to Replicate Research",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-      "meta": "2 points"
+      "url": "https://inherentlabs.ai/research/training-to-replicate",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
