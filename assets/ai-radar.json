@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T19:24:09.825Z",
+  "updatedAt": "2026-08-15T19:46:23.742Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9540"
+      "meta": "Stars 9556"
     },
     {
       "source": "Hacker News",
-      "title": "So How Is AI Drug Discovery Doing, Really?",
+      "title": "Why tech bosses keep sharing their manifestos about AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "meta": "4 points"
+      "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
