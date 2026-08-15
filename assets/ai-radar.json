@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T22:50:17.373Z",
+  "updatedAt": "2026-08-15T23:23:55.624Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9679"
+      "meta": "Stars 9700"
     },
     {
       "source": "Hacker News",
-      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arxiv.org/abs/2608.13122",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
       "meta": "1 points"
     },
     {
