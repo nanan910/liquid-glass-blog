@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:46:44.436Z",
+  "updatedAt": "2026-08-16T22:25:05.922Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 11197"
+      "meta": "Stars 11245"
     },
     {
       "source": "Hacker News",
-      "title": "AI #176 Part 2: Plan B",
+      "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://thezvi.substack.com/p/ai-176-part-2-plan-b",
-      "meta": "1 points"
+      "url": "https://github.com/gmhoward9289-ops/legbar",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
