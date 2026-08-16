@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T03:03:32.236Z",
+  "updatedAt": "2026-08-16T04:08:37.452Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9823"
+      "meta": "Stars 9877"
     },
     {
       "source": "Hacker News",
-      "title": "Has the hallucination problem in AI been solved?",
+      "title": "Show HN: Grow your SaaS visibility with AI-powered discovery",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49316330",
+      "url": "https://saaslyra.com",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 9小时前 发布 成",
-      "url": "https://x.com/lidangzzz/status/2088686066677035285?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.8万 粉 Max For AI @ MaxForAI · 2小时前 发布 现在回看，2021年Anthropic 这轮 A 轮融资真的太牛逼了。 2021 年，C",
+      "url": "https://x.com/MaxForAI/status/2088800353634635885?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
