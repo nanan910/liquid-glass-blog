@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T14:51:20.025Z",
+  "updatedAt": "2026-08-16T15:25:04.796Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 10523"
+      "meta": "Stars 10558"
     },
     {
       "source": "Hacker News",
-      "title": "The AI Credit Resale Economy",
+      "title": "Enlicitide: A stress test for AI in drug discovery",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "url": "https://www.empirical.health/blog/macrocyclic-peptides/",
       "meta": "1 points"
     },
     {
