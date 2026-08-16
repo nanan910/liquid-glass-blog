@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:23:06.127Z",
+  "updatedAt": "2026-08-16T23:46:07.432Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 11311"
+      "meta": "Stars 11357"
     },
     {
       "source": "Hacker News",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "title": "BanProof – AI that scans TikTok Shop videos for violation points before you post",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "meta": "9 points"
+      "url": "https://banproof.io/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13575 likes"
+      "meta": "13576 likes"
     },
     {
       "source": "DEV",
