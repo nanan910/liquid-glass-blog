@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:54:23.732Z",
+  "updatedAt": "2026-08-16T06:45:33.614Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 9987"
+      "meta": "Stars 10044"
     },
     {
       "source": "Hacker News",
-      "title": "The Safety Reckoning Inside OpenAI",
+      "title": "A leaked Composio key returned live Gmail, GitHub and CircleCI tokens",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "meta": "1 points"
+      "url": "https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.6万 粉 憨厚的麦总 @ Michael_Liu93 · 1小时前 发布 建议大家可以看看这篇对话稿，这次的对话给了我自己不少的启发。",
-      "url": "https://x.com/Michael_Liu93/status/2088839156617379895?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 《",
+      "url": "https://x.com/lidangzzz/status/2088833967327736294?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
