@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:48:41.107Z",
+  "updatedAt": "2026-08-16T23:23:06.127Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 11274"
+      "meta": "Stars 11311"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: ChatGPT and Claude export viewer that runs locally in the browser",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.vinaa.ai/tools/ai-chat-history-browser/",
-      "meta": "1 points"
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "meta": "9 points"
     },
     {
       "source": "Hugging Face",
