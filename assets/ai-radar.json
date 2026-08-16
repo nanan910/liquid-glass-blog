@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:51:20.694Z",
+  "updatedAt": "2026-08-16T11:23:40.249Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 10314"
+      "meta": "Stars 10337"
     },
     {
       "source": "Hacker News",
-      "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
+      "title": "WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16",
+      "url": "https://www.youtube.com/watch?v=rgYHEq9_SM0",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13576 likes"
+      "meta": "13575 likes"
     },
     {
       "source": "DEV",
