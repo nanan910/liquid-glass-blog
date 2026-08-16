@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:24:02.385Z",
+  "updatedAt": "2026-08-16T21:46:44.436Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 11164"
+      "meta": "Stars 11197"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: VocalCode – push-to-talk dictation for AI coding agents, on-device",
+      "title": "AI #176 Part 2: Plan B",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://vocalcode.app/",
+      "url": "https://thezvi.substack.com/p/ai-176-part-2-plan-b",
       "meta": "1 points"
     },
     {
