@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:34:19.150Z",
+  "updatedAt": "2026-08-16T19:23:29.984Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 10920"
+      "meta": "Stars 11008"
     },
     {
       "source": "Hacker News",
-      "title": "Xaidr – In-process runtime security and governance for AI agents",
+      "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/delphisecurity/xaidr",
+      "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
       "meta": "2 points"
     },
     {
