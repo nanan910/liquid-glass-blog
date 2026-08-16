@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:25:05.922Z",
+  "updatedAt": "2026-08-16T22:48:41.107Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 11245"
+      "meta": "Stars 11274"
     },
     {
       "source": "Hacker News",
-      "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
+      "title": "Show HN: ChatGPT and Claude export viewer that runs locally in the browser",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/gmhoward9289-ops/legbar",
-      "meta": "2 points"
+      "url": "https://www.vinaa.ai/tools/ai-chat-history-browser/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
