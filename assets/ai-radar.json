@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T15:25:04.796Z",
+  "updatedAt": "2026-08-16T15:47:34.948Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 10558"
+      "meta": "Stars 10580"
     },
     {
       "source": "Hacker News",
-      "title": "Enlicitide: A stress test for AI in drug discovery",
+      "title": "If your agent commits a crime, who is responsible?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.empirical.health/blog/macrocyclic-peptides/",
+      "url": "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
       "meta": "1 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 10小时前 发布 ",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 11小时前 发布 ",
       "url": "https://x.com/lidangzzz/status/2088846663209075170?sid=ai-tweet-reply",
       "meta": "热帖"
     }
