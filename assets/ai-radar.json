@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T11:23:40.249Z",
+  "updatedAt": "2026-08-16T11:47:12.712Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 10337"
+      "meta": "Stars 10363"
     },
     {
       "source": "Hacker News",
-      "title": "WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]",
+      "title": "Show HN: Remove AI voice from AI writings",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/watch?v=rgYHEq9_SM0",
-      "meta": "1 points"
+      "url": "https://unslopai.com",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 6小时前 发布 d",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 7小时前 发布 d",
       "url": "https://x.com/lidangzzz/status/2088846663209075170?sid=ai-tweet-reply",
       "meta": "热帖"
     }
