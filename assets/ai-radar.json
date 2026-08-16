@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:29:48.716Z",
+  "updatedAt": "2026-08-16T16:54:52.438Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 10643"
+      "meta": "Stars 10700"
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: What tools are you using for human code review of AI-assisted code?",
+      "title": "AI and the Changing Future of Mathematics",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49321400",
+      "url": "https://www.understandingai.org/p/mathematicians-are-grappling-with",
       "meta": "1 points"
     },
     {
