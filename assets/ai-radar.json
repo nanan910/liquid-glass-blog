@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T06:45:33.614Z",
+  "updatedAt": "2026-08-16T07:33:57.061Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 10044"
+      "meta": "Stars 10109"
     },
     {
       "source": "Hacker News",
-      "title": "A leaked Composio key returned live Gmail, GitHub and CircleCI tokens",
+      "title": "AI Agents have a half-life",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms",
+      "url": "https://construct.computer/blog/agent-task-half-life/",
       "meta": "2 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13574 likes"
+      "meta": "13575 likes"
     },
     {
       "source": "DEV",
