@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:54:52.438Z",
+  "updatedAt": "2026-08-16T17:22:34.527Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 10700"
+      "meta": "Stars 10770"
     },
     {
       "source": "Hacker News",
-      "title": "AI and the Changing Future of Mathematics",
+      "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.understandingai.org/p/mathematicians-are-grappling-with",
+      "url": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
       "meta": "1 points"
     },
     {
