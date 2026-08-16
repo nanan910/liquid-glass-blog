@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T20:27:01.350Z",
+  "updatedAt": "2026-08-16T20:50:15.679Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 11091"
+      "meta": "Stars 11123"
     },
     {
       "source": "Hacker News",
-      "title": "Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'",
+      "title": "Do people care if articles are written by AI?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "meta": "4 points"
+      "url": "https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
