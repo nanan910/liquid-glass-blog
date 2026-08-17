@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T15:29:47.392Z",
+  "updatedAt": "2026-08-17T15:52:49.932Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 13005"
+      "meta": "Stars 13036"
     },
     {
       "source": "Hacker News",
-      "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
+      "title": "AI scrapers use bogus URL tracking tags to make website visits seem legit",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
-      "meta": "2 points"
+      "url": "https://disassociated.com/ai-scraper-bogus-url-tracking-tags/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "59% of Dogs Are Obese and Their Owners Don't Know. So I Built an AI That Tells Them.",
-      "summary": "PawWise uses Google AI to analyze your dog's health from a photo, decode confusing behavior, triage emergencies, and (when things are fine) put your dog on trial for their crimes.",
-      "url": "https://dev.to/sarvar_04/59-of-dogs-are-obese-and-their-owners-dont-know-so-i-built-an-ai-that-tells-them-2a89",
-      "meta": "15 reactions"
+      "title": "Your Dog Can't Tell You Where It Hurts. MATCH_RECOGNIZE in Snowflake Can.",
+      "summary": "This is a submission for Weekend Challenge: Dog Days Edition  Target categories: Best use of...",
+      "url": "https://dev.to/soumyadeepdey/your-dog-cant-tell-you-where-it-hurts-matchrecognize-in-snowflake-can-1pan",
+      "meta": "38 reactions"
     },
     {
       "source": "蓝点网",
