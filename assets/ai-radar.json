@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:53:03.018Z",
+  "updatedAt": "2026-08-17T22:28:09.297Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 13349"
+      "meta": "Stars 13381"
     },
     {
       "source": "Hacker News",
-      "title": "Control Charts Make AI Agents Cheaper, Less Necessary, and More Useful",
+      "title": "Agentic AI in a Smolbox",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://newoldweb.com/control-charts-make-ai-agents-less-necessary-and-more-useful",
-      "meta": "1 points"
+      "url": "https://remyhax.xyz/posts/smolbox/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
