@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T23:26:13.968Z",
+  "updatedAt": "2026-08-17T23:48:50.285Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 13423"
+      "meta": "Stars 13434"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: AI-generated music box version of any song (for baby)",
+      "title": "Show HN: A multiplayer coding environment for dev teams and agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://lullabyconverter.com",
+      "url": "https://forklane.ai",
       "meta": "1 points"
     },
     {
