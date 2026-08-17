@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:53:17.338Z",
+  "updatedAt": "2026-08-17T23:26:13.968Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 13401"
+      "meta": "Stars 13423"
     },
     {
       "source": "Hacker News",
-      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
+      "title": "Show HN: AI-generated music box version of any song (for baby)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "url": "https://lullabyconverter.com",
       "meta": "1 points"
     },
     {
