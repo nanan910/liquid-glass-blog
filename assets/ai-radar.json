@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-08-17T14:31:59.889Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-17T15:29:47.392Z",
+  "sourceCount": 6,
   "items": [
     {
+      "source": "GitHub",
+      "title": "guillaumemeyer/watermarks-remover",
+      "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "meta": "Stars 13005"
+    },
+    {
       "source": "Hacker News",
-      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
-      "meta": "1 points"
+      "url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13577 likes"
+      "meta": "13579 likes"
     },
     {
       "source": "DEV",
@@ -33,13 +40,12 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.9万 粉 小孩💢|Gate美股0费率 @ caicai1953 · 6小时前 发布 别错过https://t.co/p8VhxPEpFv这次重磅福利，8月17日",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.9万 粉 小孩💢|Gate美股0费率 @ caicai1953 · 7小时前 发布 别错过https://t.co/p8VhxPEpFv这次重磅福利，8月17日",
       "url": "https://x.com/caicai1953/status/2089264194348826835?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-08-10&sort=stars&order=desc&per_page=1 returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
