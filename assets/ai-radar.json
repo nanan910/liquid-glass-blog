@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:28:09.297Z",
+  "updatedAt": "2026-08-17T22:53:17.338Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 13381"
+      "meta": "Stars 13401"
     },
     {
       "source": "Hacker News",
-      "title": "Agentic AI in a Smolbox",
+      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://remyhax.xyz/posts/smolbox/",
-      "meta": "3 points"
+      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
