@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:28:50.210Z",
+  "updatedAt": "2026-08-17T21:53:03.018Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 13321"
+      "meta": "Stars 13349"
     },
     {
       "source": "Hacker News",
-      "title": "AI systems out-persuade expert humans",
+      "title": "Control Charts Make AI Agents Cheaper, Less Necessary, and More Useful",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arxiv.org/abs/2606.16475",
+      "url": "https://newoldweb.com/control-charts-make-ai-agents-less-necessary-and-more-useful",
       "meta": "1 points"
     },
     {
