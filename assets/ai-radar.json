@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:58:04.202Z",
+  "updatedAt": "2026-08-17T18:51:40.603Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 13161"
+      "meta": "Stars 13205"
     },
     {
       "source": "Hacker News",
-      "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+      "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+      "url": "https://saor.io",
       "meta": "1 points"
     },
     {
