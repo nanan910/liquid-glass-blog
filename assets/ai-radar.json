@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T19:31:28.313Z",
+  "updatedAt": "2026-08-17T20:31:05.298Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 13237"
+      "meta": "Stars 13275"
     },
     {
       "source": "Hacker News",
-      "title": "A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators",
+      "title": "Nvidia backing $105B in financing for OpenAI data center in Ohio",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arxiv.org/abs/2608.13757",
+      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
       "meta": "1 points"
     },
     {
