@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T01:35:13.340Z",
+  "updatedAt": "2026-08-17T03:03:21.831Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 11618"
+      "meta": "Stars 11818"
     },
     {
       "source": "Hacker News",
-      "title": "BlockArena: AI-Generated FPS Game",
+      "title": "DeepSeek V4 Pro at 207 tok/s with the full 1M context, no quantization",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blockarena.puter.com/",
-      "meta": "1 points"
+      "url": "https://runinfra.ai/inference-api/deepseek-v4-pro",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -32,16 +32,16 @@
     },
     {
       "source": "蓝点网",
-      "title": "A社开始在Claude中使用盲水印 无论是文本还是文件都会添加盲水印用于识别AI生成",
-      "summary": "<p>据 A 社发布的帮助文档，该公司目前已经签署欧盟人工智能法案第 50 条第 2 款透明度实践准则，A 社通过文本盲水印和文件来源 C2PA 元数据帮助用户识别内容是否经过 Claude ...",
-      "url": "https://www.landian.news/archives/114273.html",
-      "meta": "11 Aug 2026"
+      "title": "A社公布Claude文本盲水印机制详情：并非添加Unicode字符 复制粘贴仍然可检测",
+      "summary": "<p>上周 A 社宣布在 Claude 模型中添加文本水印引起关注，这种文本水印会覆盖 Claude AI 所有端，哪怕是通过 API 调用模型生成的文本也同样会自带可以检测的水印，而且这种水...",
+      "url": "https://www.landian.news/archives/114336.html",
+      "meta": "17 Aug 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 35.7万 粉 Michael Anti @ mranti · 1小时前 发布 果然，今天凌晨Deepseek提价后，OpenCode Go的Deepseek V4 ",
-      "url": "https://x.com/mranti/status/2089134526127538607?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.0万 粉 池建强 @ sagacity · 2小时前 发布 推荐一个演讲：当 Agent 比你更会写代码 看下演讲者 Daisy 的背景，她在 C++ 标准委员会",
+      "url": "https://x.com/sagacity/status/2089152962442743838?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
