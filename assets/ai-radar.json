@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T08:48:14.090Z",
+  "updatedAt": "2026-08-17T09:46:43.636Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 12445"
+      "meta": "Stars 12542"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Winuse – Cross-platform desktop GUI automation for AI agents",
+      "title": "Show HN: AI Signal Bot for project updates",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/lgxz/winuse",
-      "meta": "1 points"
+      "url": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.2万 粉 Y11 @ seclink · 5小时前 发布 黑灰产的嗅觉是最敏锐的，针对deepseek harness 的插件黑产已经开始了 ， v2ex 上已经",
-      "url": "https://x.com/seclink/status/2089197131643166927?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.9万 粉 小孩💢|Gate美股0费率 @ caicai1953 · 1小时前 发布 别错过https://t.co/p8VhxPEpFv这次重磅福利，8月17日",
+      "url": "https://x.com/caicai1953/status/2089264194348826835?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
