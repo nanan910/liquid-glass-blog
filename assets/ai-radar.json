@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T10:35:42.585Z",
+  "updatedAt": "2026-08-17T11:29:59.350Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 12623"
+      "meta": "Stars 12695"
     },
     {
       "source": "Hacker News",
-      "title": "Trump-backed crypto firm offers AI from restricted Chinese companies",
+      "title": "Why Stripe's $7B OpenRouter Acquisition Is About Owning the AI Routing Layer",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/",
+      "url": "https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488",
       "meta": "2 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.9万 粉 小孩💢|Gate美股0费率 @ caicai1953 · 2小时前 发布 别错过https://t.co/p8VhxPEpFv这次重磅福利，8月17日",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.9万 粉 小孩💢|Gate美股0费率 @ caicai1953 · 3小时前 发布 别错过https://t.co/p8VhxPEpFv这次重磅福利，8月17日",
       "url": "https://x.com/caicai1953/status/2089264194348826835?sid=ai-tweet-reply",
       "meta": "热帖"
     }
