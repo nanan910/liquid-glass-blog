@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:03:21.831Z",
+  "updatedAt": "2026-08-17T04:12:10.551Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "guillaumemeyer/watermarks-remover",
       "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 11818"
+      "meta": "Stars 11965"
     },
     {
       "source": "Hacker News",
-      "title": "DeepSeek V4 Pro at 207 tok/s with the full 1M context, no quantization",
+      "title": "Idea for Expository AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://runinfra.ai/inference-api/deepseek-v4-pro",
-      "meta": "3 points"
+      "url": "https://news.ycombinator.com/item?id=49326422",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.0万 粉 池建强 @ sagacity · 2小时前 发布 推荐一个演讲：当 Agent 比你更会写代码 看下演讲者 Daisy 的背景，她在 C++ 标准委员会",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.0万 粉 池建强 @ sagacity · 3小时前 发布 推荐一个演讲：当 Agent 比你更会写代码 看下演讲者 Daisy 的背景，她在 C++ 标准委员会",
       "url": "https://x.com/sagacity/status/2089152962442743838?sid=ai-tweet-reply",
       "meta": "热帖"
     }
