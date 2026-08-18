@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T13:45:21.772Z",
+  "updatedAt": "2026-08-18T14:36:45.664Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2189"
+      "meta": "Stars 2230"
     },
     {
       "source": "Hacker News",
-      "title": "Claude Text Watermark: Reconstruction, Not Hidden Characters",
+      "title": "Human Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://aitextwatermarkremover.com/blog/claude-official-text-watermark",
+      "url": "https://docs.ojin.ai",
       "meta": "1 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 8小时前 发布 多",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 9小时前 发布 多",
       "url": "https://x.com/lidangzzz/status/2089579016730689815?sid=ai-tweet-reply",
       "meta": "热帖"
     }
