@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-17T23:48:50.285Z",
+  "updatedAt": "2026-08-18T01:24:53.807Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "guillaumemeyer/watermarks-remover",
-      "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "meta": "Stars 13434"
+      "title": "yetone/cumora",
+      "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "url": "https://github.com/yetone/cumora",
+      "meta": "Stars 1288"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: A multiplayer coding environment for dev teams and agents",
+      "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://forklane.ai",
-      "meta": "1 points"
+      "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13579 likes"
+      "meta": "13580 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 5小时前 发布 我",
+      "url": "https://x.com/lidangzzz/status/2089440610885283884?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
