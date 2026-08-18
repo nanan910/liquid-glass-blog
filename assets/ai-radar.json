@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:28:21.771Z",
+  "updatedAt": "2026-08-18T20:53:23.164Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2334"
+      "meta": "Stars 2336"
     },
     {
       "source": "Hacker News",
-      "title": "Has any one ever used Strands – the AI Agent SDK by AWS",
+      "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://strandsagents.com/",
-      "meta": "1 points"
+      "url": "https://chatoss.ai",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
