@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:28:37.593Z",
+  "updatedAt": "2026-08-18T11:54:01.217Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2092"
+      "meta": "Stars 2106"
     },
     {
       "source": "Hacker News",
-      "title": "AI Used to Verify Toughest Mathematics Proof Yet",
+      "title": "Show HN: H2AI Chat – multi-AI debate you can self-host with local models (AGPL)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
+      "url": "https://github.com/Tonterias/h2aichat",
       "meta": "1 points"
     },
     {
