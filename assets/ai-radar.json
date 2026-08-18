@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T15:35:03.557Z",
+  "updatedAt": "2026-08-18T16:35:26.740Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2257"
+      "meta": "Stars 2286"
     },
     {
       "source": "Hacker News",
-      "title": "Building (and Selling) AI for the Government",
+      "title": "Recent grads say AI is making it harder to get a job. Economists aren't sure",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://carlkolon.com/2026/08/17/ai-for-government/",
+      "url": "https://text.npr.org/nx-s1-5910677",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 10小时前 发布 ",
-      "url": "https://x.com/lidangzzz/status/2089579016730689815?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
