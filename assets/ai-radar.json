@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-18T19:30:40.358Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-18T20:28:21.771Z",
+  "sourceCount": 6,
   "items": [
     {
+      "source": "GitHub",
+      "title": "yetone/cumora",
+      "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "url": "https://github.com/yetone/cumora",
+      "meta": "Stars 2334"
+    },
+    {
       "source": "Hacker News",
-      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+      "title": "Has any one ever used Strands – the AI Agent SDK by AWS",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
-      "meta": "2 points"
+      "url": "https://strandsagents.com/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-08-11&sort=stars&order=desc&per_page=1 returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
