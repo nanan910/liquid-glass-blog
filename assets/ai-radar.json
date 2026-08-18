@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-18T11:54:01.217Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-18T12:54:42.234Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2106"
+      "meta": "Stars 2150"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: H2AI Chat – multi-AI debate you can self-host with local models (AGPL)",
+      "title": "AI Stock Research Assistant · Streamlit",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/Tonterias/h2aichat",
-      "meta": "1 points"
+      "url": "https://ai-stock-research-kiaan.streamlit.app",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -31,21 +31,15 @@
       "meta": "38 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "A社公布Claude文本盲水印机制详情：并非添加Unicode字符 复制粘贴仍然可检测",
-      "summary": "<p>上周 A 社宣布在 Claude 模型中添加文本水印引起关注，这种文本水印会覆盖 Claude AI 所有端，哪怕是通过 API 调用模型生成的文本也同样会自带可以检测的水印，而且这种水...",
-      "url": "https://www.landian.news/archives/114336.html",
-      "meta": "17 Aug 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 6小时前 发布 多",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 7小时前 发布 多",
       "url": "https://x.com/lidangzzz/status/2089579016730689815?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
