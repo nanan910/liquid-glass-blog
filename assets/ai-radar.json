@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T11:28:42.227Z",
+  "updatedAt": "2026-08-19T11:54:03.018Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2611"
+      "meta": "Stars 2616"
     },
     {
       "source": "Hacker News",
-      "title": "Binance Helped Russia Target a Possible EU Resident over Ukraine Aid",
+      "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://dailycoin.com/binance-helped-russia-target-a-possible-eu-resident-over-ukraine-aid/",
-      "meta": "2 points"
+      "url": "https://wram.chat",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13580 likes"
+      "meta": "13579 likes"
     },
     {
       "source": "DEV",
