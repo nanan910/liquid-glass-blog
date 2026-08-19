@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:41:35.442Z",
+  "updatedAt": "2026-08-19T09:37:38.828Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2561"
+      "meta": "Stars 2582"
     },
     {
       "source": "Hacker News",
-      "title": "The Equations of Reasoning – Pathway AI",
+      "title": "Rune – persistent context for AI coding tools",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://pathway.com/research/the-equations-of-reasoning",
-      "meta": "2 points"
+      "url": "https://github.com/thecolourfoundation/rune",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.5万 粉 华尔街日报中文网 @ ChineseWSJ · 4小时前 发布 #独家 OpenAI告诉投资者，该公司第二季度收入较第一季度增长18%，但亏损进一步",
-      "url": "https://x.com/ChineseWSJ/status/2089925374822039560?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.4万 粉 qinbafrank @ qinbafrank · 2小时前 发布 OpenAI二季度的营收其实不重要，关键要看GPT5.6发布之后的三季度营收。今天",
+      "url": "https://x.com/qinbafrank/status/2089975650824462838?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
