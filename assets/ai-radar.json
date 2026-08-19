@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-19T19:53:17.763Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-19T20:32:26.098Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2674"
+      "meta": "Stars 2676"
     },
     {
       "source": "Hacker News",
-      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+      "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-      "meta": "4 points"
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -31,6 +31,13 @@
       "meta": "25 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "Claude Code 50%配额加量延续到8月31日 是否继续延续需观察容量",
+      "summary": "<p>Claude Code 日前宣布 50% 周限额加量计划延续到 8 月 31 日，这是自 7 月 19 日宣布延续到 8 月 19 日的后续，现在使用 Claude Pro、Claude...",
+      "url": "https://www.landian.news/archives/126331.html",
+      "meta": "19 Aug 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 503",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
