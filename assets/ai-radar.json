@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:35:27.962Z",
+  "updatedAt": "2026-08-19T17:29:48.648Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2662"
+      "meta": "Stars 2668"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Naeos – an engineering system for AI coding agents",
+      "title": "A Lawyer for AI Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/NAEOS-foundation/naeos",
+      "url": "https://artificialauthority.ai/p/a-lawyer-for-ai-agents",
       "meta": "1 points"
     },
     {
