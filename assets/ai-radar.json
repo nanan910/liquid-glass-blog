@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T23:48:52.123Z",
+  "updatedAt": "2026-08-19T01:26:28.939Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2354"
+      "meta": "Stars 2395"
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: How should I price an AI infrastructure platform?",
+      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49354254",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.9万 粉 Max For AI @ MaxForAI · 4小时前 发布 知名科技自媒体 @runtimewire 把 Kimi 客户端给逆向了，结果意外发现了几",
+      "url": "https://x.com/MaxForAI/status/2089823857133899928?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
