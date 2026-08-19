@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:53:53.491Z",
+  "updatedAt": "2026-08-19T22:28:10.323Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "New AirPods leak reveals built-in cameras and Visual Intelligence",
+      "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.dexerto.com/entertainment/new-airpods-leak-reveals-built-in-cameras-and-visual-intelligence-3400062/",
+      "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13580 likes"
+      "meta": "13581 likes"
     },
     {
       "source": "DEV",
