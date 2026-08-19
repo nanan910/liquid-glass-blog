@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-19T05:35:04.618Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-19T06:51:08.346Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2491"
+      "meta": "Stars 2514"
     },
     {
       "source": "Hacker News",
-      "title": "Designing AI with character: what we learned building Berd",
+      "title": "Ask HN: Why does Hermes Agent not infringe on Hermès?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd",
-      "meta": "1 points"
+      "url": "https://news.ycombinator.com/item?id=49357715",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -31,15 +31,21 @@
       "meta": "38 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "Claude Code 50%配额加量延续到8月31日 是否继续延续需观察容量",
+      "summary": "<p>Claude Code 日前宣布 50% 周限额加量计划延续到 8 月 31 日，这是自 7 月 19 日宣布延续到 8 月 19 日的后续，现在使用 Claude Pro、Claude...",
+      "url": "https://www.landian.news/archives/126331.html",
+      "meta": "19 Aug 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.4万 粉 qinbafrank @ qinbafrank · 1小时前 发布 Authropic年底ARR还能突破1000亿美金么？这两天爆出来Authropi",
-      "url": "https://x.com/qinbafrank/status/2089924512569761962?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.5万 粉 华尔街日报中文网 @ ChineseWSJ · 3小时前 发布 OpenAI从周二起推出青少年版ChatGPT，将引导学生独立思考解决问题、默认开启",
+      "url": "https://x.com/ChineseWSJ/status/2089918057405722748?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
