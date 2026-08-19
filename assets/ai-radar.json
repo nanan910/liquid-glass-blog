@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T06:51:08.346Z",
+  "updatedAt": "2026-08-19T07:41:26.428Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2514"
+      "meta": "Stars 2528"
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: Why does Hermes Agent not infringe on Hermès?",
+      "title": "AI Marketing Stash: a directory for discovering AI marketing tools",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49357715",
-      "meta": "2 points"
+      "url": "https://www.aimarketingstash.com",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.5万 粉 华尔街日报中文网 @ ChineseWSJ · 3小时前 发布 OpenAI从周二起推出青少年版ChatGPT，将引导学生独立思考解决问题、默认开启",
-      "url": "https://x.com/ChineseWSJ/status/2089918057405722748?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 333.5万 粉 华尔街日报中文网 @ ChineseWSJ · 3小时前 发布 #独家 OpenAI告诉投资者，该公司第二季度收入较第一季度增长18%，但亏损进一步",
+      "url": "https://x.com/ChineseWSJ/status/2089925374822039560?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
