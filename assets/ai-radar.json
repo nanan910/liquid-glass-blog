@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T19:29:03.587Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-19T19:53:17.763Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
@@ -11,10 +11,10 @@
     },
     {
       "source": "Hacker News",
-      "title": "Daily Reminder to Not Listen to Google's AI Overview",
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
-      "meta": "1 points"
+      "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+      "meta": "4 points"
     },
     {
       "source": "Hugging Face",
@@ -31,13 +31,6 @@
       "meta": "25 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "Claude Code 50%配额加量延续到8月31日 是否继续延续需观察容量",
-      "summary": "<p>Claude Code 日前宣布 50% 周限额加量计划延续到 8 月 31 日，这是自 7 月 19 日宣布延续到 8 月 19 日的后续，现在使用 Claude Pro、Claude...",
-      "url": "https://www.landian.news/archives/126331.html",
-      "meta": "19 Aug 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 503",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
