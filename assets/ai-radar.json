@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T09:37:38.828Z",
+  "updatedAt": "2026-08-19T10:32:40.243Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2582"
+      "meta": "Stars 2594"
     },
     {
       "source": "Hacker News",
-      "title": "Rune – persistent context for AI coding tools",
+      "title": "Show HN: ChatGPT plugin for deterministic world facts",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/thecolourfoundation/rune",
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a59081918b19aec0ddf9ec77/",
       "meta": "1 points"
     },
     {
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.4万 粉 qinbafrank @ qinbafrank · 2小时前 发布 OpenAI二季度的营收其实不重要，关键要看GPT5.6发布之后的三季度营收。今天",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.4万 粉 qinbafrank @ qinbafrank · 3小时前 发布 OpenAI二季度的营收其实不重要，关键要看GPT5.6发布之后的三季度营收。今天",
       "url": "https://x.com/qinbafrank/status/2089975650824462838?sid=ai-tweet-reply",
       "meta": "热帖"
     }
