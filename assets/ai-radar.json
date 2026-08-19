@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-19T03:49:36.647Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-19T05:35:04.618Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2456"
+      "meta": "Stars 2491"
     },
     {
       "source": "Hacker News",
-      "title": "Explaining AI agents is like explaining 3D printers",
+      "title": "Designing AI with character: what we learned building Berd",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/",
+      "url": "https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd",
       "meta": "1 points"
     },
     {
@@ -31,21 +31,15 @@
       "meta": "38 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "A社公布Claude文本盲水印机制详情：并非添加Unicode字符 复制粘贴仍然可检测",
-      "summary": "<p>上周 A 社宣布在 Claude 模型中添加文本水印引起关注，这种文本水印会覆盖 Claude AI 所有端，哪怕是通过 API 调用模型生成的文本也同样会自带可以检测的水印，而且这种水...",
-      "url": "https://www.landian.news/archives/114336.html",
-      "meta": "17 Aug 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 为",
-      "url": "https://x.com/lidangzzz/status/2089887647565049979?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 15.4万 粉 qinbafrank @ qinbafrank · 1小时前 发布 Authropic年底ARR还能突破1000亿美金么？这两天爆出来Authropi",
+      "url": "https://x.com/qinbafrank/status/2089924512569761962?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
