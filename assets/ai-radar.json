@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T02:40:33.990Z",
+  "updatedAt": "2026-08-20T03:49:45.565Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2704"
+      "meta": "Stars 2716"
     },
     {
       "source": "Hacker News",
-      "title": "Does anyone find AI code review useful?",
+      "title": "Show HN: MatrAIx – simulate users before reality (Survey/Chat/Web/App)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49369710",
-      "meta": "1 points"
+      "url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.9万 粉 Max For AI @ MaxForAI · 3小时前 发布 我想，机器人领域可能刚刚迎来了自己的GPT-3时刻。 Generalist AI刚刚发布",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.9万 粉 Max For AI @ MaxForAI · 5小时前 发布 我想，机器人领域可能刚刚迎来了自己的GPT-3时刻。 Generalist AI刚刚发布",
       "url": "https://x.com/MaxForAI/status/2090208435606528235?sid=ai-tweet-reply",
       "meta": "热帖"
     }
