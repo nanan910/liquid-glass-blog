@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:49:45.565Z",
+  "updatedAt": "2026-08-20T04:40:49.672Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2716"
+      "meta": "Stars 2717"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: MatrAIx – simulate users before reality (Survey/Chat/Web/App)",
+      "title": "Crypto's (and AI's) midterm PAC machine",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
-      "meta": "3 points"
+      "url": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "Greatness Is Forged by Limitation",
       "summary": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
-      "meta": "28 reactions"
+      "meta": "29 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.9万 粉 Max For AI @ MaxForAI · 5小时前 发布 我想，机器人领域可能刚刚迎来了自己的GPT-3时刻。 Generalist AI刚刚发布",
-      "url": "https://x.com/MaxForAI/status/2090208435606528235?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.3万 粉 Lonely @ Lonely__MH · 4小时前 发布 🎉 牛逼！我竟然在 iMessage 里用上了 DeepSeek？！ DeepSeek H",
+      "url": "https://x.com/Lonely__MH/status/2090227563327373553?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
