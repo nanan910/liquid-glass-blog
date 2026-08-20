@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:35:06.384Z",
+  "updatedAt": "2026-08-20T06:52:14.832Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2721"
+      "meta": "Stars 2730"
     },
     {
       "source": "Hacker News",
-      "title": "Crypto's (and AI's) midterm PAC machine",
+      "title": "Show HN: Do-over, undo for AI agent shell commands",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
-      "meta": "2 points"
+      "url": "https://github.com/CaydenChik/doover",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 我",
-      "url": "https://x.com/lidangzzz/status/2090264620648820769?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 19.0万 粉 AI Will @ FinanceYF5 · 3小时前 发布 今晚少看一部剧，把这堂2小时34分钟的Stanford课程看完。 它从Tokenizat",
+      "url": "https://x.com/FinanceYF5/status/2090275480608088404?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
