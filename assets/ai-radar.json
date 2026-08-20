@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-20T13:04:37.379Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-20T14:08:42.920Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 2840"
+      "meta": "Stars 2891"
     },
     {
       "source": "Hacker News",
-      "title": "Idea to reduce AI token use at large orgs",
+      "title": "Mindlas catches your coding agent drifting before the bad code",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49373930",
-      "meta": "2 points"
+      "url": "https://github.com/Evolutionairy-AI/MINDLAS",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,21 +25,27 @@
     },
     {
       "source": "DEV",
-      "title": "Greatness Is Forged by Limitation",
-      "summary": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
-      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
-      "meta": "35 reactions"
+      "title": "My AI Content Journey",
+      "summary": "I apologize ahead of time, what follows has no tooling applied to it. No grammar checks, no AI, and...",
+      "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p",
+      "meta": "14 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude Code 50%配额加量延续到8月31日 是否继续延续需观察容量",
+      "summary": "<p>Claude Code 日前宣布 50% 周限额加量计划延续到 8 月 31 日，这是自 7 月 19 日宣布延续到 8 月 19 日的后续，现在使用 Claude Pro、Claude...",
+      "url": "https://www.landian.news/archives/126331.html",
+      "meta": "19 Aug 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.0万 粉 池建强 @ sagacity · 6小时前 发布 突破性的：体验完DeepSeek Harness，我打算放弃开发了两年的客户端。 今天下午，我把核心研",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.0万 粉 池建强 @ sagacity · 7小时前 发布 突破性的：体验完DeepSeek Harness，我打算放弃开发了两年的客户端。 今天下午，我把核心研",
       "url": "https://x.com/sagacity/status/2090327717149618343?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
