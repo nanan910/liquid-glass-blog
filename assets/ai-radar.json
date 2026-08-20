@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-20T10:34:40.415Z",
+  "updatedAt": "2026-08-20T11:30:16.217Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "yetone/cumora",
-      "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2747"
+      "title": "s1dashu/ip-as-logo-skill",
+      "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "meta": "Stars 2772"
     },
     {
       "source": "Hacker News",
-      "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+      "title": "Show HN: Try Sequo to manage your AI context",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "http://taubench.com/leaderboard/",
-      "meta": "4 points"
+      "url": "https://sequo.app",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.0万 粉 池建强 @ sagacity · 3小时前 发布 突破性的：体验完DeepSeek Harness，我打算放弃开发了两年的客户端。 今天下午，我把核心研",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.0万 粉 池建强 @ sagacity · 4小时前 发布 突破性的：体验完DeepSeek Harness，我打算放弃开发了两年的客户端。 今天下午，我把核心研",
       "url": "https://x.com/sagacity/status/2090327717149618343?sid=ai-tweet-reply",
       "meta": "热帖"
     }
