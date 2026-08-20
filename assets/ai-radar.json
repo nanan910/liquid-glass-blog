@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-20T01:26:56.430Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-20T02:40:33.990Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2693"
+      "meta": "Stars 2704"
     },
     {
       "source": "Hacker News",
-      "title": "How to use AI for your next job interview",
+      "title": "Does anyone find AI code review useful?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+      "url": "https://news.ycombinator.com/item?id=49369710",
       "meta": "1 points"
     },
     {
@@ -31,15 +31,21 @@
       "meta": "28 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "Claude Code 50%配额加量延续到8月31日 是否继续延续需观察容量",
+      "summary": "<p>Claude Code 日前宣布 50% 周限额加量计划延续到 8 月 31 日，这是自 7 月 19 日宣布延续到 8 月 19 日的后续，现在使用 Claude Pro、Claude...",
+      "url": "https://www.landian.news/archives/126331.html",
+      "meta": "19 Aug 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 总",
-      "url": "https://x.com/lidangzzz/status/2090196018784584094?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.9万 粉 Max For AI @ MaxForAI · 3小时前 发布 我想，机器人领域可能刚刚迎来了自己的GPT-3时刻。 Generalist AI刚刚发布",
+      "url": "https://x.com/MaxForAI/status/2090208435606528235?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
