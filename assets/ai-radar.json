@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T06:52:14.832Z",
+  "updatedAt": "2026-08-20T07:43:54.458Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2730"
+      "meta": "Stars 2735"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Do-over, undo for AI agent shell commands",
+      "title": "Florida police officer accused of using Flock AI cameras",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/CaydenChik/doover",
+      "url": "https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 19.0万 粉 AI Will @ FinanceYF5 · 3小时前 发布 今晚少看一部剧，把这堂2小时34分钟的Stanford课程看完。 它从Tokenizat",
-      "url": "https://x.com/FinanceYF5/status/2090275480608088404?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.1万 粉 小Z @ richrichardoz · 3小时前 发布 中国真正的硬科技公司是长鑫长存deepseek而不是网红玩具公司宇树。 可以看下宇树的港股同行",
+      "url": "https://x.com/richrichardoz/status/2090287031096390050?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
