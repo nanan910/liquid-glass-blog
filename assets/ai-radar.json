@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-19T23:49:45.265Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-20T01:26:56.430Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2678"
+      "meta": "Stars 2693"
     },
     {
       "source": "Hacker News",
-      "title": "AI-Powered Cyberattacks",
+      "title": "How to use AI for your next job interview",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.opswat.com/blog/ai-powered-cyberattacks",
+      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
       "meta": "1 points"
     },
     {
@@ -28,24 +28,18 @@
       "title": "Greatness Is Forged by Limitation",
       "summary": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
-      "meta": "25 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude Code 50%配额加量延续到8月31日 是否继续延续需观察容量",
-      "summary": "<p>Claude Code 日前宣布 50% 周限额加量计划延续到 8 月 31 日，这是自 7 月 19 日宣布延续到 8 月 19 日的后续，现在使用 Claude Pro、Claude...",
-      "url": "https://www.landian.news/archives/126331.html",
-      "meta": "19 Aug 2026"
+      "meta": "28 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 总",
+      "url": "https://x.com/lidangzzz/status/2090196018784584094?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
