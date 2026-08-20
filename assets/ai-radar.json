@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-20T08:42:59.333Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-20T09:39:18.372Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "yetone/cumora",
       "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
-      "meta": "Stars 2742"
+      "meta": "Stars 2746"
     },
     {
       "source": "Hacker News",
-      "title": "AI Coding Agents Adoption Trends",
+      "title": "Run frontier LLMs on sovereign EU infrastructure",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/",
+      "url": "https://corti.ai/models",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Greatness Is Forged by Limitation",
       "summary": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
-      "meta": "30 reactions"
+      "meta": "32 reactions"
     },
     {
       "source": "蓝点网",
@@ -36,17 +36,11 @@
       "summary": "<p>Claude Code 日前宣布 50% 周限额加量计划延续到 8 月 31 日，这是自 7 月 19 日宣布延续到 8 月 19 日的后续，现在使用 Claude Pro、Claude...",
       "url": "https://www.landian.news/archives/126331.html",
       "meta": "19 Aug 2026"
-    },
-    {
-      "source": "SoPilot",
-      "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.0万 粉 池建强 @ sagacity · 2小时前 发布 突破性的：体验完DeepSeek Harness，我打算放弃开发了两年的客户端。 今天下午，我把核心研",
-      "url": "https://x.com/sagacity/status/2090327717149618343?sid=ai-tweet-reply",
-      "meta": "热帖"
     }
   ],
   "errors": [
     "https://newsnow.busiyi.world/ returned 403",
-    "https://tophub.today/c/tech returned 403"
+    "https://tophub.today/c/tech returned 403",
+    "https://sopilot.net/zh/hot-tweets returned 502"
   ]
 }
