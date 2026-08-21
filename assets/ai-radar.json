@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T05:58:41.299Z",
+  "updatedAt": "2026-08-21T07:01:08.434Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3249"
+      "meta": "Stars 3274"
     },
     {
       "source": "Hacker News",
-      "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
+      "title": "Young Americans increasingly fear AI will take their jobs",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/",
-      "meta": "1 points"
+      "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -25,9 +25,9 @@
     },
     {
       "source": "DEV",
-      "title": "My AI Content Journey",
-      "summary": "I apologize ahead of time, what follows has no tooling applied to it. No grammar checks, no AI, and...",
-      "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p",
+      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
+      "summary": "Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...",
+      "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
       "meta": "15 reactions"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 你",
-      "url": "https://x.com/lidangzzz/status/2090650821616648492?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 错",
+      "url": "https://x.com/lidangzzz/status/2090650400504352972?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
