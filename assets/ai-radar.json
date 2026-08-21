@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:27:33.842Z",
+  "updatedAt": "2026-08-21T23:51:24.857Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3478"
+      "meta": "Stars 3481"
     },
     {
       "source": "Hacker News",
-      "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
+      "title": "What We Tell AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
-      "meta": "2 points"
+      "url": "https://www.whatwetellai.com/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
