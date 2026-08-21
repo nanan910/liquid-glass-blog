@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T16:38:36.476Z",
+  "updatedAt": "2026-08-21T17:32:47.387Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3450"
+      "meta": "Stars 3455"
     },
     {
       "source": "Hacker News",
-      "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+      "title": "Agent to Agent Communication in Wild",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
+      "url": "https://news.ycombinator.com/item?id=49391286",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13582 likes"
+      "meta": "13583 likes"
     },
     {
       "source": "DEV",
