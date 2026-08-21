@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T19:50:33.342Z",
+  "updatedAt": "2026-08-21T20:29:33.001Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3463"
+      "meta": "Stars 3467"
     },
     {
       "source": "Hacker News",
-      "title": "The Wage Effects of Generative AI",
+      "title": "Agentic AI overwhelmed CI, and test selection cut queueing from hours to minutes",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
+      "url": "https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck",
       "meta": "1 points"
     },
     {
