@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:06:10.730Z",
+  "updatedAt": "2026-08-21T09:08:40.956Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3303"
+      "meta": "Stars 3325"
     },
     {
       "source": "Hacker News",
-      "title": "Only one type of lawyer will survive the AI wipeout",
+      "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.afr.com/work-and-careers/workplace/judges-may-be-the-only-survivors-of-law-s-ai-carnage-futurist-20260819-p60pla",
-      "meta": "1 points"
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
       "summary": "Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...",
       "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
-      "meta": "15 reactions"
+      "meta": "16 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.1万 粉 AB Kuai.Dong @ _FORAB · 1小时前 发布 今天英文区快把 OpenAI 的 Codex 喷炸了，原因是最近不少人在用 ChatG",
-      "url": "https://x.com/_FORAB/status/2090692153307750509?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 75.5万 粉 ahhhhfs @ abskoop · 1小时前 发布 同花顺官方出了套 A 股数据接口：同花顺金融数据API（Financial-API） 支持行情",
+      "url": "https://x.com/abskoop/status/2090701734138274062?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
