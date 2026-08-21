@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T05:05:19.917Z",
+  "updatedAt": "2026-08-21T05:58:41.299Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3227"
+      "meta": "Stars 3249"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Just describe your idea and let AI build a playable game for you",
+      "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://run.ceo/coder/",
+      "url": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/",
       "meta": "1 points"
     },
     {
