@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:54:16.693Z",
+  "updatedAt": "2026-08-21T23:27:33.842Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,10 +11,10 @@
     },
     {
       "source": "Hacker News",
-      "title": "80% of developers find AI coding more addictive than helpful",
+      "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-      "meta": "3 points"
+      "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
