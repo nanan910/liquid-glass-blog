@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:08:40.956Z",
+  "updatedAt": "2026-08-21T10:01:34.677Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3325"
+      "meta": "Stars 3349"
     },
     {
       "source": "Hacker News",
-      "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
+      "title": "American AI May Not Survive Chinese Open-Source",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-      "meta": "2 points"
+      "url": "https://letter.palladiummag.com/p/american-ai-may-not-survive-chinese",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 75.5万 粉 ahhhhfs @ abskoop · 1小时前 发布 同花顺官方出了套 A 股数据接口：同花顺金融数据API（Financial-API） 支持行情",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 75.5万 粉 ahhhhfs @ abskoop · 2小时前 发布 同花顺官方出了套 A 股数据接口：同花顺金融数据API（Financial-API） 支持行情",
       "url": "https://x.com/abskoop/status/2090701734138274062?sid=ai-tweet-reply",
       "meta": "热帖"
     }
