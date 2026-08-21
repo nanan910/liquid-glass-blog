@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:58:13.721Z",
+  "updatedAt": "2026-08-21T11:33:56.078Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3363"
+      "meta": "Stars 3379"
     },
     {
       "source": "Hacker News",
-      "title": "Anti India Influence Machine: Troll Farms, Fake News, Algorithms and AI",
+      "title": "AI(.)DIY – Open-source AI workspace with agents, MCP and Linux in the browser",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.himanshuanand.com/2026/08/the-anti-india-influence-machine-troll-farms-fake-news-newsrooms-algorithms-and-ai/",
+      "url": "https://github.com/Cubinghackerz/ai.diy",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
       "summary": "Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...",
       "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
-      "meta": "16 reactions"
+      "meta": "21 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 75.5万 粉 ahhhhfs @ abskoop · 3小时前 发布 同花顺官方出了套 A 股数据接口：同花顺金融数据API（Financial-API） 支持行情",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 75.5万 粉 ahhhhfs @ abskoop · 4小时前 发布 同花顺官方出了套 A 股数据接口：同花顺金融数据API（Financial-API） 支持行情",
       "url": "https://x.com/abskoop/status/2090701734138274062?sid=ai-tweet-reply",
       "meta": "热帖"
     }
