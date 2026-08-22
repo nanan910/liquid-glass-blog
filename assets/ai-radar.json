@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:54:09.447Z",
+  "updatedAt": "2026-08-22T17:23:55.621Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3717"
+      "meta": "Stars 3727"
     },
     {
       "source": "Hacker News",
-      "title": "An iOS app that runs AI agents and a complete voice pipeline on the device",
+      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/hsandhu/agent",
+      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
       "meta": "1 points"
     },
     {
