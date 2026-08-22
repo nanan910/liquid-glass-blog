@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T06:46:16.033Z",
+  "updatedAt": "2026-08-22T07:34:50.000Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3542"
+      "meta": "Stars 3557"
     },
     {
       "source": "Hacker News",
-      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+      "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
-      "meta": "1 points"
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.2万 粉 岚叔 @ LufzzLiz · 4小时前 发布 Ox Alpha 测评完成了，哈哈，像谁我就不说了吧，测评网站展示很直观。 做的效果是真不错，前端有提升",
-      "url": "https://x.com/LufzzLiz/status/2090990832300241320?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3,671 粉 Bohu @ BohuTANG · 4小时前 发布 🚨 Ox Alpha 很可能是 Cursor 团队基于 GLM 系列后训练出来的 Compose",
+      "url": "https://x.com/BohuTANG/status/2091004912557777387?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
