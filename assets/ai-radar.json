@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T15:47:55.198Z",
+  "updatedAt": "2026-08-22T16:28:57.671Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3692"
+      "meta": "Stars 3712"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Find and Organize Photos with Private, Local AI",
+      "title": "Ask HN: If you dislike AI, why don't you prove it?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://ringlochid.me/imagesage/index.html",
-      "meta": "3 points"
+      "url": "https://news.ycombinator.com/item?id=49401293",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.3万 粉 LinearUncle @ LinearUncle · 10小时前 发布 著名的 Python 工具 uv 作者（顶级 Rust 大神）加入 OpenA",
-      "url": "https://x.com/LinearUncle/status/2091026843050848519?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
