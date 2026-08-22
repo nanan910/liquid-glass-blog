@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:51:33.970Z",
+  "updatedAt": "2026-08-22T21:25:30.686Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3761"
+      "meta": "Stars 3762"
     },
     {
       "source": "Hacker News",
-      "title": "Domain Driven AI",
+      "title": "The importance of teaching students what AI can't do",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://pedromadruga.com/blog/domain-driven-ai/",
-      "meta": "2 points"
+      "url": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
+      "meta": "5 points"
     },
     {
       "source": "Hugging Face",
