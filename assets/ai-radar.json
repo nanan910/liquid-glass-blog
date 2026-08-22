@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T02:37:00.971Z",
+  "updatedAt": "2026-08-22T03:44:39.516Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3504"
+      "meta": "Stars 3512"
     },
     {
       "source": "Hacker News",
-      "title": "Anthropic Could Aim to Raise $100B in Blockbuster IPO",
+      "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
+      "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 24.2万 粉 宝玉 @ dotey · 3小时前 发布 这是一个有意思的 Skill，叫 ELI5，意思是就好比你给 5 岁孩子解释这件事，所以要通俗易懂。生成结果",
-      "url": "https://x.com/dotey/status/2090933611054731566?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 完",
+      "url": "https://x.com/lidangzzz/status/2090979647685103814?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
