@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T18:35:29.234Z",
+  "updatedAt": "2026-08-22T19:25:37.667Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3744"
+      "meta": "Stars 3751"
     },
     {
       "source": "Hacker News",
-      "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
-      "meta": "1 points"
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
