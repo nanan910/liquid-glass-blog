@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:51:24.857Z",
+  "updatedAt": "2026-08-22T01:25:01.010Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3481"
+      "meta": "Stars 3493"
     },
     {
       "source": "Hacker News",
-      "title": "What We Tell AI",
+      "title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.whatwetellai.com/",
+      "url": "https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a",
       "meta": "1 points"
     },
     {
@@ -25,9 +25,9 @@
     },
     {
       "source": "DEV",
-      "title": "Your agent isn't reckless. It just can't see the blast radius.",
-      "summary": "I've been running Claude Code as a daily driver for about three months now. It writes Ansible I'd...",
-      "url": "https://dev.to/rabih_jabr_29/your-agent-isnt-reckless-it-just-cant-see-the-blast-radius-1lkj",
+      "title": "My first website said \"Don't commit without context.\" I never committed it at all.",
+      "summary": "The renewal notice came and I decided to let it go.  threadkeeper.io was my first idea and my first...",
+      "url": "https://dev.to/earlgreyhot1701d/my-first-website-said-dont-commit-without-context-i-never-committed-it-at-all-5d57",
       "meta": "6 reactions"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.0万 粉 Max For AI @ MaxForAI · 4小时前 发布 📒建议收藏：Anthropic 的工程师 Thariq Shihipar，刚刚分享了一",
+      "url": "https://x.com/MaxForAI/status/2090911030520230337?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
