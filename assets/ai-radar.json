@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T03:44:39.516Z",
+  "updatedAt": "2026-08-22T04:36:35.136Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3512"
+      "meta": "Stars 3516"
     },
     {
       "source": "Hacker News",
-      "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
+      "title": "Getting Freaky in the Age of AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "url": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 完",
-      "url": "https://x.com/lidangzzz/status/2090979647685103814?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.8万 粉 AI探路者Tim @ AIExplorerTim · 3小时前 发布 30 个感觉「非法」却合法的 AI 网站 1. https://t.co/NfP1",
+      "url": "https://x.com/AIExplorerTim/status/2090964926986928333?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
