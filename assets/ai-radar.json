@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:46:53.761Z",
+  "updatedAt": "2026-08-22T20:27:07.485Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3754"
+      "meta": "Stars 3759"
     },
     {
       "source": "Hacker News",
       "title": "Domain Driven AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
       "url": "https://pedromadruga.com/blog/domain-driven-ai/",
-      "meta": "1 points"
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
