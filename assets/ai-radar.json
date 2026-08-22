@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:28:57.671Z",
+  "updatedAt": "2026-08-22T16:54:09.447Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3712"
+      "meta": "Stars 3717"
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: If you dislike AI, why don't you prove it?",
+      "title": "An iOS app that runs AI agents and a complete voice pipeline on the device",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49401293",
+      "url": "https://github.com/hsandhu/agent",
       "meta": "1 points"
     },
     {
