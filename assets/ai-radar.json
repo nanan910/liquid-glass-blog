@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:25:15.625Z",
+  "updatedAt": "2026-08-22T14:49:49.088Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3668"
+      "meta": "Stars 3671"
     },
     {
       "source": "Hacker News",
-      "title": "80% of developers find AI coding more addictive than helpful",
+      "title": "Claude Watermarks AI-Generated Text",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+      "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
       "meta": "1 points"
     },
     {
