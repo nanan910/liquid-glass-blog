@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-22T21:25:30.686Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-22T21:48:54.065Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3762"
+      "meta": "Stars 3764"
     },
     {
       "source": "Hacker News",
-      "title": "The importance of teaching students what AI can't do",
+      "title": "Contra Anthropic: AI is not 'structurally' centralizing",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
-      "meta": "5 points"
+      "url": "https://12gramsofcarbon.com/p/is-ai-structurally-a-centralizing",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -31,13 +31,6 @@
       "meta": "6 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "Claude Code 50%配额加量延续到8月31日 是否继续延续需观察容量",
-      "summary": "<p>Claude Code 日前宣布 50% 周限额加量计划延续到 8 月 31 日，这是自 7 月 19 日宣布延续到 8 月 19 日的后续，现在使用 Claude Pro、Claude...",
-      "url": "https://www.landian.news/archives/126331.html",
-      "meta": "19 Aug 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
