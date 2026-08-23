@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:27:02.686Z",
+  "updatedAt": "2026-08-23T14:52:43.119Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3859"
+      "meta": "Stars 3862"
     },
     {
       "source": "Hacker News",
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "url": "https://github.com/majesticlabs-dev/writing-eval",
       "meta": "1 points"
     },
     {
