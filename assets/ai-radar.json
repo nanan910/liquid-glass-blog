@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T23:47:08.893Z",
+  "updatedAt": "2026-08-23T01:39:49.395Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3773"
+      "meta": "Stars 3785"
     },
     {
       "source": "Hacker News",
-      "title": "AI has failed to win people's trust. Its makers? less trusted",
+      "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
-      "meta": "5 points"
+      "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.1万 粉 Max For AI @ MaxForAI · 3小时前 发布 OMG，OpenAI 又整队收走了一家创业公司。 刚刚，YC S22 创业公司 @ins",
+      "url": "https://x.com/MaxForAI/status/2091291216478707917?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
