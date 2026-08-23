@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T05:02:55.250Z",
+  "updatedAt": "2026-08-23T05:56:05.588Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3805"
+      "meta": "Stars 3812"
     },
     {
       "source": "Hacker News",
-      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "title": "China Is Building AI Models of American Voters",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://vero.verina.io/",
-      "meta": "1 points"
+      "url": "https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
