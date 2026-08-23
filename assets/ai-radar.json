@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-23T03:06:51.223Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-23T04:09:40.647Z",
+  "sourceCount": 6,
   "items": [
     {
+      "source": "GitHub",
+      "title": "s1dashu/ip-as-logo-skill",
+      "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "meta": "Stars 3801"
+    },
+    {
       "source": "Hacker News",
-      "title": "Show HN: LayoutLens: AI-Powered Visual UI Testing",
+      "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/gojiplus/layoutlens",
-      "meta": "1 points"
+      "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -33,13 +40,12 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.1万 粉 Max For AI @ MaxForAI · 4小时前 发布 OMG，OpenAI 又整队收走了一家创业公司。 刚刚，YC S22 创业公司 @ins",
-      "url": "https://x.com/MaxForAI/status/2091291216478707917?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 这",
+      "url": "https://x.com/lidangzzz/status/2091358820580634873?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-08-16&sort=stars&order=desc&per_page=1 returned 403",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
