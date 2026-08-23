@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-23T23:24:52.170Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-23T23:47:50.285Z",
+  "sourceCount": 5,
   "items": [
-    {
-      "source": "GitHub",
-      "title": "s1dashu/ip-as-logo-skill",
-      "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3893"
-    },
     {
       "source": "Hacker News",
       "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-08-16&sort=stars&order=desc&per_page=1 returned 403",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
