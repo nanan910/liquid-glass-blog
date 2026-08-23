@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T11:24:22.575Z",
+  "updatedAt": "2026-08-23T11:47:42.424Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3841"
+      "meta": "Stars 3844"
     },
     {
       "source": "Hacker News",
-      "title": "Agentic AI in a Smolbox",
+      "title": "What do you think of AI website builders?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://remyhax.xyz/posts/smolbox/",
+      "url": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Job Hunt With a Bot?",
       "summary": "Hi everyone. Unfortunately I am now in a position where I need to look for a job. I do not want to go...",
       "url": "https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3",
-      "meta": "5 reactions"
+      "meta": "11 reactions"
     },
     {
       "source": "蓝点网",
