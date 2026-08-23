@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:25:03.674Z",
+  "updatedAt": "2026-08-23T17:47:29.693Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,7 +7,7 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3879"
+      "meta": "Stars 3880"
     },
     {
       "source": "Hacker News",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Job Hunt With a Bot?",
-      "summary": "Hi everyone. Unfortunately I am now in a position where I need to look for a job. I do not want to go...",
-      "url": "https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3",
-      "meta": "11 reactions"
+      "title": "The Planner Made the Same 3 Mistakes Every Time. A Bigger Model Didn't Fix It.",
+      "summary": "This is article 3 in a series about building PlannerCritic, an open-source engine where one LLM...",
+      "url": "https://dev.to/debashish_ghosal/the-planner-made-the-same-3-mistakes-every-time-a-bigger-model-didnt-fix-it-3170",
+      "meta": "14 reactions"
     },
     {
       "source": "蓝点网",
