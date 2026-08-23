@@ -1,19 +1,12 @@
 {
-  "updatedAt": "2026-08-23T01:39:49.395Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-23T03:06:51.223Z",
+  "sourceCount": 5,
   "items": [
     {
-      "source": "GitHub",
-      "title": "s1dashu/ip-as-logo-skill",
-      "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 3785"
-    },
-    {
       "source": "Hacker News",
-      "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
+      "title": "Show HN: LayoutLens: AI-Powered Visual UI Testing",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
+      "url": "https://github.com/gojiplus/layoutlens",
       "meta": "1 points"
     },
     {
@@ -25,10 +18,10 @@
     },
     {
       "source": "DEV",
-      "title": "My first website said \"Don't commit without context.\" I never committed it at all.",
-      "summary": "The renewal notice came and I decided to let it go.  threadkeeper.io was my first idea and my first...",
-      "url": "https://dev.to/earlgreyhot1701d/my-first-website-said-dont-commit-without-context-i-never-committed-it-at-all-5d57",
-      "meta": "6 reactions"
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "summary": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
+      "meta": "7 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,12 +33,13 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.1万 粉 Max For AI @ MaxForAI · 3小时前 发布 OMG，OpenAI 又整队收走了一家创业公司。 刚刚，YC S22 创业公司 @ins",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.1万 粉 Max For AI @ MaxForAI · 4小时前 发布 OMG，OpenAI 又整队收走了一家创业公司。 刚刚，YC S22 创业公司 @ins",
       "url": "https://x.com/MaxForAI/status/2091291216478707917?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-08-16&sort=stars&order=desc&per_page=1 returned 403",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
