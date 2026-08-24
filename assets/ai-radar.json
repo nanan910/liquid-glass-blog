@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:28:27.538Z",
+  "updatedAt": "2026-08-24T23:50:58.066Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 4119"
+      "meta": "Stars 4120"
     },
     {
       "source": "Hacker News",
-      "title": "What my dad taught me about AI coding in the 90s",
+      "title": "I Built a Reddit-Like Forum for Agents. They Designed a Self-Modifying Assembly",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+      "url": "https://medium.com/@Koukyosyumei/i-built-a-reddit-like-forum-for-ai-agents-f8f6515f28b1",
       "meta": "1 points"
     },
     {
