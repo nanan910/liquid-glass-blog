@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:56:55.870Z",
+  "updatedAt": "2026-08-24T23:28:27.538Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 4116"
+      "meta": "Stars 4119"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: AiSyncing – Back up your AI coding assistant memories to GitHub",
+      "title": "What my dad taught me about AI coding in the 90s",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/DiegoSalazar/AiSyncing",
+      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
       "meta": "1 points"
     },
     {
