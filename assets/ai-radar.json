@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:33:30.889Z",
+  "updatedAt": "2026-08-24T22:30:34.824Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 4112"
+      "meta": "Stars 4114"
     },
     {
       "source": "Hacker News",
-      "title": "Replace \"using AI\" with \"using computers\"",
+      "title": "PageLens–A Chrome extension that uses AI to summarize your tab",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.astrost.at/u/replace-using-ai-with-using-computers/",
+      "url": "https://github.com/heinevwinston-bot/PageLens",
       "meta": "1 points"
     },
     {
