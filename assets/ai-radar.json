@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:30:34.824Z",
+  "updatedAt": "2026-08-24T22:56:55.870Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "s1dashu/ip-as-logo-skill",
       "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 4114"
+      "meta": "Stars 4116"
     },
     {
       "source": "Hacker News",
-      "title": "PageLens–A Chrome extension that uses AI to summarize your tab",
+      "title": "Show HN: AiSyncing – Back up your AI coding assistant memories to GitHub",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/heinevwinston-bot/PageLens",
+      "url": "https://github.com/DiegoSalazar/AiSyncing",
       "meta": "1 points"
     },
     {
