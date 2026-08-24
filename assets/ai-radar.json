@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-23T23:47:50.285Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-24T01:37:03.881Z",
+  "sourceCount": 6,
   "items": [
+    {
+      "source": "GitHub",
+      "title": "s1dashu/ip-as-logo-skill",
+      "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "meta": "Stars 3913"
+    },
     {
       "source": "Hacker News",
       "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
@@ -25,21 +32,20 @@
     },
     {
       "source": "蓝点网",
-      "title": "Claude Code 50%配额加量延续到8月31日 是否继续延续需观察容量",
-      "summary": "<p>Claude Code 日前宣布 50% 周限额加量计划延续到 8 月 31 日，这是自 7 月 19 日宣布延续到 8 月 19 日的后续，现在使用 Claude Pro、Claude...",
-      "url": "https://www.landian.news/archives/126331.html",
-      "meta": "19 Aug 2026"
+      "title": "Claude Code Fable 5推理强度被悄悄降低？官方回应仅为配置测试不影响实际性能",
+      "summary": "<p>近期有开发者注意到 Claude Fable 5 模型在使用过程中出现明显的降智现象，即模型的聪明程度远不如以前；同时有开发者发现即便自己在 Claude Code 中将努力程度设置为高...",
+      "url": "https://www.landian.news/archives/126375.html",
+      "meta": "24 Aug 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 225.5万 粉 李老师不是你老师 @ whyyoutouzhele · 1小时前 发布 近日，上海世界人工智能大会（WAIC）天罡智算展区的一块AI模型调用量榜单近",
+      "url": "https://x.com/whyyoutouzhele/status/2091676868487582020?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-08-16&sort=stars&order=desc&per_page=1 returned 403",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
