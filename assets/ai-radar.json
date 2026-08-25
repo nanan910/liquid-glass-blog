@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T01:26:50.219Z",
+  "updatedAt": "2026-08-25T02:42:35.848Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1231"
+      "meta": "Stars 1248"
     },
     {
       "source": "Hacker News",
-      "title": "Enterprise AI Operating System",
+      "title": "Show HN: PeerPixel, community-powered AI image generation",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://devnavigator.com/2026/08/25/enterprise-ai-operating-system/",
+      "url": "https://peerpixel.cc/",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 许",
-      "url": "https://x.com/lidangzzz/status/2091996352108519484?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 5小时前 发布 以",
+      "url": "https://x.com/lidangzzz/status/2091991831299195151?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
