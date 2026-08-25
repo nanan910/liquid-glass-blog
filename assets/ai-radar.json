@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:33:15.301Z",
+  "updatedAt": "2026-08-25T21:32:00.579Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1368"
+      "meta": "Stars 1373"
     },
     {
       "source": "Hacker News",
-      "title": "The New York Times is publishing AI slop",
+      "title": "Try to beat this AI writing detector",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
-      "meta": "1 points"
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
