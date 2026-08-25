@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T10:36:43.618Z",
+  "updatedAt": "2026-08-25T11:32:01.151Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1307"
+      "meta": "Stars 1316"
     },
     {
       "source": "Hacker News",
-      "title": "We open-sourced Myli: a harness for AI design agents",
+      "title": "SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/EightPotions/Myli",
+      "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
       "meta": "1 points"
     },
     {
