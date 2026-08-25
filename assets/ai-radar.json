@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T19:35:02.813Z",
+  "updatedAt": "2026-08-25T20:33:15.301Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1364"
+      "meta": "Stars 1368"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: AI SEO Blog driven by deep competitor intelligence",
+      "title": "The New York Times is publishing AI slop",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.rankspot.ai",
+      "url": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
       "summary": "I wanted to disagree with 'AI made me a worse reviewer' from Michael Amachree (@dev_michael) ....",
       "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
-      "meta": "37 reactions"
+      "meta": "38 reactions"
     },
     {
       "source": "蓝点网",
