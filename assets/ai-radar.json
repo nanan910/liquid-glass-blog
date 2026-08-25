@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-24T23:50:58.066Z",
+  "updatedAt": "2026-08-25T01:26:50.219Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "s1dashu/ip-as-logo-skill",
-      "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "meta": "Stars 4120"
+      "title": "duty1g/x64dbg-mcp-server",
+      "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "meta": "Stars 1231"
     },
     {
       "source": "Hacker News",
-      "title": "I Built a Reddit-Like Forum for Agents. They Designed a Self-Modifying Assembly",
+      "title": "Enterprise AI Operating System",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://medium.com/@Koukyosyumei/i-built-a-reddit-like-forum-for-ai-agents-f8f6515f28b1",
+      "url": "https://devnavigator.com/2026/08/25/enterprise-ai-operating-system/",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 许",
+      "url": "https://x.com/lidangzzz/status/2091996352108519484?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
