@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T04:42:23.371Z",
+  "updatedAt": "2026-08-25T05:35:16.120Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1261"
+      "meta": "Stars 1266"
     },
     {
       "source": "Hacker News",
-      "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
+      "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
+      "url": "https://www.bbc.co.uk/news/articles/c2dk6wzjw23o",
       "meta": "1 points"
     },
     {
