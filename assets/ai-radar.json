@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T05:35:16.120Z",
+  "updatedAt": "2026-08-25T06:54:24.978Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1266"
+      "meta": "Stars 1285"
     },
     {
       "source": "Hacker News",
-      "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
+      "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bbc.co.uk/news/articles/c2dk6wzjw23o",
+      "url": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 据",
-      "url": "https://x.com/lidangzzz/status/2092063782616936664?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 37.3万 粉 William Long @ williamlong · 3小时前 发布 【AI短剧「把人写成了妖」爆红，B站观看破1272万，作者一觉醒来吓到】一部",
+      "url": "https://x.com/williamlong/status/2092084232378319021?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
