@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T07:48:24.765Z",
+  "updatedAt": "2026-08-25T08:48:12.195Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1290"
+      "meta": "Stars 1298"
     },
     {
       "source": "Hacker News",
-      "title": "What \"Traceable Lineage\" Requires: A Teardown of the FBI TSC AI Sources Sought",
+      "title": "We're lying to Claude in almost every session",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://zatona.dev/blog/fbi-tsc-traceable-lineage",
-      "meta": "2 points"
+      "url": "https://github.com/Piebald-AI/claude-code-system-prompts/blob/main/system-prompts/system-prompt-autonomous-operation-guidelines.md",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.1万 粉 AB Kuai.Dong @ _FORAB · 3小时前 发布 这几天英文区 AI 博主 Maria，快被喷惨了。原因是这人，搞了个工具，能去白嫖滥用",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.1万 粉 AB Kuai.Dong @ _FORAB · 4小时前 发布 这几天英文区 AI 博主 Maria，快被喷惨了。原因是这人，搞了个工具，能去白嫖滥用",
       "url": "https://x.com/_FORAB/status/2092103565246705764?sid=ai-tweet-reply",
       "meta": "热帖"
     }
