@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T03:09:14.749Z",
+  "updatedAt": "2026-08-26T04:10:56.878Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1392"
+      "meta": "Stars 1398"
     },
     {
       "source": "Hacker News",
-      "title": "Darkbloom (AI inference on idle Macs) – security audit with PRs submitted",
+      "title": "Kraftapp AI – Describe it. We build it. Customers find it",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://gist.github.com/mudiam/1ffc898333ac3d5bdc5d7fac96d33360",
-      "meta": "2 points"
+      "url": "https://kraftapp.ai",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "What Do You Do While AI Codes?",
       "summary": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "meta": "18 reactions"
+      "meta": "21 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 互",
-      "url": "https://x.com/lidangzzz/status/2092399543421702434?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 西",
+      "url": "https://x.com/lidangzzz/status/2092411349556920745?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
