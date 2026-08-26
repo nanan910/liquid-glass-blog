@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:51:17.807Z",
+  "updatedAt": "2026-08-26T01:37:02.578Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1376"
+      "meta": "Stars 1383"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: CaptureAgent – find, price, draft, grade, run and fund federal work",
+      "title": "Utilities Break California Lobbying Record Under Newsom While Former Aides Lead",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://captureagent.us/",
+      "url": "https://consumerwatchdog.org/energy/utilities-break-california-lobbying-record-under-newsom-while-former-aides-lead-utility-backed-wildfire-coalition/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
-      "summary": "I wanted to disagree with 'AI made me a worse reviewer' from Michael Amachree (@dev_michael) ....",
-      "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
-      "meta": "38 reactions"
+      "title": "What Do You Do While AI Codes?",
+      "summary": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+      "meta": "18 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 互",
+      "url": "https://x.com/lidangzzz/status/2092399543421702434?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
