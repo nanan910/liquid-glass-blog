@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T16:00:59.074Z",
+  "updatedAt": "2026-08-26T18:17:53.794Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1453"
+      "meta": "Stars 1459"
     },
     {
       "source": "Hacker News",
-      "title": "Interactive AI Tutorials: Build Agent Skills",
+      "title": "Show HN: AI scientist builds an open-source Codex Micro from scratch for $40",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://academy.dair.ai/resources/write-your-first-agent-skill",
+      "url": "https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/",
       "meta": "1 points"
     },
     {
