@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T00:34:00.553Z",
+  "updatedAt": "2026-08-27T11:01:40.748Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1467"
+      "meta": "Stars 1488"
     },
     {
       "source": "Hacker News",
-      "title": "Moonshot AI in Talks with Microsoft, Amazon, Google over K3 Revenue Sharing",
+      "title": "The mathematics of AI uncertainty (Zoubin Ghahramani – Google DeepMind) [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html",
-      "meta": "2 points"
+      "url": "https://www.youtube.com/watch?v=tBjgCj_dGZM",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,23 +25,23 @@
     },
     {
       "source": "DEV",
-      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
-      "summary": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
-      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
-      "meta": "69 reactions"
+      "title": "Vibe Coding Is Fine. Vibe Debugging Is What Kills You",
+      "summary": "Vibe coding works fine until something breaks. Why AI agents fail at debugging, and 5 rules to escape the fix-it loop.",
+      "url": "https://dev.to/ji_ai/vibe-coding-is-fine-vibe-debugging-is-what-kills-you-23i0",
+      "meta": "9 reactions"
     },
     {
       "source": "蓝点网",
-      "title": "Claude Code Fable 5推理强度被悄悄降低？官方回应仅为配置测试不影响实际性能",
-      "summary": "<p>近期有开发者注意到 Claude Fable 5 模型在使用过程中出现明显的降智现象，即模型的聪明程度远不如以前；同时有开发者发现即便自己在 Claude Code 中将努力程度设置为高...",
-      "url": "https://www.landian.news/archives/126375.html",
-      "meta": "24 Aug 2026"
+      "title": "Claude Cowork新增内置浏览器 可以直接打开网页/读取内容/点击链接/填写表单",
+      "summary": "<p>A 社刚刚发布博客宣布 Claude Cowork 现已新增内置浏览器，借助内置浏览器用户可以在不安装 Claude in Chrome 扩展程序的情况下，使用内置浏览器打开网页、读取内...",
+      "url": "https://www.landian.news/archives/126486.html",
+      "meta": "27 Aug 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 我",
-      "url": "https://x.com/lidangzzz/status/2092737189054443593?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 26.5万 粉 B.AI @ BAI_AGI · 4小时前 发布 🎁 免费福利再加码！神秘爆款“Ox Alpha”真身 GLM-5.3-Flash 现已正式登陆 h",
+      "url": "https://x.com/BAI_AGI/status/2092862338017956115?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
