@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T20:39:33.206Z",
+  "updatedAt": "2026-08-27T00:34:00.553Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1462"
+      "meta": "Stars 1467"
     },
     {
       "source": "Hacker News",
-      "title": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
+      "title": "Moonshot AI in Talks with Microsoft, Amazon, Google over K3 Revenue Sharing",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://bughunters.google.com/blog/scaling-memory-safety",
-      "meta": "1 points"
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard",
-      "summary": "A polished UI can make a product feel completely different, but getting there usually takes more than...",
-      "url": "https://dev.to/hadil/i-tested-5-design-to-code-tools-with-the-same-outdated-saas-dashboard-1ijk",
-      "meta": "30 reactions"
+      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
+      "summary": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
+      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
+      "meta": "69 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.5万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 我",
+      "url": "https://x.com/lidangzzz/status/2092737189054443593?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
