@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T11:01:40.748Z",
+  "updatedAt": "2026-08-27T21:06:23.026Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1488"
+      "meta": "Stars 1540"
     },
     {
       "source": "Hacker News",
-      "title": "The mathematics of AI uncertainty (Zoubin Ghahramani – Google DeepMind) [video]",
+      "title": "Unlocking the Power of AI in Visual Studio with Bring Your Own Model",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/watch?v=tBjgCj_dGZM",
+      "url": "https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Vibe Coding Is Fine. Vibe Debugging Is What Kills You",
-      "summary": "Vibe coding works fine until something breaks. Why AI agents fail at debugging, and 5 rules to escape the fix-it loop.",
-      "url": "https://dev.to/ji_ai/vibe-coding-is-fine-vibe-debugging-is-what-kills-you-23i0",
-      "meta": "9 reactions"
+      "title": "The agent posted successfully. To the wrong account.",
+      "summary": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3",
+      "meta": "17 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 26.5万 粉 B.AI @ BAI_AGI · 4小时前 发布 🎁 免费福利再加码！神秘爆款“Ox Alpha”真身 GLM-5.3-Flash 现已正式登陆 h",
-      "url": "https://x.com/BAI_AGI/status/2092862338017956115?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
