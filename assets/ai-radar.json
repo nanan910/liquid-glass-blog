@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-28T05:34:01.460Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-28T18:22:55.853Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "duty1g/x64dbg-mcp-server",
       "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1574"
+      "meta": "Stars 1656"
     },
     {
       "source": "Hacker News",
-      "title": "A Turning Point in AI Writing",
+      "title": "Show HN: AI Shipcheck – know if your AI-built app is ready to ship",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theatlantic.com/technology/2026/08/wall-street-journal-ai-op-ed/688433/",
+      "url": "https://github.com/sinceaihq/ai-shipcheck",
       "meta": "1 points"
     },
     {
@@ -21,25 +21,31 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13589 likes"
+      "meta": "13591 likes"
     },
     {
       "source": "DEV",
-      "title": "Velocidade de entrega e custo de manutenção pós IA",
-      "summary": "Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...",
-      "url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
-      "meta": "66 reactions"
+      "title": "Nobody Argued For Your Stack",
+      "summary": "Last week, it came to light Cursor had mostly finished migrating from SolidJS to React. This...",
+      "url": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
+      "meta": "19 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude Cowork新增内置浏览器 可以直接打开网页/读取内容/点击链接/填写表单",
+      "summary": "<p>A 社刚刚发布博客宣布 Claude Cowork 现已新增内置浏览器，借助内置浏览器用户可以在不安装 Claude in Chrome 扩展程序的情况下，使用内置浏览器打开网页、读取内...",
+      "url": "https://www.landian.news/archives/126486.html",
+      "meta": "27 Aug 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.7万 粉 蔡子博士Chris @ caiziboshi · 3小时前 发布 孙哥接受凤凰网采访，表示：“6000字的小作文，是他近几日花了十几个小时写完的，两个晚",
-      "url": "https://x.com/caiziboshi/status/2093164458595983526?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
