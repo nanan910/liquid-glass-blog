@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T17:49:45.758Z",
+  "updatedAt": "2026-08-29T20:42:33.529Z",
   "sourceCount": 6,
   "items": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "AI Revives a Dead Sleep Company",
+      "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
+      "url": "https://github.com/iwasoftcom/ai-docs-standard",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Your AI Remembers Everything and Trusts All of It",
-      "summary": "I think we are still talking about AI memory in the wrong way. Most implementations are variations of...",
-      "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg",
-      "meta": "28 reactions"
+      "title": "I Asked for a Portfolio but Got a Filing Cabinet",
+      "summary": "Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn't fix — and the one instruction that did.",
+      "url": "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8",
+      "meta": "7 reactions"
     },
     {
       "source": "蓝点网",
