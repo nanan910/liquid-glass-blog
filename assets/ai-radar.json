@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-08-28T18:22:55.853Z",
+  "updatedAt": "2026-08-29T01:51:00.280Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "duty1g/x64dbg-mcp-server",
-      "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-      "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "meta": "Stars 1656"
+      "title": "ShadowAqueduct/watermark-remover",
+      "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "meta": "Stars 826"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: AI Shipcheck – know if your AI-built app is ready to ship",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/sinceaihq/ai-shipcheck",
-      "meta": "1 points"
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13591 likes"
+      "meta": "13593 likes"
     },
     {
       "source": "DEV",
-      "title": "Nobody Argued For Your Stack",
-      "summary": "Last week, it came to light Cursor had mostly finished migrating from SolidJS to React. This...",
-      "url": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
-      "meta": "19 reactions"
+      "title": "Your AI Remembers Everything and Trusts All of It",
+      "summary": "I think we are still talking about AI memory in the wrong way. Most implementations are variations of...",
+      "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg",
+      "meta": "22 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2,774 粉 tankxu.eth @ tankxu · 7小时前 发布 一怒之下怒了一下，让 Codex 编译了 FreeTube 的源码安装到了 iPhone ",
+      "url": "https://x.com/tankxu/status/2093397503362383930?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
