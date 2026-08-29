@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T01:51:00.280Z",
+  "updatedAt": "2026-08-29T08:47:06.780Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "ShadowAqueduct/watermark-remover",
       "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "meta": "Stars 826"
+      "meta": "Stars 830"
     },
     {
       "source": "Hacker News",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "title": "Show HN: AgentBridge – Let one AI think while another AI writes the code",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "meta": "3 points"
+      "url": "https://github.com/IndexFlowing/AgentBridge",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "Your AI Remembers Everything and Trusts All of It",
       "summary": "I think we are still talking about AI memory in the wrong way. Most implementations are variations of...",
       "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg",
-      "meta": "22 reactions"
+      "meta": "28 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2,774 粉 tankxu.eth @ tankxu · 7小时前 发布 一怒之下怒了一下，让 Codex 编译了 FreeTube 的源码安装到了 iPhone ",
-      "url": "https://x.com/tankxu/status/2093397503362383930?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 辣",
+      "url": "https://x.com/lidangzzz/status/2093580821244367346?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
