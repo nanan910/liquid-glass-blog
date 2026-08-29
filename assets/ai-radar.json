@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T20:42:33.529Z",
+  "updatedAt": "2026-08-29T23:07:39.759Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "ShadowAqueduct/watermark-remover",
       "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "meta": "Stars 832"
+      "meta": "Stars 833"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
+      "title": "Show HN: VibeGuard – security linter for AI-generated code",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/iwasoftcom/ai-docs-standard",
+      "url": "https://github.com/zeroFhacker/vibeguard",
       "meta": "1 points"
     },
     {
