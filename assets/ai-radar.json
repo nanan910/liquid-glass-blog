@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T01:32:25.892Z",
+  "updatedAt": "2026-08-30T08:04:55.922Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "amosblomqvist/learn",
       "summary": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
-      "meta": "Stars 771"
+      "meta": "Stars 810"
     },
     {
       "source": "Hacker News",
-      "title": "I feel like AI start being a reflect of the CEO behind it (his political)",
+      "title": "Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://baseline-rouge-mu.vercel.app/",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13595 likes"
+      "meta": "13596 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 一",
-      "url": "https://x.com/lidangzzz/status/2093809722159702125?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 36分钟前 发布 ",
+      "url": "https://x.com/lidangzzz/status/2093963944004075975?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
