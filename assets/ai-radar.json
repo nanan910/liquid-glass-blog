@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T20:58:16.535Z",
+  "updatedAt": "2026-08-30T23:24:03.580Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "amosblomqvist/learn",
       "summary": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
-      "meta": "Stars 884"
+      "meta": "Stars 902"
     },
     {
       "source": "Hacker News",
-      "title": "AI and the Death of Expertise: Why Experts Still Matter",
+      "title": "Which AI Wrote This?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208",
-      "meta": "1 points"
+      "url": "https://modelaccent.com",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
