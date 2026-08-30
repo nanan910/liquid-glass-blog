@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-29T23:07:39.759Z",
+  "updatedAt": "2026-08-30T01:32:25.892Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "ShadowAqueduct/watermark-remover",
-      "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "meta": "Stars 833"
+      "title": "amosblomqvist/learn",
+      "summary": "My AI learning system.",
+      "url": "https://github.com/amosblomqvist/learn",
+      "meta": "Stars 771"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: VibeGuard – security linter for AI-generated code",
+      "title": "I feel like AI start being a reflect of the CEO behind it (his political)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/zeroFhacker/vibeguard",
+      "url": "https://baseline-rouge-mu.vercel.app/",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "I Asked for a Portfolio but Got a Filing Cabinet",
       "summary": "Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn't fix — and the one instruction that did.",
       "url": "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8",
-      "meta": "7 reactions"
+      "meta": "8 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 一",
+      "url": "https://x.com/lidangzzz/status/2093809722159702125?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
