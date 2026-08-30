@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-30T13:56:45.797Z",
+  "updatedAt": "2026-08-30T18:00:37.161Z",
   "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
-      "title": "amosblomqvist/learn",
-      "summary": "My AI learning system.",
-      "url": "https://github.com/amosblomqvist/learn",
-      "meta": "Stars 846"
+      "title": "Nanako0129/sepia",
+      "summary": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "url": "https://github.com/Nanako0129/sepia",
+      "meta": "Stars 868"
     },
     {
       "source": "Hacker News",
-      "title": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
+      "title": "Superhuman AI coding still makes software worse",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
-      "meta": "3 points"
+      "url": "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -33,8 +33,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.4万 粉 Max For AI @ MaxForAI · 8小时前 发布 🚨突发：OpenAI 下一代模型 Astra 首次曝光细节，下周即将发布 Source",
-      "url": "https://x.com/MaxForAI/status/2093936143163388270?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
