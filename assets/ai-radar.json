@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-30T18:00:37.161Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-08-30T20:58:16.535Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "Nanako0129/sepia",
-      "summary": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 868"
+      "title": "amosblomqvist/learn",
+      "summary": "My AI learning system.",
+      "url": "https://github.com/amosblomqvist/learn",
+      "meta": "Stars 884"
     },
     {
       "source": "Hacker News",
-      "title": "Superhuman AI coding still makes software worse",
+      "title": "AI and the Death of Expertise: Why Experts Still Matter",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html",
+      "url": "https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,17 @@
     },
     {
       "source": "DEV",
-      "title": "I Asked for a Portfolio but Got a Filing Cabinet",
-      "summary": "Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn't fix — and the one instruction that did.",
-      "url": "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8",
-      "meta": "27 reactions"
+      "title": "Bugs Are Innocent Until Reproduced: Building Verdict, an Evidence-First Agent Harness",
+      "summary": "Most flaky bug reports end in one of two places: \"cannot reproduce\" or a patch nobody can prove fixed...",
+      "url": "https://dev.to/himanshu_748/bugs-are-innocent-until-reproduced-building-verdict-an-evidence-first-agent-harness-50lf",
+      "meta": "8 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude Code宣布从9月起为用户永久增加25%周额度 但实际上是缩减17%",
+      "summary": "<p>Claude Code 开发者官方社区账号日前宣布，从 2026 年 9 月 14 日起，A 社将所有订阅用户的每周使用限额提高 25%。该政策适用于 Claude Pro、Claude...",
+      "url": "https://www.landian.news/archives/126532.html",
+      "meta": "30 Aug 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
