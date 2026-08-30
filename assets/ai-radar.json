@@ -1,51 +1,45 @@
 {
-  "updatedAt": "2026-08-30T08:04:55.922Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-08-30T13:56:45.797Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "amosblomqvist/learn",
       "summary": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
-      "meta": "Stars 810"
+      "meta": "Stars 846"
     },
     {
       "source": "Hacker News",
-      "title": "Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon",
+      "title": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "meta": "1 points"
+      "url": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13596 likes"
+      "meta": "13598 likes"
     },
     {
       "source": "DEV",
       "title": "I Asked for a Portfolio but Got a Filing Cabinet",
       "summary": "Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn't fix — and the one instruction that did.",
       "url": "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8",
-      "meta": "8 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude Cowork新增内置浏览器 可以直接打开网页/读取内容/点击链接/填写表单",
-      "summary": "<p>A 社刚刚发布博客宣布 Claude Cowork 现已新增内置浏览器，借助内置浏览器用户可以在不安装 Claude in Chrome 扩展程序的情况下，使用内置浏览器打开网页、读取内...",
-      "url": "https://www.landian.news/archives/126486.html",
-      "meta": "27 Aug 2026"
+      "meta": "27 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 36分钟前 发布 ",
-      "url": "https://x.com/lidangzzz/status/2093963944004075975?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.4万 粉 Max For AI @ MaxForAI · 8小时前 发布 🚨突发：OpenAI 下一代模型 Astra 首次曝光细节，下周即将发布 Source",
+      "url": "https://x.com/MaxForAI/status/2093936143163388270?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
