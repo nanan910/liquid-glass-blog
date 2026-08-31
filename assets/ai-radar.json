@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T16:19:36.248Z",
+  "updatedAt": "2026-08-31T21:34:39.736Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1185"
+      "meta": "Stars 1211"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: D5s, an AI coworking space for people and agents",
+      "title": "Tell HN: On AI, Quality, and Accountability",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.d5s.tech",
-      "meta": "2 points"
+      "url": "https://news.ycombinator.com/item?id=49515051",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13599 likes"
+      "meta": "13600 likes"
     },
     {
       "source": "DEV",
