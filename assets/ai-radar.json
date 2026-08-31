@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T01:32:11.731Z",
+  "updatedAt": "2026-08-31T08:24:39.853Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 919"
+      "meta": "Stars 1026"
     },
     {
       "source": "Hacker News",
-      "title": "AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI",
+      "title": "Show HN: Sonde, a local code graph for AI agents that refuses to guess",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arxiv.org/abs/2608.26418",
+      "url": "https://github.com/anishmoncivarghese/sonde",
       "meta": "1 points"
     },
     {
@@ -25,16 +25,16 @@
     },
     {
       "source": "DEV",
-      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
-      "summary": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
-      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
-      "meta": "15 reactions"
+      "title": "Tell Me About You",
+      "summary": "After sixty-seven published posts here, the comments have become one of the best parts of the work....",
+      "url": "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
+      "meta": "30 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 只",
-      "url": "https://x.com/lidangzzz/status/2094175949612786154?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 9.7万 粉 周先知 @ xianzhizhou · 1小时前 发布 估计很多人没看懂。 苹果什么都没做？又赢了？ ChatGPT母公司OpenAI，过去几个月大量扫",
+      "url": "https://x.com/xianzhizhou/status/2094314522588914048?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
