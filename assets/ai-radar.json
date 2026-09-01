@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-01T01:06:53.038Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-01T06:40:07.211Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1236"
+      "meta": "Stars 1277"
     },
     {
       "source": "Hacker News",
-      "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
+      "title": "VibeCoded AI-Slop License v1.0",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
-      "meta": "2 points"
+      "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -31,21 +31,15 @@
       "meta": "21 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "A社警告近期出现的大规模Claude盗号问题 已强制登出异常账号和解绑银行卡",
-      "summary": "<p>据 Reddit 网友分享的消息，日前 A 社开始向部分 Claude 用户发送安全警告并强制删除用户已经绑定的支付方式和已经登录的会话，原因是 A 社检测到有攻击者正在使用信息窃取木马...",
-      "url": "https://www.landian.news/archives/126547.html",
-      "meta": "31 Aug 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 28.2万 粉 川沐｜Trumoo🐮 @ xiaomustock · 7小时前 发布 黄果短剧是minimax制作的， 肯定不是抖音的seedance，因为抖音不开",
-      "url": "https://x.com/xiaomustock/status/2094477697581990177?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 12.9万 粉 鸟哥 | 蓝鸟会🕊️ @ NFTCPS · 3小时前 发布 Anthropic 这波是真的大方，一口气把 22 门 Claude 课程全免费放出来，",
+      "url": "https://x.com/NFTCPS/status/2094623775962902892?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
