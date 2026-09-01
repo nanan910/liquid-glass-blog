@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T16:52:10.051Z",
+  "updatedAt": "2026-09-01T19:48:29.724Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,7 +7,14 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1345"
+      "meta": "Stars 1349"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Murphi: AI-native healthcare workflows, embedded or ready to use",
+      "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
+      "url": "https://murphi.ai/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -18,17 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "CPU, GPU, TPU, NPU, DPU, QPU: six chips, one question",
-      "summary": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
-      "url": "https://dev.to/lovestaco/cpu-gpu-tpu-npu-dpu-qpu-six-chips-one-question-438b",
-      "meta": "21 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "发生模型逃逸并发起真实攻击后 A社宣布全面加固安全体系提升模型安全性",
-      "summary": "<p>A 社日前发布最新博客公布 Claude AI 模型近期多起越界访问真实互联网系统后的安全整改方案。该公司承认这些事件不仅暴露评测环境的隔离问题，也反映出模型存在动机性推理和为完成狭窄目...",
-      "url": "https://www.landian.news/archives/126585.html",
-      "meta": "01 Sep 2026"
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "summary": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
+      "meta": "17 reactions"
     },
     {
       "source": "SoPilot",
@@ -39,7 +39,7 @@
     }
   ],
   "errors": [
-    "https://hn.algolia.com/api/v1/search_by_date?query=AI&tags=story&numericFilters=created_at_i>1788022294&hitsPerPage=8 returned 500",
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
