@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T21:34:39.736Z",
+  "updatedAt": "2026-09-01T01:06:53.038Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1211"
+      "meta": "Stars 1236"
     },
     {
       "source": "Hacker News",
-      "title": "Tell HN: On AI, Quality, and Accountability",
+      "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49515051",
-      "meta": "1 points"
+      "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 28.2万 粉 川沐｜Trumoo🐮 @ xiaomustock · 7小时前 发布 黄果短剧是minimax制作的， 肯定不是抖音的seedance，因为抖音不开",
+      "url": "https://x.com/xiaomustock/status/2094477697581990177?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
