@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-01T06:40:07.211Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-01T12:27:12.073Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1277"
+      "meta": "Stars 1324"
     },
     {
       "source": "Hacker News",
-      "title": "VibeCoded AI-Slop License v1.0",
+      "title": "Show HN: Srmed – an automated newsroom with a daily AI-narrated podcast",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+      "url": "https://srmed.ai/ar/today",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13600 likes"
+      "meta": "13601 likes"
     },
     {
       "source": "DEV",
@@ -31,15 +31,21 @@
       "meta": "21 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "发生模型逃逸并发起真实攻击后 A社宣布全面加固安全体系提升模型安全性",
+      "summary": "<p>A 社日前发布最新博客公布 Claude AI 模型近期多起越界访问真实互联网系统后的安全整改方案。该公司承认这些事件不仅暴露评测环境的隔离问题，也反映出模型存在动机性推理和为完成狭窄目...",
+      "url": "https://www.landian.news/archives/126585.html",
+      "meta": "01 Sep 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 12.9万 粉 鸟哥 | 蓝鸟会🕊️ @ NFTCPS · 3小时前 发布 Anthropic 这波是真的大方，一口气把 22 门 Claude 课程全免费放出来，",
-      "url": "https://x.com/NFTCPS/status/2094623775962902892?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 拼",
+      "url": "https://x.com/lidangzzz/status/2094690073300124088?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
