@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-02T04:58:43.838Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-02T09:29:40.636Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1372"
+      "meta": "Stars 1405"
     },
     {
       "source": "Hacker News",
-      "title": "Skills vs. MCP tools for AI agents: When to use which",
+      "title": "We Can't Let AI Writing Take over the Internet",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.logrocket.com/skills-vs-mcp-tools-agent-guide/",
+      "url": "https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop",
       "meta": "1 points"
     },
     {
@@ -28,24 +28,18 @@
       "title": "What happens to technical debt when AI makes code cheap?",
       "summary": "Dear past Jenna,  I know you're used to dealing with large, complex, legacy codebases riddled with...",
       "url": "https://dev.to/jennapederson/what-happens-to-technical-debt-when-ai-makes-code-cheap-9oa",
-      "meta": "17 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "发生模型逃逸并发起真实攻击后 A社宣布全面加固安全体系提升模型安全性",
-      "summary": "<p>A 社日前发布最新博客公布 Claude AI 模型近期多起越界访问真实互联网系统后的安全整改方案。该公司承认这些事件不仅暴露评测环境的隔离问题，也反映出模型存在动机性推理和为完成狭窄目...",
-      "url": "https://www.landian.news/archives/126585.html",
-      "meta": "01 Sep 2026"
+      "meta": "18 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 24.5万 粉 宝玉 @ dotey · 3小时前 发布 一个让你 Claude 的 Token 更耐用的经验：禁用 1M 上下文，尤其是在用 Fable 5.1 的",
-      "url": "https://x.com/dotey/status/2094964831061155845?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.7万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 这",
+      "url": "https://x.com/lidangzzz/status/2095063782431015036?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
