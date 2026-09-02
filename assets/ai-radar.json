@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T00:28:08.734Z",
+  "updatedAt": "2026-09-02T04:58:43.838Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1352"
+      "meta": "Stars 1372"
     },
     {
       "source": "Hacker News",
-      "title": "Compilers 2.0: AI as stochastic optimizer",
+      "title": "Skills vs. MCP tools for AI agents: When to use which",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://twitter.com/cdleary/status/2094878051238887834",
+      "url": "https://blog.logrocket.com/skills-vs-mcp-tools-agent-guide/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "How to Design AI Evaluations You Can Actually Trust",
-      "summary": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
-      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
-      "meta": "21 reactions"
+      "title": "What happens to technical debt when AI makes code cheap?",
+      "summary": "Dear past Jenna,  I know you're used to dealing with large, complex, legacy codebases riddled with...",
+      "url": "https://dev.to/jennapederson/what-happens-to-technical-debt-when-ai-makes-code-cheap-9oa",
+      "meta": "17 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 菜",
-      "url": "https://x.com/lidangzzz/status/2094887938978959612?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 24.5万 粉 宝玉 @ dotey · 3小时前 发布 一个让你 Claude 的 Token 更耐用的经验：禁用 1M 上下文，尤其是在用 Fable 5.1 的",
+      "url": "https://x.com/dotey/status/2094964831061155845?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
