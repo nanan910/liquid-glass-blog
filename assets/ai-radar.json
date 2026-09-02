@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T17:45:28.558Z",
+  "updatedAt": "2026-09-02T20:47:55.345Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1519"
+      "meta": "Stars 1540"
     },
     {
       "source": "Hacker News",
-      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping",
+      "title": "Show HN: AlparAI – Autonomous Swarm OS with Quantum Verification",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/business/retail-consumer/anthropic-launches-ai-agent-blueprints-retailers-ahead-holiday-shopping-season-2026-09-02/",
-      "meta": "2 points"
+      "url": "https://www.alparai.com/en",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
