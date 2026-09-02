@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T13:50:26.146Z",
+  "updatedAt": "2026-09-02T17:45:28.558Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1454"
+      "meta": "Stars 1519"
     },
     {
       "source": "Hacker News",
-      "title": "Who pays when an AI agent causes damage: the contracts, the policies and the gap",
+      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://tokenstead.ai/guides/ai-agent-liability-insurance-gap-2026",
-      "meta": "1 points"
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-launches-ai-agent-blueprints-retailers-ahead-holiday-shopping-season-2026-09-02/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13602 likes"
+      "meta": "13604 likes"
     },
     {
       "source": "DEV",
-      "title": "What happens to technical debt when AI makes code cheap?",
-      "summary": "Dear past Jenna,  I know you're used to dealing with large, complex, legacy codebases riddled with...",
-      "url": "https://dev.to/jennapederson/what-happens-to-technical-debt-when-ai-makes-code-cheap-9oa",
-      "meta": "19 reactions"
+      "title": "I tested Claude Code's memory against mine. They are not doing the same job.",
+      "summary": "Proof over claim  Last time I described the hour a platform shipped the feature I had spent months...",
+      "url": "https://dev.to/heinrichneb/i-tested-claude-codes-memory-against-mine-they-are-not-doing-the-same-job-35jb",
+      "meta": "15 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.7万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 5小时前 发布 这",
-      "url": "https://x.com/lidangzzz/status/2095063782431015036?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
