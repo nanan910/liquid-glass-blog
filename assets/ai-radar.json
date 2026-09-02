@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T22:28:47.686Z",
+  "updatedAt": "2026-09-02T00:28:08.734Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1351"
+      "meta": "Stars 1352"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "title": "Compilers 2.0: AI as stochastic optimizer",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://masteranza.github.io/weedout/",
-      "meta": "9 points"
+      "url": "https://twitter.com/cdleary/status/2094878051238887834",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.6万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 菜",
+      "url": "https://x.com/lidangzzz/status/2094887938978959612?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
