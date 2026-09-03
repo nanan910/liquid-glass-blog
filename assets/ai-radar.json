@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-02T23:09:39.528Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-03T01:21:30.684Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1550"
+      "meta": "Stars 1584"
     },
     {
       "source": "Hacker News",
-      "title": "AI-Memory 2.0 – The Best Memory System for Agents and Teams",
+      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://akitaonrails.com/en/2026/09/02/ai-memory-2-0-best-memory-system-for-agents-and-teams/",
-      "meta": "1 points"
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -28,18 +28,24 @@
       "title": "What do you build when you can build anything?",
       "summary": "My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...",
       "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
-      "meta": "17 reactions"
+      "meta": "26 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
+      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
+      "url": "https://www.landian.news/archives/126629.html",
+      "meta": "02 Sep 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.7万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 是",
+      "url": "https://x.com/lidangzzz/status/2095284313470247239?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
