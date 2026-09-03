@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:23:04.396Z",
+  "updatedAt": "2026-09-03T21:50:55.457Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1851"
+      "meta": "Stars 1855"
     },
     {
       "source": "Hacker News",
-      "title": "Wall Street banks push Big Law to cut fees because of AI",
+      "title": "GitHub dipped 7%, while both AI labs were down",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9",
-      "meta": "1 points"
+      "url": "https://claude.ai/public/artifacts/2368658e-60f2-4f51-8883-8d72738ba7ce",
+      "meta": "4 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
       "summary": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
-      "meta": "62 reactions"
+      "meta": "72 reactions"
     },
     {
       "source": "蓝点网",
