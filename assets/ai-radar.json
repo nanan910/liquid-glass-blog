@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T01:21:30.684Z",
+  "updatedAt": "2026-09-03T06:19:24.195Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1584"
+      "meta": "Stars 1683"
     },
     {
       "source": "Hacker News",
-      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+      "title": "Which AI Fetchers Send Which Headers, Measured on a Live Site",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "meta": "3 points"
+      "url": "https://gkoreli.com/which-ai-fetchers-send-which-headers",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13604 likes"
+      "meta": "13606 likes"
     },
     {
       "source": "DEV",
       "title": "What do you build when you can build anything?",
       "summary": "My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...",
       "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
-      "meta": "26 reactions"
+      "meta": "27 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.7万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 是",
-      "url": "https://x.com/lidangzzz/status/2095284313470247239?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.7万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 我",
+      "url": "https://x.com/lidangzzz/status/2095372318193152140?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
