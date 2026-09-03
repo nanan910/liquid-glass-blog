@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-03T11:35:44.331Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-03T16:06:33.677Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1754"
+      "meta": "Stars 1829"
     },
     {
       "source": "Hacker News",
-      "title": "A dark horse enter China's AI race: StartLux",
+      "title": "Ask HN: Can we classify AI as: subhuman, quasihuman, human, superhumam?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
-      "meta": "2 points"
+      "url": "https://news.ycombinator.com/item?id=49552230",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,18 +28,24 @@
       "title": "What do you build when you can build anything?",
       "summary": "My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...",
       "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
-      "meta": "37 reactions"
+      "meta": "46 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
+      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
+      "url": "https://www.landian.news/archives/126629.html",
+      "meta": "02 Sep 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 6,816 粉 FeiZ @ Fei2411 · 5小时前 发布 各个 AI公司的当务之急👇： OpenAI：赶紧推出一个最强大的模型前沿模型，解决前端和过度设计的",
-      "url": "https://x.com/Fei2411/status/2095386420915683626?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
