@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T21:50:55.457Z",
+  "updatedAt": "2026-09-03T23:52:00.614Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Nanako0129/sepia",
       "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
-      "meta": "Stars 1855"
+      "meta": "Stars 1865"
     },
     {
       "source": "Hacker News",
-      "title": "GitHub dipped 7%, while both AI labs were down",
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://claude.ai/public/artifacts/2368658e-60f2-4f51-8883-8d72738ba7ce",
-      "meta": "4 points"
+      "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
