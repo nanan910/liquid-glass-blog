@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:18:56.231Z",
+  "updatedAt": "2026-09-04T16:58:37.567Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 1820"
+      "meta": "Stars 1870"
     },
     {
       "source": "Hacker News",
-      "title": "AI engineer breaks part of RSA encryption protocol by hand",
+      "title": "I Street interviewed random people about AI across America",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.scientificamerican.com/article/whats-the-tech-behind-the-record-breaking-rsa-260-crack/",
+      "url": "https://www.youtube.com/@charlieguthmann2531",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.7万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 7小时前 发布 放",
-      "url": "https://x.com/lidangzzz/status/2095749861895254466?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
