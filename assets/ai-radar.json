@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T03:46:12.949Z",
+  "updatedAt": "2026-09-04T08:41:21.317Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 1632"
+      "meta": "Stars 1754"
     },
     {
       "source": "Hacker News",
-      "title": "The 1990s Web vs. today's AI",
+      "title": "Amazon and Meta AI bots account for most website visits",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arnoldkling.substack.com/p/the-1990s-web-vs-todays-ai",
-      "meta": "3 points"
+      "url": "https://pressgazette.co.uk/platforms/amazon-and-meta-ai-bots-account-for-most-website-visits/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "summary": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
-      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
-      "meta": "75 reactions"
+      "title": "AI-assisted genealogy",
+      "summary": "My son recently came to me to brag about using AI to find our ancestors. While the results were...",
+      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn",
+      "meta": "16 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8,548 粉 阿蔺A-Lin @ alin_zone · 1小时前 发布 卧槽，原来这才是官方推荐的 Codex 正确打开方式 之前都没发现，经常帮大家重置额度的 ",
-      "url": "https://x.com/alin_zone/status/2095695353274352073?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.2万 粉 SuSu_酥酥👅 @ NFT_Chen · 3小时前 发布 🚨震撼：Astra不是在生成视频，是在抢导演的饭碗！ GPT-6-Astra vs Fa",
+      "url": "https://x.com/NFT_Chen/status/2095739568528232538?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
