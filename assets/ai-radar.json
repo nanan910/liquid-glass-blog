@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T19:25:24.582Z",
+  "updatedAt": "2026-09-04T21:42:03.658Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 1892"
+      "meta": "Stars 1910"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
+      "title": "Stanley Zhong Gets Admissions Data Discovery in UW Suit with AI lawyer",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/asalsali/covenant-framework-community",
+      "url": "https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit",
       "meta": "1 points"
     },
     {
@@ -46,7 +46,7 @@
     }
   ],
   "errors": [
-    "https://newsnow.busiyi.world/ returned 403",
+    "fetch failed",
     "https://tophub.today/c/tech returned 403"
   ]
 }
