@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T16:58:37.567Z",
+  "updatedAt": "2026-09-04T19:25:24.582Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 1870"
+      "meta": "Stars 1892"
     },
     {
       "source": "Hacker News",
-      "title": "I Street interviewed random people about AI across America",
+      "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/@charlieguthmann2531",
+      "url": "https://github.com/asalsali/covenant-framework-community",
       "meta": "1 points"
     },
     {
