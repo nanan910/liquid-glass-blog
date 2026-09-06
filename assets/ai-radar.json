@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T03:47:58.130Z",
+  "updatedAt": "2026-09-06T08:30:49.014Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 2065"
+      "meta": "Stars 2122"
     },
     {
       "source": "Hacker News",
-      "title": "VMware Intros Private AI Cloud",
+      "title": "AI Chip Regulation Is Not a Dystopian Surveillance State",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
+      "url": "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13611 likes"
+      "meta": "13612 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.3万 粉 AI产品黄叔 @ PMbackttfuture · 2小时前 发布 GPT 6 Astra发布后的人类幼崽😱 https://t.co/iwJTDwx",
-      "url": "https://x.com/PMbackttfuture/status/2096400335795601809?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.8万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 为",
+      "url": "https://x.com/lidangzzz/status/2096465112307569050?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
