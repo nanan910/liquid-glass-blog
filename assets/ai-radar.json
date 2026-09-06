@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T12:44:32.112Z",
+  "updatedAt": "2026-09-06T16:04:12.911Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 2165"
+      "meta": "Stars 2184"
     },
     {
       "source": "Hacker News",
-      "title": "AI Slop",
+      "title": "AI Work Simulator",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
-      "meta": "1 points"
+      "url": "https://runwork.ai/simulate",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13612 likes"
+      "meta": "13614 likes"
     },
     {
       "source": "DEV",
@@ -33,8 +33,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.8万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 7小时前 发布 为",
-      "url": "https://x.com/lidangzzz/status/2096465112307569050?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
