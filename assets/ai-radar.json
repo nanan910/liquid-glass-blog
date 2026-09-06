@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T16:04:12.911Z",
+  "updatedAt": "2026-09-06T18:33:39.723Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 2184"
+      "meta": "Stars 2195"
     },
     {
       "source": "Hacker News",
-      "title": "AI Work Simulator",
+      "title": "GPT-6 Astra is now available in Perplexity Computer",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://runwork.ai/simulate",
-      "meta": "2 points"
+      "url": "https://twitter.com/perplexity_ai/status/2096006336786133366",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
