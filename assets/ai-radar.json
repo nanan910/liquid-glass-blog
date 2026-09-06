@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-06T08:30:49.014Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-06T12:44:32.112Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 2122"
+      "meta": "Stars 2165"
     },
     {
       "source": "Hacker News",
-      "title": "AI Chip Regulation Is Not a Dystopian Surveillance State",
+      "title": "AI Slop",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
       "meta": "1 points"
     },
     {
@@ -25,27 +25,21 @@
     },
     {
       "source": "DEV",
-      "title": "AI-assisted genealogy",
-      "summary": "My son recently came to me to brag about using AI to find our ancestors. While the results were...",
-      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn",
-      "meta": "16 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
-      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
-      "url": "https://www.landian.news/archives/126629.html",
-      "meta": "02 Sep 2026"
+      "title": "Multiple Browser Agents Need More Than Separate Profiles",
+      "summary": "A development report on browser workspaces, project bindings, exclusive leases, and controlled handovers between humans and agents.",
+      "url": "https://dev.to/volker_schukai/multiple-browser-agents-need-more-than-separate-profiles-565j",
+      "meta": "13 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.8万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 为",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.8万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 7小时前 发布 为",
       "url": "https://x.com/lidangzzz/status/2096465112307569050?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
