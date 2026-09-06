@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T18:33:39.723Z",
+  "updatedAt": "2026-09-06T21:09:39.669Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 2195"
+      "meta": "Stars 2199"
     },
     {
       "source": "Hacker News",
-      "title": "GPT-6 Astra is now available in Perplexity Computer",
+      "title": "Mostik.ai – latent communication between AI models",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://twitter.com/perplexity_ai/status/2096006336786133366",
-      "meta": "1 points"
+      "url": "https://mostik.ai/read-more",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13614 likes"
+      "meta": "13615 likes"
     },
     {
       "source": "DEV",
       "title": "Multiple Browser Agents Need More Than Separate Profiles",
       "summary": "A development report on browser workspaces, project bindings, exclusive leases, and controlled handovers between humans and agents.",
       "url": "https://dev.to/volker_schukai/multiple-browser-agents-need-more-than-separate-profiles-565j",
-      "meta": "13 reactions"
+      "meta": "14 reactions"
     },
     {
       "source": "SoPilot",
