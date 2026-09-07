@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-07T01:14:28.238Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-07T06:32:22.815Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 2214"
+      "meta": "Stars 2280"
     },
     {
       "source": "Hacker News",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "title": "Show HN: Yurei – like Claude in Chrome, but for any model and harness",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "url": "https://yurei-ai.com/",
       "meta": "1 points"
     },
     {
@@ -31,15 +31,21 @@
       "meta": "18 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
+      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
+      "url": "https://www.landian.news/archives/126629.html",
+      "meta": "02 Sep 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 22.4万 粉 勃勃OC @ bboczeng · 4小时前 发布 但是如果你不懂数学、不是名校毕业，过不了OpenAI的面试，然后自己在家里拍脑袋上手，浪费一千万个",
-      "url": "https://x.com/bboczeng/status/2096705303077384696?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 28.2万 粉 川沐｜Trumoo🐮 @ xiaomustock · 2小时前 发布 黄仁勋也称AGI来了。 ai模型迭代速度越来越快，4年发展成这样子，4年后会发",
+      "url": "https://x.com/xiaomustock/status/2096810637875921140?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
