@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:01:51.991Z",
+  "updatedAt": "2026-09-07T01:14:28.238Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
-      "meta": "Stars 2199"
+      "meta": "Stars 2214"
     },
     {
       "source": "Hacker News",
-      "title": "GOP issues stark warning to AI companies",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
       "meta": "1 points"
     },
     {
@@ -25,16 +25,16 @@
     },
     {
       "source": "DEV",
-      "title": "Multiple Browser Agents Need More Than Separate Profiles",
-      "summary": "A development report on browser workspaces, project bindings, exclusive leases, and controlled handovers between humans and agents.",
-      "url": "https://dev.to/volker_schukai/multiple-browser-agents-need-more-than-separate-profiles-565j",
-      "meta": "14 reactions"
+      "title": "Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches",
+      "summary": "Yash K Saini — Engineer, building in public — AI/ML, low-level (Rust/C/C++), and open source.  GitHub...",
+      "url": "https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b",
+      "meta": "18 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 22.4万 粉 勃勃OC @ bboczeng · 4小时前 发布 但是如果你不懂数学、不是名校毕业，过不了OpenAI的面试，然后自己在家里拍脑袋上手，浪费一千万个",
+      "url": "https://x.com/bboczeng/status/2096705303077384696?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
