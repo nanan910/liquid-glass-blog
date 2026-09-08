@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-08T05:03:39.675Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-08T09:59:11.279Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "pierrenade/short-video-generator-AI",
       "summary": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "url": "https://github.com/pierrenade/short-video-generator-AI",
-      "meta": "Stars 1185"
+      "meta": "Stars 1209"
     },
     {
       "source": "Hacker News",
-      "title": "Cognition Has More Than One Shape: From AI to Synthetic Cognition",
+      "title": "TrustFinder: Deep Search AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://tvvocold.github.io/2026/09/08/cognition-has-more-than-one-shape.html",
+      "url": "https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&hl=en_US",
       "meta": "2 points"
     },
     {
@@ -31,15 +31,21 @@
       "meta": "18 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
+      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
+      "url": "https://www.landian.news/archives/126629.html",
+      "meta": "02 Sep 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.9万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 错",
-      "url": "https://x.com/lidangzzz/status/2097170198415434054?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 24.6万 粉 宝玉 @ dotey · 2小时前 发布 纽约大学数学家 Tristan Buckmaster 今天发表公开声明，披露了两件事：一是他和合作者借助大语",
+      "url": "https://x.com/dotey/status/2097223647068836166?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
