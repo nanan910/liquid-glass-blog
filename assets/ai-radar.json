@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T21:19:57.685Z",
+  "updatedAt": "2026-09-08T23:34:48.080Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Albert-Weasker/niubigeo",
       "summary": "Open-source AI brand visibility and competitor reports",
       "url": "https://github.com/Albert-Weasker/niubigeo",
-      "meta": "Stars 2158"
+      "meta": "Stars 2161"
     },
     {
       "source": "Hacker News",
-      "title": "China-Based AI Companies Using Distillation at Scale Against US AI Companies",
+      "title": "Linux desktop image editor with local AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+      "url": "https://github.com/cthackers/inpaint",
       "meta": "1 points"
     },
     {
