@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-09T03:56:11.668Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-09T08:53:52.457Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "Albert-Weasker/niubigeo",
       "summary": "Open-source AI brand visibility and competitor reports",
       "url": "https://github.com/Albert-Weasker/niubigeo",
-      "meta": "Stars 2174"
+      "meta": "Stars 2190"
     },
     {
       "source": "Hacker News",
-      "title": "Lapis One – A Dedicated Computer for Your Agents – Pamir",
+      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.pamir.ai/",
-      "meta": "1 points"
+      "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -25,27 +25,21 @@
     },
     {
       "source": "DEV",
-      "title": "Most 'AI Agents' Are Just If-Statements in a Trench Coat",
-      "summary": "I built an agent last year, and I was proud of it.  It had a planner. It had tools. It had a...",
-      "url": "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960",
-      "meta": "32 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
-      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
-      "url": "https://www.landian.news/archives/126629.html",
-      "meta": "02 Sep 2026"
+      "title": "Has AI Made You A Lazier Developer? Be Honest.",
+      "summary": "Haven't you ever wondered if this AI vibe coding has made us lazy? Who's been solving problems on...",
+      "url": "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
+      "meta": "64 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.1万 粉 ⧫ Alan Chen ⧫(alanchentsla.eth） @ alanchen · 1小时前 发布 OpenAI和Anthropic前核心研究员今",
-      "url": "https://x.com/alanchen/status/2097508434564481131?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 28.2万 粉 川沐｜Trumoo🐮 @ xiaomustock · 2小时前 发布 从7月到现在原油快翻倍了，导致各种化工产品价格也非常高，化肥也是石油化工的一环",
+      "url": "https://x.com/xiaomustock/status/2097575198375772302?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
