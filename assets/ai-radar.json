@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-09T08:53:52.457Z",
+  "updatedAt": "2026-09-09T13:36:14.574Z",
   "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "Albert-Weasker/niubigeo",
-      "summary": "Open-source AI brand visibility and competitor reports",
+      "summary": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
-      "meta": "Stars 2190"
+      "meta": "Stars 2211"
     },
     {
       "source": "Hacker News",
-      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+      "title": "Gambling with our lives': Another AI employee quits over safety concerns",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
-      "meta": "2 points"
+      "url": "https://www.cnn.com/2026/09/09/tech/ai-anthropic-safety",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,16 +25,16 @@
     },
     {
       "source": "DEV",
-      "title": "Has AI Made You A Lazier Developer? Be Honest.",
-      "summary": "Haven't you ever wondered if this AI vibe coding has made us lazy? Who's been solving problems on...",
-      "url": "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
-      "meta": "64 reactions"
+      "title": "Como eu aprendi a aprender (e por que a IA não veio pra pensar por você)",
+      "summary": "Eu entrei na programação de cabeça no finalzinho de 2022. Não foi um caminho gradual, do tipo \"vou...",
+      "url": "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
+      "meta": "53 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 28.2万 粉 川沐｜Trumoo🐮 @ xiaomustock · 2小时前 发布 从7月到现在原油快翻倍了，导致各种化工产品价格也非常高，化肥也是石油化工的一环",
-      "url": "https://x.com/xiaomustock/status/2097575198375772302?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.7万 粉 Max For AI @ MaxForAI · 6小时前 发布 🚨突发，DeepSeek 宣布将 V4 Pro 全部路由到 V4.1 Flash 。 ",
+      "url": "https://x.com/MaxForAI/status/2097586383015612813?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
