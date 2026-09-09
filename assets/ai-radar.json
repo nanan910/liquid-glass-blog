@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-09T20:43:11.238Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-09T23:05:11.830Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "Albert-Weasker/niubigeo",
       "summary": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
-      "meta": "Stars 2245"
+      "meta": "Stars 2248"
     },
     {
       "source": "Hacker News",
-      "title": "Now it's China's experts who are gig workers training AI",
+      "title": "Andrew Tulloch Departs Mark Zuckerberg's Meta AI Lab",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://restofworld.org/2026/china-expert-ai-trainers/",
-      "meta": "4 points"
+      "url": "https://www.wsj.com/tech/ai/star-ai-researcher-is-leaving-meta-8906e4aa",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -31,13 +31,6 @@
       "meta": "53 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
-      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
-      "url": "https://www.landian.news/archives/126629.html",
-      "meta": "02 Sep 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
