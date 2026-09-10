@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-10T21:46:35.025Z",
+  "updatedAt": "2026-09-10T23:52:05.004Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "achimala/dream-loop",
-      "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-      "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 709"
+      "title": "iamzulx/crypto-rag",
+      "summary": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "meta": "Stars 898"
     },
     {
       "source": "Hacker News",
-      "title": "Cfo.ai",
+      "title": "Show HN: Socks Proxy for AI Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://cfo.ai",
+      "url": "https://x402socks.com/",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "AI Is Already Better at Coding Than Most Software Developers",
       "summary": "...but let me say this right away: coding was never the most valuable part of software...",
       "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-      "meta": "55 reactions"
+      "meta": "60 reactions"
     },
     {
       "source": "蓝点网",
