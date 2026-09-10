@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-10T01:20:05.097Z",
+  "updatedAt": "2026-09-10T06:29:00.693Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "okf-memory/okf-agent-memory",
-      "summary": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "meta": "Stars 519"
+      "title": "achimala/dream-loop",
+      "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "url": "https://github.com/achimala/dream-loop",
+      "meta": "Stars 542"
     },
     {
       "source": "Hacker News",
-      "title": "The Open Source AI Stack",
+      "title": "(Tech Report) DeepSeek-v4.1-Flash: Pushing Limits of KV Cache Compression [pdf]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.together.ai/blog/the-open-source-ai-stack",
-      "meta": "1 points"
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/resolve/main/DeepSeek_V41_Tech_Report.pdf",
+      "meta": "4 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Como eu aprendi a aprender (e por que a IA não veio pra pensar por você)",
-      "summary": "Eu entrei na programação de cabeça no finalzinho de 2022. Não foi um caminho gradual, do tipo \"vou...",
-      "url": "https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg",
-      "meta": "53 reactions"
+      "title": "I let AI write 100% of my code for 30 days. Here's what broke.",
+      "summary": "Not \"AI-assisted.\" Not \"copilot suggestions I edited.\" I mean I made a rule: for 30 days, I don't...",
+      "url": "https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0",
+      "meta": "32 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.6万 粉 奶昔🥤 @ realNyarime · 2小时前 发布 万一哪天算力不够，DeepSeek就有把deepseek-v4.1-pro重定向到deepse",
-      "url": "https://x.com/realNyarime/status/2097820769808273689?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.7万 粉 Max For AI @ MaxForAI · 3小时前 发布 🚨Anthropic 内部好像真有点压不住了。 昨天，做了三年大模型预训练、先后待过 ",
+      "url": "https://x.com/MaxForAI/status/2097875325049077910?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
