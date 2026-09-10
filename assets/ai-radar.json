@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T11:45:18.534Z",
+  "updatedAt": "2026-09-10T16:07:10.890Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 592"
+      "meta": "Stars 663"
     },
     {
       "source": "Hacker News",
-      "title": "The $40k a year school where AI shapes every lesson, without teachers – CBS News",
+      "title": "Show HN: MySamantha – a productivity app where the AI is optional",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cbsnews.com/news/alpha-school-artificial-intelligence/",
+      "url": "https://news.ycombinator.com/item?id=49645994",
       "meta": "1 points"
     },
     {
@@ -28,13 +28,13 @@
       "title": "AI Is Already Better at Coding Than Most Software Developers",
       "summary": "...but let me say this right away: coding was never the most valuable part of software...",
       "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-      "meta": "20 reactions"
+      "meta": "43 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 160.9万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 邵",
-      "url": "https://x.com/lidangzzz/status/2097956648790749591?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
