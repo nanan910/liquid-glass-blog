@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T16:07:10.890Z",
+  "updatedAt": "2026-09-10T19:12:47.247Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 663"
+      "meta": "Stars 688"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: MySamantha – a productivity app where the AI is optional",
+      "title": "They do think AI might kill everyone",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49645994",
+      "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "AI Is Already Better at Coding Than Most Software Developers",
       "summary": "...but let me say this right away: coding was never the most valuable part of software...",
       "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-      "meta": "43 reactions"
+      "meta": "52 reactions"
     },
     {
       "source": "SoPilot",
