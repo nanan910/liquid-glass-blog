@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T13:24:27.236Z",
+  "updatedAt": "2026-09-11T17:07:07.317Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "iamzulx/crypto-rag",
       "summary": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
       "url": "https://github.com/iamzulx/crypto-rag",
-      "meta": "Stars 901"
+      "meta": "Stars 902"
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: Can we please limit the AI news flood?",
+      "title": "Show HN: Socratix – an AI tutor for proving mastery, not memorizing",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "meta": "72 points"
+      "url": "https://socratix-nine.vercel.app",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -33,8 +33,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.5万 粉 zhao @ shuchu101 · 6小时前 发布 🚀 Bybit AI 正式上线了！ 一句话就能搞定交易、查余额、开客服工单——是的，你没看错。",
-      "url": "https://x.com/shuchu101/status/2098310921135292895?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
