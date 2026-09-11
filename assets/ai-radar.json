@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T17:07:07.317Z",
+  "updatedAt": "2026-09-11T19:58:35.251Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "iamzulx/crypto-rag",
       "summary": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
       "url": "https://github.com/iamzulx/crypto-rag",
-      "meta": "Stars 902"
+      "meta": "Stars 903"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Socratix – an AI tutor for proving mastery, not memorizing",
+      "title": "Show HN: HungryGPU – Track local AI models, patches and recipes by hardware",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://socratix-nine.vercel.app",
-      "meta": "1 points"
+      "url": "https://hungrygpu.com",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
