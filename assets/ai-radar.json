@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T03:52:45.083Z",
+  "updatedAt": "2026-09-11T08:47:14.312Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "iamzulx/crypto-rag",
       "summary": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
       "url": "https://github.com/iamzulx/crypto-rag",
-      "meta": "Stars 899"
+      "meta": "Stars 900"
     },
     {
       "source": "Hacker News",
-      "title": "Episode 7: The AI Doomer Cult with Brian Chau",
+      "title": "Latham and Watkins buys Nvidia servers to set up in-house AI systems",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://twitter.com/willchamberlain/status/2098207395608699093",
+      "url": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70",
       "meta": "1 points"
     },
     {
@@ -25,16 +25,16 @@
     },
     {
       "source": "DEV",
-      "title": "AI Is Already Better at Coding Than Most Software Developers",
-      "summary": "...but let me say this right away: coding was never the most valuable part of software...",
-      "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-      "meta": "63 reactions"
+      "title": "Admit it, you have a favorite AI (just like you have a favorite coworker)",
+      "summary": "A short rant on the Claude, Gemini, and Microsoft Copilot experience",
+      "url": "https://dev.to/missamarakay/admit-it-you-have-a-favorite-ai-just-like-you-have-a-favorite-coworker-1fa0",
+      "meta": "13 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.1万 粉 WquGuru @ wquguru · 2小时前 发布 世界就是个巨大的草台班子。安全研究人员炒饭君（第一位公布 Claude Code 源码泄漏的人）",
-      "url": "https://x.com/wquguru/status/2098227621725446156?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.6万 粉 郭宇 guoyu.eth @ turingou · 2小时前 发布 太可怕了，GPT-6 Astra 操作 Mac 内置的软件（例如 Photos）更",
+      "url": "https://x.com/turingou/status/2098292333309767711?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
