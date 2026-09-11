@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-11T19:58:35.251Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-11T22:27:20.516Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: HungryGPU – Track local AI models, patches and recipes by hardware",
+      "title": "Show HN: Claude Read Aloud – Hear Claude's Replies Instead of Reading",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://hungrygpu.com",
+      "url": "https://github.com/MichaelPGifford/claude-read-aloud",
       "meta": "2 points"
     },
     {
@@ -25,10 +25,17 @@
     },
     {
       "source": "DEV",
-      "title": "Admit it, you have a favorite AI (just like you have a favorite coworker)",
-      "summary": "A short rant on the Claude, Gemini, and Microsoft Copilot experience",
-      "url": "https://dev.to/missamarakay/admit-it-you-have-a-favorite-ai-just-like-you-have-a-favorite-coworker-1fa0",
-      "meta": "14 reactions"
+      "title": "My Agents Never Get Tired. I Do: On Satisficing",
+      "summary": "I approved a prompt on a Tuesday morning and went to make a cup of Irish Afternoon tea. By the time I...",
+      "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
+      "meta": "25 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
+      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
+      "url": "https://www.landian.news/archives/126629.html",
+      "meta": "02 Sep 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
