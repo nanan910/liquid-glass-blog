@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T05:29:47.011Z",
+  "updatedAt": "2026-09-12T09:32:41.125Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 863"
+      "meta": "Stars 874"
     },
     {
       "source": "Hacker News",
-      "title": "We blind-tested ChatGPT, Claude, and Gemini on 20 everyday tasks (Open Dataset)",
+      "title": "GoatCode – open-source terminal AI agent with provider failover",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://dailyskill.ai/ai-benchmark-2026/",
-      "meta": "1 points"
+      "url": "https://news.ycombinator.com/item?id=49670455",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13619 likes"
+      "meta": "13621 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 41.8万 粉 亚洲金融 Asia Finance @ AsiaFinance · 2小时前 发布 Kimi的案子，比Manus严重多了。杨植麟前天还在中科大的演讲，",
-      "url": "https://x.com/AsiaFinance/status/2098613311008870509?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 傻",
+      "url": "https://x.com/lidangzzz/status/2098670197364122072?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
