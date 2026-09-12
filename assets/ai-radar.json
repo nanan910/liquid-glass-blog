@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T21:18:56.498Z",
+  "updatedAt": "2026-09-12T23:12:07.730Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 917"
+      "meta": "Stars 921"
     },
     {
       "source": "Hacker News",
-      "title": "Comment: Feeling Sad about AI",
+      "title": "Forecasting the AI Boom till 2030",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+      "url": "https://hunchfox.substack.com/p/the-cost-of-abundance-ai-2030",
       "meta": "1 points"
     },
     {
