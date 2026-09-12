@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:39:31.067Z",
+  "updatedAt": "2026-09-12T21:18:56.498Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 911"
+      "meta": "Stars 917"
     },
     {
       "source": "Hacker News",
-      "title": "Dario Just Said Pump the Brakes on AI",
+      "title": "Comment: Feeling Sad about AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://captaincompliance.com/education/dario-just-proposed-slowing-ai-development-on-purpose/",
-      "meta": "3 points"
+      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
