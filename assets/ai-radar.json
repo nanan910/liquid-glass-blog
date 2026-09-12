@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-12T09:32:41.125Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-12T13:28:22.512Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 874"
+      "meta": "Stars 892"
     },
     {
       "source": "Hacker News",
-      "title": "GoatCode – open-source terminal AI agent with provider failover",
+      "title": "Don't build tools for AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49670455",
-      "meta": "2 points"
+      "url": "https://www.seangoedecke.com/dont-build-tools-for-ai-agents/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,27 +25,21 @@
     },
     {
       "source": "DEV",
-      "title": "My Agents Never Get Tired. I Do: On Satisficing",
-      "summary": "I approved a prompt on a Tuesday morning and went to make a cup of Irish Afternoon tea. By the time I...",
-      "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
-      "meta": "25 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
-      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
-      "url": "https://www.landian.news/archives/126629.html",
-      "meta": "02 Sep 2026"
+      "title": "Most AI \"Reasoning\" Traces Are Just the Answer, Written Backwards",
+      "summary": "You've probably watched an AI think through a problem step by step, nod along with the logic, and...",
+      "url": "https://dev.to/dj29/most-ai-reasoning-traces-are-just-the-answer-written-backwards-cho",
+      "meta": "24 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 傻",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 6小时前 发布 傻",
       "url": "https://x.com/lidangzzz/status/2098670197364122072?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
