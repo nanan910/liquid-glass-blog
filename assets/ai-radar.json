@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-12T16:28:13.325Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-12T18:39:31.067Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 907"
+      "meta": "Stars 911"
     },
     {
       "source": "Hacker News",
-      "title": "Start Weekend AI Roasting Your Loved Ones with free-AI-tools-hub.com",
+      "title": "Dario Just Said Pump the Brakes on AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49673909",
-      "meta": "1 points"
+      "url": "https://captaincompliance.com/education/dario-just-proposed-slowing-ai-development-on-purpose/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13623 likes"
+      "meta": "13624 likes"
     },
     {
       "source": "DEV",
@@ -29,6 +29,13 @@
       "summary": "You've probably watched an AI think through a problem step by step, nod along with the logic, and...",
       "url": "https://dev.to/dj29/most-ai-reasoning-traces-are-just-the-answer-written-backwards-cho",
       "meta": "24 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
+      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
+      "url": "https://www.landian.news/archives/126629.html",
+      "meta": "02 Sep 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
