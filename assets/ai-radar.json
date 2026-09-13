@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T21:35:48.174Z",
+  "updatedAt": "2026-09-13T23:58:04.660Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 963"
+      "meta": "Stars 965"
     },
     {
       "source": "Hacker News",
-      "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "title": "AI Coding Dictionary",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "meta": "4 points"
+      "url": "https://www.aihero.dev/ai-coding-dictionary",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
