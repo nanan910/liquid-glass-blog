@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T19:14:00.430Z",
+  "updatedAt": "2026-09-13T21:35:48.174Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 961"
+      "meta": "Stars 963"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Sengi.ai – Verified candidate sourcing for hard-to-fill roles",
+      "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://sengi.ai/",
-      "meta": "1 points"
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "meta": "4 points"
     },
     {
       "source": "Hugging Face",
