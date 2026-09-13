@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-13T06:39:54.749Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-13T12:37:31.614Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "achimala/dream-loop",
       "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
-      "meta": "Stars 929"
+      "meta": "Stars 938"
     },
     {
       "source": "Hacker News",
-      "title": "Pedagogy in the Age of AI [video]",
+      "title": "Why AI Benchmarks Are Total BS",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/watch?v=N2a1J0UPeL4",
+      "url": "https://www.pcmag.com/opinions/why-ai-benchmarks-are-total-bs-and-how-openai-and-anthropic-use-them-to",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "13626 likes"
+      "meta": "13627 likes"
     },
     {
       "source": "DEV",
@@ -31,15 +31,21 @@
       "meta": "24 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
+      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
+      "url": "https://www.landian.news/archives/126629.html",
+      "meta": "02 Sep 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 10.4万 粉 Nancy @ nancy_c813 · 3小时前 发布 建设社区真的很难，还要亲力亲为🥲我刚看能不能做出鱼脑的东西，我不是程序员，只好让GPT一步",
-      "url": "https://x.com/nancy_c813/status/2098976305866035620?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.4万 粉 Ryan Leung 梁興盛, CFA @ RYANHINGSHING · 5小时前 发布 Anthropic, OpenAI 兩家公司把安全當成藉口，",
+      "url": "https://x.com/RYANHINGSHING/status/2099035836654272966?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
