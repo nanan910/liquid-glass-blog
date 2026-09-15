@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T12:52:05.443Z",
+  "updatedAt": "2026-09-15T17:34:28.946Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "kruzovic7/ai-data-extractor",
       "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "meta": "Stars 815"
+      "meta": "Stars 820"
     },
     {
       "source": "Hacker News",
-      "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "title": "Efficient Chips Alone Will Not Solve AI's Energy Problem",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "url": "https://substack.com/profile/530005683-iveth/note/c-337835158",
       "meta": "1 points"
     },
     {
@@ -21,20 +21,20 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14238 likes"
+      "meta": "14240 likes"
     },
     {
       "source": "DEV",
-      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
-      "summary": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
-      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
-      "meta": "85 reactions"
+      "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
+      "summary": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
+      "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
+      "meta": "21 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 7,075 粉 思维怪怪 @ 0xLogicrw · 5小时前 发布 DeepSeek 算子工程师刘胜与发文谈 AI 对自己工作的冲击。他称 DeepSeek V4.",
-      "url": "https://x.com/0xLogicrw/status/2099754736488714339?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
