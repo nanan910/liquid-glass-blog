@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T17:34:28.946Z",
+  "updatedAt": "2026-09-15T21:03:03.656Z",
   "sourceCount": 5,
   "items": [
     {
@@ -11,24 +11,24 @@
     },
     {
       "source": "Hacker News",
-      "title": "Efficient Chips Alone Will Not Solve AI's Energy Problem",
+      "title": "AI Agent Whistleblower Hotline – Ryan Greenblatt",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://substack.com/profile/530005683-iveth/note/c-337835158",
-      "meta": "1 points"
+      "url": "https://hotline.ryan-g.ai/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14240 likes"
+      "meta": "14243 likes"
     },
     {
       "source": "DEV",
       "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
       "summary": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
       "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
-      "meta": "21 reactions"
+      "meta": "33 reactions"
     },
     {
       "source": "SoPilot",
