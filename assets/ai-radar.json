@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-15T01:46:51.566Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-15T07:28:50.005Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "kruzovic7/ai-data-extractor",
       "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "meta": "Stars 811"
+      "meta": "Stars 813"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+      "title": "Javier Gomez-Serrano – New Math, AI Developments in Fluid Mechanics [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://sunkcost.ai/",
+      "url": "https://www.youtube.com/watch?v=TcEefrWrddA",
       "meta": "1 points"
     },
     {
@@ -21,31 +21,25 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14234 likes"
+      "meta": "14236 likes"
     },
     {
       "source": "DEV",
       "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
       "summary": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
       "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
-      "meta": "57 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude Messages API部署新机制防止蒸馏 修改历史上下文将导致思考块失效",
-      "summary": "<p>据 A 社发布的最新支持文档，A 社开始调整 Claude Messages API 对思考块 (Thinking Block) 的处理方式，新机制将首先应用于 Claude Fable...",
-      "url": "https://www.landian.news/archives/126629.html",
-      "meta": "02 Sep 2026"
+      "meta": "69 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.4万 粉 SuSu_酥酥👅 @ NFT_Chen · 6小时前 发布 😭Dario要哭了：AI减速风波后的反噬正在加速到来！ 五角大楼已把近90%机密AI工作",
-      "url": "https://x.com/NFT_Chen/status/2099582091902197829?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 美",
+      "url": "https://x.com/lidangzzz/status/2099703013195587906?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
