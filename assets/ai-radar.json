@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T04:07:47.711Z",
+  "updatedAt": "2026-09-16T09:27:08.097Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "ai-sucks-butt/ai-sucks-butt",
       "summary": "If you think AI sucks, star the repo.",
       "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-      "meta": "Stars 865"
+      "meta": "Stars 1033"
     },
     {
       "source": "Hacker News",
-      "title": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
-      "meta": "1 points"
+      "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -28,13 +28,13 @@
       "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
       "summary": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
       "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
-      "meta": "33 reactions"
+      "meta": "40 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.4万 粉 逸尘 @ gengdaJ · 3小时前 发布 兄弟们，天大的好消息啊，OpenAI又发福利了！！！ 6个月免费的Pro计划又可以申请了，而且是之前申请过",
-      "url": "https://x.com/gengdaJ/status/2100028044702547987?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 11.7万 粉 Bitturing @ Bitturing · 3小时前 发布 再见了，给别人打工。 日赚100美元 = 月入3000美元。 月入3000美元 = 财",
+      "url": "https://x.com/Bitturing/status/2100103392412778890?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
