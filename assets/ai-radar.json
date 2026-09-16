@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-15T23:37:00.950Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-16T04:07:47.711Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
-      "title": "kruzovic7/ai-data-extractor",
-      "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "meta": "Stars 821"
+      "title": "ai-sucks-butt/ai-sucks-butt",
+      "summary": "If you think AI sucks, star the repo.",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "meta": "Stars 865"
     },
     {
       "source": "Hacker News",
-      "title": "1F3D9: A world where anyone's AI agent can go to live without humans",
+      "title": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://1f3d9.com/window/map",
+      "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14243 likes"
+      "meta": "14244 likes"
     },
     {
       "source": "DEV",
@@ -31,21 +31,15 @@
       "meta": "33 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "基于A社开盒用户行为：英伟达等公司限制或切断员工使用Claude 避免敏感数据外泄",
-      "summary": "<p>早前 A 社发布 AI 安全报告并提到黑客、监控、诈骗以及敏感数据流转等风险，但这份安全报告也明确表明 A 社或者说模型提供商有能力且有权利阅读用户的完整对话记录，你发送给 AI 的问题...",
-      "url": "https://www.landian.news/archives/126895.html",
-      "meta": "15 Sep 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 5.4万 粉 逸尘 @ gengdaJ · 3小时前 发布 兄弟们，天大的好消息啊，OpenAI又发福利了！！！ 6个月免费的Pro计划又可以申请了，而且是之前申请过",
+      "url": "https://x.com/gengdaJ/status/2100028044702547987?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
