@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T19:12:15.988Z",
-  "sourceCount": 4,
+  "updatedAt": "2026-09-17T22:22:26.169Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
@@ -11,9 +11,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "What happens when you send a message to an LLM (the API call explained)",
+      "title": "Five air-gapped, zero-telemetry utilities for privacy and operational leaks",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://heymeraki.substack.com/p/aie_20-inside-the-llm-api-call",
+      "url": "https://github.com/warknoc/warknoc",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14254 likes"
+      "meta": "14256 likes"
     },
     {
       "source": "DEV",
@@ -29,12 +29,24 @@
       "summary": "But Amara, you didn't include MY favorite AI!",
       "url": "https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9",
       "meta": "15 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
+      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
+      "url": "https://www.landian.news/archives/126905.html",
+      "meta": "17 Sep 2026"
+    },
+    {
+      "source": "SoPilot",
+      "title": "热门 AI 讨论",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
+      "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
-    "https://tophub.today/c/tech returned 403",
-    "https://sopilot.net/zh/hot-tweets returned 502"
+    "https://tophub.today/c/tech returned 403"
   ]
 }
