@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-17T00:14:05.102Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-17T05:09:50.576Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "ai-sucks-butt/ai-sucks-butt",
       "summary": "If you think AI sucks, star the repo.",
       "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-      "meta": "Stars 1783"
+      "meta": "Stars 2008"
     },
     {
       "source": "Hacker News",
-      "title": "Otis – a minimal AI agent that runs local models out of the box",
+      "title": "AI: An Age of Experimentation [pdf]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://triangllabs.ai/otis",
+      "url": "https://thomasdullien.github.io/about/slides/An-age-of-experimentation-BlueHat-Asia-2026.pdf",
       "meta": "1 points"
     },
     {
@@ -28,18 +28,24 @@
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
       "summary": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
       "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
-      "meta": "19 reactions"
+      "meta": "20 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
+      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
+      "url": "https://www.landian.news/archives/126905.html",
+      "meta": "17 Sep 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 为",
-      "url": "https://x.com/lidangzzz/status/2100357289232257120?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 9.0万 粉 iGeekbb @ igeekbb · 2小时前 发布 这两天在网上疯传，豆包、DeepSeek、抖音 AI 求真 都说紫色衣服是台湾同胞。 十年了，对",
+      "url": "https://x.com/igeekbb/status/2100409186089844897?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
