@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-18T00:41:26.190Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-18T05:41:04.167Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "zjwzcx/Awesome-Astra-Embodied-AI",
       "summary": "GPT-6 Astra for embodied AI and robotics.",
       "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-      "meta": "Stars 825"
+      "meta": "Stars 839"
     },
     {
       "source": "Hacker News",
-      "title": "Lakera – Test your AI hacking skills",
+      "title": "How can AI help PDF?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://play.lakera.ai/agent-breaker",
+      "url": "https://pdf4wcag.com/blog-news/how-can-ai-help-pdf",
       "meta": "1 points"
     },
     {
@@ -28,24 +28,18 @@
       "title": "Show a model your old code and it writes your old bugs: 32 runs, 0% reuse",
       "summary": "Same task, same models, two commits of my own repo. From the pre-migration commit every run hand-rolled a 190-line typeahead with the exact defects the migration removed; from the post-migration commit every run reused the shared component in 41 lines.",
       "url": "https://dev.to/remdore/show-a-model-your-old-code-and-it-writes-your-old-bugs-32-runs-0-reuse-2epm",
-      "meta": "17 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
-      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
-      "url": "https://www.landian.news/archives/126905.html",
-      "meta": "17 Sep 2026"
+      "meta": "18 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.2万 粉 梭哈.AI @ SUOHA_AI · 8小时前 发布 接下来请大家狠狠地关注JEV，真是惊艳啊 Monad 团队的开发者 @jarrodwatts 把全",
-      "url": "https://x.com/SUOHA_AI/status/2100619720772694036?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 本",
+      "url": "https://x.com/lidangzzz/status/2100780879333163128?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
