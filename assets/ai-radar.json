@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T10:52:00.078Z",
+  "updatedAt": "2026-09-18T14:51:06.490Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "zjwzcx/Awesome-Astra-Embodied-AI",
       "summary": "GPT-6 Astra for embodied AI and robotics.",
       "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-      "meta": "Stars 846"
+      "meta": "Stars 852"
     },
     {
       "source": "Hacker News",
-      "title": "E2E: The open source AI testing framework",
+      "title": "Show HN: Servers for AI, not another AWS",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://tester.army/e2e",
+      "url": "https://rawhq.io",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14259 likes"
+      "meta": "14260 likes"
     },
     {
       "source": "DEV",
@@ -40,7 +40,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.4万 粉 Sac @ Saccc_c · 4小时前 发布 强烈建议大家都亲自试试Jev，能让你的Codex操作速度提高10倍并省下大量token！ 因为Jev非常",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.4万 粉 Sac @ Saccc_c · 8小时前 发布 强烈建议大家都亲自试试Jev，能让你的Codex操作速度提高10倍并省下大量token！ 因为Jev非常",
       "url": "https://x.com/Saccc_c/status/2100833094291087773?sid=ai-tweet-reply",
       "meta": "热帖"
     }
