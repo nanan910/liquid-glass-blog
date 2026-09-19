@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T16:22:34.682Z",
+  "updatedAt": "2026-09-19T18:44:51.815Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1446"
+      "meta": "Stars 1490"
     },
     {
       "source": "Hacker News",
-      "title": "\"AI Models Now Introduce Safety Risks in the Physical World\"",
+      "title": "How A Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.micro1.ai/research/ai-models-now-introduce-safety-risks-in-the-physical-world",
+      "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "How to make a fool of yourself 101",
-      "summary": "So as some of you know, I had a technical interview with Wasmer today. I was up till midnight last...",
-      "url": "https://dev.to/unitbuilds/how-to-make-a-fool-of-yourself-101-39op",
-      "meta": "24 reactions"
+      "title": "What Do You Do While AI Codes? I Make Mine Argue With Itself.",
+      "summary": "Be honest: what do you actually do while the agent types?   I used to just watch. Not read, watch....",
+      "url": "https://dev.to/debashish_ghosal/what-do-you-do-while-ai-codes-i-make-mine-argue-with-itself-2gl7",
+      "meta": "16 reactions"
     },
     {
       "source": "蓝点网",
