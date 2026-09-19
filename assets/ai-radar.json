@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:44:51.815Z",
+  "updatedAt": "2026-09-19T21:21:38.819Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1490"
+      "meta": "Stars 1511"
     },
     {
       "source": "Hacker News",
-      "title": "How A Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
+      "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846",
+      "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14264 likes"
+      "meta": "14266 likes"
     },
     {
       "source": "DEV",
-      "title": "What Do You Do While AI Codes? I Make Mine Argue With Itself.",
-      "summary": "Be honest: what do you actually do while the agent types?   I used to just watch. Not read, watch....",
-      "url": "https://dev.to/debashish_ghosal/what-do-you-do-while-ai-codes-i-make-mine-argue-with-itself-2gl7",
-      "meta": "16 reactions"
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "summary": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "meta": "5 reactions"
     },
     {
       "source": "蓝点网",
