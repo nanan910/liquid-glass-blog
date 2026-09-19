@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:30:46.532Z",
+  "updatedAt": "2026-09-19T03:55:41.243Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1008"
+      "meta": "Stars 1126"
     },
     {
       "source": "Hacker News",
-      "title": "US gov website used AI search tool from China that FBI said copied Anthropic",
+      "title": "Inventor of ChatGPT and RLHF Launches Typesafe.ai",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
       "meta": "2 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.1万 粉 总裁简报 CEO Briefing @ CEOBriefing · 5小时前 发布 上海。9月18日晚。小米员工半夜约他人老婆出来“试驾”，被女子丈夫",
+      "url": "https://x.com/CEOBriefing/status/2101070247029862679?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
