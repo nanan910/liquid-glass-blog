@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T21:26:49.247Z",
+  "updatedAt": "2026-09-20T23:25:28.532Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1935"
+      "meta": "Stars 1960"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: AgentTrace–Observability and runtime self-healing engine for AI agents",
+      "title": "How Anthropic CEO Dario Amodei's Writings Help Explain A.I. Fears",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/mohitkumar188/AgentTrace",
+      "url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
       "meta": "1 points"
     },
     {
