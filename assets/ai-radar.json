@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T16:24:12.236Z",
+  "updatedAt": "2026-09-20T18:58:42.630Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1852"
+      "meta": "Stars 1917"
     },
     {
       "source": "Hacker News",
-      "title": "What Policymakers and the Public Need to Know About the Cult of AI",
+      "title": "The Proof in the Code: How a Truth Machine Is Transforming Math and AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai/",
+      "url": "https://www.publishersweekly.com:443/9780374620059",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14272 likes"
+      "meta": "14273 likes"
     },
     {
       "source": "DEV",
