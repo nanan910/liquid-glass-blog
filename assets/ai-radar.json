@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T18:58:42.630Z",
+  "updatedAt": "2026-09-20T21:26:49.247Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1917"
+      "meta": "Stars 1935"
     },
     {
       "source": "Hacker News",
-      "title": "The Proof in the Code: How a Truth Machine Is Transforming Math and AI",
+      "title": "Show HN: AgentTrace–Observability and runtime self-healing engine for AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.publishersweekly.com:443/9780374620059",
+      "url": "https://github.com/mohitkumar188/AgentTrace",
       "meta": "1 points"
     },
     {
