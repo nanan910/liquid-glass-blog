@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T06:53:28.811Z",
+  "updatedAt": "2026-09-20T12:08:40.938Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1638"
+      "meta": "Stars 1683"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Website Auditor –> Test your brand's AI visibility, get growth plan",
+      "title": "Open-source AI PR reviewer that helps you ship",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://website-auditor.io/",
-      "meta": "1 points"
+      "url": "https://nitpicker.dev/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14268 likes"
+      "meta": "14271 likes"
     },
     {
       "source": "DEV",
@@ -33,8 +33,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 老",
-      "url": "https://x.com/lidangzzz/status/2101530469103800701?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1,255 粉 陆三金 @ threeaus · 6小时前 发布 强烈建议大家去看一下 Jev 创始人 Diogo Almeida 的这个演讲，关于 Jev 的一切，",
+      "url": "https://x.com/threeaus/status/2101552895498097035?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
