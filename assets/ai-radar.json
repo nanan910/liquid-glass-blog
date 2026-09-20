@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T01:28:06.507Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-20T06:53:28.811Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1559"
+      "meta": "Stars 1638"
     },
     {
       "source": "Hacker News",
-      "title": "How to handle manager adding AI bs to our codebase/designs etc.",
+      "title": "Show HN: Website Auditor –> Test your brand's AI visibility, get growth plan",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49771657",
-      "meta": "3 points"
+      "url": "https://website-auditor.io/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14266 likes"
+      "meta": "14268 likes"
     },
     {
       "source": "DEV",
@@ -31,21 +31,15 @@
       "meta": "5 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
-      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
-      "url": "https://www.landian.news/archives/126905.html",
-      "meta": "17 Sep 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 6.7万 粉 AYi @ AYi_AInotes · 5小时前 发布 科技史上最戏剧化的一幕, 在短短七天之内彻底演完了。 七天前, @AnthropicAI 首席执",
-      "url": "https://x.com/AYi_AInotes/status/2101396015756771779?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 老",
+      "url": "https://x.com/lidangzzz/status/2101530469103800701?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
