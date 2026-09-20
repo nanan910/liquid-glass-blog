@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T23:23:47.409Z",
+  "updatedAt": "2026-09-20T01:28:06.507Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1528"
+      "meta": "Stars 1559"
     },
     {
       "source": "Hacker News",
-      "title": "AI safety conversations have gotten unbelievable",
+      "title": "How to handle manager adding AI bs to our codebase/designs etc.",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "meta": "1 points"
+      "url": "https://news.ycombinator.com/item?id=49771657",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 6.7万 粉 AYi @ AYi_AInotes · 5小时前 发布 科技史上最戏剧化的一幕, 在短短七天之内彻底演完了。 七天前, @AnthropicAI 首席执",
+      "url": "https://x.com/AYi_AInotes/status/2101396015756771779?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
