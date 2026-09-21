@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T23:25:28.532Z",
+  "updatedAt": "2026-09-21T01:26:58.796Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mcncarl/jianying-headless",
       "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "url": "https://github.com/mcncarl/jianying-headless",
-      "meta": "Stars 1960"
+      "meta": "Stars 2009"
     },
     {
       "source": "Hacker News",
-      "title": "How Anthropic CEO Dario Amodei's Writings Help Explain A.I. Fears",
+      "title": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+      "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 6小时前 发布 中",
+      "url": "https://x.com/lidangzzz/status/2101752832466813287?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
