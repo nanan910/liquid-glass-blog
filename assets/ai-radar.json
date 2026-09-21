@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-21T06:59:41.164Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-21T13:56:01.969Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "zai-org/ZCode",
-      "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 4010"
+      "title": "browser-use/jev-ultrafast",
+      "summary": "Fastest and cheapest web agent",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "meta": "Stars 14519"
     },
     {
       "source": "Hacker News",
-      "title": "Evaluating Long-Term Memory for AI Agents: AML Cycle 2 Is Now Open",
+      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://twitter.com/AgentMemoryL/status/2101515447816663222",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14274 likes"
+      "meta": "14276 likes"
     },
     {
       "source": "DEV",
@@ -31,15 +31,21 @@
       "meta": "5 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
+      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
+      "url": "https://www.landian.news/archives/126905.html",
+      "meta": "17 Sep 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 据",
-      "url": "https://x.com/lidangzzz/status/2101862416736739680?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 7小时前 发布 所",
+      "url": "https://x.com/lidangzzz/status/2101923397353505030?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
