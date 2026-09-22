@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T07:30:33.969Z",
+  "updatedAt": "2026-09-22T13:14:21.997Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "browser-use/jev-ultrafast",
       "summary": "Fastest and cheapest web agent",
       "url": "https://github.com/browser-use/jev-ultrafast",
-      "meta": "Stars 16789"
+      "meta": "Stars 17473"
     },
     {
       "source": "Hacker News",
-      "title": "Move On – export your AI chats, file GDPR deletion, escalate if ignored",
+      "title": "I'm sick of Claudisms, and on AI-based software development",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/ur-grue/move-on",
-      "meta": "1 points"
+      "url": "https://www.polso.info/im-sick-of-claudisms-future-ai-software-development",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14278 likes"
+      "meta": "14280 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.5万 粉 GitHubDaily @ GitHub_Daily · 3小时前 发布 耶鲁一位计算机博士生，把自己发论文用的画图脚本全开源了，项目叫 figures",
-      "url": "https://x.com/GitHub_Daily/status/2102246563049603260?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.3万 粉 Dexter Yang ᯅノ🌐🔗🧙🏻‍♂️👾🦋 @ dexteryy · 6小时前 发布 骂得好脏 亚历山大王是个内行 Muse是个透明化云",
+      "url": "https://x.com/dexteryy/status/2102294520683749579?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
