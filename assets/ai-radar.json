@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-22T01:31:34.400Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-22T07:30:33.969Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "browser-use/jev-ultrafast",
       "summary": "Fastest and cheapest web agent",
       "url": "https://github.com/browser-use/jev-ultrafast",
-      "meta": "Stars 15826"
+      "meta": "Stars 16789"
     },
     {
       "source": "Hacker News",
-      "title": "Escaping the OpenAI Codex sandbox, twice",
+      "title": "Move On – export your AI chats, file GDPR deletion, escalate if ignored",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://accomplish.ai/blog/escaping-the-openai-codex-sandbox-twice/",
+      "url": "https://github.com/ur-grue/move-on",
       "meta": "1 points"
     },
     {
@@ -21,25 +21,31 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14277 likes"
+      "meta": "14278 likes"
     },
     {
       "source": "DEV",
-      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "summary": "I haven't written anything lately because, honestly, I just didn't have the headspace for it. There...",
-      "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
-      "meta": "71 reactions"
+      "title": "My AI Agent Isn't Allowed to Decide Anything",
+      "summary": "It's a few hours before a delivery deadline and the work has piled up. Somewhere in that pile is a...",
+      "url": "https://dev.to/dannwaneri/my-ai-agent-isnt-allowed-to-decide-anything-2fe2",
+      "meta": "19 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
+      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
+      "url": "https://www.landian.news/archives/126905.html",
+      "meta": "17 Sep 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.0万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 这",
-      "url": "https://x.com/lidangzzz/status/2102182638878417119?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.5万 粉 GitHubDaily @ GitHub_Daily · 3小时前 发布 耶鲁一位计算机博士生，把自己发论文用的画图脚本全开源了，项目叫 figures",
+      "url": "https://x.com/GitHub_Daily/status/2102246563049603260?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
