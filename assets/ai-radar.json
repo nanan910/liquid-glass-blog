@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:34:23.084Z",
+  "updatedAt": "2026-09-24T16:49:31.033Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6656"
+      "meta": "Stars 6686"
     },
     {
       "source": "Hacker News",
-      "title": "Dutch intelligence services warn AI is making cyberattacks faster and easier",
+      "title": "Show HN: I built an AI assistant that turns website visitors into leads",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://nltimes.nl/2026/09/24/dutch-intelligence-services-warn-ai-making-cyberattacks-faster-easier",
+      "url": "https://www.brevn.com",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14286 likes"
+      "meta": "14287 likes"
     },
     {
       "source": "DEV",
