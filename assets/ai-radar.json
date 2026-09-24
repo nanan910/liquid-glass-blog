@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T05:57:02.110Z",
+  "updatedAt": "2026-09-24T11:34:23.084Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6593"
+      "meta": "Stars 6656"
     },
     {
       "source": "Hacker News",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "title": "Dutch intelligence services warn AI is making cyberattacks faster and easier",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://transluce.org/agent-activity",
-      "meta": "2 points"
+      "url": "https://nltimes.nl/2026/09/24/dutch-intelligence-services-warn-ai-making-cyberattacks-faster-easier",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "summary": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
-      "meta": "47 reactions"
+      "title": "AI-assisted genealogy, a follow-up",
+      "summary": "I got a lot of feedback on my post AI-assisted genealogy, some good, some not so good. In any case, I...",
+      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-a-follow-up-531",
+      "meta": "6 reactions"
     },
     {
       "source": "蓝点网",
