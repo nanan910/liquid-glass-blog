@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:49:31.033Z",
+  "updatedAt": "2026-09-24T20:18:06.378Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6686"
+      "meta": "Stars 6700"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: I built an AI assistant that turns website visitors into leads",
+      "title": "Restaurants Are Using AI to Advertise Their Food and It's Making People Sick",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.brevn.com",
-      "meta": "1 points"
+      "url": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14287 likes"
+      "meta": "14288 likes"
     },
     {
       "source": "DEV",
-      "title": "AI-assisted genealogy, a follow-up",
-      "summary": "I got a lot of feedback on my post AI-assisted genealogy, some good, some not so good. In any case, I...",
-      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-a-follow-up-531",
-      "meta": "6 reactions"
+      "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
+      "summary": "Updated 3D Environment for Library              Reading DEV Articles     A lot of you...",
+      "url": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
+      "meta": "15 reactions"
     },
     {
       "source": "蓝点网",
