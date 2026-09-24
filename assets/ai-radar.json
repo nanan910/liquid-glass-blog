@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T00:45:19.333Z",
+  "updatedAt": "2026-09-24T05:57:02.110Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6536"
+      "meta": "Stars 6593"
     },
     {
       "source": "Hacker News",
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "url": "https://transluce.org/agent-activity",
       "meta": "2 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14285 likes"
+      "meta": "14286 likes"
     },
     {
       "source": "DEV",
