@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T23:19:10.440Z",
+  "updatedAt": "2026-09-25T01:46:09.572Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6704"
+      "meta": "Stars 6716"
     },
     {
       "source": "Hacker News",
-      "title": "It's sinister that Meta's Muse AI mascot is so cute",
+      "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-      "meta": "2 points"
+      "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
