@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:53:38.718Z",
+  "updatedAt": "2026-09-25T17:50:23.408Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6751"
+      "meta": "Stars 6764"
     },
     {
       "source": "Hacker News",
-      "title": "Financing the AI Buildout",
+      "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.brookings.edu/articles/financing-the-ai-buildout/",
+      "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14288 likes"
+      "meta": "14289 likes"
     },
     {
       "source": "DEV",
