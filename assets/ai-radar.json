@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T14:40:23.748Z",
+  "updatedAt": "2026-09-26T18:26:38.411Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6819"
+      "meta": "Stars 6827"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: HomeAI.design – Visualize interior design ideas from a photo",
+      "title": "A Byzantine mosaic you can rewind",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://homeai.design/",
+      "url": "https://www.echohive.ai/experiments/hippodrome",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14292 likes"
+      "meta": "14293 likes"
     },
     {
       "source": "DEV",
