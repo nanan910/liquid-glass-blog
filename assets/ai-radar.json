@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T21:24:51.410Z",
+  "updatedAt": "2026-09-26T23:46:53.500Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6830"
+      "meta": "Stars 6832"
     },
     {
       "source": "Hacker News",
-      "title": "Simple visual patterns can trick AI-powered vehicles and robots",
+      "title": "Top AI companies probing security incidents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ufl.edu/2026/09/ai-powered-vehicles/",
-      "meta": "1 points"
+      "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
