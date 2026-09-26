@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-25T21:18:12.747Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-26T00:03:31.457Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6768"
+      "meta": "Stars 6770"
     },
     {
       "source": "Hacker News",
-      "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
+      "title": "Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
+      "url": "https://www.youtube.com/watch?v=1HMOA3BawXg",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14289 likes"
+      "meta": "14290 likes"
     },
     {
       "source": "DEV",
@@ -29,13 +29,6 @@
       "summary": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   AI models...",
       "url": "https://dev.to/unit_500_c36d1b1011fdf39c/100-vuln-detection-wasnt-enough-measuring-whether-ai-respects-the-patch-dg4",
       "meta": "7 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
-      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
-      "url": "https://www.landian.news/archives/126905.html",
-      "meta": "17 Sep 2026"
     },
     {
       "source": "SoPilot",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
