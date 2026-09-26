@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T10:07:24.055Z",
+  "updatedAt": "2026-09-26T14:40:23.748Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "zai-org/ZCode",
       "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6805"
+      "meta": "Stars 6819"
     },
     {
       "source": "Hacker News",
-      "title": "I am the only one who still uses sublime text daily?",
+      "title": "Show HN: HomeAI.design – Visualize interior design ideas from a photo",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49854804",
-      "meta": "2 points"
+      "url": "https://homeai.design/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
