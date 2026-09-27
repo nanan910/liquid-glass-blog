@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T10:25:41.958Z",
+  "updatedAt": "2026-09-27T15:14:09.586Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "jev-chat/jev-chat-jarvis",
       "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "meta": "Stars 6730"
+      "meta": "Stars 6761"
     },
     {
       "source": "Hacker News",
-      "title": "Trying GPT-6 Sol with AI SDK Evaluation API",
+      "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://vercel.com/i/using-gpt-6-sol-with-ai-sdk-evaluation",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14296 likes"
+      "meta": "14297 likes"
     },
     {
       "source": "DEV",
-      "title": "100% vuln detection wasn't enough: measuring whether AI respects the patch",
-      "summary": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   AI models...",
-      "url": "https://dev.to/unit_500_c36d1b1011fdf39c/100-vuln-detection-wasnt-enough-measuring-whether-ai-respects-the-patch-dg4",
-      "meta": "7 reactions"
+      "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made One Model 5x More Likely to Follow Its Own Mistakes",
+      "summary": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A while...",
+      "url": "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
+      "meta": "21 reactions"
     },
     {
       "source": "蓝点网",
