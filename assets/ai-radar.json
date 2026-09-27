@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T04:34:41.045Z",
+  "updatedAt": "2026-09-27T10:25:41.958Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "jev-chat/jev-chat-jarvis",
       "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "meta": "Stars 6689"
+      "meta": "Stars 6730"
     },
     {
       "source": "Hacker News",
-      "title": "Minicut AI: Higgsfield but for AI Drama and Film",
+      "title": "Trying GPT-6 Sol with AI SDK Evaluation API",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.minicut.ai",
+      "url": "https://vercel.com/i/using-gpt-6-sol-with-ai-sdk-evaluation",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14295 likes"
+      "meta": "14296 likes"
     },
     {
       "source": "DEV",
