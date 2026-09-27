@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-26T23:46:53.500Z",
+  "updatedAt": "2026-09-27T04:34:41.045Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "zai-org/ZCode",
-      "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "url": "https://github.com/zai-org/ZCode",
-      "meta": "Stars 6832"
+      "title": "jev-chat/jev-chat-jarvis",
+      "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "meta": "Stars 6689"
     },
     {
       "source": "Hacker News",
-      "title": "Top AI companies probing security incidents",
+      "title": "Minicut AI: Higgsfield but for AI Drama and Film",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
-      "meta": "3 points"
+      "url": "https://www.minicut.ai",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14294 likes"
+      "meta": "14295 likes"
     },
     {
       "source": "DEV",
