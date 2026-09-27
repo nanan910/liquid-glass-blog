@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T19:11:40.917Z",
+  "updatedAt": "2026-09-27T22:29:46.643Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "jev-chat/jev-chat-jarvis",
       "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "meta": "Stars 6770"
+      "meta": "Stars 6772"
     },
     {
       "source": "Hacker News",
-      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+      "title": "George Hotz’s opinion on AI coding",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-      "meta": "3 points"
+      "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+      "meta": "4 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14297 likes"
+      "meta": "14298 likes"
     },
     {
       "source": "DEV",
