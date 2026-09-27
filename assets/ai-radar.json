@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-27T15:14:09.586Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-27T19:11:40.917Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "jev-chat/jev-chat-jarvis",
       "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "meta": "Stars 6761"
+      "meta": "Stars 6770"
     },
     {
       "source": "Hacker News",
-      "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
+      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-      "meta": "1 points"
+      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -25,17 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made One Model 5x More Likely to Follow Its Own Mistakes",
-      "summary": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A while...",
-      "url": "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
-      "meta": "21 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
-      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
-      "url": "https://www.landian.news/archives/126905.html",
-      "meta": "17 Sep 2026"
+      "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
+      "summary": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange.    I started...",
+      "url": "https://dev.to/mikachu/i-tried-to-prompt-a-3d-dev-library-into-existence-then-i-had-to-build-my-own-level-editor-37gf",
+      "meta": "16 reactions"
     },
     {
       "source": "SoPilot",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
