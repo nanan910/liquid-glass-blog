@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-28T01:06:19.902Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-28T07:26:46.488Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "yetone/magpie",
       "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "url": "https://github.com/yetone/magpie",
-      "meta": "Stars 1252"
+      "meta": "Stars 1374"
     },
     {
       "source": "Hacker News",
-      "title": "Financing of historic AI buildout raises systemic risks in US, researcher says",
+      "title": "AI safety field *visual* impact analysis",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.reuters.com/business/finance/financing-historic-ai-buildout-raises-systemic-risks-us-researcher-says-2026-09-24/",
+      "url": "https://www.lesswrong.com/posts/fqpSosGwSt3uiZq35/ai-safety-field-visual-impact-analysis",
       "meta": "1 points"
     },
     {
@@ -21,21 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14298 likes"
+      "meta": "14300 likes"
     },
     {
       "source": "DEV",
-      "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
-      "summary": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange.    I started...",
-      "url": "https://dev.to/mikachu/i-tried-to-prompt-a-3d-dev-library-into-existence-then-i-had-to-build-my-own-level-editor-37gf",
-      "meta": "16 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
-      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
-      "url": "https://www.landian.news/archives/126905.html",
-      "meta": "17 Sep 2026"
+      "title": "Implementation is where judgements go to become invisible",
+      "summary": "One question, three answers   I have a small tool that finds people waiting for a reply from...",
+      "url": "https://dev.to/tom_jones_230c4659491adcd/implementation-is-where-judgements-go-to-become-invisible-4p1h",
+      "meta": "6 reactions"
     },
     {
       "source": "SoPilot",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
