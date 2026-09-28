@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T15:48:48.856Z",
+  "updatedAt": "2026-09-28T21:42:06.380Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "yetone/magpie",
       "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "url": "https://github.com/yetone/magpie",
-      "meta": "Stars 1556"
+      "meta": "Stars 1583"
     },
     {
       "source": "Hacker News",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "title": "Walmart promises to never use AI to charge shoppers higher prices",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
+      "url": "https://corporate.walmart.com/about/everyday-affordability/letter-from-our-ceo",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14301 likes"
+      "meta": "14302 likes"
     },
     {
       "source": "DEV",
