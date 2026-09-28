@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-27T22:29:46.643Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-28T01:06:19.902Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "jev-chat/jev-chat-jarvis",
-      "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "meta": "Stars 6772"
+      "title": "yetone/magpie",
+      "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "url": "https://github.com/yetone/magpie",
+      "meta": "Stars 1252"
     },
     {
       "source": "Hacker News",
-      "title": "George Hotz’s opinion on AI coding",
+      "title": "Financing of historic AI buildout raises systemic risks in US, researcher says",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
-      "meta": "4 points"
+      "url": "https://www.reuters.com/business/finance/financing-historic-ai-buildout-raises-systemic-risks-us-researcher-says-2026-09-24/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -31,6 +31,13 @@
       "meta": "16 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
+      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
+      "url": "https://www.landian.news/archives/126905.html",
+      "meta": "17 Sep 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
