@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-29T08:08:41.626Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-29T15:00:50.859Z",
+  "sourceCount": 4,
   "items": [
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 1981"
+      "meta": "Stars 2673"
     },
     {
       "source": "Hacker News",
-      "title": "Meta's new AI agent built lists of people in vulnerable groups on request",
+      "title": "Tinfoil – Private AI Built on Secure Hardware",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://hntrbrk.com/breaking-news/muse-doxxing",
+      "url": "https://tinfoil.sh/technology",
       "meta": "1 points"
     },
     {
@@ -21,26 +21,20 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14303 likes"
+      "meta": "14304 likes"
     },
     {
       "source": "DEV",
       "title": "Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia",
       "summary": "🇺🇸 You can also read the English version of this article on AWS Community Builders.   Ser QA nessa...",
       "url": "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
-      "meta": "90 reactions"
-    },
-    {
-      "source": "SoPilot",
-      "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
-      "meta": "热帖"
+      "meta": "99 reactions"
     }
   ],
   "errors": [
     "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
-    "https://tophub.today/c/tech returned 403"
+    "https://tophub.today/c/tech returned 403",
+    "https://sopilot.net/zh/hot-tweets returned 502"
   ]
 }
