@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-28T21:42:06.380Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-09-29T01:38:23.910Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "yetone/magpie",
       "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "url": "https://github.com/yetone/magpie",
-      "meta": "Stars 1583"
+      "meta": "Stars 1607"
     },
     {
       "source": "Hacker News",
-      "title": "Walmart promises to never use AI to charge shoppers higher prices",
+      "title": "OpenAI shelves new AI model after internal safety tests: Report",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://corporate.walmart.com/about/everyday-affordability/letter-from-our-ceo",
+      "url": "https://www.channelnewsasia.com/business/open-ai-new-model-safety-6416906",
       "meta": "1 points"
     },
     {
@@ -21,21 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14302 likes"
+      "meta": "14303 likes"
     },
     {
       "source": "DEV",
-      "title": "Implementation is where judgements go to become invisible",
-      "summary": "One question, three answers   I have a small tool that finds people waiting for a reply from...",
-      "url": "https://dev.to/tom_jones_230c4659491adcd/implementation-is-where-judgements-go-to-become-invisible-4p1h",
-      "meta": "13 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
-      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
-      "url": "https://www.landian.news/archives/126905.html",
-      "meta": "17 Sep 2026"
+      "title": "Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia",
+      "summary": "🇺🇸 You can also read the English version of this article on AWS Community Builders.   Ser QA nessa...",
+      "url": "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
+      "meta": "90 reactions"
     },
     {
       "source": "SoPilot",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
