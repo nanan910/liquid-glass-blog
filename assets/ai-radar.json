@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-29T01:38:23.910Z",
+  "updatedAt": "2026-09-29T08:08:41.626Z",
   "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
-      "title": "yetone/magpie",
-      "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "url": "https://github.com/yetone/magpie",
-      "meta": "Stars 1607"
+      "title": "KKKKhazix/AIHOT",
+      "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "meta": "Stars 1981"
     },
     {
       "source": "Hacker News",
-      "title": "OpenAI shelves new AI model after internal safety tests: Report",
+      "title": "Meta's new AI agent built lists of people in vulnerable groups on request",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.channelnewsasia.com/business/open-ai-new-model-safety-6416906",
+      "url": "https://hntrbrk.com/breaking-news/muse-doxxing",
       "meta": "1 points"
     },
     {
