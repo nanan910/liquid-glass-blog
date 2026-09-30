@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T23:37:00.865Z",
+  "updatedAt": "2026-09-30T04:51:39.484Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 3064"
+      "meta": "Stars 3477"
     },
     {
       "source": "Hacker News",
-      "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+      "title": "OpenAI Launches Decisions API for Fast AI Choices",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.neowin.net/news/your-big-mac-might-cost-more-if-mcdonalds-pricing-ai-thinks-people-nearby-can-afford-it/",
+      "url": "https://x.com/i/trending/2105154696566501872",
       "meta": "2 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14307 likes"
+      "meta": "14308 likes"
     },
     {
       "source": "DEV",
-      "title": "Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia",
-      "summary": "🇺🇸 You can also read the English version of this article on AWS Community Builders.   Ser QA nessa...",
-      "url": "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
-      "meta": "100 reactions"
+      "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI Act Compliance",
+      "summary": "I built a synthetic multi-agent loan crew on Amazon Bedrock and made Traccia hard-block a runaway agent, redact applicant PII across every sub-agent, and export EU AI Act audit evidence. Two of my three governance policies blocked nothing - and not because I misconfigured them. Why is the useful part.",
+      "url": "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829",
+      "meta": "39 reactions"
     },
     {
       "source": "SoPilot",
