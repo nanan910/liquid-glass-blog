@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:56:04.198Z",
+  "updatedAt": "2026-09-30T21:20:31.165Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 4008"
+      "meta": "Stars 4046"
     },
     {
       "source": "Hacker News",
-      "title": "The price of AI is crashing faster than the rate of Moore's Law",
+      "title": "Strata: Run a 125B-parameter AI model on a normal gaming PC",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-price-of-ai-is-crashing-faster-than-the-rate-of-moores-law-report-suggests-intelligence-costs-are-in-freefall-outpacing-comparative-technologies-like-compute-dna-sequencing-and-lithium-batteries",
+      "url": "https://github.com/Niko1221/Strata",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14310 likes"
+      "meta": "14311 likes"
     },
     {
       "source": "DEV",
-      "title": "Confident Isn't Accurate: How AI Hallucinations Actually Work",
-      "summary": "AI is moving relatively fast, despite being slow down. Yes, it feels like there's a new concept to...",
-      "url": "https://dev.to/ale3oula/confident-isnt-accurate-how-ai-hallucinations-actually-work-4djo",
-      "meta": "26 reactions"
+      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
+      "summary": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
+      "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
+      "meta": "5 reactions"
     },
     {
       "source": "蓝点网",
