@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:51:39.484Z",
+  "updatedAt": "2026-09-30T11:01:18.196Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 3477"
+      "meta": "Stars 3826"
     },
     {
       "source": "Hacker News",
-      "title": "OpenAI Launches Decisions API for Fast AI Choices",
+      "title": "Trump announces vague AI deal among tech CEOs for 'tremendous self-policing'",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://x.com/i/trending/2105154696566501872",
-      "meta": "2 points"
+      "url": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14308 likes"
+      "meta": "14310 likes"
     },
     {
       "source": "DEV",
       "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI Act Compliance",
       "summary": "I built a synthetic multi-agent loan crew on Amazon Bedrock and made Traccia hard-block a runaway agent, redact applicant PII across every sub-agent, and export EU AI Act audit evidence. Two of my three governance policies blocked nothing - and not because I misconfigured them. Why is the useful part.",
       "url": "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829",
-      "meta": "39 reactions"
+      "meta": "42 reactions"
     },
     {
       "source": "SoPilot",
