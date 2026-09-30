@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-30T11:01:18.196Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-09-30T16:56:04.198Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 3826"
+      "meta": "Stars 4008"
     },
     {
       "source": "Hacker News",
-      "title": "Trump announces vague AI deal among tech CEOs for 'tremendous self-policing'",
+      "title": "The price of AI is crashing faster than the rate of Moore's Law",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-price-of-ai-is-crashing-faster-than-the-rate-of-moores-law-report-suggests-intelligence-costs-are-in-freefall-outpacing-comparative-technologies-like-compute-dna-sequencing-and-lithium-batteries",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,17 @@
     },
     {
       "source": "DEV",
-      "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI Act Compliance",
-      "summary": "I built a synthetic multi-agent loan crew on Amazon Bedrock and made Traccia hard-block a runaway agent, redact applicant PII across every sub-agent, and export EU AI Act audit evidence. Two of my three governance policies blocked nothing - and not because I misconfigured them. Why is the useful part.",
-      "url": "https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829",
-      "meta": "42 reactions"
+      "title": "Confident Isn't Accurate: How AI Hallucinations Actually Work",
+      "summary": "AI is moving relatively fast, despite being slow down. Yes, it feels like there's a new concept to...",
+      "url": "https://dev.to/ale3oula/confident-isnt-accurate-how-ai-hallucinations-actually-work-4djo",
+      "meta": "26 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
+      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
+      "url": "https://www.landian.news/archives/126905.html",
+      "meta": "17 Sep 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
