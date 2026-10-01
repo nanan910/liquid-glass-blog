@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T07:01:17.139Z",
+  "updatedAt": "2026-10-01T14:41:34.568Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 4211"
+      "meta": "Stars 4467"
     },
     {
       "source": "Hacker News",
-      "title": "AI CEO Interviews (2026)",
+      "title": "Ask HN: Which \"AI\" provider would you choose?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/watch?v=DlTNN0gvkLM",
+      "url": "https://news.ycombinator.com/item?id=49922231",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14311 likes"
+      "meta": "14313 likes"
     },
     {
       "source": "DEV",
       "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
       "summary": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
       "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
-      "meta": "5 reactions"
+      "meta": "18 reactions"
     },
     {
       "source": "蓝点网",
