@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T14:41:34.568Z",
+  "updatedAt": "2026-10-01T20:13:33.070Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 4467"
+      "meta": "Stars 4608"
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: Which \"AI\" provider would you choose?",
+      "title": "Show HN: HeadWater B2B Data and AI Kit – A Production Architecture Shortcut",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=49922231",
+      "url": "https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/headwater-b2b-data-purification-%26-AI-Ingestion-Implementation-Kit.md",
       "meta": "1 points"
     },
     {
