@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T06:02:40.726Z",
+  "updatedAt": "2026-10-02T13:02:36.423Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 4756"
+      "meta": "Stars 4901"
     },
     {
       "source": "Hacker News",
-      "title": "AI upscaling is coming to PS5",
+      "title": "Why Isn't AI Adoption Showing Up in Your P&L?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
-      "meta": "2 points"
+      "url": "https://itrevolution.com/articles/why-isnt-ai-adoption-showing-up-in-your-pl/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
