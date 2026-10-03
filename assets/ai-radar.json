@@ -1,41 +1,34 @@
 {
-  "updatedAt": "2026-10-03T13:10:30.923Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-03T17:32:26.221Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 5178"
+      "meta": "Stars 5338"
     },
     {
       "source": "Hacker News",
-      "title": "AI Engineering from Scratch",
+      "title": "AI safety is mostly a sex cult in Berkeley, CA [pdf]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://aiengineeringfromscratch.com/index.html",
-      "meta": "1 points"
+      "url": "https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14314 likes"
+      "meta": "14315 likes"
     },
     {
       "source": "DEV",
       "title": "Write Markdown Once, Publish It Everywhere: dev.to, Medium, AWS Builder Center and LinkedIn",
       "summary": "Markdown is easy to write and hard to publish. Every destination renders it differently, two have no API, and the failures show up only after you hit Publish. A step by step walk-through of publishing-kit, an agent skill that builds, checks and posts each version, used here to publish this article.",
       "url": "https://dev.to/gde/write-markdown-once-publish-it-everywhere-devto-medium-aws-builder-center-and-linkedin-np4",
-      "meta": "16 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
-      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
-      "url": "https://www.landian.news/archives/126905.html",
-      "meta": "17 Sep 2026"
+      "meta": "17 reactions"
     },
     {
       "source": "SoPilot",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
