@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T17:32:26.221Z",
+  "updatedAt": "2026-10-03T20:49:17.596Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 5338"
+      "meta": "Stars 5374"
     },
     {
       "source": "Hacker News",
-      "title": "AI safety is mostly a sex cult in Berkeley, CA [pdf]",
+      "title": "Training an open decision model to replace a closed one, in shadow on prod",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf",
-      "meta": "2 points"
+      "url": "https://kitsuno.ai/content/engineering/laya-in-shadow/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
