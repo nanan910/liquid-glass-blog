@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T15:55:59.272Z",
+  "updatedAt": "2026-10-04T19:22:18.090Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 5714"
+      "meta": "Stars 5750"
     },
     {
       "source": "Hacker News",
-      "title": "Design Systems for AI Agents",
+      "title": "Show HN: Ranking the most AI agent friendly tools",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.lukew.com/ff/2164/design-systems-for-ai-agents",
+      "url": "https://www.anchorterminal.com/tools/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14317 likes"
+      "meta": "14318 likes"
     },
     {
       "source": "DEV",
