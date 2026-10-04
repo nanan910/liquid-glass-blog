@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T05:07:17.983Z",
+  "updatedAt": "2026-10-04T11:14:51.221Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/AIHOT",
       "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
-      "meta": "Stars 5503"
+      "meta": "Stars 5614"
     },
     {
       "source": "Hacker News",
-      "title": "VersionStory: Comparison and Redlining for AI native legal teams",
+      "title": "MentaAgent – a self-hosted AI analyst for a company's own files",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.versionstory.com",
-      "meta": "1 points"
+      "url": "https://github.com/DanielKim03/mentaagent",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
