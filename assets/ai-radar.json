@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T01:10:59.618Z",
+  "updatedAt": "2026-10-05T07:33:24.070Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "CopilotKit/OpenDots",
       "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
-      "meta": "Stars 3207"
+      "meta": "Stars 3311"
     },
     {
       "source": "Hacker News",
-      "title": "Fix Your AI Slop Problem by Giving Reviewers Credit",
+      "title": "TypeSafe AI's Jev vs. Perplexity's Decisions API",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://danunparsed.com/p/giving-code-reviewers-credit",
+      "url": "https://vercel.com/i/jev-vs-perplexity",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14319 likes"
+      "meta": "14318 likes"
     },
     {
       "source": "DEV",
