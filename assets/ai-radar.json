@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T16:57:46.878Z",
+  "updatedAt": "2026-10-05T23:06:58.067Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "CopilotKit/OpenDots",
       "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
-      "meta": "Stars 3546"
+      "meta": "Stars 3660"
     },
     {
       "source": "Hacker News",
-      "title": "Spacebar – A realtime workspace for Humans and AI",
+      "title": "Nova Sprint. Coordinate AI sprints across multiple models and harnesses",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.spacebar.ai/waitlist",
+      "url": "https://github.com/mas-bandwidth/nova-sprint",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Before the Alarm Screams at 3 AM: Predicting Liam's Nocturnal Hypoglycemia with Prior Labs TabPFN",
-      "summary": "How Prior Labs TabPFN tabular foundation model predicts nocturnal hypoglycemic crashes from CGM logs at 10 PM with zero cloud data leaks.",
-      "url": "https://dev.to/emmasofia/before-the-alarm-screams-at-3-am-predicting-liams-nocturnal-hypoglycemia-with-prior-labs-tabpfn-25mn",
-      "meta": "74 reactions"
+      "title": "I Built an AI That Reads Eviction Notices and Refuses to Lie to You",
+      "summary": "A weekend AWS build for the Zero to Shipped hackathon. Textract reads the notice, code finds the facts, and Bedrock only narrates, so it can't lie about your deadline.",
+      "url": "https://dev.to/aws-builders/i-built-an-ai-that-reads-eviction-notices-and-refuses-to-lie-to-you-3475",
+      "meta": "10 reactions"
     },
     {
       "source": "蓝点网",
