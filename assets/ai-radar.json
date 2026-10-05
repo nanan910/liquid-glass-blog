@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-05T07:33:24.070Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-05T16:57:46.878Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "CopilotKit/OpenDots",
       "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
-      "meta": "Stars 3311"
+      "meta": "Stars 3546"
     },
     {
       "source": "Hacker News",
-      "title": "TypeSafe AI's Jev vs. Perplexity's Decisions API",
+      "title": "Spacebar – A realtime workspace for Humans and AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://vercel.com/i/jev-vs-perplexity",
+      "url": "https://www.spacebar.ai/waitlist",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,17 @@
     },
     {
       "source": "DEV",
-      "title": "Write Markdown Once, Publish It Everywhere: dev.to, Medium, AWS Builder Center and LinkedIn",
-      "summary": "Markdown is easy to write and hard to publish. Every destination renders it differently, two have no API, and the failures show up only after you hit Publish. A step by step walk-through of publishing-kit, an agent skill that builds, checks and posts each version, used here to publish this article.",
-      "url": "https://dev.to/gde/write-markdown-once-publish-it-everywhere-devto-medium-aws-builder-center-and-linkedin-np4",
-      "meta": "17 reactions"
+      "title": "Before the Alarm Screams at 3 AM: Predicting Liam's Nocturnal Hypoglycemia with Prior Labs TabPFN",
+      "summary": "How Prior Labs TabPFN tabular foundation model predicts nocturnal hypoglycemic crashes from CGM logs at 10 PM with zero cloud data leaks.",
+      "url": "https://dev.to/emmasofia/before-the-alarm-screams-at-3-am-predicting-liams-nocturnal-hypoglycemia-with-prior-labs-tabpfn-25mn",
+      "meta": "74 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
+      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
+      "url": "https://www.landian.news/archives/126905.html",
+      "meta": "17 Sep 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
