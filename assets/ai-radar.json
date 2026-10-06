@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-06T03:14:27.893Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-06T10:41:24.432Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
-      "title": "nanaism/yomiyasu",
-      "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "meta": "Stars 1526"
+      "title": "QingYunA/answer-me-with-html",
+      "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "meta": "Stars 1591"
     },
     {
       "source": "Hacker News",
-      "title": "AI Opportunity Scan",
+      "title": "ERC-8350: an on-chain standard for verifiable AI memory state",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://msa-mail.com/ai-scan/",
+      "url": "https://eips.ethereum.org/EIPS/eip-8350",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14319 likes"
+      "meta": "14322 likes"
     },
     {
       "source": "DEV",
@@ -29,13 +29,6 @@
       "summary": "A weekend AWS build for the Zero to Shipped hackathon. Textract reads the notice, code finds the facts, and Bedrock only narrates, so it can't lie about your deadline.",
       "url": "https://dev.to/aws-builders/i-built-an-ai-that-reads-eviction-notices-and-refuses-to-lie-to-you-3475",
       "meta": "10 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude将聊天与Cowork功能合并 后续用户不需要在聊天和智能体任务之间选择模式",
-      "summary": "<p>A 社日前宣布将 Claude Chat 与 Claude Cowork 功能合并为统一的使用界面，用户不需要在聊天和智能体任务之间选择模式，提出需求后 Claude 将自动判断是直接回...",
-      "url": "https://www.landian.news/archives/126905.html",
-      "meta": "17 Sep 2026"
     },
     {
       "source": "SoPilot",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
