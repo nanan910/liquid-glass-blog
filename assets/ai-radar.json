@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:41:24.432Z",
+  "updatedAt": "2026-10-06T17:06:03.454Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "QingYunA/answer-me-with-html",
       "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
-      "meta": "Stars 1591"
+      "meta": "Stars 1733"
     },
     {
       "source": "Hacker News",
-      "title": "ERC-8350: an on-chain standard for verifiable AI memory state",
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://eips.ethereum.org/EIPS/eip-8350",
-      "meta": "1 points"
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "meta": "4 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14322 likes"
+      "meta": "14323 likes"
     },
     {
       "source": "DEV",
-      "title": "I Built an AI That Reads Eviction Notices and Refuses to Lie to You",
-      "summary": "A weekend AWS build for the Zero to Shipped hackathon. Textract reads the notice, code finds the facts, and Bedrock only narrates, so it can't lie about your deadline.",
-      "url": "https://dev.to/aws-builders/i-built-an-ai-that-reads-eviction-notices-and-refuses-to-lie-to-you-3475",
-      "meta": "10 reactions"
+      "title": "Ontological Shock at Altitude",
+      "summary": "Rocky Mountain Ruby 2026 in Boulder was two days, one track, and a lot of AI. Nearly every talk still found its way back to the people doing the work.",
+      "url": "https://dev.to/cseeman/ontological-shock-at-altitude-2jp2",
+      "meta": "11 reactions"
     },
     {
       "source": "SoPilot",
