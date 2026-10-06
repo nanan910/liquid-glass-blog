@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-05T23:06:58.067Z",
+  "updatedAt": "2026-10-06T03:14:27.893Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "CopilotKit/OpenDots",
-      "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "meta": "Stars 3660"
+      "title": "nanaism/yomiyasu",
+      "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "meta": "Stars 1526"
     },
     {
       "source": "Hacker News",
-      "title": "Nova Sprint. Coordinate AI sprints across multiple models and harnesses",
+      "title": "AI Opportunity Scan",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/mas-bandwidth/nova-sprint",
+      "url": "https://msa-mail.com/ai-scan/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14318 likes"
+      "meta": "14319 likes"
     },
     {
       "source": "DEV",
