@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T21:49:25.689Z",
+  "updatedAt": "2026-10-07T01:17:07.868Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "QingYunA/answer-me-with-html",
       "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
-      "meta": "Stars 1751"
+      "meta": "Stars 1787"
     },
     {
       "source": "Hacker News",
-      "title": "Simsalasim: Xing founder Hinrichs aims to challenge no less than Telekom",
+      "title": "Jev-as-a-Judge for Agent Evaluations",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.heise.de/en/news/Simsalasim-Xing-founder-Hinrichs-aims-to-challenge-no-less-than-Telekom-11477817.html",
+      "url": "https://academy.dair.ai/resources/jev-as-a-judge",
       "meta": "1 points"
     },
     {
