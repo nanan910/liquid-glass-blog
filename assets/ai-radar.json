@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:17:07.868Z",
+  "updatedAt": "2026-10-07T07:36:44.348Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "QingYunA/answer-me-with-html",
       "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
-      "meta": "Stars 1787"
+      "meta": "Stars 1856"
     },
     {
       "source": "Hacker News",
-      "title": "Jev-as-a-Judge for Agent Evaluations",
+      "title": "I'm starting a company that uses no AI, A letter from San Francisco, October '26",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://academy.dair.ai/resources/jev-as-a-judge",
-      "meta": "1 points"
+      "url": "https://no-ai-tau.vercel.app/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14326 likes"
+      "meta": "14327 likes"
     },
     {
       "source": "DEV",
