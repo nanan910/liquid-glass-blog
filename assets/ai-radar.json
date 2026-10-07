@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T07:36:44.348Z",
+  "updatedAt": "2026-10-07T15:21:48.828Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "QingYunA/answer-me-with-html",
       "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
-      "meta": "Stars 1856"
+      "meta": "Stars 1986"
     },
     {
       "source": "Hacker News",
-      "title": "I'm starting a company that uses no AI, A letter from San Francisco, October '26",
+      "title": "A new AI assistant called Tab has launched; it competes with Meta's Muse",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://no-ai-tau.vercel.app/",
-      "meta": "2 points"
+      "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14327 likes"
+      "meta": "14328 likes"
     },
     {
       "source": "DEV",
