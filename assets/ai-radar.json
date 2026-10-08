@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-08T07:09:28.062Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-08T14:48:46.835Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "QingYunA/answer-me-with-html",
       "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
-      "meta": "Stars 2194"
+      "meta": "Stars 2306"
     },
     {
       "source": "Hacker News",
-      "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
+      "title": "How to build an AI-native software factory",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
+      "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,21 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14329 likes"
+      "meta": "14332 likes"
     },
     {
       "source": "DEV",
-      "title": "Ontological Shock at Altitude",
-      "summary": "Rocky Mountain Ruby 2026 in Boulder was two days, one track, and a lot of AI. Nearly every talk still found its way back to the people doing the work.",
-      "url": "https://dev.to/cseeman/ontological-shock-at-altitude-2jp2",
-      "meta": "11 reactions"
+      "title": "To Retry or Not to Retry? That Is the Question.",
+      "summary": "This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...",
+      "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
+      "meta": "32 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "美国佛州女子将Claude等日记使用 声称要袭击警长办公室于是A社报警 人已被逮捕",
+      "summary": "<p>美国佛罗里达州李县警方在 9 月末逮捕 30 岁的卡莉・米歇尔・赫勒 (Carli Michelle Heller)。法院记录显示赫勒被指控违反佛罗里达州第 836.10 条，涉嫌通过书...",
+      "url": "https://www.landian.news/archives/127182.html",
+      "meta": "08 Oct 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
