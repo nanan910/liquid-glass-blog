@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T14:48:46.835Z",
+  "updatedAt": "2026-10-08T20:34:20.147Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "QingYunA/answer-me-with-html",
       "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
-      "meta": "Stars 2306"
+      "meta": "Stars 2319"
     },
     {
       "source": "Hacker News",
-      "title": "How to build an AI-native software factory",
+      "title": "Speed over Safety: Why China Won't Slow Down AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software",
+      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14332 likes"
+      "meta": "14334 likes"
     },
     {
       "source": "DEV",
       "title": "To Retry or Not to Retry? That Is the Question.",
       "summary": "This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...",
       "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
-      "meta": "32 reactions"
+      "meta": "42 reactions"
     },
     {
       "source": "蓝点网",
