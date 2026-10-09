@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T15:06:29.313Z",
+  "updatedAt": "2026-10-09T20:15:47.849Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "mhtsec/ARTEX",
       "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
-      "meta": "Stars 1990"
+      "meta": "Stars 2103"
     },
     {
       "source": "Hacker News",
-      "title": "Disrupting AI-enabled \"false front\" operations",
+      "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
-      "meta": "1 points"
+      "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14337 likes"
+      "meta": "14338 likes"
     },
     {
       "source": "DEV",
-      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
-      "summary": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
-      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
-      "meta": "33 reactions"
+      "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore the Truth?",
+      "summary": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A published...",
+      "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
+      "meta": "29 reactions"
     },
     {
       "source": "蓝点网",
