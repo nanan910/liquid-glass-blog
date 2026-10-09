@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-10-09T01:03:58.641Z",
+  "updatedAt": "2026-10-09T07:52:05.053Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "Jakeschincariol/replica-skill",
-      "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "meta": "Stars 1082"
+      "title": "mhtsec/ARTEX",
+      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "meta": "Stars 1391"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Nace.ai Document Intelligence 1.0",
+      "title": "Where Is the AI?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.nace.ai/developers",
-      "meta": "2 points"
+      "url": "https://johnomeara.com/blog/where-is-the-ai",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14334 likes"
+      "meta": "14335 likes"
     },
     {
       "source": "DEV",
       "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
       "summary": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
       "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
-      "meta": "13 reactions"
+      "meta": "22 reactions"
     },
     {
       "source": "蓝点网",
-      "title": "美国佛州女子将Claude等日记使用 声称要袭击警长办公室于是A社报警 人已被逮捕",
-      "summary": "<p>美国佛罗里达州李县警方在 9 月末逮捕 30 岁的卡莉・米歇尔・赫勒 (Carli Michelle Heller)。法院记录显示赫勒被指控违反佛罗里达州第 836.10 条，涉嫌通过书...",
-      "url": "https://www.landian.news/archives/127182.html",
-      "meta": "08 Oct 2026"
+      "title": "A社推出免费的开源项目扫描器 为符合条件的开源项目免费提供定期漏洞扫描",
+      "summary": "<p>A 社日前宣布面向开源项目推出 OSS Scanner 计划，为符合条件的开源项目提供免费的、定期漏洞扫描支持。这项计划将使用 A 社先进模型例如 Claude Mythos 等帮助开源...",
+      "url": "https://www.landian.news/archives/127172.html",
+      "meta": "09 Oct 2026"
     },
     {
       "source": "SoPilot",
