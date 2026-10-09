@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-08T20:34:20.147Z",
+  "updatedAt": "2026-10-09T01:03:58.641Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "QingYunA/answer-me-with-html",
-      "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "meta": "Stars 2319"
+      "title": "Jakeschincariol/replica-skill",
+      "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "meta": "Stars 1082"
     },
     {
       "source": "Hacker News",
-      "title": "Speed over Safety: Why China Won't Slow Down AI",
+      "title": "Show HN: Nace.ai Document Intelligence 1.0",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
-      "meta": "1 points"
+      "url": "https://www.nace.ai/developers",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "To Retry or Not to Retry? That Is the Question.",
-      "summary": "This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...",
-      "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
-      "meta": "42 reactions"
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "summary": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
+      "meta": "13 reactions"
     },
     {
       "source": "蓝点网",
