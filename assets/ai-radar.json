@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:16:08.155Z",
+  "updatedAt": "2026-10-10T12:55:32.270Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mhtsec/ARTEX",
       "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
-      "meta": "Stars 2470"
+      "meta": "Stars 2747"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Kenerate – One workspace for AI image, video and music models",
+      "title": "An AI recorder that hides in plain sight on your glasses strap",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://kenerateai.app/",
+      "url": "https://aicords.com/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14342 likes"
+      "meta": "14343 likes"
     },
     {
       "source": "DEV",
-      "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore the Truth?",
-      "summary": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A published...",
-      "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
-      "meta": "38 reactions"
+      "title": "The Stack I'd Need for Claude to Direct a Whole YouTube Video in Blender",
+      "summary": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
+      "url": "https://dev.to/lovestaco/the-stack-id-need-for-claude-to-direct-a-whole-youtube-video-in-blender-2ekd",
+      "meta": "24 reactions"
     },
     {
       "source": "SoPilot",
@@ -39,7 +39,7 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
+    "fetch failed",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
