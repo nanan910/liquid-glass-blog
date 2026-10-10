@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T20:15:47.849Z",
+  "updatedAt": "2026-10-10T00:14:52.370Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "mhtsec/ARTEX",
       "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
-      "meta": "Stars 2103"
+      "meta": "Stars 2136"
     },
     {
       "source": "Hacker News",
-      "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has",
+      "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
-      "meta": "2 points"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14338 likes"
+      "meta": "14339 likes"
     },
     {
       "source": "DEV",
       "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore the Truth?",
       "summary": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A published...",
       "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
-      "meta": "29 reactions"
+      "meta": "34 reactions"
     },
     {
       "source": "蓝点网",
