@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:55:32.270Z",
+  "updatedAt": "2026-10-10T17:43:35.085Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "mhtsec/ARTEX",
       "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
-      "meta": "Stars 2747"
+      "meta": "Stars 2874"
     },
     {
       "source": "Hacker News",
-      "title": "An AI recorder that hides in plain sight on your glasses strap",
+      "title": "Computer scientist David Silver: 'Where are we going without AI?'",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://aicords.com/",
+      "url": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14343 likes"
+      "meta": "14344 likes"
     },
     {
       "source": "DEV",
@@ -39,7 +39,7 @@
     }
   ],
   "errors": [
-    "fetch failed",
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
