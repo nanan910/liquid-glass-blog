@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-11T18:21:48.670Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-11T22:19:13.239Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "mhtsec/ARTEX",
       "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
-      "meta": "Stars 3119"
+      "meta": "Stars 3135"
     },
     {
       "source": "Hacker News",
-      "title": "AI-Powered Plasma Cutting",
+      "title": "Inside McDonald's push to have AI price your Big Mac",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.deldiosglasshouse.com/stuff-weve-made/ai-g-code",
+      "url": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,21 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14347 likes"
+      "meta": "14348 likes"
     },
     {
       "source": "DEV",
       "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
       "summary": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
       "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
-      "meta": "6 reactions"
+      "meta": "11 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "A社暂停模型内部评测联网功能 模型在未经授权的情况下执行多种超出任务目标的行为",
+      "summary": "<p>A 社日前发文透露，Claude AI 模型在评测和内部使用过程中曾与真实互联网交互并执行超出任务范围的操作，相关行为包括利用软件缺陷在服务器上运行命令、提交不应该提交的在线表单、绕过令...",
+      "url": "https://www.landian.news/archives/127256.html",
+      "meta": "10 Oct 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
