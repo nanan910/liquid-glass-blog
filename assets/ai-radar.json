@@ -1,34 +1,41 @@
 {
-  "updatedAt": "2026-10-11T00:23:15.746Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-11T06:14:27.784Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "mhtsec/ARTEX",
       "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
-      "meta": "Stars 2910"
+      "meta": "Stars 2995"
     },
     {
       "source": "Hacker News",
-      "title": "Microsoft CEO Nadella Calls for 'Emergency Brake' on Advanced AI",
+      "title": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
-      "meta": "4 points"
+      "url": "https://github.com/Guksu/suta",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14346 likes"
+      "meta": "14345 likes"
     },
     {
       "source": "DEV",
-      "title": "The Stack I'd Need for Claude to Direct a Whole YouTube Video in Blender",
-      "summary": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
-      "url": "https://dev.to/lovestaco/the-stack-id-need-for-claude-to-direct-a-whole-youtube-video-in-blender-2ekd",
-      "meta": "24 reactions"
+      "title": "How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔",
+      "summary": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer currently building an AI-assisted CHANGELOG generator...",
+      "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
+      "meta": "64 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "A社暂停模型内部评测联网功能 模型在未经授权的情况下执行多种超出任务目标的行为",
+      "summary": "<p>A 社日前发文透露，Claude AI 模型在评测和内部使用过程中曾与真实互联网交互并执行超出任务范围的操作，相关行为包括利用软件缺陷在服务器上运行命令、提交不应该提交的在线表单、绕过令...",
+      "url": "https://www.landian.news/archives/127256.html",
+      "meta": "10 Oct 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
