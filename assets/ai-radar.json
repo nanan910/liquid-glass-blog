@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:14:27.784Z",
+  "updatedAt": "2026-10-11T13:19:39.471Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "mhtsec/ARTEX",
       "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
-      "meta": "Stars 2995"
+      "meta": "Stars 3066"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/Guksu/suta",
-      "meta": "1 points"
+      "url": "https://www.bbc.com/news/articles/cw33x4y8k82no",
+      "meta": "5 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14345 likes"
+      "meta": "14346 likes"
     },
     {
       "source": "DEV",
       "title": "How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔",
       "summary": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer currently building an AI-assisted CHANGELOG generator...",
       "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
-      "meta": "64 reactions"
+      "meta": "69 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 6.9万 粉 酱紫表 @ pengchujin · 6小时前 发布 给苹果开发的推荐个 Skill 叫 App Store Connect CLI 简称 asc，能快",
+      "url": "https://x.com/pengchujin/status/2109175308045980016?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
