@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-12T08:52:54.652Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-12T18:46:57.083Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "wheresryan22/anatomy",
       "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "url": "https://github.com/wheresryan22/anatomy",
-      "meta": "Stars 4330"
+      "meta": "Stars 5675"
     },
     {
       "source": "Hacker News",
-      "title": "Leading Chinese mathematicians unite behind use of AI in research",
+      "title": "Most US Adults Aren't Ready for AI to Help with Holiday Shopping, Survey Finds",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research",
+      "url": "https://www.cnet.com/tech/services-and-software/ai-holiday-shopping-survey/",
       "meta": "1 points"
     },
     {
@@ -21,25 +21,31 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14352 likes"
+      "meta": "14367 likes"
     },
     {
       "source": "DEV",
       "title": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside",
       "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
       "url": "https://dev.to/dannwaneri/light-don-go-when-nigerias-power-cuts-out-my-laptop-sends-me-outside-38k8",
-      "meta": "10 reactions"
+      "meta": "23 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "A社暂停模型内部评测联网功能 模型在未经授权的情况下执行多种超出任务目标的行为",
+      "summary": "<p>A 社日前发文透露，Claude AI 模型在评测和内部使用过程中曾与真实互联网交互并执行超出任务范围的操作，相关行为包括利用软件缺陷在服务器上运行命令、提交不应该提交的在线表单、绕过令...",
+      "url": "https://www.landian.news/archives/127256.html",
+      "meta": "10 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.1万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 14小时前 发布 ",
-      "url": "https://x.com/lidangzzz/status/2109344723534066021?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
