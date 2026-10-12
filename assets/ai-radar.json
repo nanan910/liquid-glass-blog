@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T01:37:10.518Z",
+  "updatedAt": "2026-10-12T08:52:54.652Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,33 +7,33 @@
       "title": "wheresryan22/anatomy",
       "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "url": "https://github.com/wheresryan22/anatomy",
-      "meta": "Stars 3403"
+      "meta": "Stars 4330"
     },
     {
       "source": "Hacker News",
-      "title": "AI is changing how Lawyers work – and putting the billable hour under pressure",
+      "title": "Leading Chinese mathematicians unite behind use of AI in research",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
-      "meta": "3 points"
+      "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14349 likes"
+      "meta": "14352 likes"
     },
     {
       "source": "DEV",
-      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
-      "summary": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
-      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
-      "meta": "11 reactions"
+      "title": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "url": "https://dev.to/dannwaneri/light-don-go-when-nigerias-power-cuts-out-my-laptop-sends-me-outside-38k8",
+      "meta": "10 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.1万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 7小时前 发布 妈",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.1万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 14小时前 发布 ",
       "url": "https://x.com/lidangzzz/status/2109344723534066021?sid=ai-tweet-reply",
       "meta": "热帖"
     }
