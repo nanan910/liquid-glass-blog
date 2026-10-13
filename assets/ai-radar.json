@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-13T08:15:54.168Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-13T16:18:12.410Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "wheresryan22/anatomy",
       "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "url": "https://github.com/wheresryan22/anatomy",
-      "meta": "Stars 6975"
+      "meta": "Stars 7795"
     },
     {
       "source": "Hacker News",
-      "title": "AICR v1.0: Open, stable and verifiable GPU cluster configuration",
+      "title": "How to Kill a Voice Agent",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration/",
-      "meta": "2 points"
+      "url": "https://veris.ai/blog/vamos-pro-findings-tv-in-the-room",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14370 likes"
+      "meta": "14377 likes"
     },
     {
       "source": "DEV",
@@ -29,6 +29,13 @@
       "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
       "url": "https://dev.to/dannwaneri/light-don-go-when-nigerias-power-cuts-out-my-laptop-sends-me-outside-38k8",
       "meta": "29 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "持续封号打击蒸馏：A社称强化防护措施让Claude蒸馏推理数据提取量下降90%~99%",
+      "summary": "<p>Anthropic 称针对未经授权的大规模模型蒸馏问题，公司近期加强对 Claude AI 推理内容的保护机制，按自有平台数据的估算，新保护机制实施后蒸馏者提取的推理数据减少 90%~9...",
+      "url": "https://www.landian.news/archives/127329.html",
+      "meta": "13 Oct 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
