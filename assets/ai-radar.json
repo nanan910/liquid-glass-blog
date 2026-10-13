@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T16:18:12.410Z",
+  "updatedAt": "2026-10-13T21:27:30.451Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "wheresryan22/anatomy",
       "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "url": "https://github.com/wheresryan22/anatomy",
-      "meta": "Stars 7795"
+      "meta": "Stars 8051"
     },
     {
       "source": "Hacker News",
-      "title": "How to Kill a Voice Agent",
+      "title": "Heterogeneity in AI: Pathways from Inference to Compound Systems (Dissertation)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://veris.ai/blog/vamos-pro-findings-tv-in-the-room",
+      "url": "https://doi.org/10.26153/tsw/64881",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14377 likes"
+      "meta": "14378 likes"
     },
     {
       "source": "DEV",
