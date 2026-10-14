@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-14T16:52:26.436Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-14T20:31:40.658Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "wheresryan22/anatomy",
       "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "url": "https://github.com/wheresryan22/anatomy",
-      "meta": "Stars 9546"
+      "meta": "Stars 9826"
     },
     {
       "source": "Hacker News",
-      "title": "Simple math can predict when AI is about to go rogue, physicists say",
+      "title": "The AI labor apocalypse is on hold (for now)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
+      "url": "https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,21 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14381 likes"
+      "meta": "14382 likes"
     },
     {
       "source": "DEV",
       "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
       "summary": "Are AI models running directly in the browser finally good enough to use in production? Let's find...",
       "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "meta": "79 reactions"
+      "meta": "84 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "持续封号打击蒸馏：A社称强化防护措施让Claude蒸馏推理数据提取量下降90%~99%",
+      "summary": "<p>Anthropic 称针对未经授权的大规模模型蒸馏问题，公司近期加强对 Claude AI 推理内容的保护机制，按自有平台数据的估算，新保护机制实施后蒸馏者提取的推理数据减少 90%~9...",
+      "url": "https://www.landian.news/archives/127329.html",
+      "meta": "13 Oct 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
