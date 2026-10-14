@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-14T20:31:40.658Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-14T23:47:17.563Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "wheresryan22/anatomy",
       "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "url": "https://github.com/wheresryan22/anatomy",
-      "meta": "Stars 9826"
+      "meta": "Stars 9978"
     },
     {
       "source": "Hacker News",
-      "title": "The AI labor apocalypse is on hold (for now)",
+      "title": "Chaos ensues when AI interviewer meets AI interviewee",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html",
-      "meta": "1 points"
+      "url": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -28,14 +28,7 @@
       "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
       "summary": "Are AI models running directly in the browser finally good enough to use in production? Let's find...",
       "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "meta": "84 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "持续封号打击蒸馏：A社称强化防护措施让Claude蒸馏推理数据提取量下降90%~99%",
-      "summary": "<p>Anthropic 称针对未经授权的大规模模型蒸馏问题，公司近期加强对 Claude AI 推理内容的保护机制，按自有平台数据的估算，新保护机制实施后蒸馏者提取的推理数据减少 90%~9...",
-      "url": "https://www.landian.news/archives/127329.html",
-      "meta": "13 Oct 2026"
+      "meta": "85 reactions"
     },
     {
       "source": "SoPilot",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
