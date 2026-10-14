@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:32:51.495Z",
+  "updatedAt": "2026-10-14T05:56:16.544Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "wheresryan22/anatomy",
       "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "url": "https://github.com/wheresryan22/anatomy",
-      "meta": "Stars 8187"
+      "meta": "Stars 8598"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Benchmark coding agents on deploying apps",
+      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/cloudishai/ai-deploy-bench",
-      "meta": "2 points"
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
