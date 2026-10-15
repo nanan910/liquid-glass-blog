@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T18:31:23.686Z",
+  "updatedAt": "2026-10-15T22:00:48.731Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "onehumanbeing/esp32-iphone-agent",
       "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "meta": "Stars 2364"
+      "meta": "Stars 2401"
     },
     {
       "source": "Hacker News",
-      "title": "Will Universities Respond to the AI Moment?",
+      "title": "Shared Spaces for Your Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.techdirt.com/2026/10/14/will-universities-respond-to-the-ai-moment/",
+      "url": "https://cua.ai/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14383 likes"
+      "meta": "14384 likes"
     },
     {
       "source": "DEV",
       "title": "I built a lie detector for AI coding agents. Then I read the rules.",
       "summary": "When an AI agent commits a change to code, it makes a claim about what it changed: \"fixed typos\" or...",
       "url": "https://dev.to/dannwaneri/i-built-a-lie-detector-for-ai-coding-agents-then-i-read-the-rules-1hhb",
-      "meta": "20 reactions"
+      "meta": "25 reactions"
     },
     {
       "source": "蓝点网",
