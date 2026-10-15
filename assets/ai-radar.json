@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-15T14:20:22.948Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-15T18:31:23.686Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "onehumanbeing/esp32-iphone-agent",
       "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "meta": "Stars 2305"
+      "meta": "Stars 2364"
     },
     {
       "source": "Hacker News",
-      "title": "The AI boom's next bottleneck is money, not chips",
+      "title": "Will Universities Respond to the AI Moment?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.semafor.com/article/10/15/2026/the-ai-booms-next-bottleneck-is-money-not-chips",
+      "url": "https://www.techdirt.com/2026/10/14/will-universities-respond-to-the-ai-moment/",
       "meta": "1 points"
     },
     {
@@ -21,25 +21,31 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14382 likes"
+      "meta": "14383 likes"
     },
     {
       "source": "DEV",
-      "title": "I Vibe-Coded My Way Out of Angular Upgrades",
-      "summary": "Do you also hate upgrading Angular versions? Because I do. I maintain a few open-source projects, and...",
-      "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh",
-      "meta": "31 reactions"
+      "title": "I built a lie detector for AI coding agents. Then I read the rules.",
+      "summary": "When an AI agent commits a change to code, it makes a claim about what it changed: \"fixed typos\" or...",
+      "url": "https://dev.to/dannwaneri/i-built-a-lie-detector-for-ai-coding-agents-then-i-read-the-rules-1hhb",
+      "meta": "20 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
+      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
+      "url": "https://www.landian.news/archives/127403.html",
+      "meta": "15 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 20.4万 粉 梁 @ iam678 · 7小时前 发布 REA研究了一天， 把经典的大富翁4逆向了， 然后花了一天时间， 让claude用flutter重新跑了一个",
-      "url": "https://x.com/iam678/status/2110618564608880843?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
