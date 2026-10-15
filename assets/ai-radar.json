@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-14T23:47:17.563Z",
+  "updatedAt": "2026-10-15T03:57:42.787Z",
   "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
-      "title": "wheresryan22/anatomy",
-      "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "meta": "Stars 9978"
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "meta": "Stars 2141"
     },
     {
       "source": "Hacker News",
-      "title": "Chaos ensues when AI interviewer meets AI interviewee",
+      "title": "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
-      "meta": "2 points"
+      "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,13 +28,13 @@
       "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
       "summary": "Are AI models running directly in the browser finally good enough to use in production? Let's find...",
       "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "meta": "85 reactions"
+      "meta": "90 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.1万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 这",
+      "url": "https://x.com/lidangzzz/status/2110532070581608936?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
