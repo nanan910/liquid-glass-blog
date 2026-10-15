@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-15T03:57:42.787Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-15T09:04:37.768Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "onehumanbeing/esp32-iphone-agent",
       "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "meta": "Stars 2141"
+      "meta": "Stars 2223"
     },
     {
       "source": "Hacker News",
-      "title": "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content",
+      "title": "WSP MCP – Free WordPress MCP for Connecting AI Coding Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
+      "url": "https://github.com/bilalnaseer/wsp-wordpress-mcp",
       "meta": "1 points"
     },
     {
@@ -25,21 +25,27 @@
     },
     {
       "source": "DEV",
-      "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-      "summary": "Are AI models running directly in the browser finally good enough to use in production? Let's find...",
-      "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "meta": "90 reactions"
+      "title": "Design for Churn",
+      "summary": "The biggest design shift of the AI era isn’t about who writes the code. It’s about how long the code...",
+      "url": "https://dev.to/dailycontext/design-for-churn-5c6h",
+      "meta": "36 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
+      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
+      "url": "https://www.landian.news/archives/127403.html",
+      "meta": "15 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.1万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 这",
-      "url": "https://x.com/lidangzzz/status/2110532070581608936?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 20.4万 粉 梁 @ iam678 · 2小时前 发布 REA研究了一天， 把经典的大富翁4逆向了， 然后花了一天时间， 让claude用flutter重新跑了一个",
+      "url": "https://x.com/iam678/status/2110618564608880843?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
