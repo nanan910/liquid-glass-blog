@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:57:24.501Z",
+  "updatedAt": "2026-10-16T21:59:13.238Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "onehumanbeing/esp32-iphone-agent",
       "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "meta": "Stars 2835"
+      "meta": "Stars 2843"
     },
     {
       "source": "Hacker News",
-      "title": "Weatherdeck – a read-only status board for AI coding agent lanes",
+      "title": "Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/Moshik21/weatherdeck",
+      "url": "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14386 likes"
+      "meta": "14387 likes"
     },
     {
       "source": "DEV",
