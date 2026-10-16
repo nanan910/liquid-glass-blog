@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-10-16T05:37:28.616Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-16T11:02:18.782Z",
+  "sourceCount": 5,
   "items": [
     {
-      "source": "GitHub",
-      "title": "onehumanbeing/esp32-iphone-agent",
-      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "meta": "Stars 2606"
-    },
-    {
       "source": "Hacker News",
-      "title": "Anthropic thinks its AI might be conscious",
+      "title": "AI Startup Character.ai Files for Bankruptcy – AI Bubble Bursting [video]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings",
-      "meta": "3 points"
+      "url": "https://www.youtube.com/watch?v=kcMTe1AbvjY",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +18,10 @@
     },
     {
       "source": "DEV",
-      "title": "I built a lie detector for AI coding agents. Then I read the rules.",
-      "summary": "When an AI agent commits a change to code, it makes a claim about what it changed: \"fixed typos\" or...",
-      "url": "https://dev.to/dannwaneri/i-built-a-lie-detector-for-ai-coding-agents-then-i-read-the-rules-1hhb",
-      "meta": "26 reactions"
+      "title": "RevCheck, compare the cars you want before you buy your next daily driver",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "url": "https://dev.to/alexgeorgiev17/revcheck-paste-two-used-car-listings-get-a-second-opinion-before-you-drive-across-town-1e7e",
+      "meta": "14 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,12 +33,13 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.1万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 3小时前 发布 乐",
-      "url": "https://x.com/lidangzzz/status/2110919222964662293?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2,913 粉 gKev1n @ GKev1n · 4小时前 发布 破案了！我们的 Tibo 升官啦！！！！ 刚刷完 Dan Shipper 的八千字长文《How C",
+      "url": "https://x.com/GKev1n/status/2110982059091206327?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-10-09&sort=stars&order=desc&per_page=1 returned 403",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
