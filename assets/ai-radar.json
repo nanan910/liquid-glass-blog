@@ -1,12 +1,19 @@
 {
-  "updatedAt": "2026-10-17T13:07:33.417Z",
-  "sourceCount": 4,
+  "updatedAt": "2026-10-17T16:36:59.603Z",
+  "sourceCount": 5,
   "items": [
     {
+      "source": "GitHub",
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "meta": "Stars 2974"
+    },
+    {
       "source": "Hacker News",
-      "title": "Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)",
+      "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
       "meta": "1 points"
     },
     {
@@ -14,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14390 likes"
+      "meta": "14391 likes"
     },
     {
       "source": "DEV",
@@ -26,13 +33,12 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.4万 粉 Pangyu 胖鱼 🐠 @ pangyusio · 5小时前 发布 codex/claude code 出现后，我终于理解领导为什么永远精力充沛了 一",
-      "url": "https://x.com/pangyusio/status/2111361937883992546?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-10-10&sort=stars&order=desc&per_page=1 returned 403",
     "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
