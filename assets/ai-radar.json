@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T19:07:20.784Z",
+  "updatedAt": "2026-10-17T21:38:25.699Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "onehumanbeing/esp32-iphone-agent",
       "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "meta": "Stars 2980"
+      "meta": "Stars 2986"
     },
     {
       "source": "Hacker News",
-      "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
+      "title": "AI neolabs are raising sums. Most have little to show for it",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://nono.sh",
+      "url": "https://economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14391 likes"
+      "meta": "14392 likes"
     },
     {
       "source": "DEV",
