@@ -1,19 +1,12 @@
 {
-  "updatedAt": "2026-10-17T09:05:19.009Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-17T13:07:33.417Z",
+  "sourceCount": 4,
   "items": [
     {
-      "source": "GitHub",
-      "title": "onehumanbeing/esp32-iphone-agent",
-      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "meta": "Stars 2926"
-    },
-    {
       "source": "Hacker News",
-      "title": "Show HN: CiteLadder – open-source AI search visibility tracker",
+      "title": "Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/abhij1306/CiteLadder",
+      "url": "https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e",
       "meta": "1 points"
     },
     {
@@ -31,21 +24,16 @@
       "meta": "14 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
-      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
-      "url": "https://www.landian.news/archives/127403.html",
-      "meta": "15 Oct 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.4万 粉 Pangyu 胖鱼 🐠 @ pangyusio · 1小时前 发布 codex/claude code 出现后，我终于理解领导为什么永远精力充沛了 一",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.4万 粉 Pangyu 胖鱼 🐠 @ pangyusio · 5小时前 发布 codex/claude code 出现后，我终于理解领导为什么永远精力充沛了 一",
       "url": "https://x.com/pangyusio/status/2111361937883992546?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-10-10&sort=stars&order=desc&per_page=1 returned 403",
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
