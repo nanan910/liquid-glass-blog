@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T03:49:17.285Z",
+  "updatedAt": "2026-10-18T08:42:47.505Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "deeplethe/solid-glass",
       "summary": "A design system for AI applications. Material, physical, tactile, technical.",
       "url": "https://github.com/deeplethe/solid-glass",
-      "meta": "Stars 1789"
+      "meta": "Stars 1918"
     },
     {
       "source": "Hacker News",
-      "title": "MonkeyITM – open-source broker that sits between agents and the open world",
+      "title": "Abolish AI Manifesto (under construction)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/o87enterprises-ai/MonkeyITM",
-      "meta": "1 points"
+      "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.1万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 这",
-      "url": "https://x.com/lidangzzz/status/2111632875179114725?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.2万 粉 Miles Ma @ miles_mazy · 2小时前 发布 认识一个女老板，半个月前还没接触过 AI 现在在高铁上用 UU 远程玩 AI 玩的飞起 ",
+      "url": "https://x.com/miles_mazy/status/2111701812231209217?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
