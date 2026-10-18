@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:42:47.505Z",
+  "updatedAt": "2026-10-18T13:05:25.952Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "deeplethe/solid-glass",
       "summary": "A design system for AI applications. Material, physical, tactile, technical.",
       "url": "https://github.com/deeplethe/solid-glass",
-      "meta": "Stars 1918"
+      "meta": "Stars 2001"
     },
     {
       "source": "Hacker News",
-      "title": "Abolish AI Manifesto (under construction)",
+      "title": "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+      "url": "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156",
       "meta": "2 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "RevCheck, compare the cars you want before you buy your next daily driver",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
-      "url": "https://dev.to/alexgeorgiev17/revcheck-paste-two-used-car-listings-get-a-second-opinion-before-you-drive-across-town-1e7e",
-      "meta": "14 reactions"
+      "title": "AI Took Me to Three Stages. I Still Don't Like Public Speaking.",
+      "summary": "A year of building with AI put me on three stages. I liked the message more than the...",
+      "url": "https://dev.to/earlgreyhot1701d/ai-took-me-to-three-stages-i-still-dont-like-public-speaking-1g38",
+      "meta": "12 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 3.2万 粉 Miles Ma @ miles_mazy · 2小时前 发布 认识一个女老板，半个月前还没接触过 AI 现在在高铁上用 UU 远程玩 AI 玩的飞起 ",
-      "url": "https://x.com/miles_mazy/status/2111701812231209217?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.2万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 6小时前 发布 人",
+      "url": "https://x.com/lidangzzz/status/2111713644006552032?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
