@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:29:20.934Z",
+  "updatedAt": "2026-10-19T10:13:06.519Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "feder-cr/git-ai",
       "summary": "Git designed for AI agents.",
       "url": "https://github.com/feder-cr/git-ai",
-      "meta": "Stars 2312"
+      "meta": "Stars 2357"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Chitra Studio – Your AI Media Workstation for Macs",
+      "title": "Lend your AI wIthout giving away your keys.",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://chitra.studio/",
+      "url": "https://github.com/EagleMind/tokenbud",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...",
-      "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh",
-      "meta": "39 reactions"
+      "title": "The Verification Trap: Why Generative AI Is Making Senior Engineers Slower (and How to Fix It)",
+      "summary": "The Verification Trap: Why Generative AI Is Making Senior Engineers Slower (and How to Fix...",
+      "url": "https://dev.to/debashish_ghosal/the-verification-trap-why-generative-ai-is-making-senior-engineers-slower-and-how-to-fix-it-245m",
+      "meta": "12 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.2万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 是",
-      "url": "https://x.com/lidangzzz/status/2112000167972884719?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 430.2万 粉 H.E. Justin Sun 👨‍🚀 🌞 @ justinsuntron · 3小时前 发布 DS新版来了",
+      "url": "https://x.com/justinsuntron/status/2112078285173915887?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
