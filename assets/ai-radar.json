@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-18T21:43:19.191Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-19T00:00:58.574Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
-      "title": "deeplethe/solid-glass",
-      "summary": "A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "meta": "Stars 2015"
+      "title": "feder-cr/git-ai",
+      "summary": "Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
+      "meta": "Stars 2294"
     },
     {
       "source": "Hacker News",
-      "title": "Subvert.fm AI Policy",
+      "title": "Show HN: Hybro – an open interoperability engine for AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.subvert.fm/pages/ai-policy",
-      "meta": "2 points"
+      "url": "https://github.com/hybroai/hybro",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,14 +28,7 @@
       "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget",
       "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...",
       "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh",
-      "meta": "33 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
-      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
-      "url": "https://www.landian.news/archives/127403.html",
-      "meta": "15 Oct 2026"
+      "meta": "38 reactions"
     },
     {
       "source": "SoPilot",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
