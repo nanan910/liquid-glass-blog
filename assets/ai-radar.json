@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T05:53:39.440Z",
+  "updatedAt": "2026-10-20T11:11:57.767Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "feder-cr/git-ai",
       "summary": "Git designed for AI agents.",
       "url": "https://github.com/feder-cr/git-ai",
-      "meta": "Stars 2474"
+      "meta": "Stars 2490"
     },
     {
       "source": "Hacker News",
-      "title": "Textus – WYSIWYG Markdown editor with built-in AI writing tools",
+      "title": "Bill Gross's AI Tool Could Supercharge the Number of Startups",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://textus.catvinci.com/",
+      "url": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14394 likes"
+      "meta": "14395 likes"
     },
     {
       "source": "DEV",
       "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
       "summary": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
       "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
-      "meta": "11 reactions"
+      "meta": "15 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 93.8万 粉 方舟子 @ fangshimin · 2小时前 发布 袁腾飞在朋友圈晒的这张警察开的罚单，ChatGPT说太模糊识别不出来，Gemini则识别出是张出",
-      "url": "https://x.com/fangshimin/status/2112377348603699331?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8,216 粉 思维怪怪 @ 0xLogicrw · 4小时前 发布 去年，DeepSeek 尝试用华为昇腾芯片训练 R2，最后没能成功。《金融时报》当时披露，芯片稳",
+      "url": "https://x.com/0xLogicrw/status/2112437691589800314?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
