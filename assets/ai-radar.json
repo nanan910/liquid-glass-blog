@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:58:09.446Z",
+  "updatedAt": "2026-10-20T05:53:39.440Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "feder-cr/git-ai",
       "summary": "Git designed for AI agents.",
       "url": "https://github.com/feder-cr/git-ai",
-      "meta": "Stars 2453"
+      "meta": "Stars 2474"
     },
     {
       "source": "Hacker News",
-      "title": "Vortex Code: one prompt, an AI software team that ships",
+      "title": "Textus – WYSIWYG Markdown editor with built-in AI writing tools",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://spinozalabs.ai/news/introducing-vortex-code",
+      "url": "https://textus.catvinci.com/",
       "meta": "1 points"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2,049 粉 Super Niu @ Super_Nius · 6小时前 发布 卧槽😰，OpenAI 会议室窃听案又反转了 😳 美国检察官说，被抓的前工程师 A",
-      "url": "https://x.com/Super_Nius/status/2112242596437426543?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 93.8万 粉 方舟子 @ fangshimin · 2小时前 发布 袁腾飞在朋友圈晒的这张警察开的罚单，ChatGPT说太模糊识别不出来，Gemini则识别出是张出",
+      "url": "https://x.com/fangshimin/status/2112377348603699331?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
