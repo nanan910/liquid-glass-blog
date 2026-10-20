@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:54:59.311Z",
+  "updatedAt": "2026-10-20T23:02:38.907Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "Leonxlnx/earshot",
       "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
-      "meta": "Stars 1904"
+      "meta": "Stars 1937"
     },
     {
       "source": "Hacker News",
-      "title": "Waste tsunami. Water and the hidden cost of AI data centres",
+      "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/",
-      "meta": "2 points"
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
