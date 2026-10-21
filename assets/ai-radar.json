@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-21T13:06:42.410Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-21T18:11:13.380Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "Leonxlnx/earshot",
       "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
-      "meta": "Stars 2028"
+      "meta": "Stars 2045"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Mnestiq – tamper-evident logs of what an AI agent saw and did",
+      "title": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/mnestiq/mnestiq",
+      "url": "https://github.com/MvikManners/aw1-circuit-breaker",
       "meta": "1 points"
     },
     {
@@ -21,25 +21,31 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14396 likes"
+      "meta": "14398 likes"
     },
     {
       "source": "DEV",
-      "title": "Building an Open-Source Support Tool That Turns Your Docs into Reusable Knowledge",
-      "summary": "I spend a good part of my day working with the community at CopilotKit, answering questions in...",
-      "url": "https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604",
-      "meta": "92 reactions"
+      "title": "Stuck in the same dev.to topics? An open model fixed it.",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "url": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
+      "meta": "20 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
+      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
+      "url": "https://www.landian.news/archives/127403.html",
+      "meta": "15 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.2万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 5小时前 发布 其",
-      "url": "https://x.com/lidangzzz/status/2112814843824607735?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
