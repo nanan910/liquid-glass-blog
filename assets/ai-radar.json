@@ -1,34 +1,27 @@
 {
-  "updatedAt": "2026-10-21T18:11:13.380Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-21T21:54:17.696Z",
+  "sourceCount": 5,
   "items": [
     {
-      "source": "GitHub",
-      "title": "Leonxlnx/earshot",
-      "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "meta": "Stars 2045"
-    },
-    {
       "source": "Hacker News",
-      "title": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+      "title": "Obsession with AI May Be Starving the Research Fields It Needs to Survive",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/MvikManners/aw1-circuit-breaker",
-      "meta": "1 points"
+      "url": "https://www.unite.ai/obsession-with-ai-may-be-starving-the-research-fields-it-needs-to-survive/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14398 likes"
+      "meta": "14399 likes"
     },
     {
       "source": "DEV",
       "title": "Stuck in the same dev.to topics? An open model fixed it.",
       "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
       "url": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
-      "meta": "20 reactions"
+      "meta": "32 reactions"
     },
     {
       "source": "蓝点网",
@@ -46,6 +39,7 @@
     }
   ],
   "errors": [
+    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-10-14&sort=stars&order=desc&per_page=1 returned 403",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
