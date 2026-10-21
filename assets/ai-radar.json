@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T23:02:38.907Z",
+  "updatedAt": "2026-10-21T01:53:05.211Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "Leonxlnx/earshot",
       "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
-      "meta": "Stars 1937"
+      "meta": "Stars 1957"
     },
     {
       "source": "Hacker News",
-      "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "url": "https://github.com/zhitongblog/unterm",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Somewhere, Coding Stopped Being Allowed to Be Fun",
       "summary": "Somewhere in the last couple of years, a strange feeling crept in, and I don't think I'm the only one...",
       "url": "https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe",
-      "meta": "35 reactions"
+      "meta": "39 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.1万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 2小时前 发布 那",
+      "url": "https://x.com/lidangzzz/status/2112685902287794189?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
