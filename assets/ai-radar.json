@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T05:18:20.879Z",
+  "updatedAt": "2026-10-22T10:29:18.159Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "alchaincyf/huashu-motion",
       "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
-      "meta": "Stars 1315"
+      "meta": "Stars 1354"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Commit Quiz – A Git hook to review AI-generated changes",
+      "title": "Evaluating Memory Systems for AI Agents Is Harder Than It Looks",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/Cristopheer96/commit-quiz",
+      "url": "https://x.com/AgentMemoryL",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14400 likes"
+      "meta": "14401 likes"
     },
     {
       "source": "DEV",
-      "title": "I Fixed WebGPU on Linux. Then Forgot How I Did It.",
-      "summary": "I spent a ridiculous amount of time trying to get WebGPU working properly on my Linux machine.  I...",
-      "url": "https://dev.to/sizzlebop/i-fixed-webgpu-on-linux-then-forgot-how-i-did-it-5hjd",
-      "meta": "18 reactions"
+      "title": "AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?",
+      "summary": "I can generate a full authentication flow with a database schema, API routes, and unit tests in under...",
+      "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
+      "meta": "20 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.2万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 1小时前 发布 我",
-      "url": "https://x.com/lidangzzz/status/2113108836278210750?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 1.7万 粉 Xuanwo @ xuanwo · 3小时前 发布 迄今为止，我用过的最爽的推理服务是 @aiandcloud 部署的 deepseek，背后是最新的 ",
+      "url": "https://x.com/xuanwo/status/2113158531549729231?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
