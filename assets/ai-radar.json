@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-21T21:54:17.696Z",
+  "updatedAt": "2026-10-22T00:31:06.298Z",
   "sourceCount": 5,
   "items": [
     {
+      "source": "GitHub",
+      "title": "alchaincyf/huashu-motion",
+      "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "meta": "Stars 1269"
+    },
+    {
       "source": "Hacker News",
-      "title": "Obsession with AI May Be Starving the Research Fields It Needs to Survive",
+      "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.unite.ai/obsession-with-ai-may-be-starving-the-research-fields-it-needs-to-survive/",
-      "meta": "3 points"
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -24,22 +31,15 @@
       "meta": "32 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
-      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
-      "url": "https://www.landian.news/archives/127403.html",
-      "meta": "15 Oct 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 8.9万 粉 KK.aWSB @ KKaWSB · 6小时前 发布 2011年，谷歌前CEO埃里克·施密特，开始和一个叫 Cami Clark 的年轻女创业者交往。 ",
+      "url": "https://x.com/KKaWSB/status/2112973566178169117?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-10-14&sort=stars&order=desc&per_page=1 returned 403",
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
