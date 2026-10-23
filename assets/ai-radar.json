@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:47:37.088Z",
+  "updatedAt": "2026-10-23T21:11:34.571Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "alchaincyf/huashu-motion",
       "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
-      "meta": "Stars 1525"
+      "meta": "Stars 1531"
     },
     {
       "source": "Hacker News",
-      "title": "Introducing 1Password for Agents",
+      "title": "Show HN: Free, unlimited, private AI text detector",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://1password.com/blog/1password-for-ai-agents",
+      "url": "https://kouh.me/ai-text-detector",
       "meta": "1 points"
     },
     {
