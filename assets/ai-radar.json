@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T12:46:59.521Z",
+  "updatedAt": "2026-10-23T17:47:37.088Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "alchaincyf/huashu-motion",
       "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
-      "meta": "Stars 1502"
+      "meta": "Stars 1525"
     },
     {
       "source": "Hacker News",
-      "title": "How DevRel Is Leading AI Adoption",
+      "title": "Introducing 1Password for Agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://angiejones.tech/how-devrel-is-leading-ai-adoption/",
+      "url": "https://1password.com/blog/1password-for-ai-agents",
       "meta": "1 points"
     },
     {
@@ -21,13 +21,13 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14406 likes"
+      "meta": "14407 likes"
     },
     {
       "source": "DEV",
-      "title": "AI Is Winning Literary Awards. The Data Says That's Not What's Happening.",
-      "summary": "The headlines have been impossible to miss. An AI-assisted novel takes a major prize in Japan. AI...",
-      "url": "https://dev.to/james_anderson_h/ai-is-winning-literary-awards-the-data-says-thats-not-whats-happening-179d",
+      "title": "5 Steps on How to not loose at a hackathon?",
+      "summary": "In 1999, ten developers gathered to work on cryptographic frameworks, IPv6, and IPsec for OpenBSD, in...",
+      "url": "https://dev.to/sanidhya_at_mlh/5-steps-on-how-to-not-loose-at-a-hackathon-3hd1",
       "meta": "15 reactions"
     },
     {
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.3万 粉 SuSu_酥酥👅 @ NFT_Chen · 4小时前 发布 🚨炸裂预告！Kimi K3.1 恐怕要暴揍Opus 5.5！ 让你说我蒸馏！打死你丫的！",
-      "url": "https://x.com/NFT_Chen/status/2113539435786875226?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
