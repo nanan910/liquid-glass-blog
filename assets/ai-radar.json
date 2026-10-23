@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-23T07:13:33.585Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-23T12:46:59.521Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "alchaincyf/huashu-motion",
       "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
-      "meta": "Stars 1483"
+      "meta": "Stars 1502"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Audimind – Create audiobooks in one AI-powered workspace",
+      "title": "How DevRel Is Leading AI Adoption",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.audimind.ai",
+      "url": "https://angiejones.tech/how-devrel-is-leading-ai-adoption/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14405 likes"
+      "meta": "14406 likes"
     },
     {
       "source": "DEV",
@@ -31,15 +31,21 @@
       "meta": "15 reactions"
     },
     {
+      "source": "蓝点网",
+      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
+      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
+      "url": "https://www.landian.news/archives/127403.html",
+      "meta": "15 Oct 2026"
+    },
+    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.5万 粉 WquGuru @ wquguru · 3小时前 发布 支付 Claude 订阅通过 Google Play 套一层是很有必要的： - 如果 IP、SI",
-      "url": "https://x.com/wquguru/status/2113480381987270820?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.3万 粉 SuSu_酥酥👅 @ NFT_Chen · 4小时前 发布 🚨炸裂预告！Kimi K3.1 恐怕要暴揍Opus 5.5！ 让你说我蒸馏！打死你丫的！",
+      "url": "https://x.com/NFT_Chen/status/2113539435786875226?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
