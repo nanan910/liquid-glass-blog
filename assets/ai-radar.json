@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-23T01:47:10.459Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-23T07:13:33.585Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "alchaincyf/huashu-motion",
       "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
-      "meta": "Stars 1446"
+      "meta": "Stars 1483"
     },
     {
       "source": "Hacker News",
-      "title": "AI Keeps Getting Better. Why Is Its Writing Still So Bad?",
+      "title": "Show HN: Audimind – Create audiobooks in one AI-powered workspace",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/",
+      "url": "https://www.audimind.ai",
       "meta": "1 points"
     },
     {
@@ -21,31 +21,25 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14402 likes"
+      "meta": "14405 likes"
     },
     {
       "source": "DEV",
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "summary": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
-      "meta": "48 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
-      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
-      "url": "https://www.landian.news/archives/127403.html",
-      "meta": "15 Oct 2026"
+      "title": "AI Is Winning Literary Awards. The Data Says That's Not What's Happening.",
+      "summary": "The headlines have been impossible to miss. An AI-assisted novel takes a major prize in Japan. AI...",
+      "url": "https://dev.to/james_anderson_h/ai-is-winning-literary-awards-the-data-says-thats-not-whats-happening-179d",
+      "meta": "15 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 161.2万 粉 lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） @ lidangzzz · 4小时前 发布 我",
-      "url": "https://x.com/lidangzzz/status/2113378023105822749?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 2.5万 粉 WquGuru @ wquguru · 3小时前 发布 支付 Claude 订阅通过 Google Play 套一层是很有必要的： - 如果 IP、SI",
+      "url": "https://x.com/wquguru/status/2113480381987270820?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
