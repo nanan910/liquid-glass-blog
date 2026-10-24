@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:56:20.866Z",
+  "updatedAt": "2026-10-24T04:12:11.271Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "alchaincyf/huashu-motion",
       "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
-      "meta": "Stars 1537"
+      "meta": "Stars 1546"
     },
     {
       "source": "Hacker News",
-      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "title": "Show HN: Inference Cooperative, user-governed AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "url": "https://inference.coop/",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14407 likes"
+      "meta": "14408 likes"
     },
     {
       "source": "DEV",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 18.2万 粉 歸藏(guizang.ai) @ op7418 · 2小时前 发布 有人爆料说，Claude Code 的作者 Thariq，离职了。 他是一直以来代",
+      "url": "https://x.com/op7418/status/2113815343173116124?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
