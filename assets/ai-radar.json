@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:02:36.099Z",
+  "updatedAt": "2026-10-24T13:31:03.826Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "alchaincyf/huashu-motion",
       "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
-      "meta": "Stars 1562"
+      "meta": "Stars 1574"
     },
     {
       "source": "Hacker News",
-      "title": "Mace AI founders warn of AI double agents amid banks detecting unauthorized AI",
+      "title": "Is AI just another get rich quick scheme?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents-",
-      "meta": "2 points"
+      "url": "https://news.ycombinator.com/item?id=50220934",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -33,7 +33,7 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.4万 粉 Max For AI @ MaxForAI · 2小时前 发布 果然，中国人最恨的模型是Claude！ https://t.co/iXeSun7Txi",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.4万 粉 Max For AI @ MaxForAI · 6小时前 发布 果然，中国人最恨的模型是Claude！ https://t.co/iXeSun7Txi",
       "url": "https://x.com/MaxForAI/status/2113886655606411271?sid=ai-tweet-reply",
       "meta": "热帖"
     }
