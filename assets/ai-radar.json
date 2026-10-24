@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-24T13:31:03.826Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-24T16:53:58.213Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "alchaincyf/huashu-motion",
       "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
-      "meta": "Stars 1574"
+      "meta": "Stars 1587"
     },
     {
       "source": "Hacker News",
-      "title": "Is AI just another get rich quick scheme?",
+      "title": "How could the US and China verifiably slow AI?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=50220934",
+      "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai",
       "meta": "1 points"
     },
     {
@@ -25,21 +25,27 @@
     },
     {
       "source": "DEV",
-      "title": "5 Steps on How to not loose at a hackathon?",
-      "summary": "In 1999, ten developers gathered to work on cryptographic frameworks, IPv6, and IPsec for OpenBSD, in...",
-      "url": "https://dev.to/sanidhya_at_mlh/5-steps-on-how-to-not-loose-at-a-hackathon-3hd1",
-      "meta": "17 reactions"
+      "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
+      "summary": "The third week of October 2026 was a rough one for anyone who runs software on the internet.  Two...",
+      "url": "https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg",
+      "meta": "21 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
+      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
+      "url": "https://www.landian.news/archives/127403.html",
+      "meta": "15 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.4万 粉 Max For AI @ MaxForAI · 6小时前 发布 果然，中国人最恨的模型是Claude！ https://t.co/iXeSun7Txi",
-      "url": "https://x.com/MaxForAI/status/2113886655606411271?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
