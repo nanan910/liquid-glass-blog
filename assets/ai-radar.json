@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T10:03:31.951Z",
+  "updatedAt": "2026-10-25T14:31:21.519Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "dominikmartn/harp",
       "summary": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
       "url": "https://github.com/dominikmartn/harp",
-      "meta": "Stars 608"
+      "meta": "Stars 607"
     },
     {
       "source": "Hacker News",
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "title": "Skyl – One Go interface for 400 AI models",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "meta": "2 points"
+      "url": "https://skyl-docs.vercel.app/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,12 +28,12 @@
       "title": "Three Times My Test Failed and the LLM Was Right",
       "summary": "A test fails, and the reflex is: the code is wrong. Debug the code, fix the code, move on. That...",
       "url": "https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2",
-      "meta": "16 reactions"
+      "meta": "17 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.7万 粉 苍何 @ canghe · 3小时前 发布 AI产品红黑榜，Claude一片红，太吓人了。。。。 https://t.co/MUDR91HeSg",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.7万 粉 苍何 @ canghe · 8小时前 发布 AI产品红黑榜，Claude一片红，太吓人了。。。。 https://t.co/MUDR91HeSg",
       "url": "https://x.com/canghe/status/2114238467714728185?sid=ai-tweet-reply",
       "meta": "热帖"
     }
