@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-25T14:31:21.519Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-25T18:15:02.062Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "dominikmartn/harp",
-      "summary": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "url": "https://github.com/dominikmartn/harp",
-      "meta": "Stars 607"
+      "title": "rddmwmddr/android-ad-cleaner",
+      "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "meta": "Stars 682"
     },
     {
       "source": "Hacker News",
-      "title": "Skyl – One Go interface for 400 AI models",
+      "title": "Lightning.ai October 2026 Security Incident",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://skyl-docs.vercel.app/",
+      "url": "https://lightning.ai/security-incident/",
       "meta": "1 points"
     },
     {
@@ -28,18 +28,24 @@
       "title": "Three Times My Test Failed and the LLM Was Right",
       "summary": "A test fails, and the reflex is: the code is wrong. Debug the code, fix the code, move on. That...",
       "url": "https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2",
-      "meta": "17 reactions"
+      "meta": "19 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
+      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
+      "url": "https://www.landian.news/archives/127403.html",
+      "meta": "15 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.7万 粉 苍何 @ canghe · 8小时前 发布 AI产品红黑榜，Claude一片红，太吓人了。。。。 https://t.co/MUDR91HeSg",
-      "url": "https://x.com/canghe/status/2114238467714728185?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
