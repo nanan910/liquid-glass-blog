@@ -1,51 +1,45 @@
 {
-  "updatedAt": "2026-10-25T05:07:59.839Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-25T10:03:31.951Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "dominikmartn/harp",
       "summary": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
       "url": "https://github.com/dominikmartn/harp",
-      "meta": "Stars 604"
+      "meta": "Stars 608"
     },
     {
       "source": "Hacker News",
-      "title": "Kevin Kelly – We don't want the best AI, we want the only AI",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://kevinkelly.substack.com/p/most-improbable-agent-of-you",
-      "meta": "1 points"
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14409 likes"
+      "meta": "14410 likes"
     },
     {
       "source": "DEV",
-      "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
-      "summary": "The third week of October 2026 was a rough one for anyone who runs software on the internet.  Two...",
-      "url": "https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg",
-      "meta": "23 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
-      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
-      "url": "https://www.landian.news/archives/127403.html",
-      "meta": "15 Oct 2026"
+      "title": "Three Times My Test Failed and the LLM Was Right",
+      "summary": "A test fails, and the reflex is: the code is wrong. Debug the code, fix the code, move on. That...",
+      "url": "https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2",
+      "meta": "16 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.7万 粉 大漂亮| C Labs @ giantcutie666 · 2小时前 发布 知情人透露，\"程序小王子\"DeepSeek创始人梁文锋的小号 账号关注浙大",
-      "url": "https://x.com/giantcutie666/status/2114178966877855957?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 4.7万 粉 苍何 @ canghe · 3小时前 发布 AI产品红黑榜，Claude一片红，太吓人了。。。。 https://t.co/MUDR91HeSg",
+      "url": "https://x.com/canghe/status/2114238467714728185?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
