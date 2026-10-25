@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T18:15:02.062Z",
+  "updatedAt": "2026-10-25T21:07:20.639Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "rddmwmddr/android-ad-cleaner",
       "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "meta": "Stars 682"
+      "meta": "Stars 707"
     },
     {
       "source": "Hacker News",
-      "title": "Lightning.ai October 2026 Security Incident",
+      "title": "Struggling to Keep AI Out",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://lightning.ai/security-incident/",
-      "meta": "1 points"
+      "url": "https://blog.eunach.scot/struggling-to-keep-ai-out",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14410 likes"
+      "meta": "14409 likes"
     },
     {
       "source": "DEV",
       "title": "Three Times My Test Failed and the LLM Was Right",
       "summary": "A test fails, and the reflex is: the code is wrong. Debug the code, fix the code, move on. That...",
       "url": "https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2",
-      "meta": "19 reactions"
+      "meta": "20 reactions"
     },
     {
       "source": "蓝点网",
