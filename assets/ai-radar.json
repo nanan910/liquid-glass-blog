@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-25T00:07:31.414Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-25T05:07:59.839Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "dominikmartn/harp",
       "summary": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
       "url": "https://github.com/dominikmartn/harp",
-      "meta": "Stars 602"
+      "meta": "Stars 604"
     },
     {
       "source": "Hacker News",
-      "title": "Rin Chat – An Easy to Use AI Roleplay App",
+      "title": "Kevin Kelly – We don't want the best AI, we want the only AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://aicharactercards.com/",
+      "url": "https://kevinkelly.substack.com/p/most-improbable-agent-of-you",
       "meta": "1 points"
     },
     {
@@ -28,18 +28,24 @@
       "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
       "summary": "The third week of October 2026 was a rough one for anyone who runs software on the internet.  Two...",
       "url": "https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg",
-      "meta": "22 reactions"
+      "meta": "23 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
+      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
+      "url": "https://www.landian.news/archives/127403.html",
+      "meta": "15 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 227.3万 粉 李老师不是你老师 @ whyyoutouzhele · 5小时前 发布 官媒宣传大二学生手搓AI中转站，两个月营收60万，网友：“这可太刑了” 10",
-      "url": "https://x.com/whyyoutouzhele/status/2114058088508457039?sid=ai-tweet-reply",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 14.7万 粉 大漂亮| C Labs @ giantcutie666 · 2小时前 发布 知情人透露，\"程序小王子\"DeepSeek创始人梁文锋的小号 账号关注浙大",
+      "url": "https://x.com/giantcutie666/status/2114178966877855957?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
