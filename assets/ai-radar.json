@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:27:54.756Z",
+  "updatedAt": "2026-10-26T01:34:39.834Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "rddmwmddr/android-ad-cleaner",
       "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "meta": "Stars 744"
+      "meta": "Stars 848"
     },
     {
       "source": "Hacker News",
-      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "title": "Show HN: Depono – Chat with many AI models at cost and 10%, files kept in Git",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-      "meta": "12 points"
+      "url": "https://depono.xyz/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Three Times My Test Failed and the LLM Was Right",
-      "summary": "A test fails, and the reflex is: the code is wrong. Debug the code, fix the code, move on. That...",
-      "url": "https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2",
-      "meta": "20 reactions"
+      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
+      "meta": "16 reactions"
     },
     {
       "source": "蓝点网",
@@ -40,8 +40,8 @@
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
-      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 Discord RSS 📭 暂无帖子 当前AI领域暂无起爆帖数据，请尝试切换其他领域。",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
+      "url": "https://x.com/turingou/status/2114420343075131473?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
