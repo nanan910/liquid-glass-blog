@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-26T01:34:39.834Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-10-26T07:35:52.009Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "rddmwmddr/android-ad-cleaner",
       "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "meta": "Stars 848"
+      "meta": "Stars 1185"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Depono – Chat with many AI models at cost and 10%, files kept in Git",
+      "title": "Show HN: pw-repl – A Playwright-powered REPL for you and your agents to share",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://depono.xyz/",
+      "url": "https://github.com/arcanemachine/pw-repl",
       "meta": "1 points"
     },
     {
@@ -21,31 +21,25 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14409 likes"
+      "meta": "14410 likes"
     },
     {
       "source": "DEV",
-      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
-      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
-      "meta": "16 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "使用Claude参与开发后代码合并量激增10倍 为此A社使用自研版本控制系统替代Git",
-      "summary": "<p>A 社日前发布博客透露公司内部已经从传统版本控制系统 Git 迁移到自研版本控制系统 Scion，原因是使用 Claude 参与日常开发任务后代码产生量快速增长，传统 Git 已经难以满...",
-      "url": "https://www.landian.news/archives/127403.html",
-      "meta": "15 Oct 2026"
+      "title": "🦥 We built a pixel-art office where five cats do your data analysis while a sloth naps 🐱",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady    Every...",
+      "url": "https://dev.to/fionakhl/we-built-a-pixel-art-office-where-five-cats-do-your-data-analysis-while-a-sloth-naps-1in8",
+      "meta": "20 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/turingou/status/2114420343075131473?sid=ai-tweet-reply",
+      "url": "https://x.com/lidangzzz/status/2114589230789714137?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
