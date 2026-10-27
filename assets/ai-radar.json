@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:16:55.652Z",
+  "updatedAt": "2026-10-27T20:52:11.077Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "rddmwmddr/android-ad-cleaner",
       "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "meta": "Stars 3069"
+      "meta": "Stars 3160"
     },
     {
       "source": "Hacker News",
-      "title": "Aulico: Learn to Invest with AI",
+      "title": "In China, the AI bubble has burst",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.aulico.com",
-      "meta": "1 points"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+      "meta": "5 points"
     },
     {
       "source": "Hugging Face",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "url": "https://x.com/AYi_AInotes/status/2115138198351274354?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
