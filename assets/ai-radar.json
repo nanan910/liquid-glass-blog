@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T05:25:58.306Z",
+  "updatedAt": "2026-10-27T10:49:30.480Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "rddmwmddr/android-ad-cleaner",
       "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "meta": "Stars 2245"
+      "meta": "Stars 2745"
     },
     {
       "source": "Hacker News",
-      "title": "Vanishing Scarcity: Generative AI and the Redefinition of Musical Value",
+      "title": "Highlighting What Changed: A Go Diff-Mask for AI Agent Screenshots",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://medium.com/@smoking2man/vanishing-scarcity-generative-ai-and-the-redefinition-of-musical-value-0366647505e4",
+      "url": "https://towardsdev.com/highlighting-what-changed-a-go-diff-mask-for-ai-agent-screenshots-64551334911a?sk=5efd0778f96236fa3fbefdb52727b5d5",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14410 likes"
+      "meta": "14411 likes"
     },
     {
       "source": "DEV",
@@ -32,16 +32,16 @@
     },
     {
       "source": "蓝点网",
-      "title": "A社正式提交IPO注册文件 股票代号ANT 营收快速增长但账面亏损持续扩大",
-      "summary": "<p>人工智能公司 Anthropic 在 10 月 26 日向美国证券交易委员会提交公开版 S-1 注册文件，正式推进 IPO 即首次公开募股。A 社计划在纳斯达克全球精选市场挂牌，股票代码...",
-      "url": "https://www.landian.news/archives/127687.html",
+      "title": "A社在IPO注册文件中透露 违规用户贡献7%的营收 蒸馏防护已经封禁数万账号",
+      "summary": "<p>人工智能公司 Anthropic 在提交的上市注册文件中透露，2026 年 1~9 月，后来被认定违反使用政策或商业条款的客户贡献公司营收金额的 5%~7%。与此同时 A 社称其针对未经...",
+      "url": "https://www.landian.news/archives/127749.html",
       "meta": "27 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/geekbb/status/2114901443719409862?sid=ai-tweet-reply",
+      "url": "https://x.com/TechFlowPost/status/2115014077973959164?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
