@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T19:00:21.582Z",
+  "updatedAt": "2026-10-28T23:25:39.600Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "rddmwmddr/android-ad-cleaner",
       "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "meta": "Stars 4244"
+      "meta": "Stars 4266"
     },
     {
       "source": "Hacker News",
-      "title": "Japan Airlines (JAL) says Amadeus breach exposed 92k+ booking and 2000 passports",
+      "title": "Show HN: Open-source AI workspace with shared procedural memory",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html",
-      "meta": "1 points"
+      "url": "https://github.com/TheWariend/CleanSlate",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "Four Ways a Test Can Lie to You",
       "summary": "Green and worthless: what verifying one small application taught me, when an AI agent wrote most of...",
       "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf",
-      "meta": "12 reactions"
+      "meta": "13 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/ScarletKc/status/2115492075294818400?sid=ai-tweet-reply",
+      "url": "https://x.com/alanchen/status/2115554197827621065?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
