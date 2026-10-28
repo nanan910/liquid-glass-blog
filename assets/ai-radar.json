@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-28T13:24:24.479Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-28T19:00:21.582Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "rddmwmddr/android-ad-cleaner",
       "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "meta": "Stars 4106"
+      "meta": "Stars 4244"
     },
     {
       "source": "Hacker News",
-      "title": "The Case for AI LTS: Why the Real World Needs a Stable Release Cycle",
+      "title": "Japan Airlines (JAL) says Amadeus breach exposed 92k+ booking and 2000 passports",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://chrisinnes.uk/notes/the-case-for-ai-lts/",
+      "url": "https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html",
       "meta": "1 points"
     },
     {
@@ -25,21 +25,27 @@
     },
     {
       "source": "DEV",
-      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
-      "summary": "Make empty what is already empty. Let doubt breed inside doubt. — The 36 Stratagems, The Empty Fort...",
-      "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
-      "meta": "96 reactions"
+      "title": "Four Ways a Test Can Lie to You",
+      "summary": "Green and worthless: what verifying one small application taught me, when an AI agent wrote most of...",
+      "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf",
+      "meta": "12 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "A社联合创始人再次重申 不会在Claude AI中插入广告 不希望广告影响回答方式",
+      "summary": "<p>Anthropic 日前在 IPO 招股文件中附上创始人信，七名联合创始人再次承诺不会在 Claude AI 中引入广告。七名联合创始人表示，广告收入会带来提高用户参与度的压力，而 Cl...",
+      "url": "https://www.landian.news/archives/127759.html",
+      "meta": "28 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/CyberKanjousen/status/2115268564521255089?sid=ai-tweet-reply",
+      "url": "https://x.com/ScarletKc/status/2115492075294818400?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
