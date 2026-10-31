@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-31T11:05:01.420Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-10-31T16:14:55.730Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "anhao/ai-pose-gallery-zh",
       "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "meta": "Stars 4355"
+      "meta": "Stars 4563"
     },
     {
       "source": "Hacker News",
-      "title": "Entire Insurance industry could be overwhelmed by catastrophic AI event",
+      "title": "Ask HN: Are you using AI to do election choices like Mayor, Special Measures",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.intelligentinsurer.com/entire-insurance-industry-could-be-overwhelmed-by-catastrophic-ai-event-anthropic",
+      "url": "https://news.ycombinator.com/item?id=50317351",
       "meta": "1 points"
     },
     {
@@ -25,21 +25,27 @@
     },
     {
       "source": "DEV",
-      "title": "My open source project is brand new and already has contributors. Here's what I did.",
-      "summary": "In the spirit of Hacktoberfest, with it being the last day of October, I wanted to share my story...",
-      "url": "https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4",
-      "meta": "59 reactions"
+      "title": "A Two-Line Function Caught AI Collusion Better Than the AI Did",
+      "summary": "A few days back, I took part in the Apart Research sprint where our team worked on the AI collusion...",
+      "url": "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd",
+      "meta": "16 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "新版Claude Code新增「更加危险」控制项 开启后可以关闭关键目录删除操作的确认提示",
+      "summary": "<p>Claude Code 2.1.311 版中新增新的环境变量，该环境变量允许用户在跳过权限检查的模式下，关闭针对危险删除命令的确认提示。启用后 Claude Code 执行涉及用户主目录...",
+      "url": "https://www.landian.news/archives/127838.html",
+      "meta": "30 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/gengdaJ/status/2116397558545453168?sid=ai-tweet-reply",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 503",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
