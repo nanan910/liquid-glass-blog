@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T05:20:52.980Z",
+  "updatedAt": "2026-10-31T11:05:01.420Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "anhao/ai-pose-gallery-zh",
       "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "meta": "Stars 4116"
+      "meta": "Stars 4355"
     },
     {
       "source": "Hacker News",
-      "title": "InstanStore – AI drafts products and sales pages for a creator store",
+      "title": "Entire Insurance industry could be overwhelmed by catastrophic AI event",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://instanstore.com/",
+      "url": "https://www.intelligentinsurer.com/entire-insurance-industry-could-be-overwhelmed-by-catastrophic-ai-event-anthropic",
       "meta": "1 points"
     },
     {
@@ -34,12 +34,12 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/Kay2289123/status/2116231480045392168?sid=ai-tweet-reply",
+      "url": "https://x.com/gengdaJ/status/2116397558545453168?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 503",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
