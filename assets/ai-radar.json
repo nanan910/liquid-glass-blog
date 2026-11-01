@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-01T11:58:52.816Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-11-01T17:52:25.150Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "summary": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "meta": "Stars 5177"
+      "meta": "Stars 6595"
     },
     {
       "source": "Hacker News",
-      "title": "Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage",
+      "title": "Beyond the Breakthrough: What Comes Next for AI [video] [Peter Norvig]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/mksglu/context-mode",
+      "url": "https://www.youtube.com/watch?v=GU9msk_eH7w",
       "meta": "1 points"
     },
     {
@@ -25,21 +25,27 @@
     },
     {
       "source": "DEV",
-      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
-      "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
-      "meta": "43 reactions"
+      "title": "My Local AI Invented 162 Python Packages. I Reran Everything From Scratch, and 161 Came Back.",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine  I...",
+      "url": "https://dev.to/soumyadeepdey/my-local-ai-invented-162-python-packages-i-reran-everything-from-scratch-and-161-came-back-4j73",
+      "meta": "22 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "新版Claude Code新增「更加危险」控制项 开启后可以关闭关键目录删除操作的确认提示",
+      "summary": "<p>Claude Code 2.1.311 版中新增新的环境变量，该环境变量允许用户在跳过权限检查的模式下，关闭针对危险删除命令的确认提示。启用后 Claude Code 执行涉及用户主目录...",
+      "url": "https://www.landian.news/archives/127838.html",
+      "meta": "30 Oct 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/Khazix0918/status/2116801460579234047?sid=ai-tweet-reply",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
