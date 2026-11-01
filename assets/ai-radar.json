@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-31T23:34:16.486Z",
+  "updatedAt": "2026-11-01T05:16:01.195Z",
   "sourceCount": 5,
   "items": [
     {
+      "source": "GitHub",
+      "title": "anhao/ai-pose-gallery-zh",
+      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "meta": "Stars 4804"
+    },
+    {
       "source": "Hacker News",
-      "title": "DeepSeek put the architecture for their always-on autonomous agent on GitHub",
+      "title": "The AI boom spawns job market for data-center liaisons",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "meta": "2 points"
+      "url": "https://www.semafor.com/article/10/30/2026/the-ai-boom-spawns-job-market-for-data-center-liaisons",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -18,28 +25,21 @@
     },
     {
       "source": "DEV",
-      "title": "A Two-Line Function Caught AI Collusion Better Than the AI Did",
-      "summary": "A few days back, I took part in the Apart Research sprint where our team worked on the AI collusion...",
-      "url": "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd",
-      "meta": "23 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "新版Claude Code新增「更加危险」控制项 开启后可以关闭关键目录删除操作的确认提示",
-      "summary": "<p>Claude Code 2.1.311 版中新增新的环境变量，该环境变量允许用户在跳过权限检查的模式下，关闭针对危险删除命令的确认提示。启用后 Claude Code 执行涉及用户主目录...",
-      "url": "https://www.landian.news/archives/127838.html",
-      "meta": "30 Oct 2026"
+      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
+      "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
+      "meta": "35 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/lidangzzz/status/2116589973470081522?sid=ai-tweet-reply",
+      "url": "https://x.com/xiaomustock/status/2116734508846449080?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://api.github.com/search/repositories?q=AI%20OR%20LLM%20OR%20agent%20OR%20diffusion%20created%3A%3E2026-10-24&sort=stars&order=desc&per_page=1 returned 403",
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
