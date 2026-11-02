@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T08:03:15.008Z",
+  "updatedAt": "2026-11-02T18:43:08.012Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "deepseek-ai/dsh-superagent-prototype",
       "summary": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "meta": "Stars 10141"
+      "meta": "Stars 12588"
     },
     {
       "source": "Hacker News",
-      "title": "Creative Coding in the Age of AI",
+      "title": "Anthropic and OpenAI Are Creating Warrooms for Election Misinformation",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.gorillasun.de/blog/creative-coding-in-the-age-of-ai/",
+      "url": "https://www.semafor.com/article/11/02/2026/election-war-rooms-enter-the-ai-age",
       "meta": "1 points"
     },
     {
@@ -21,27 +21,27 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14423 likes"
+      "meta": "14424 likes"
     },
     {
       "source": "DEV",
-      "title": "Your AI Agent Trusts Everything It Reads — A Field Guide to Hijacking Claude, GPT, Gemini & Copilot",
-      "summary": "A README file in your ~/Downloads folder should not be able to expose your SSH keys. A calendar...",
-      "url": "https://dev.to/rudratosh/your-ai-agent-trusts-everything-it-reads-a-field-guide-to-hijacking-claude-gpt-gemini-copilot-1l6k",
-      "meta": "16 reactions"
+      "title": "I shipped my biggest project ever and felt… nothing",
+      "summary": "Last month I finished one of the largest side project of my career — an open-source framework, docs,...",
+      "url": "https://dev.to/dhananjay_mundhada_02c326/i-shipped-my-biggest-project-ever-and-felt-nothing-585f",
+      "meta": "10 reactions"
     },
     {
       "source": "蓝点网",
-      "title": "Claude AI订阅套餐调整：Max 20x更名为Ultra 且200美元版取消5H限制",
-      "summary": "<p>日前 A 社调整 Claude AI 个人订阅套餐的名称和使用规则，原来的 Max 5x 更名为 Max，原来的 Max 20x 更名为 Ultra，以上订阅价格不变即还是每月 100 ...",
-      "url": "https://www.landian.news/archives/127930.html",
+      "title": "Claude使用政策已经更新 将API中转站的登录/转售行为都列入禁止行为",
+      "summary": "<p>A 社日前更新 Claude 使用政策并增加滥用行为的条款，此次更新明确禁止通过未经授权的转售、代理销售或提供访问服务。新使用政策将在 2026 年 11 月 12 日正式生效，涉及通过...",
+      "url": "https://www.landian.news/archives/127938.html",
       "meta": "02 Nov 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/_FORAB/status/2117155384033161702?sid=ai-tweet-reply",
+      "url": "https://x.com/TheMarketMemo/status/2117296731834781956?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
