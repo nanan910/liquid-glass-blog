@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T08:30:16.714Z",
+  "updatedAt": "2026-11-03T16:29:00.257Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "deepseek-ai/dsh-superagent-prototype",
       "summary": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "meta": "Stars 14886"
+      "meta": "Stars 16135"
     },
     {
       "source": "Hacker News",
-      "title": "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+      "title": "SUSE fires one in ten due to AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+      "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
       "meta": "2 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "I built a 3D game about my Nigerian childhood (and I'm not a game developer)",
-      "summary": "If you grew up in Nigeria, there is one sentence that can stop your heart in the middle of...",
-      "url": "https://dev.to/deborahemeni1/i-built-a-3d-game-about-my-nigerian-childhood-and-im-not-a-game-developer-281g",
-      "meta": "25 reactions"
+      "title": "Use it, or lose it 🧠",
+      "summary": "Fayaz reminds everyone why we should keep doing deep intellectual and creative works. ",
+      "url": "https://dev.to/fm/use-it-or-lose-it-42l",
+      "meta": "26 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/HiTw93/status/2117521154747625813?sid=ai-tweet-reply",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
