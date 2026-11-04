@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-04T17:51:31.228Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-11-04T23:26:36.248Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "summary": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "meta": "Stars 18425"
+      "meta": "Stars 18530"
     },
     {
       "source": "Hacker News",
-      "title": "Voice remixing in Gemini 3.8 Flash TTS",
+      "title": "AI poisoning: are we using AI, or is AI using us?",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://aistudio.google.com/docs/voice-remixing",
+      "url": "https://blog.sparkcan.com/posts/ai-poisoning/",
       "meta": "1 points"
     },
     {
@@ -21,31 +21,25 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14428 likes"
+      "meta": "14429 likes"
     },
     {
       "source": "DEV",
       "title": "We're Building AI to Replace Ourselves. What's the Plan?",
       "summary": "Weren't we supposed to be replaced by AI by now? Or at least work less? AI agents were supposed to...",
       "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
-      "meta": "74 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude API公测消息线程功能 长对话无需反复上传历史 首词延迟可降低35%",
-      "summary": "<p>A 社日前宣布为 Claude Messages API 推出 Message Threads 消息线程功能，该功能旨在改善长对话的历史内容反复发送问题。用户首次发送完整对话后，后续请求...",
-      "url": "https://www.landian.news/archives/128028.html",
-      "meta": "03 Nov 2026"
+      "meta": "88 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/Franktradinglog/status/2118011010359631894?sid=ai-tweet-reply",
+      "url": "https://x.com/TJ_Research/status/2118107450423296183?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
