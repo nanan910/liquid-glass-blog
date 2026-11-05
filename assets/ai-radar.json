@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-05T03:40:19.640Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-11-05T11:59:36.526Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "summary": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "meta": "Stars 18748"
+      "meta": "Stars 19168"
     },
     {
       "source": "Hacker News",
-      "title": "Septaro, an AI-powered weekly reset to help you pursue your goals",
+      "title": "JavaScript obfuscation against \"AI\" code analysis",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://septaro.com",
+      "url": "https://mastodon.social/@bencurthoys/117563232404985385",
       "meta": "1 points"
     },
     {
@@ -21,25 +21,31 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14429 likes"
+      "meta": "14432 likes"
     },
     {
       "source": "DEV",
-      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
-      "summary": "Weren't we supposed to be replaced by AI by now? Or at least work less? AI agents were supposed to...",
-      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
-      "meta": "109 reactions"
+      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
+      "summary": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into the same production bug zapper? How Anthony Zador's Genomic Bottleneck explains what 'instinct' really is in AI coding agents.",
+      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
+      "meta": "6 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude API公测消息线程功能 长对话无需反复上传历史 首词延迟可降低35%",
+      "summary": "<p>A 社日前宣布为 Claude Messages API 推出 Message Threads 消息线程功能，该功能旨在改善长对话的历史内容反复发送问题。用户首次发送完整对话后，后续请求...",
+      "url": "https://www.landian.news/archives/128028.html",
+      "meta": "03 Nov 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/dingyi/status/2118149343920508937?sid=ai-tweet-reply",
+      "url": "https://x.com/yaohui12138/status/2118275946667004209?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
