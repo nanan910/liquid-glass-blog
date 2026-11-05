@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:59:36.526Z",
+  "updatedAt": "2026-11-05T19:51:50.663Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "deepseek-ai/dsh-superagent-prototype",
       "summary": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "meta": "Stars 19168"
+      "meta": "Stars 19412"
     },
     {
       "source": "Hacker News",
-      "title": "JavaScript obfuscation against \"AI\" code analysis",
+      "title": "Show HN: Lo-fi layered over air traffic control (recorded myself)",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://mastodon.social/@bencurthoys/117563232404985385",
+      "url": "https://finalapproach.fm/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14432 likes"
+      "meta": "14434 likes"
     },
     {
       "source": "DEV",
-      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
-      "summary": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into the same production bug zapper? How Anthony Zador's Genomic Bottleneck explains what 'instinct' really is in AI coding agents.",
-      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
-      "meta": "6 reactions"
+      "title": "Don't Write Markdown Files for Your Coding Agent. Write Scripts.",
+      "summary": "If you want agents to do what you want, you need to learn how to box them into deterministic actions....",
+      "url": "https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00",
+      "meta": "22 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/yaohui12138/status/2118275946667004209?sid=ai-tweet-reply",
+      "url": "https://x.com/bboczeng/status/2118410615480107386?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
