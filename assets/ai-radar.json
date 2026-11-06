@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-06T15:48:02.888Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-11-06T21:23:08.487Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "summary": "Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "meta": "Stars 20120"
+      "meta": "Stars 20214"
     },
     {
       "source": "Hacker News",
-      "title": "A sandbox to test how purchasing agents handle failed purchases",
+      "title": "The End of AI Frontiers",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://chargeback.cloudbotanist.ai/",
-      "meta": "2 points"
+      "url": "https://hunch.net/?p=13764006",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,21 +25,27 @@
     },
     {
       "source": "DEV",
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "summary": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
-      "meta": "102 reactions"
+      "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
+      "summary": "From a multi-agent testing experiment to a broader discussion about how engineering teams should...",
+      "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
+      "meta": "113 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude API公测消息线程功能 长对话无需反复上传历史 首词延迟可降低35%",
+      "summary": "<p>A 社日前宣布为 Claude Messages API 推出 Message Threads 消息线程功能，该功能旨在改善长对话的历史内容反复发送问题。用户首次发送完整对话后，后续请求...",
+      "url": "https://www.landian.news/archives/128028.html",
+      "meta": "03 Nov 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/NFT_Chen/status/2118683382905557208?sid=ai-tweet-reply",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
