@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T14:48:04.034Z",
+  "updatedAt": "2026-11-07T19:18:29.270Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,34 +7,34 @@
       "title": "KKKKhazix/agent-autoloop",
       "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "meta": "Stars 3899"
+      "meta": "Stars 3938"
     },
     {
       "source": "Hacker News",
-      "title": "AI agents are getting more complex. Developers shouldn't have to babysit them",
+      "title": "Some thoughts on AI, scientific papers, and peer review",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://thenewstack.io/harness-engineering-coding-agents/",
-      "meta": "1 points"
+      "url": "https://www.alekpetty.com/blog/ai_in_science.html",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14438 likes"
+      "meta": "14439 likes"
     },
     {
       "source": "DEV",
       "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
       "summary": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
       "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
-      "meta": "17 reactions"
+      "meta": "19 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/lidangzzz/status/2118924074231738726?sid=ai-tweet-reply",
+      "url": "https://x.com/laomunova/status/2119100924542992664?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
