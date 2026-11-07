@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T19:18:29.270Z",
+  "updatedAt": "2026-11-07T22:55:46.505Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "KKKKhazix/agent-autoloop",
       "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "meta": "Stars 3938"
+      "meta": "Stars 3949"
     },
     {
       "source": "Hacker News",
-      "title": "Some thoughts on AI, scientific papers, and peer review",
+      "title": "Dragon Ball AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.alekpetty.com/blog/ai_in_science.html",
-      "meta": "2 points"
+      "url": "https://www.jaymehoffman.com/writing/dragon-ball-ai/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
       "summary": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
       "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
-      "meta": "19 reactions"
+      "meta": "22 reactions"
     },
     {
       "source": "SoPilot",
