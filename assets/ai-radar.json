@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-08T16:13:55.978Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-11-08T20:41:28.093Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "KKKKhazix/agent-autoloop",
       "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "meta": "Stars 4079"
+      "meta": "Stars 4090"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Jurex in House – Handles Legal Side of Your Business with AI",
+      "title": "AI skill to provide IPA and English translations from uploaded sheet music",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://inhouse.jurex.ai/login",
+      "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
       "meta": "1 points"
     },
     {
@@ -21,7 +21,7 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14439 likes"
+      "meta": "14441 likes"
     },
     {
       "source": "DEV",
@@ -29,6 +29,13 @@
       "summary": "Ciao Amici 👋  Every hiking trail in the Alps has a map at the trailhead. A good one shows you the...",
       "url": "https://dev.to/aws-builders/how-to-master-aws-for-ai-3la4",
       "meta": "20 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude API公测消息线程功能 长对话无需反复上传历史 首词延迟可降低35%",
+      "summary": "<p>A 社日前宣布为 Claude Messages API 推出 Message Threads 消息线程功能，该功能旨在改善长对话的历史内容反复发送问题。用户首次发送完整对话后，后续请求...",
+      "url": "https://www.landian.news/archives/128028.html",
+      "meta": "03 Nov 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
