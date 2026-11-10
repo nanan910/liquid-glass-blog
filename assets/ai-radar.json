@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-10T09:30:02.373Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-11-10T17:14:46.271Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "DIYgod/pinky",
       "summary": "Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
-      "meta": "Stars 1578"
+      "meta": "Stars 1644"
     },
     {
       "source": "Hacker News",
-      "title": "AI Bubble: The Calls Are Coming from Inside the House",
+      "title": "Testing AI image watermarks: C2PA and SynthID",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://roddubitsky.substack.com/p/ai-bubble-the-calls-are-coming-from",
-      "meta": "3 points"
+      "url": "https://nabraj.com/blog/testing-ai-watermarks",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -25,21 +25,27 @@
     },
     {
       "source": "DEV",
-      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
-      "summary": "A month ago, an average web request on DEV took about 70 milliseconds inside Rails, with P99 response...",
-      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
-      "meta": "91 reactions"
+      "title": "Once Upon Agentic AI (Part 1): Create your own agent and forge its tools with Strands Agents",
+      "summary": "On Day1, three heroes that nothing destined to cross went on a journey to write the same legend....",
+      "url": "https://dev.to/aws/once-upon-agentic-ai-part-1-create-your-own-agent-and-forge-its-tools-with-strands-agents-22mo",
+      "meta": "21 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "Claude最强模型升级！Fable 5.2登顶智能指数排行榜 API调用价格较5.1降低20%",
+      "summary": "<p>A 社日前发布 Claude Fable 5.2 和 Claude Mythos 5.2，新模型升级代码、推理和视觉理解能力。新模型的 API 标准价格降至百万输入 8 美元、百万输出 ...",
+      "url": "https://www.landian.news/archives/128214.html",
+      "meta": "10 Nov 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/_FORAB/status/2120071909987713102?sid=ai-tweet-reply",
+      "url": "https://x.com/dotey/status/2120191790774960630?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
