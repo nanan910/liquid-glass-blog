@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:14:46.271Z",
+  "updatedAt": "2026-11-10T22:28:55.467Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "DIYgod/pinky",
       "summary": "Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
-      "meta": "Stars 1644"
+      "meta": "Stars 1655"
     },
     {
       "source": "Hacker News",
-      "title": "Testing AI image watermarks: C2PA and SynthID",
+      "title": "Show HN: SketchUp compatible modeler with AI capabilities",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://nabraj.com/blog/testing-ai-watermarks",
-      "meta": "1 points"
+      "url": "https://pushform.io/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Once Upon Agentic AI (Part 1): Create your own agent and forge its tools with Strands Agents",
-      "summary": "On Day1, three heroes that nothing destined to cross went on a journey to write the same legend....",
-      "url": "https://dev.to/aws/once-upon-agentic-ai-part-1-create-your-own-agent-and-forge-its-tools-with-strands-agents-22mo",
-      "meta": "21 reactions"
+      "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
+      "summary": "In my previous post, I took you behind the scenes of Google Agent Skills, covering how the project...",
+      "url": "https://dev.to/googleai/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products-b1l",
+      "meta": "0 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/dotey/status/2120191790774960630?sid=ai-tweet-reply",
+      "url": "https://x.com/laomunova/status/2120229776824877436?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
