@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T22:28:55.467Z",
+  "updatedAt": "2026-11-11T02:11:20.745Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "DIYgod/pinky",
       "summary": "Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
-      "meta": "Stars 1655"
+      "meta": "Stars 1704"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: SketchUp compatible modeler with AI capabilities",
+      "title": "The indie game community is in disarray over AI and Big Walk",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://pushform.io/",
-      "meta": "2 points"
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14444 likes"
+      "meta": "14445 likes"
     },
     {
       "source": "DEV",
-      "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
-      "summary": "In my previous post, I took you behind the scenes of Google Agent Skills, covering how the project...",
-      "url": "https://dev.to/googleai/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products-b1l",
-      "meta": "0 reactions"
+      "title": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
+      "summary": "A few years ago (three years at most), one of the biggest challenges QA Engineers faced was: how do...",
+      "url": "https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan",
+      "meta": "47 reactions"
     },
     {
       "source": "蓝点网",
