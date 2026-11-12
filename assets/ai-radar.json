@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T00:18:11.983Z",
+  "updatedAt": "2026-11-12T07:35:12.095Z",
   "sourceCount": 5,
   "items": [
     {
@@ -7,34 +7,34 @@
       "title": "DIYgod/pinky",
       "summary": "Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
-      "meta": "Stars 1865"
+      "meta": "Stars 1910"
     },
     {
       "source": "Hacker News",
-      "title": "What gives you the chills? AI can engineer it",
+      "title": "Why Every AI Model Will Ship as a Torrent",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://medium.com/@joshbocanegra/how-to-engineer-goosebumps-e18935bcb1d2",
-      "meta": "1 points"
+      "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14447 likes"
+      "meta": "14449 likes"
     },
     {
       "source": "DEV",
-      "title": "Ask More of Your UI",
-      "summary": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
-      "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7",
-      "meta": "40 reactions"
+      "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+      "summary": "An anonymous poll, a debate about multimodal testing, and some uncomfortable questions about who...",
+      "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+      "meta": "99 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/mylifcc/status/2120622845843706155?sid=ai-tweet-reply",
+      "url": "https://x.com/Crypto_He/status/2120732725778808952?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
