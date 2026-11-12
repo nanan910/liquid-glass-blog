@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-11T17:46:32.968Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-11-12T00:18:11.983Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "DIYgod/pinky",
       "summary": "Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
-      "meta": "Stars 1850"
+      "meta": "Stars 1865"
     },
     {
       "source": "Hacker News",
-      "title": "Revu – Code review in times of AI",
+      "title": "What gives you the chills? AI can engineer it",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://revu.enspirit.dev/",
+      "url": "https://medium.com/@joshbocanegra/how-to-engineer-goosebumps-e18935bcb1d2",
       "meta": "1 points"
     },
     {
@@ -31,21 +31,15 @@
       "meta": "40 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "A社盯上微软和谷歌的办公软件：Claude推出电子表格/白板/视频会议助手",
-      "summary": "<p>A 社今天发布多项 Claude 办公功能，包括电子表格 Claude Sheets、协作白板 Claude Whiteboards 和数据分析工具 Claude Data。用户可以直接...",
-      "url": "https://www.landian.news/archives/128302.html",
-      "meta": "11 Nov 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/NFT_Chen/status/2120547381079142444?sid=ai-tweet-reply",
+      "url": "https://x.com/mylifcc/status/2120622845843706155?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
