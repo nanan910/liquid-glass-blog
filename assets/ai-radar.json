@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:40:51.133Z",
+  "updatedAt": "2026-11-12T22:38:47.641Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "DIYgod/pinky",
       "summary": "Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
-      "meta": "Stars 1986"
+      "meta": "Stars 1997"
     },
     {
       "source": "Hacker News",
-      "title": "The Hard Part of AI Coding Is the Second Change",
+      "title": "What end-to-end AI systems mean for the future of automated driving",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://brian.biz/blog/ai-agents-keep-it-working/",
+      "url": "https://www.aptiv.com/en/insights/article/q-a-from-modular-software-to-end-to-end-ai",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14452 likes"
+      "meta": "14451 likes"
     },
     {
       "source": "DEV",
       "title": "Long Live Rails",
       "summary": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
       "url": "https://dev.to/ben/long-live-rails-3p21",
-      "meta": "50 reactions"
+      "meta": "77 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "url": "https://x.com/xiaomustock/status/2120924300333154787?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
