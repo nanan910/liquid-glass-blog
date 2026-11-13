@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:17:32.029Z",
+  "updatedAt": "2026-11-13T11:26:29.661Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,35 +7,35 @@
       "title": "agentes-chat/agentes-chat",
       "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "url": "https://github.com/agentes-chat/agentes-chat",
-      "meta": "Stars 1215"
+      "meta": "Stars 1266"
     },
     {
       "source": "Hacker News",
-      "title": "Loose Ends: A check for unused code AI wrote or forgot to remove",
+      "title": "AI Is Destroying the Trust Between Writers and Readers",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/sid732/loose-ends",
-      "meta": "1 points"
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14452 likes"
+      "meta": "14453 likes"
     },
     {
       "source": "DEV",
       "title": "Long Live Rails",
       "summary": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
       "url": "https://dev.to/ben/long-live-rails-3p21",
-      "meta": "83 reactions"
+      "meta": "107 reactions"
     },
     {
       "source": "蓝点网",
-      "title": "英伟达CUDA护城河迎来新挑战：Claude仅用3天就让模型适配AMD AI加速器",
-      "summary": "<p>Anthropic 在 IPO 路演中披露，该公司使用 Claude Mythos Preview 协助适配 AMD AI 加速器。A 社称 Claude AI 仅用 3 天就让内部模型...",
-      "url": "https://www.landian.news/archives/128307.html",
-      "meta": "12 Nov 2026"
+      "title": "一句简单的提示词就可以让Claude更积极地合并重复代码 但这也是有代价的...",
+      "summary": "<p>A 社在 Claude Fable 5.2 的提示词指南中提到：在编程任务中只要告诉模型「你是这个代码库的长期维护者」，模型处理重复代码和顺手修复相关问题的积极性就会明显提高。</p> ...",
+      "url": "https://www.landian.news/archives/128373.html",
+      "meta": "13 Nov 2026"
     },
     {
       "source": "SoPilot",
