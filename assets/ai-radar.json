@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-12T22:38:47.641Z",
+  "updatedAt": "2026-11-13T03:17:32.029Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "DIYgod/pinky",
-      "summary": "Let AI agents use your phone, with you in the loop.",
-      "url": "https://github.com/DIYgod/pinky",
-      "meta": "Stars 1997"
+      "title": "agentes-chat/agentes-chat",
+      "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "meta": "Stars 1215"
     },
     {
       "source": "Hacker News",
-      "title": "What end-to-end AI systems mean for the future of automated driving",
+      "title": "Loose Ends: A check for unused code AI wrote or forgot to remove",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.aptiv.com/en/insights/article/q-a-from-modular-software-to-end-to-end-ai",
+      "url": "https://github.com/sid732/loose-ends",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14451 likes"
+      "meta": "14452 likes"
     },
     {
       "source": "DEV",
       "title": "Long Live Rails",
       "summary": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
       "url": "https://dev.to/ben/long-live-rails-3p21",
-      "meta": "77 reactions"
+      "meta": "83 reactions"
     },
     {
       "source": "蓝点网",
