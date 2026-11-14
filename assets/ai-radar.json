@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T00:15:14.349Z",
+  "updatedAt": "2026-11-14T06:54:16.084Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "agentes-chat/agentes-chat",
       "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "url": "https://github.com/agentes-chat/agentes-chat",
-      "meta": "Stars 1339"
+      "meta": "Stars 1359"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+      "title": "AI Productivity Gains Mainly Benefit People at the Top",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=50491841",
+      "url": "https://nelson.cloud/ai-productivity-gains-mainly-benefit-people-at-the-top/",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14453 likes"
+      "meta": "14454 likes"
     },
     {
       "source": "DEV",
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
       "summary": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
       "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
-      "meta": "60 reactions"
+      "meta": "76 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/hanking66/status/2121287806580572368?sid=ai-tweet-reply",
+      "url": "https://x.com/wangwatchworld/status/2121428107697803759?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
