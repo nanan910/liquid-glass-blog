@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-14T19:04:07.623Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-11-14T23:16:02.614Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "FrigadeHQ/yogurt",
       "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "meta": "Stars 1425"
+      "meta": "Stars 1478"
     },
     {
       "source": "Hacker News",
-      "title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
+      "title": "Toward a future space-based, highly scalable AI infrastructure system design",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1/",
+      "url": "https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4",
       "meta": "1 points"
     },
     {
@@ -28,7 +28,14 @@
       "title": "Benchmarking the Gemini Decisions API",
       "summary": "The Gemini Decisions API scores a fixed set of answers in one pass and returns probabilities. An ADK triage agent built on it, a 48-ticket benchmark against Gemini 3.8 Flash, Gemini 4 Hydrogen, Gemini 3.5 Flash-Lite and Gemma 4 E2B, and a test of 1 to 100 questions in one request.",
       "url": "https://dev.to/gde/benchmarking-the-gemini-decisions-api-l31",
-      "meta": "11 reactions"
+      "meta": "14 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "一句简单的提示词就可以让Claude更积极地合并重复代码 但这也是有代价的...",
+      "summary": "<p>A 社在 Claude Fable 5.2 的提示词指南中提到：在编程任务中只要告诉模型「你是这个代码库的长期维护者」，模型处理重复代码和顺手修复相关问题的积极性就会明显提高。</p> ...",
+      "url": "https://www.landian.news/archives/128373.html",
+      "meta": "13 Nov 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
