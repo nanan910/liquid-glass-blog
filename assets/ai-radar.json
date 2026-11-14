@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T18:41:13.855Z",
+  "updatedAt": "2026-11-14T00:15:14.349Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "agentes-chat/agentes-chat",
       "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "url": "https://github.com/agentes-chat/agentes-chat",
-      "meta": "Stars 1321"
+      "meta": "Stars 1339"
     },
     {
       "source": "Hacker News",
-      "title": "The avalanche that hit math is coming for AI development",
+      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.dwarkesh.com/p/rsi",
+      "url": "https://news.ycombinator.com/item?id=50491841",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14452 likes"
+      "meta": "14453 likes"
     },
     {
       "source": "DEV",
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
       "summary": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
       "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
-      "meta": "46 reactions"
+      "meta": "60 reactions"
     },
     {
       "source": "蓝点网",
