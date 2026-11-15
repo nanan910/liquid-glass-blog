@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T02:58:25.344Z",
+  "updatedAt": "2026-11-15T10:40:52.848Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "FrigadeHQ/yogurt",
       "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "meta": "Stars 1506"
+      "meta": "Stars 1548"
     },
     {
       "source": "Hacker News",
-      "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
+      "title": "Taking AI Seriously",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.youtube.com/watch?v=MspRSCAb6uI",
+      "url": "https://borretti.me/article/taking-ai-seriously",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "One Tool Call Instead of Four Pages: Adding WebMCP to My Site",
-      "summary": "AI agents that open debbie.codes in a browser can now use tools on the page to find my videos, posts, podcasts and courses, instead of reading whole pages and guessing.",
-      "url": "https://dev.to/debs_obrien/one-tool-call-instead-of-four-pages-adding-webmcp-to-my-site-29g7",
-      "meta": "1 reactions"
+      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+      "summary": "A 1969 Mission Control console for kids. Built in one day for NASA Space Apps 2026.   TL;DR: For NASA...",
+      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
+      "meta": "22 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/XieJackie/status/2121740401103327643?sid=ai-tweet-reply",
+      "url": "https://x.com/VoxcatAI/status/2121845654896926810?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
