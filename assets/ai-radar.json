@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T17:38:04.576Z",
+  "updatedAt": "2026-11-15T22:38:40.827Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "FrigadeHQ/yogurt",
       "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "meta": "Stars 1601"
+      "meta": "Stars 1634"
     },
     {
       "source": "Hacker News",
-      "title": "Groma.md: Stay in control of your architecture as AI agents write code",
+      "title": "Thales unveils software protection against AI-led reverse engineering",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/MrLesk/Groma.md",
-      "meta": "2 points"
+      "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
       "summary": "A 1969 Mission Control console for kids. Built in one day for NASA Space Apps 2026.   TL;DR: For NASA...",
       "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
-      "meta": "25 reactions"
+      "meta": "33 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://sopilot.net/zh/hot-tweets",
+      "url": "https://x.com/AsiaFinance/status/2122064750955962429?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
