@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:36:10.132Z",
+  "updatedAt": "2026-11-18T03:27:05.155Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "Immortal-Protocols/lastbook",
       "summary": "Offline knowledge AI, maps and videos for survival and rebuilding",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "meta": "Stars 1630"
+      "meta": "Stars 1834"
     },
     {
       "source": "Hacker News",
-      "title": "The missing quadrant in responses to AI",
+      "title": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
-      "meta": "1 points"
+      "url": "https://greyswansignals.com",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14461 likes"
+      "meta": "14464 likes"
     },
     {
       "source": "DEV",
-      "title": "Five Palaces, One Model: Testing Google’s Gemini 4 Hydrogen in AI Studio",
-      "summary": "Last week Google shipped Gemini 4 Hydrogen, and within hours my X timeline was nothing but 3D scenes,...",
-      "url": "https://dev.to/amananandrai/i-built-5-interactive-3d-palaces-with-googles-new-gemini-4-hydrogen-in-ai-studio-5g8h",
-      "meta": "16 reactions"
+      "title": "Could I Still Do This From Scratch?",
+      "summary": "The thing that every dev I know is quietly worrying about is not AI taking their job. It's losing the...",
+      "url": "https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h",
+      "meta": "40 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/dotey/status/2122755808689549335?sid=ai-tweet-reply",
+      "url": "https://x.com/zemummy1/status/2122823588562784485?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
