@@ -1,51 +1,45 @@
 {
-  "updatedAt": "2026-11-18T03:27:05.155Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-11-18T12:09:16.260Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "Immortal-Protocols/lastbook",
       "summary": "Offline knowledge AI, maps and videos for survival and rebuilding",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "meta": "Stars 1834"
+      "meta": "Stars 1981"
     },
     {
       "source": "Hacker News",
-      "title": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
+      "title": "I had AI read my entire field, Theoretical Astrophysics",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://greyswansignals.com",
-      "meta": "2 points"
+      "url": "https://science.caseyhandmer.com/physics/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14464 likes"
+      "meta": "14467 likes"
     },
     {
       "source": "DEV",
-      "title": "Could I Still Do This From Scratch?",
-      "summary": "The thing that every dev I know is quietly worrying about is not AI taking their job. It's losing the...",
-      "url": "https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h",
-      "meta": "40 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude Code新增实验性的Code Mode：编写并使用JavaScript批量调用工具",
-      "summary": "<p>据 A 社发布的产品公告，Claude Code 2.1.323 及后续版本新增实验性功能 Code Mode，启用后 Claude Code 可以自主编写 JavaScript 并在代...",
-      "url": "https://www.landian.news/archives/128389.html",
-      "meta": "16 Nov 2026"
+      "title": "Is Coding with AI Actually Faster and Cheaper?",
+      "summary": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
+      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
+      "meta": "38 reactions"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/zemummy1/status/2122823588562784485?sid=ai-tweet-reply",
+      "url": "https://x.com/NFT_Chen/status/2122742178179137945?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
