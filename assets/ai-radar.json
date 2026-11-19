@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T10:39:36.842Z",
+  "updatedAt": "2026-11-19T19:25:09.280Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "duwqijlk/muse-protocol",
       "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "url": "https://github.com/duwqijlk/muse-protocol",
-      "meta": "Stars 1638"
+      "meta": "Stars 1654"
     },
     {
       "source": "Hacker News",
-      "title": "AI Questions (Benedict Evans' Bi-Annual, Nov 2026) [pdf]",
+      "title": "Show HN: Company docs didn't help our AI agent. Four shortnotes doubled accuracy",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6afe293472e19d05894f58bb/1795041588199/2026+11+AI+Questions.pdf",
+      "url": "https://contextflo.com/benchmarks/dabstep-haiku",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "summary": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
-      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
-      "meta": "65 reactions"
+      "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
+      "summary": "Know When to Walk Away  The Thirty-Six Stratagems, Stratagem 36               Open as Usual   When...",
+      "url": "https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh",
+      "meta": "97 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/CuiMao/status/2123154208597868607?sid=ai-tweet-reply",
+      "url": "https://x.com/maojietrading/status/2123461500371112031?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
