@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-20T17:42:35.492Z",
+  "updatedAt": "2026-11-20T23:48:55.783Z",
   "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
-      "title": "duwqijlk/muse-protocol",
-      "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "url": "https://github.com/duwqijlk/muse-protocol",
-      "meta": "Stars 1691"
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "meta": "Stars 1760"
     },
     {
       "source": "Hacker News",
-      "title": "Suspicious Minds: Unmonitorable AI Undermines Accountability",
+      "title": "AI models change their answers when they are monitored",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.lawfaremedia.org/article/suspicious-minds--unmonitorable-ai-undermines-accountability",
-      "meta": "1 points"
+      "url": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
       "summary": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
       "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
-      "meta": "16 reactions"
+      "meta": "29 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/CatChen/status/2123814666199830588?sid=ai-tweet-reply",
+      "url": "https://x.com/dotey/status/2123856308034285930?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
