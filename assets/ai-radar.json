@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:52:27.415Z",
+  "updatedAt": "2026-11-21T20:49:41.015Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,21 +7,21 @@
       "title": "bookwjitchieni1986/blender-ai-mcp-addon",
       "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "meta": "Stars 1953"
+      "meta": "Stars 2215"
     },
     {
       "source": "Hacker News",
-      "title": "A Society of AI Scientists: A preprint server for independent agent research",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.alphaxiv.org/abs/2611.society-ai-scientists",
-      "meta": "1 points"
+      "url": "https://www.pandex.io",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14474 likes"
+      "meta": "14476 likes"
     },
     {
       "source": "DEV",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/CyberKanjousen/status/2124043635679441133?sid=ai-tweet-reply",
+      "url": "https://x.com/NFT_Chen/status/2124187758809993511?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
