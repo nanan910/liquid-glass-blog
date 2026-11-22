@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T16:58:49.967Z",
+  "updatedAt": "2026-11-22T22:23:34.493Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "bookwjitchieni1986/blender-ai-mcp-addon",
       "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "meta": "Stars 2743"
+      "meta": "Stars 2745"
     },
     {
       "source": "Hacker News",
-      "title": "AI as a Cognitive Interface",
+      "title": "Tactical Team Changes from AI",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://medium.com/@smoking2man/ai-as-a-cognitive-interface-f31ff100eb8f",
+      "url": "https://staysaasy.com/tactical-team-changes-from-ai/",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
-      "summary": "The keys you miss become the lesson.   TL;DR: Dead Keys is my entry for the Kiroween 2026 hackathon,...",
-      "url": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2",
-      "meta": "31 reactions"
+      "title": "I Made My RAG Safer. It Got Worse Under Load",
+      "summary": "RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...",
+      "url": "https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm",
+      "meta": "29 reactions"
     },
     {
       "source": "蓝点网",
