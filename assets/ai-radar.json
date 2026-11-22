@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T01:03:16.365Z",
+  "updatedAt": "2026-11-22T08:38:16.578Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "bookwjitchieni1986/blender-ai-mcp-addon",
       "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "meta": "Stars 2421"
+      "meta": "Stars 2700"
     },
     {
       "source": "Hacker News",
-      "title": "West Coast Customs Turns a Tesla Model 3 into a 1955 Chevy Bel Air",
+      "title": "AI Riemann hypothesis proof is true, independent mathematicians confirm",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://electrek.co/2026/11/18/west-coast-customs-tesla-model-3-1955-chevy-bel-air-ev/",
-      "meta": "2 points"
+      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14477 likes"
+      "meta": "14479 likes"
     },
     {
       "source": "DEV",
-      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
-      "summary": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
-      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
-      "meta": "29 reactions"
+      "title": "The Chairs Are Back. The Coffee Is On. ☕",
+      "summary": "Welcome to The Third Cup.           The Renovation Is Done. We're Open Again!   Finally, the...",
+      "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
+      "meta": "94 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/ScarletKc/status/2124266910141587673?sid=ai-tweet-reply",
+      "url": "https://x.com/mranti/status/2124360071065043013?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
