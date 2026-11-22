@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T08:38:16.578Z",
+  "updatedAt": "2026-11-22T16:58:49.967Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "bookwjitchieni1986/blender-ai-mcp-addon",
       "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "meta": "Stars 2700"
+      "meta": "Stars 2743"
     },
     {
       "source": "Hacker News",
-      "title": "AI Riemann hypothesis proof is true, independent mathematicians confirm",
+      "title": "AI as a Cognitive Interface",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+      "url": "https://medium.com/@smoking2man/ai-as-a-cognitive-interface-f31ff100eb8f",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "The Chairs Are Back. The Coffee Is On. ☕",
-      "summary": "Welcome to The Third Cup.           The Renovation Is Done. We're Open Again!   Finally, the...",
-      "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
-      "meta": "94 reactions"
+      "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
+      "summary": "The keys you miss become the lesson.   TL;DR: Dead Keys is my entry for the Kiroween 2026 hackathon,...",
+      "url": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2",
+      "meta": "31 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/mranti/status/2124360071065043013?sid=ai-tweet-reply",
+      "url": "https://sopilot.net/zh/hot-tweets",
       "meta": "热帖"
     }
   ],
