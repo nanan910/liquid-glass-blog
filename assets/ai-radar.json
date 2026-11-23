@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T22:23:34.493Z",
+  "updatedAt": "2026-11-23T02:59:26.675Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "bookwjitchieni1986/blender-ai-mcp-addon",
       "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "meta": "Stars 2745"
+      "meta": "Stars 2750"
     },
     {
       "source": "Hacker News",
-      "title": "Tactical Team Changes from AI",
+      "title": "VistaPrint applies generative AI edits to prints without consent or warning",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://staysaasy.com/tactical-team-changes-from-ai/",
-      "meta": "1 points"
+      "url": "https://bsky.app/profile/mostlybree.kitrocha.com/post/3n2vxgsvrhs2q",
+      "meta": "5 points"
     },
     {
       "source": "Hugging Face",
@@ -28,7 +28,7 @@
       "title": "I Made My RAG Safer. It Got Worse Under Load",
       "summary": "RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...",
       "url": "https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm",
-      "meta": "29 reactions"
+      "meta": "31 reactions"
     },
     {
       "source": "蓝点网",
