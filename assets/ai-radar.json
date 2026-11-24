@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-24T00:14:17.029Z",
-  "sourceCount": 5,
+  "updatedAt": "2026-11-24T10:18:06.028Z",
+  "sourceCount": 6,
   "items": [
     {
       "source": "GitHub",
       "title": "EL4CTEO/fast-anything",
       "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "meta": "Stars 3113"
+      "meta": "Stars 3388"
     },
     {
       "source": "Hacker News",
-      "title": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
+      "title": "Show HN: Run LLM Benchmarks at 1/10th of the cost",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "url": "https://benchmarkrouter.newmeasure.ai/",
       "meta": "2 points"
     },
     {
@@ -28,7 +28,14 @@
       "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
       "summary": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
       "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9",
-      "meta": "22 reactions"
+      "meta": "32 reactions"
+    },
+    {
+      "source": "蓝点网",
+      "title": "面向大规模代码自动化审查：A社推出Claude Ship用于自动化审查/修复/批准代码",
+      "summary": "<p>A 社日前面向团队和企业订阅用户推出用于自动化代码审查的新功能 Claude Ship，该功能将代码审查、自动修复和代码审批整合到 PR 工作流中。这个功能主要针对的就是 AI 智能体生...",
+      "url": "https://www.landian.news/archives/128806.html",
+      "meta": "24 Nov 2026"
     },
     {
       "source": "SoPilot",
@@ -39,7 +46,6 @@
     }
   ],
   "errors": [
-    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
