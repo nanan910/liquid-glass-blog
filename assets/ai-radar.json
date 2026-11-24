@@ -1,51 +1,45 @@
 {
-  "updatedAt": "2026-11-23T12:14:48.342Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-11-24T00:14:17.029Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
-      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "meta": "Stars 2760"
+      "title": "EL4CTEO/fast-anything",
+      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "meta": "Stars 3113"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Make small local LLMs reliable agents by moving planning into code",
+      "title": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://github.com/ikaushik817-art/local-ai-tool-engine",
-      "meta": "1 points"
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "meta": "2 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14481 likes"
+      "meta": "14484 likes"
     },
     {
       "source": "DEV",
-      "title": "3Draft: Five Percent — 30 Minutes to Deadline",
-      "summary": "This is probably the most improvised demo video I've ever made.  I recorded it roughly 30 minutes...",
-      "url": "https://dev.to/pengeszikra/3draft-five-percent-30-minutes-to-deadline-1kfk",
+      "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
+      "summary": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
+      "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9",
       "meta": "22 reactions"
-    },
-    {
-      "source": "蓝点网",
-      "title": "Claude Code新增实验性的Code Mode：编写并使用JavaScript批量调用工具",
-      "summary": "<p>据 A 社发布的产品公告，Claude Code 2.1.323 及后续版本新增实验性功能 Code Mode，启用后 Claude Code 可以自主编写 JavaScript 并在代...",
-      "url": "https://www.landian.news/archives/128389.html",
-      "meta": "16 Nov 2026"
     },
     {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/NFT_Chen/status/2124731614215520378?sid=ai-tweet-reply",
+      "url": "https://x.com/MaxForAI/status/2125001099082092958?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 504",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
