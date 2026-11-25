@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:46:54.603Z",
+  "updatedAt": "2026-11-25T04:00:09.896Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "EL4CTEO/fast-anything",
       "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "meta": "Stars 3561"
+      "meta": "Stars 3667"
     },
     {
       "source": "Hacker News",
-      "title": "Strukto: First Virtual Terminal for AI Agents",
+      "title": "Journal proofing AI alters researcher's accepted paper without tracking",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.strukto.ai/",
+      "url": "https://bsky.app/profile/yungenchee.bsky.social/post/3n325cjuhxk2g",
       "meta": "1 points"
     },
     {
@@ -21,14 +21,14 @@
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14486 likes"
+      "meta": "14485 likes"
     },
     {
       "source": "DEV",
       "title": "Why Your AI Release Notes Hallucinate: The \"Why vs What\" Problem in Git History",
       "summary": "Passing raw git diffs to LLMs produces plausible but hallucinated changelogs. Here is why extracting the real \"why\" requires linked issues and counterfactual evals.",
       "url": "https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0",
-      "meta": "28 reactions"
+      "meta": "36 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/alanchen/status/2125284310718816364?sid=ai-tweet-reply",
+      "url": "https://x.com/mtrainier2020/status/2125418221415305344?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
