@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:57:40.865Z",
+  "updatedAt": "2026-11-27T18:49:31.061Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,14 +7,14 @@
       "title": "EL4CTEO/fast-anything",
       "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "meta": "Stars 4338"
+      "meta": "Stars 4427"
     },
     {
       "source": "Hacker News",
-      "title": "Why Stripe is not what you need to charge for your AI product (kind of)",
+      "title": "Spanish airline Plus Ultra to lay off entire workforce, union says",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://news.ycombinator.com/item?id=50664246",
-      "meta": "1 points"
+      "url": "https://www.reuters.com/legal/litigation/spanish-airline-plus-ultra-lay-off-entire-workforce-union-says-2026-11-27/",
+      "meta": "3 points"
     },
     {
       "source": "Hugging Face",
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "On reviewing AI-generated code",
-      "summary": "I see a lot of posts from developers who insist on reviewing every single line of code that AI agents...",
-      "url": "https://dev.to/nfrankel/on-reviewing-ai-generated-code-3olj",
-      "meta": "21 reactions"
+      "title": "Zero Repeat Regressions: The Golden Metric & The Future of Agentic Trust",
+      "summary": "Why we don't code by majority vote, opening our 375-ticket empirical ledger (including what broke), Barry Boehm's $1 : $500 : $25,000 token defect curve, the 4-Layer Verification Stack that lets you ship languages you despise, and how four Dart scars caught a live bug in a Python flight recorder.",
+      "url": "https://dev.to/gde/zero-repeat-regressions-the-golden-metric-the-future-of-agentic-trust-4857",
+      "meta": "6 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/_FORAB/status/2126166937344590014?sid=ai-tweet-reply",
+      "url": "https://x.com/NFT_Chen/status/2126355567199609254?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
