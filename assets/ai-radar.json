@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T15:38:13.451Z",
+  "updatedAt": "2026-11-27T00:25:19.137Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,28 +7,28 @@
       "title": "EL4CTEO/fast-anything",
       "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "meta": "Stars 4166"
+      "meta": "Stars 4229"
     },
     {
       "source": "Hacker News",
-      "title": "AI Is Fire",
+      "title": "Left to Solve: 57,410 open math problems, attacked by AI agents",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://bigfastblog.com/ai-is-fire/",
-      "meta": "3 points"
+      "url": "https://lefttosolve.com/",
+      "meta": "1 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14490 likes"
+      "meta": "14491 likes"
     },
     {
       "source": "DEV",
       "title": "Nostalgia and the AI Productivity Paradox",
       "summary": "There is something strangely nostalgic about November 2026.  GTA VI has finally arrived after 13...",
       "url": "https://dev.to/gramli/nostalgia-and-the-ai-productivity-paradox-4f33",
-      "meta": "57 reactions"
+      "meta": "60 reactions"
     },
     {
       "source": "蓝点网",
@@ -41,7 +41,7 @@
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/NFT_Chen/status/2125624416898043953?sid=ai-tweet-reply",
+      "url": "https://x.com/MaxForAI/status/2126077013392056696?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
