@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-28T09:58:35.635Z",
-  "sourceCount": 6,
+  "updatedAt": "2026-11-28T18:07:32.348Z",
+  "sourceCount": 5,
   "items": [
     {
       "source": "GitHub",
       "title": "nexu-io/opengame",
       "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
       "url": "https://github.com/nexu-io/opengame",
-      "meta": "Stars 2577"
+      "meta": "Stars 2858"
     },
     {
       "source": "Hacker News",
-      "title": "DeepSeek has commissioned a third-party risk evaluation of V4 Pro [pdf]",
+      "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://concordia-ai.com/wp-content/uploads/2026/11/deepseek_v4_pro_0813_systemic_risk_assessment.pdf",
-      "meta": "1 points"
+      "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+      "meta": "17 points"
     },
     {
       "source": "Hugging Face",
       "title": "deepseek-ai/DeepSeek-R1",
       "summary": "text-generation",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "meta": "14492 likes"
+      "meta": "14493 likes"
     },
     {
       "source": "DEV",
@@ -31,21 +31,15 @@
       "meta": "8 reactions"
     },
     {
-      "source": "蓝点网",
-      "title": "面向大规模代码自动化审查：A社推出Claude Ship用于自动化审查/修复/批准代码",
-      "summary": "<p>A 社日前面向团队和企业订阅用户推出用于自动化代码审查的新功能 Claude Ship，该功能将代码审查、自动修复和代码审批整合到 PR 工作流中。这个功能主要针对的就是 AI 智能体生...",
-      "url": "https://www.landian.news/archives/128806.html",
-      "meta": "24 Nov 2026"
-    },
-    {
       "source": "SoPilot",
       "title": "热门 AI 讨论",
       "summary": "开启起爆帖自动互动 查看使用指南 AI领域起爆帖 Web3领域起爆帖 实时搜索 Discord RSS · AI 实时搜索起爆帖 搜索 · 2 积分 内置 6 类主题关键词，选择后可继续编辑。默认搜索昨日以来至少 20 赞的非回复帖子，每次只检索一页，筛选预测",
-      "url": "https://x.com/lidangzzz/status/2126481927955796283?sid=ai-tweet-reply",
+      "url": "https://x.com/NFT_Chen/status/2126712860135014469?sid=ai-tweet-reply",
       "meta": "热帖"
     }
   ],
   "errors": [
+    "https://rsshub.rssforever.com/landiannews/tag/claude returned 503",
     "https://newsnow.busiyi.world/ returned 403",
     "https://tophub.today/c/tech returned 403"
   ]
