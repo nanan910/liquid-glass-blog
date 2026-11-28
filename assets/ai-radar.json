@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:49:00.834Z",
+  "updatedAt": "2026-11-28T09:58:35.635Z",
   "sourceCount": 6,
   "items": [
     {
@@ -7,13 +7,13 @@
       "title": "nexu-io/opengame",
       "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
       "url": "https://github.com/nexu-io/opengame",
-      "meta": "Stars 2283"
+      "meta": "Stars 2577"
     },
     {
       "source": "Hacker News",
-      "title": "Cooperative Sabotage: How Frontier AI Covertly Undermines Its Own Replacement [pdf]",
+      "title": "DeepSeek has commissioned a third-party risk evaluation of V4 Pro [pdf]",
       "summary": "来自 Hacker News 的 AI 技术讨论或资讯线索。",
-      "url": "https://www.researchgate.net/profile/David-Foss-4/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement/links/69d8315b00864436152b7fda/Cooperative-Sabotage-How-Frontier-AI-Covertly-Undermines-Its-Own-Replacement.pdf",
+      "url": "https://concordia-ai.com/wp-content/uploads/2026/11/deepseek_v4_pro_0813_systemic_risk_assessment.pdf",
       "meta": "1 points"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "source": "DEV",
-      "title": "How I built my own OS",
-      "summary": "I run my own operating system now. Not a fork with a new wallpaper and a different logo in the...",
-      "url": "https://dev.to/cloudwerx/how-i-built-my-own-os-942",
-      "meta": "29 reactions"
+      "title": "Thinking on Constrained Deployments: Gemma E4B on 4GB 1650",
+      "summary": "Gemma 4 E4B fits a 4 GB laptop card and answers like an 8 GB desktop card in 15 of 16 settings, at 1.59 times the time. The drafter nearly doubles its speed; thinking doubles its time.",
+      "url": "https://dev.to/gde/thinking-on-constrained-deployments-gemma-e4b-on-4gb-1650-2cc6",
+      "meta": "8 reactions"
     },
     {
       "source": "蓝点网",
